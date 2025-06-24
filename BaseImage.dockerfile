@@ -15,7 +15,7 @@ RUN pip install --no-cache-dir .
 # If you have a requirements.txt file:
 # RUN pip install --no-cache-dir -r requirements.txt
 # If you need to install specific packages directly:
-RUN pip install --no-cache-dir --upgrade --force-reinstall google-meridian[colab,and-cuda]
+RUN pip install --no-cache-dir --upgrade --force-reinstall google-meridian[colab]
 RUN pip install --no-cache-dir --ignore-installed 'shapely<2.0' 'pyarrow'
 
 # Set the working directory in the container
