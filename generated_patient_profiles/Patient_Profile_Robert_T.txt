@@ -1,0 +1,31 @@
+PATIENT PROFILE: ROBERT T.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 52 years
+- Sex: Male
+- Place of Residency: Warsaw, Poland
+- Employment Status: Active (Managerial role; supports ECOG 0 status)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Cutaneous Melanoma (Superficial Spreading)
+- Current Stage: Clinical Stage IIIB (cT3b N1a M0) — local primary tumor with involvement of one regional lymph node; no evidence of distant metastasis.
+- Molecular Marker: BRAF V600 Mutation-Negative (Wild-type) confirmed via tissue biopsy.
+- LDH Level: Normal
+- Resectability: Evaluated by a surgical oncologist and deemed a candidate for complete surgical resection following neoadjuvant therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Palpable, non-tender mass in the right axillary region; localized skin lesion on the upper back (primary site). 
+- Performance Status: ECOG 0 (Fully active, able to carry on all pre-disease performance without restriction).
+- Cardiac Health: No history of congestive heart failure or myocardial infarction; baseline EKG shows normal sinus rhythm.
+- Autoimmune History: No history of active autoimmune disease requiring systemic steroids.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate (ANC: 3.1 x 10^9/L, Platelets: 240 x 10^9/L, Hemoglobin: 14.5 g/dL).
+- Liver Function: Normal (AST/ALT < 1.5x Upper Limit of Normal; Bilirubin within normal limits).
+- Renal Function: Normal (Serum Creatinine: 0.85 mg/dL; CrCl > 60 mL/min).
+- Endocrine Function: Normal baseline TSH and Free T4.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for Melanoma. No prior exposure to PD-1, CTLA-4, or LAG-3 inhibitors.
+- Current Plan: Scheduled for 3 cycles of Neoadjuvant Nivolumab combined with Relatlimab (Fixed-Dose Combination) prior to definitive surgery.
+- Surgical Plan: Radical Axillary Lymph Node Dissection and wide local excision of the primary site scheduled for 8–10 weeks post-treatment initiation.

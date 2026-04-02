@@ -1,0 +1,599 @@
+Profile 1: Boby Liam (Pediatrics/Infectious Disease)
+Condition: High Risk of Severe Respiratory Syncytial Virus (RSV)
+Patient Context: 6-month-old male born prematurely (30 weeks gestation) with chronic lung disease of prematurity.
+Clinical Detail: Entering his first RSV season; requires passive immunization to prevent severe lower respiratory tract infection.
+Trial ID: NCT06851806 (Study of Palivizumab in High-Risk Children)
+Reason for Qualification: Meets the age and high-risk clinical criteria (prematurity + chronic lung disease) for palivizumab prophylaxis.
+Profile 2: Robert M. (Respiratory/Cardiovascular)
+Condition: Severe Asthma with Cardiovascular Monitoring
+Patient Context: 62-year-old male with a 20-year history of eosinophilic asthma and recent minor arrhythmias.
+Clinical Detail: Currently prescribed Tezepelumab (Tezspire) for asthma management; requires long-term safety monitoring for Major Adverse Cardiovascular Events (MACE).
+Trial ID: NCT06951867 (Tezspire Cardiac Events PASS)
+Reason for Qualification: Patient is an active user of Tezepelumab in a real-world setting with a known cardiovascular history, fitting the Post-Authorization Safety Study (PASS) cohort.
+Profile 3: Elena V. (Pulmonology)
+Condition: Chronic Obstructive Pulmonary Disease (COPD)
+Patient Context: 68-year-old female, former smoker, experiencing frequent exacerbations despite dual therapy (LAMA/LABA).
+Clinical Detail: CAT score of 22; FEV1 < 50% predicted. Recently switched to triple therapy (Budesonide/Glycopyrronium/Formoterol).
+Trial ID: NCT06712563 (BGF Pooled Analysis in Routine Care)
+Reason for Qualification: Meets criteria for "routine care" patients treated with BGF triple therapy for symptomatic COPD management.
+Profile 4: Sofia L. (Rheumatology)
+Condition: Systemic Lupus Erythematosus (SLE)
+Patient Context: 29-year-old female with moderate-to-severe SLE involving skin and joints.
+Clinical Detail: Poor response to oral corticosteroids and antimalarials. Initiated Anifrolumab (Saphnelo) intravenous therapy 3 months ago.
+Trial ID: NCT06673043 (Anifrolumab Real-world Treatment Outcomes)
+Reason for Qualification: Adult patient with confirmed SLE currently receiving Anifrolumab in a real-world clinical setting.
+Profile 5: Arthur K. (Neurology)
+Condition: Generalized Myasthenia Gravis (gMG)
+Patient Context: 45-year-old male with anti-AChR antibody-positive gMG.
+Clinical Detail: Experiences significant muscle weakness and ptosis affecting daily activities (MG-ADL score of 8). Switched to Ravulizumab for long-acting complement inhibition.
+Trial ID: NCT06909253 (Ravulizumab Treatment Outcomes in gMG)
+Reason for Qualification: Confirmed gMG diagnosis with anti-AChR antibodies and active treatment with Ravulizumab.
+Profile 6: David W. (Cardiology)
+Condition: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+Patient Context: 55-year-old male with a dynamic LVOT gradient of 60 mmHg at rest.
+Clinical Detail: NYHA Class II symptoms; experiences shortness of breath during light exercise. Prescribed Mavacamten to reduce cardiac contractility.
+Trial ID: NCT07107373 (oHCM Treatment with Mavacamten in the US)
+Reason for Qualification: US-based patient with symptomatic oHCM receiving standard-of-care Mavacamten.
+Profile 7: Martha S. (Hematology/Oncology)
+Condition: Lower-Risk Myelodysplastic Syndromes (MDS)
+Patient Context: 74-year-old female with IPSS-R Very Low risk MDS and ring sideroblasts.
+Clinical Detail: Transfusion-dependent anemia (requires 2 units of RBCs every 6 weeks). Failing Erythropoiesis-Stimulating Agents (ESAs).
+Trial ID: NCT07075406 (Luspatercept Outcomes in Lower-Risk MDS)
+Reason for Qualification: Matches the target population of lower-risk, transfusion-dependent MDS patients treated with Luspatercept.
+Profile 8: Michael C. (Advanced Oncology)
+Condition: Advanced Solid Tumors (KRAS G12C Mutation)
+Patient Context: 61-year-old male with metastatic Colorectal Cancer.
+Clinical Detail: Genomic sequencing confirmed KRAS G12C mutation. Exhausted standard chemotherapy options. Seeking access to Adagrasib.
+Trial ID: NCT05162443 (Expanded Access of Adagrasib)
+Reason for Qualification: Has an advanced solid tumor with the specific KRAS G12C mutation and has no other satisfactory treatment options.
+Profile 9: Chen-Hsin Y. (Rare Disease/Hematology)
+Condition: β-Thalassemia Major
+Patient Context: 24-year-old male residing in Taipei, Taiwan.
+Clinical Detail: Requires regular blood transfusions since childhood. Recently started Luspatercept to reduce transfusion burden.
+Trial ID: NCT06596642 (Luspatercept in β-Thalassemia - Taiwan)
+Reason for Qualification: Adult with β-Thalassemia Major in Taiwan receiving Luspatercept in a real-world setting.
+Profile 10: Isabella R. (Obstetrics/Cardiology)
+Condition: Hypertrophic Cardiomyopathy (HCM) in Pregnancy
+Patient Context: 31-year-old female with obstructive HCM who recently discovered she is 8 weeks pregnant.
+Clinical Detail: Was taking Mavacamten prior to pregnancy; requires safety monitoring for fetal outcomes.
+Trial ID: NCT05939700 (Mavacamten Pregnancy Surveillance)
+Reason for Qualification: Meets the specific criteria of being pregnant while exposed to Mavacamten therapy for HCM.
+Profile 11: Jean-Pierre L. (Urological Oncology)
+Condition: Muscle Invasive Urothelial Carcinoma (MIUC)
+Patient Context: 67-year-old male residing in Lyon, France.
+Clinical Detail: Recently underwent a radical cystectomy for MIUC. Pathology confirmed high risk of recurrence (pT3 N0).
+Trial ID: NCT06421311 (Nivolumab Adjuvant Study in France)
+Reason for Qualification: Post-operative patient in France starting adjuvant Nivolumab therapy as per standard observational care.
+Profile 12: Susan K. (Thoracic Oncology)
+Condition: Non-Small Cell Lung Cancer (NSCLC)
+Patient Context: 59-year-old female, never-smoker, with metastatic adenocarcinoma.
+Clinical Detail: Molecular testing confirmed PD-L1 expression < 1%. No EGFR or ALK mutations detected.
+Trial ID: NCT07215962 (First-Line NSCLC Treatment Patterns - PD-L1 < 1%)
+Reason for Qualification: Matches the specific PD-L1 low sub-group for first-line treatment pattern surveillance.
+Profile 13: Hans G. (Neurology)
+Condition: Relapsing-Remitting Multiple Sclerosis (RRMS)
+Patient Context: 34-year-old male living in Berlin, Germany.
+Clinical Detail: Diagnosed 2 years ago; experienced 2 relapses in the last year while on first-line interferon. Recently switched to Ozanimod (Zeposia®).
+Trial ID: NCT05335031 (Ozanimod Quality of Life Study - Germany)
+Reason for Qualification: German resident with RRMS being treated with Ozanimod in a real-world clinical practice setting.
+Profile 14: Li-Wei C. (Hematology)
+Condition: Relapsed or Refractory Multiple Myeloma
+Patient Context: 63-year-old male in Taipei, Taiwan.
+Clinical Detail: Has received three prior lines of therapy (including a proteasome inhibitor and an IMiD). Now starting a combination regimen including Elotuzumab.
+Trial ID: NCT06163040 (Elotuzumab Safety Study in Taiwan)
+Reason for Qualification: Taiwanese patient with relapsed myeloma receiving Elotuzumab as part of later-line therapy.
+Profile 15: Hiroshi T. (Rheumatology)
+Condition: Rheumatoid Arthritis (RA)
+Patient Context: 51-year-old male in Osaka, Japan.
+Clinical Detail: Inadequate response to Methotrexate; has never received a biologic or JAK inhibitor (biologic-naive).
+Trial ID: NCT02758769 (Abatacept in Biologic-Naive RA - Japan)
+Reason for Qualification: Japanese RA patient meeting the "biologic-treatment-naive" requirement for long-term outcome tracking with Abatacept.
+Profile 16: Wei Z. (Hematology)
+Condition: Lower-Risk Myelodysplastic Syndromes (MDS)
+Patient Context: 70-year-old female in Shanghai, China.
+Clinical Detail: Diagnosed with MDS-RS (ring sideroblasts); hemoglobin consistently below 9.0 g/dL. Starting Luspatercept infusions.
+Trial ID: NCT07073690 (Luspatercept Outcomes in MDS - China)
+Reason for Qualification: Resident of China with lower-risk MDS receiving Luspatercept in a routine clinical setting.
+Profile 17: James B. (Immuno-Oncology/Cell Therapy)
+Condition: Relapsed Non-Hodgkin Lymphoma (NHL)
+Patient Context: 42-year-old male who received Ide-cel (CAR-T therapy) 18 months ago.
+Clinical Detail: Recently diagnosed with a new, unrelated localized squamous cell carcinoma (a "second primary malignancy").
+Trial ID: NCT06357754 (Transgene Assay for Cell Therapy Patients)
+Reason for Qualification: Previous recipient of a gene-modified cell therapy who developed a qualifying second primary malignancy requiring transgene assay testing.
+Profile 18: Claire O. (Respiratory)
+Condition: Severe Eosinophilic Asthma
+Patient Context: 48-year-old female in London, UK.
+Clinical Detail: High blood eosinophil count (450 cells/μL). On high-dose inhaled corticosteroids with frequent exacerbations. Starting Tezepelumab.
+Trial ID: NCT06455462 (Tezepelumab Real-World Outcomes - UK)
+Reason for Qualification: UK patient being treated at a designated Severe Asthma Centre with Tezepelumab.
+Profile 19: Agnieszka W. (Rare Disease)
+Condition: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+Patient Context: 27-year-old female in Krakow, Poland.
+Clinical Detail: High disease activity (LDH > 1.5x ULN). Transitioned from Eculizumab to Ravulizumab for a better infusion schedule.
+Trial ID: NCT06633536 (Ravulizumab Outcomes in PNH - Poland)
+Reason for Qualification: Polish PNH patient receiving Ravulizumab as part of real-world clinical outcomes monitoring.
+Profile 20: Robert T. (Dermatological Oncology)
+Condition: Advanced Melanoma
+Patient Context: 52-year-old male with resectable Stage III melanoma.
+Clinical Detail: Scheduled for surgery next month; currently receiving Neoadjuvant Nivolumab + Relatlimab to shrink the primary tumor.
+Trial ID: NCT07091695 (Real-world Outcomes in Neoadjuvant Melanoma)
+Reason for Qualification: Patient is receiving a specific dual-immunotherapy combination in the neoadjuvant (pre-surgery) setting.
+Profile 21: Mark A. (Melanoma Data Analysis)
+Condition: Advanced Melanoma (Unresectable Stage IV).
+Patient Context: 64-year-old male with records in the Flatiron Health database.
+Clinical Detail: Received Nivolumab and Relatlimab as first-line therapy.
+Trial ID: NCT07079644 (Outcomes of Nivolumab + Relatlimab in Flatiron Database)
+Reason for Qualification: He is an "electronic" patient record within the specified database who received the drug combination for advanced melanoma.
+Profile 22: Sarah L. (GI Oncology)
+Condition: Esophageal / Gastroesophageal Junction (GEJ) Cancer.
+Patient Context: 58-year-old female who underwent surgical resection for Esophageal Cancer.
+Clinical Detail: Pathological report showed residual disease (not a pathological complete response) after neoadjuvant chemoradiotherapy.
+Trial ID: NCT06499298 (Retrospective Evaluation of Nivolumab in Adjuvant Esophageal Cancer)
+Reason for Qualification: Meets the retrospective criteria for adjuvant Nivolumab use following surgery for esophageal/GEJ cancer.
+Profile 23: Robert K. (Cardiology Registry)
+Condition: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+Patient Context: 47-year-old male with NYHA Class III heart failure symptoms.
+Clinical Detail: Enrolled in a prospective registry to track longitudinal outcomes of Mavacamten.
+Trial ID: NCT05489705 (Prospective Registry for Mavacamten in oHCM)
+Reason for Qualification: Matches the real-world symptomatic patient profile required for registry tracking of treatment patterns.
+Profile 24: Fatima H. (Rare Hematology - Middle East)
+Condition: Transfusion-Dependent β-Thalassemia.
+Patient Context: 31-year-old female residing in Dubai, United Arab Emirates.
+Clinical Detail: Requires blood transfusions every 3 weeks. Initiated Luspatercept to manage anemia.
+Trial ID: NCT07215975 (Luspatercept in Adults with β-Thalassemia - Middle East)
+Reason for Qualification: Adult β-thalassemia patient in the Middle East region receiving Luspatercept in a real-world setting.
+Profile 25: Elena M. (Cardiovascular)
+Condition: Obstructive Hypertrophic Cardiomyopathy (oHCM).
+Patient Context: 62-year-old female with persistent exertional dyspnea.
+Clinical Detail: LVOT gradient > 50 mmHg. Starting treatment with Mavacamten (Camzyos).
+Trial ID: NCT07168655 (Mavacamten in Obstructive Hypertrophic Cardiomyopathy)
+Reason for Qualification: Adult patient with confirmed oHCM starting therapy with Mavacamten.
+Profile 26: Klaus S. (Dermatology - Germany)
+Condition: Moderate-to-Severe Plaque Psoriasis.
+Patient Context: 44-year-old male in Munich, Germany.
+Clinical Detail: Psoriasis Area and Severity Index (PASI) score of 18. Starting therapy with Deucravacitinib.
+Trial ID: NCT06104644 (Deucravacitinib in Plaque Psoriasis - Germany)
+Reason for Qualification: German resident with moderate-to-severe psoriasis initiating the specified TYK2 inhibitor.
+Profile 27: Chloe J. (Gastroenterology)
+Condition: Ulcerative Colitis (UC).
+Patient Context: 35-year-old female with moderate UC (Mayo score of 7).
+Clinical Detail: Inadequate response to mesalamine. Starting Ozanimod (Zeposia).
+Trial ID: NCT05382715 (Utilization and Quality of Life of Ozanimod in UC)
+Reason for Qualification: Patient with UC starting Ozanimod therapy; study focuses on effectiveness and quality of life in clinical practice.
+Profile 28: David R. (Thoracic Oncology)
+Condition: Neoadjuvant Non-Small Cell Lung Cancer (NSCLC).
+Patient Context: 55-year-old male with resectable Stage II NSCLC.
+Clinical Detail: Undergoing Nivolumab + Chemotherapy prior to planned lung resection surgery.
+Trial ID: NCT07141563 (Real-World Effectiveness of Nivolumab + Chemo in Neoadjuvant NSCLC)
+Reason for Qualification: Matches the neoadjuvant treatment profile for resectable lung cancer.
+Profile 29: James V. (Advanced Lung Cancer)
+Condition: Metastatic Non-Small Cell Lung Cancer (NSCLC).
+Patient Context: 68-year-old male with Stage IV disease.
+Clinical Detail: Tumor biopsy confirmed PD-L1 < 1%. Receiving dual immunotherapy (Nivolumab + Ipilimumab) with 2 cycles of chemo.
+Trial ID: NCT07024862 (Long-term Outcomes in PD-L1 <1% NSCLC)
+Reason for Qualification: Fits the specific biomarker profile (PD-L1 < 1%) and treatment regimen (Dual IO + limited chemo).
+Profile 30: Sophie B. (Pediatric Oncology - Netherlands)
+Condition: Pediatric Melanoma.
+Patient Context: 14-year-old female in Amsterdam, Netherlands.
+Clinical Detail: Diagnosed with advanced melanoma; treated with Ipilimumab.
+Trial ID: NCT04196452 (Ipilimumab-treated Pediatric Participants in DMTR)
+Reason for Qualification: Dutch pediatric patient with melanoma treated with Ipilimumab, matching the DMTR registry criteria.
+Profile 31: Thomas H. (Head & Neck Oncology)
+Condition: Recurrent Squamous Cell Carcinoma of the Head and Neck (SCCHN).
+Patient Context: 59-year-old male with a history of heavy tobacco use.
+Clinical Detail: Disease progressed during or after platinum-based chemotherapy. Starting Nivolumab monotherapy.
+Trial ID: NCT04050761 (Study of Nivolumab in Head and Neck Cancer)
+Reason for Qualification: Meets the criteria for platinum-refractory recurrent SCCHN.
+Profile 32: Linda S. (Psychiatry)
+Condition: Schizophrenia.
+Patient Context: 28-year-old female experiencing an acute exacerbation of psychosis.
+Clinical Detail: Enrolled in the RESKU registry to evaluate treatment satisfaction with KarXT (Xanomeline-Trospium).
+Trial ID: NCT07101094 (Evaluation of KarXT Utilization Registry)
+Reason for Qualification: Adult with schizophrenia initiating KarXT in a real-world clinical setting.
+Profile 33: Katherine P. (Early Breast Cancer)
+Condition: HR+/HER2- Early Breast Cancer (EBC).
+Patient Context: 42-year-old female, pre-menopausal, at high risk of recurrence (Node-positive).
+Clinical Detail: Recently completed surgery and starting adjuvant treatment with Ribociclib (Kisqali) plus an Aromatase Inhibitor.
+Trial ID: NCT06830720 (Kisqali Adjuvant Treatment in High-Risk EBC)
+Reason for Qualification: High-risk EBC patient receiving Kisqali in an adjuvant setting.
+Profile 34: Marcus V. (Hematology)
+Condition: Polycythemia Vera (PV).
+Patient Context: 66-year-old male with an inadequate response to hydroxyurea.
+Clinical Detail: Hematocrit > 45%; persistent symptoms of splenomegaly and pruritus. Accessing Ruxolitinib via a Managed Access Program (MAP).
+Trial ID: NCT05269771 (Access to Ruxolitinib for Polycythemia Vera)
+Reason for Qualification: PV patient who is hydroxyurea-resistant or intolerant, requiring JAK inhibitor therapy.
+Profile 35: Jordan D. (Dermatology)
+Condition: Severe Alopecia Areata (AA).
+Patient Context: 19-year-old male with >50% scalp hair loss.
+Clinical Detail: Previously tried topical and intralesional steroids without success. Starting Ritlecitinib.
+Trial ID: NCT07226531 (Ritlecitinib in Severe AA - US)
+Reason for Qualification: Meets the age and severity requirements for Ritlecitinib treatment in the US.
+Profile 36: Park J. (Multiple Myeloma - South Korea)
+Condition: Relapsed/Refractory Multiple Myeloma.
+Patient Context: 71-year-old male in Seoul, South Korea.
+Clinical Detail: Triple-class refractory (exposed to IMiD, PI, and anti-CD38). Starting Elranatamab (ELREXFIO).
+Trial ID: NCT06581848 (Post-Marketing Surveillance for Elranatamab - Korea)
+Reason for Qualification: Korean patient receiving Elranatamab as part of regular clinical practice post-approval.
+Profile 37: Liu W. (Critical Care - China)
+Condition: Hospital Acquired Pneumonia (HAP).
+Patient Context: 54-year-old male in a tertiary hospital in Beijing.
+Clinical Detail: Developed HAP after 5 days of hospitalization. Suspected multi-drug resistant Gram-negative infection. Treated with Ceftazidime-Avibactam.
+Trial ID: NCT05487586 (Ceftazidime Avibactam in China)
+Reason for Qualification: Chinese patient with HAP receiving Ceftazidime-Avibactam for a serious bacterial infection.
+Profile 38: Maria G. (Dermatology/Obstetrics)
+Condition: Atopic Dermatitis in Pregnancy.
+Patient Context: 29-year-old female, 14 weeks pregnant.
+Clinical Detail: Managing moderate-to-severe eczema with Abrocitinib (CIBINQO).
+Trial ID: NCT05721937 (Abrocitinib Safety in Pregnant Women)
+Reason for Qualification: Pregnant woman exposed to Abrocitinib, requiring longitudinal safety tracking for herself and her offspring.
+Profile 39: Kenji S. (Nephrology/Infectious Disease - Japan)
+Condition: Sepsis with Loss of Kidney Function.
+Patient Context: 78-year-old male in Tokyo, Japan.
+Clinical Detail: Developing sepsis-associated acute kidney injury. Requires adjusted dosing of Zavicefta (Ceftazidime-Avibactam).
+Trial ID: NCT06864585 (Zavicefta in Patients with Sepsis or Renal Impairment - Japan)
+Reason for Qualification: Japanese patient with infection and impaired kidney function requiring specialized antibiotic management.
+Profile 40: Emma W. (Neurology)
+Condition: Acute Migraine.
+Patient Context: 36-year-old female with a history of 4–6 migraine days per month.
+Clinical Detail: Seeking a fast-acting oral treatment. Using Rimegepant as needed for acute attacks.
+Trial ID: NCT06898047 (Consistency of Response with Rimegepant)
+Reason for Qualification: Adult with migraine using Rimegepant to evaluate the consistency of pain relief over multiple attacks.
+Profile 41: Sofia R. (Gynecologic Oncology)
+Condition: Advanced Endometrial Cancer (dMMR/MSI-H).
+Patient Context: 61-year-old female with recurrent disease after platinum-based chemotherapy.
+Clinical Detail: Tumor biopsy confirmed Mismatch Repair Deficient (dMMR) status. Starting Dostarlimab (Jemperli).
+Trial ID: NCT06859736 (Long-term Safety and Efficacy of Dostarlimab)
+Reason for Qualification: Matches the specific molecular requirement (dMMR) for advanced endometrial cancer therapy.
+Profile 42: Mateo L. (Pediatric Dermatology - Brazil)
+Condition: Moderate-to-Severe Atopic Dermatitis.
+Patient Context: 8-year-old male in São Paulo, Brazil.
+Clinical Detail: Eczema Area and Severity Index (EASI) score of 24. Failed topical therapy. Starting Dupilumab (Dupixent).
+Trial ID: NCT06385431 (Dupilumab in Pediatric Patients - Latin America)
+Reason for Qualification: Meets the age (6–11) and regional (Brazil) requirements for the Dupilumab pediatric registry.
+Profile 43: Ingrid B. (Nephrology/Cardiology - Sweden)
+Condition: Chronic Kidney Disease (CKD) and Heart Failure.
+Patient Context: 72-year-old female in Stockholm, Sweden.
+Clinical Detail: eGFR of 35 mL/min/1.73m². Diagnosed with Heart Failure with Reduced Ejection Fraction (HFrEF). Starting Dapagliflozin.
+Trial ID: NCT06924581 (Dapagliflozin Outcomes in the Nordic Region)
+Reason for Qualification: Nordic resident with the CKD/HF comorbidity profile required for real-world outcome tracking.
+Profile 44: Samuel T. (Infectious Disease)
+Condition: Complicated Urinary Tract Infection (cUTI).
+Patient Context: 45-year-old male with a history of recurrent UTIs.
+Clinical Detail: Urine culture positive for Carbapenem-Resistant Enterobacteriaceae (CRE). Treated with Ceftazidime-Avibactam.
+Trial ID: NCT05487586 (Ceftazidime-Avibactam in Serious Infections)
+Reason for Qualification: Patient with a multi-drug resistant bacterial infection requiring advanced antibiotic therapy.
+Profile 45: Julian P. (Oncology/Biomarkers)
+Condition: Metastatic Colorectal Cancer (mCRC).
+Patient Context: 54-year-old male with Stage IV disease.
+Clinical Detail: Liquid biopsy (ctDNA) confirmed a KRAS G12C mutation. Starting therapy with Adagrasib.
+Trial ID: NCT05162443 (Expanded Access Program for Adagrasib)
+Reason for Qualification: Has the specific KRAS G12C biomarker and has progressed on standard chemotherapy.
+Profile 46: Marie D. (Dermatology - France)
+Condition: Pustular Psoriasis.
+Patient Context: 39-year-old female in Marseille, France.
+Clinical Detail: Experiencing an acute flare of Generalized Pustular Psoriasis (GPP). Starting Spesolimab.
+Trial ID: NCT06684531 (Spesolimab in GPP - Observational Study in France)
+Reason for Qualification: French patient with a rare form of psoriasis (GPP) receiving targeted IL-36 receptor inhibition.
+Profile 47: Chen X. (Respiratory - China)
+Condition: Chronic Obstructive Pulmonary Disease (COPD).
+Patient Context: 66-year-old male in Guangzhou, China.
+Clinical Detail: History of frequent exacerbations (2+ per year). Starting triple therapy (Budesonide/Glycopyrronium/Formoterol).
+Trial ID: NCT07043251 (Effectiveness of BGF Triple Therapy in China)
+Reason for Qualification: Chinese COPD patient with a history of exacerbations, matching the real-world study cohort for triple therapy.
+Profile 48: Oliver J. (Cardiology - UK)
+Condition: Transthyretin Amyloid Cardiomyopathy (ATTR-CM).
+Patient Context: 79-year-old male in Manchester, UK.
+Clinical Detail: Diagnosed via technetium pyrophosphate (PYP) scan. Experiencing NYHA Class II heart failure. Starting Tafamidis.
+Trial ID: NCT06214582 (Tafamidis in ATTR-CM - UK Registry)
+Reason for Qualification: UK-based patient with the specific ATTR-CM diagnosis receiving standard-of-care Tafamidis.
+Profile 49: Isabella S. (Rheumatology - Italy)
+Condition: Psoriatic Arthritis (PsA).
+Patient Context: 41-year-old female in Rome, Italy.
+Clinical Detail: Active arthritis in 5+ joints; significant skin involvement. Starting Guselkumab (Tremfya).
+Trial ID: NCT05987412 (Guselkumab Utilization in Italy)
+Reason for Qualification: Italian patient with PsA initiating Guselkumab therapy in a real-world setting.
+Profile 50: Robert B. (Gastroenterology - USA)
+Condition: Crohn's Disease.
+Patient Context: 33-year-old male with moderate-to-severe Crohn's disease.
+Clinical Detail: Failed anti-TNF therapy (Infliximab). Starting Risankizumab (Skyrizi).
+Trial ID: NCT06894521 (Risankizumab Outcomes in Crohn's Disease)
+Reason for Qualification: US-based patient with Crohn's disease who is "bio-experienced" (failed a previous biologic) and starting Risankizumab.
+Profile 51: Emily R. (Pediatrics - Canada) Condition: High Risk of Severe Respiratory Syncytial Virus (RSV). Patient Context: 4-month-old female born at 29 weeks gestation with bronchopulmonary dysplasia. Clinical Detail: Entering her first winter RSV season in Ontario; needs prophylactic immunization. Trial ID: NCT06851806 (Study of Palivizumab in High-Risk Children) Reason for Qualification: Meets the strict age and prematurity-related high-risk criteria for Palivizumab.
+
+Profile 52: Ahmed K. (Rheumatology - UAE) Condition: Systemic Lupus Erythematosus (SLE). Patient Context: 35-year-old male in Dubai with persistent cutaneous lupus and joint involvement. Clinical Detail: Inadequate response to antimalarials and methotrexate. Initiated Anifrolumab (Saphnelo). Trial ID: NCT06673043 (Anifrolumab Real-world Treatment Outcomes) Reason for Qualification: Adult patient with SLE receiving Anifrolumab in a real-world setting in the Middle East.
+
+Profile 53: Lucia F. (Rare Disease - Spain) Condition: Paroxysmal Nocturnal Haemoglobinuria (PNH). Patient Context: 31-year-old female in Madrid with history of hemolysis and thrombosis. Clinical Detail: Transitioning from bi-weekly Eculizumab to long-acting Ravulizumab (Ultomiris). Trial ID: NCT06633536 (Ravulizumab Outcomes in PNH) Reason for Qualification: Confirmed PNH patient switching to Ravulizumab for routine clinical management.
+
+Profile 54: George B. (Oncology - UK) Condition: Advanced Melanoma (Stage IV). Patient Context: 60-year-old male in London with BRAF wild-type metastatic melanoma. Clinical Detail: Starting first-line dual immunotherapy with Nivolumab and Relatlimab. Trial ID: NCT07091695 (Real-world Outcomes in Neoadjuvant and Advanced Melanoma) Reason for Qualification: Receiving the specific Nivolumab/Relatlimab combination for advanced melanoma.
+
+Profile 55: Zhang L. (Hematology - China) Condition: Lower-Risk Myelodysplastic Syndromes (MDS). Patient Context: 68-year-old male in Beijing with MDS-RS. Clinical Detail: Hemoglobin is 8.2 g/dL; dependent on monthly transfusions. Starting Luspatercept. Trial ID: NCT07073690 (Luspatercept Outcomes in MDS - China) Reason for Qualification: Chinese resident with lower-risk MDS receiving Luspatercept in a routine hospital setting.
+
+Profile 56: Yuki S. (Cardiology - Japan) Condition: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM). Patient Context: 52-year-old male in Tokyo with an LVOT gradient of 70 mmHg. Clinical Detail: NYHA Class II symptoms; initiating Mavacamten (Camzyos) to improve exercise capacity. Trial ID: NCT07107373 (oHCM Treatment with Mavacamten) Reason for Qualification: Japanese patient with symptomatic oHCM receiving standard-of-care Mavacamten.
+
+Profile 57: Pierre D. (Urology - France) Condition: Muscle Invasive Urothelial Carcinoma (MIUC). Patient Context: 71-year-old male in Paris after radical cystectomy. Clinical Detail: High risk of recurrence based on lymph node involvement. Starting adjuvant Nivolumab. Trial ID: NCT06421311 (Nivolumab Adjuvant Study in France) Reason for Qualification: Post-operative patient in France starting adjuvant Nivolumab as part of observational care.
+
+Profile 58: Sarah T. (Respiratory - USA) Condition: Severe Eosinophilic Asthma. Patient Context: 45-year-old female in Chicago with blood eosinophils of 400 cells/μL. Clinical Detail: Frequent exacerbations on high-dose ICS/LABA. Starting Tezepelumab. Trial ID: NCT06951867 (Tezspire Cardiac Events PASS) Reason for Qualification: US patient initiating Tezepelumab; eligible for long-term cardiac safety monitoring.
+
+Profile 59: Ivan P. (Neurology - Poland) Condition: Generalized Myasthenia Gravis (gMG). Patient Context: 49-year-old male in Warsaw with anti-AChR+ gMG. Clinical Detail: MG-ADL score of 9. Switched to Ravulizumab for complement inhibition. Trial ID: NCT06909253 (Ravulizumab Treatment Outcomes in gMG) Reason for Qualification: Polish patient with confirmed gMG receiving Ravulizumab in a real-world setting.
+
+Profile 60: Maria C. (Respiratory - Italy) Condition: Chronic Obstructive Pulmonary Disease (COPD). Patient Context: 65-year-old female in Milan with FEV1 45% of predicted. Clinical Detail: Symptomatic despite dual therapy. Started BGF triple therapy (Budesonide/Glycopyrronium/Formoterol). Trial ID: NCT06712563 (BGF Pooled Analysis in Routine Care) Reason for Qualification: Italian patient on routine care triple therapy for COPD management.
+
+Profile 61: Liam N. (Pediatrics - Ireland) Condition: High Risk of Severe RSV. Patient Context: 8-month-old male born at 31 weeks with congenital heart disease. Clinical Detail: High risk for severe lower respiratory infection. Requires Palivizumab. Trial ID: NCT06851806 (Study of Palivizumab in High-Risk Children) Reason for Qualification: Meets high-risk criteria (prematurity + CHD) for RSV prophylaxis.
+
+Profile 62: Fatimah A. (Rare Disease - Saudi Arabia) Condition: Transfusion-Dependent β-Thalassemia. Patient Context: 22-year-old female in Riyadh. Clinical Detail: Requires transfusions every 2 weeks. Starting Luspatercept to manage iron overload and anemia. Trial ID: NCT07215975 (Luspatercept in Adults with β-Thalassemia - Middle East) Reason for Qualification: Adult thalassemia patient in the ME region receiving Luspatercept.
+
+Profile 63: Erik J. (Nephrology - Sweden) Condition: Chronic Kidney Disease (CKD) and Heart Failure. Patient Context: 74-year-old male in Gothenburg. Clinical Detail: eGFR 40 mL/min/1.73m². Diagnosed with HFrEF. Prescribed Dapagliflozin. Trial ID: NCT06924581 (Dapagliflozin Outcomes in the Nordic Region) Reason for Qualification: Swedish resident with CKD and heart failure on standard SGLT2i therapy.
+
+Profile 64: Chloe V. (Gastroenterology - Belgium) Condition: Moderate-to-Severe Crohn's Disease. Patient Context: 35-year-old female in Brussels. Clinical Detail: Failed Adalimumab therapy. Starting Risankizumab (Skyrizi). Trial ID: NCT06894521 (Risankizumab Outcomes in Crohn's Disease) Reason for Qualification: Bio-experienced Crohn's patient starting Risankizumab in a clinical setting.
+
+Profile 65: Mark H. (Oncology - Australia) Condition: Unresectable Stage IV Melanoma. Patient Context: 66-year-old male in Sydney. Clinical Detail: Records in a large oncology database. Treated with Nivolumab + Relatlimab combination. Trial ID: NCT07079644 (Outcomes of Nivolumab + Relatlimab in Real-world Databases) Reason for Qualification: Electronic record of a patient receiving the drug combination for advanced melanoma.
+
+Profile 66: Nina K. (Rheumatology - Greece) Condition: Systemic Lupus Erythematosus (SLE). Patient Context: 40-year-old female in Athens with active SLE skin rash. Clinical Detail: Starting Anifrolumab (Saphnelo) after failing corticosteroids. Trial ID: NCT06673043 (Anifrolumab Real-world Treatment Outcomes) Reason for Qualification: European SLE patient receiving Anifrolumab in a real-world setting.
+
+Profile 67: Rajesh G. (Hematology - India) Condition: Lower-Risk MDS with Anemia. Patient Context: 62-year-old male in Mumbai. Clinical Detail: Ring sideroblast positive. Refractory to ESAs. Starting Luspatercept. Trial ID: NCT07075406 (Luspatercept Outcomes in Lower-Risk MDS) Reason for Qualification: Transfusion-dependent MDS patient receiving Luspatercept.
+
+Profile 68: Sophie M. (Neurology - Switzerland) Condition: Relapsing-Remitting Multiple Sclerosis (RRMS). Patient Context: 29-year-old female in Zurich. Clinical Detail: Diagnosed 3 years ago; recently switched to Ozanimod (Zeposia). Trial ID: NCT05335031 (Ozanimod Quality of Life Study) Reason for Qualification: RRMS patient on Ozanimod tracking quality of life outcomes.
+
+Profile 69: Anton L. (Respiratory - Austria) Condition: Symptomatic COPD. Patient Context: 70-year-old male in Vienna, former smoker. Clinical Detail: On triple therapy (BGF) following multiple exacerbations. Trial ID: NCT06712563 (BGF Pooled Analysis in Routine Care) Reason for Qualification: Real-world COPD patient managed with BGF triple therapy.
+
+Profile 70: Elena P. (Cardiology - Portugal) Condition: Obstructive Hypertrophic Cardiomyopathy (oHCM). Patient Context: 58-year-old female in Lisbon. Clinical Detail: Dynamic LVOT obstruction. Initiating Mavacamten (Camzyos). Trial ID: NCT07168655 (Mavacamten in Obstructive Hypertrophic Cardiomyopathy) Reason for Qualification: Confirmed oHCM diagnosis starting therapy with Mavacamten.
+
+Profile 71: Jacob S. (Oncology - USA) Condition: Metastatic Colorectal Cancer (KRAS G12C). Patient Context: 55-year-old male in Dallas, TX. Clinical Detail: KRAS G12C mutation confirmed. Progressed on chemotherapy. Starting Adagrasib. Trial ID: NCT05162443 (Expanded Access of Adagrasib) Reason for Qualification: Advanced solid tumor with KRAS G12C mutation and no other options.
+
+Profile 72: Min-Jae K. (Hematology - South Korea) Condition: Relapsed/Refractory Multiple Myeloma. Patient Context: 67-year-old male in Seoul. Clinical Detail: Triple-class refractory. Starting Elranatamab. Trial ID: NCT06581848 (Post-Marketing Surveillance for Elranatamab - Korea) Reason for Qualification: Korean myeloma patient receiving Elranatamab post-approval.
+
+Profile 73: Clara B. (Dermatology - Brazil) Condition: Moderate-to-Severe Atopic Dermatitis. Patient Context: 10-year-old female in São Paulo. Clinical Detail: Failed topical steroids. Starting Dupilumab (Dupixent). Trial ID: NCT06385431 (Dupilumab in Pediatric Patients - Latin America) Reason for Qualification: Pediatric patient (age 6-11) in Brazil receiving Dupilumab for eczema.
+
+Profile 74: Thomas W. (Dermatology - Germany) Condition: Plaque Psoriasis. Patient Context: 50-year-old male in Hamburg. Clinical Detail: PASI score 15. Starting Deucravacitinib. Trial ID: NCT06104644 (Deucravacitinib in Plaque Psoriasis - Germany) Reason for Qualification: German resident starting the TYK2 inhibitor Deucravacitinib.
+
+Profile 75: Isabelle G. (Dermatology - France) Condition: Generalized Pustular Psoriasis (GPP). Patient Context: 44-year-old female in Lyon. Clinical Detail: Experiencing an acute GPP flare. Starting Spesolimab. Trial ID: NCT06684531 (Spesolimab in GPP - France) Reason for Qualification: French patient receiving Spesolimab for an acute GPP flare.
+
+Profile 76: Oscar L. (Oncology - Mexico) Condition: Resectable Non-Small Cell Lung Cancer (NSCLC). Patient Context: 58-year-old male in Mexico City. Clinical Detail: Undergoing neoadjuvant Nivolumab + Chemotherapy. Trial ID: NCT07141563 (Nivolumab + Chemo in Neoadjuvant NSCLC) Reason for Qualification: Resectable lung cancer patient in a neoadjuvant setting.
+
+Profile 77: Fatima Z. (Hematology - Morocco) Condition: Transfusion-Dependent β-Thalassemia. Patient Context: 25-year-old female in Casablanca. Clinical Detail: High transfusion burden. Starting Luspatercept. Trial ID: NCT07215975 (Luspatercept in Thalassemia - Middle East/North Africa) Reason for Qualification: Adult thalassemia patient in North Africa on Luspatercept.
+
+Profile 78: Noah R. (Nephrology - Denmark) Condition: Chronic Kidney Disease (CKD). Patient Context: 69-year-old male in Copenhagen. Clinical Detail: Proteinuria and declining eGFR. Starting Dapagliflozin. Trial ID: NCT06924581 (Dapagliflozin Outcomes in the Nordic Region) Reason for Qualification: Nordic CKD patient receiving SGLT2 inhibitor therapy.
+
+Profile 79: Mia T. (Respiratory - New Zealand) Condition: Severe Asthma. Patient Context: 52-year-old female in Auckland. Clinical Detail: Eosinophilic phenotype. Starting Tezepelumab. Trial ID: NCT06951867 (Tezspire Cardiac Events PASS) Reason for Qualification: Initiating Tezepelumab in a real-world setting with safety monitoring.
+
+Profile 80: Victor H. (Oncology - Netherlands) Condition: Pediatric Melanoma. Patient Context: 15-year-old male in Utrecht. Clinical Detail: Advanced melanoma. Treated with Ipilimumab. Trial ID: NCT04196452 (Ipilimumab-treated Pediatric Participants) Reason for Qualification: Dutch pediatric patient with melanoma receiving Ipilimumab.
+
+Profile 81: Anna M. (Hematology - Poland) Condition: Paroxysmal Nocturnal Haemoglobinuria (PNH). Patient Context: 28-year-old female in Warsaw. Clinical Detail: Starting Ravulizumab (Ultomiris) as first-line complement therapy. Trial ID: NCT06633536 (Ravulizumab Outcomes in PNH - Poland) Reason for Qualification: Polish PNH patient receiving Ravulizumab.
+
+Profile 82: Luca R. (Rheumatology - Italy) Condition: Psoriatic Arthritis (PsA). Patient Context: 45-year-old male in Florence. Clinical Detail: Active joint and skin disease. Starting Guselkumab (Tremfya). Trial ID: NCT05987412 (Guselkumab Utilization in Italy) Reason for Qualification: Italian PsA patient initiating Guselkumab.
+
+Profile 83: Chen W. (Hematology - Taiwan) Condition: β-Thalassemia Major. Patient Context: 30-year-old male in Kaohsiung. Clinical Detail: Starting Luspatercept to reduce iron overload. Trial ID: NCT06596642 (Luspatercept in β-Thalassemia - Taiwan) Reason for Qualification: Adult in Taiwan with Thalassemia on Luspatercept.
+
+Profile 84: Sophia K. (Neurology - Germany) Condition: Relapsing-Remitting MS. Patient Context: 32-year-old female in Munich. Clinical Detail: Switched to Ozanimod (Zeposia) for better disease control. Trial ID: NCT05335031 (Ozanimod Quality of Life - Germany) Reason for Qualification: German RRMS patient on Ozanimod therapy.
+
+Profile 85: James F. (Oncology - Canada) Condition: Metastatic NSCLC (PD-L1 < 1%). Patient Context: 63-year-old male in Toronto. Clinical Detail: Biomarker PD-L1 < 1%. Starting first-line treatment. Trial ID: NCT07215962 (NSCLC Treatment Patterns - PD-L1 < 1%) Reason for Qualification: PD-L1 low sub-group patient in North America.
+
+Profile 86: Elena S. (Rheumatology - Russia) Condition: Systemic Lupus Erythematosus (SLE). Patient Context: 33-year-old female in Moscow. Clinical Detail: Moderate-to-severe SLE. Starting Anifrolumab. Trial ID: NCT06673043 (Anifrolumab Outcomes) Reason for Qualification: Adult SLE patient on Anifrolumab therapy.
+
+Profile 87: Samuel K. (Infectious Disease - Kenya) Condition: Complicated Urinary Tract Infection (cUTI). Patient Context: 48-year-old male in Nairobi. Clinical Detail: Multi-drug resistant Gram-negative infection. Treated with Ceftazidime-Avibactam. Trial ID: NCT05487586 (Ceftazidime-Avibactam in Serious Infections) Reason for Qualification: Patient with a resistant infection requiring advanced antibiotic therapy.
+
+Profile 88: Olivia D. (Cardiology - UK) Condition: Transthyretin Amyloid Cardiomyopathy (ATTR-CM). Patient Context: 76-year-old female in Liverpool. Clinical Detail: Diagnosed with ATTR-CM. Starting Tafamidis. Trial ID: NCT06214582 (Tafamidis in ATTR-CM - UK Registry) Reason for Qualification: UK-based ATTR-CM patient on Tafamidis.
+
+Profile 89: Mateo F. (Pediatrics - Argentina) Condition: High Risk for RSV. Patient Context: 5-month-old male born premature. Clinical Detail: Entering first RSV season. Receiving Palivizumab. Trial ID: NCT06851806 (Palivizumab in High-Risk Children) Reason for Qualification: Premature infant in Latin America meeting RSV risk criteria.
+
+Profile 90: Linda G. (Oncology - USA) Condition: HR+/HER2- Early Breast Cancer. Patient Context: 47-year-old female in Atlanta, GA. Clinical Detail: Node-positive disease. Starting adjuvant Ribociclib. Trial ID: NCT06830720 (Kisqali Adjuvant Treatment in EBC) Reason for Qualification: High-risk early breast cancer patient on adjuvant therapy.
+
+Profile 91: Hans W. (Neurology - Germany) Condition: Generalized Myasthenia Gravis. Patient Context: 55-year-old male in Berlin. Clinical Detail: Anti-AChR+. Starting Ravulizumab. Trial ID: NCT06909253 (Ravulizumab Outcomes in gMG) Reason for Qualification: German gMG patient on Ravulizumab therapy.
+
+Profile 92: Mei L. (Respiratory - China) Condition: COPD with Frequent Exacerbations. Patient Context: 69-year-old female in Shanghai. Clinical Detail: Starting triple therapy (BGF) after recent hospital stay. Trial ID: NCT07043251 (BGF Triple Therapy in China) Reason for Qualification: Chinese COPD patient on triple therapy care.
+
+Profile 93: Alex J. (Psychiatry - USA) Condition: Schizophrenia. Patient Context: 31-year-old male in New York, NY. Clinical Detail: Starting KarXT (Xanomeline-Trospium). Trial ID: NCT07101094 (KarXT Utilization Registry) Reason for Qualification: US adult starting KarXT for schizophrenia.
+
+Profile 94: Beatrice F. (Oncology - France) Condition: High-risk MIUC. Patient Context: 68-year-old female in Lyon. Clinical Detail: Post-cystectomy. Starting adjuvant Nivolumab. Trial ID: NCT06421311 (Nivolumab Adjuvant Study - France) Reason for Qualification: French MIUC patient on adjuvant immunotherapy.
+
+Profile 95: Kareem H. (Hematology - Egypt) Condition: MDS-RS with Anemia. Patient Context: 65-year-old male in Cairo. Clinical Detail: Transfusion-dependent. Starting Luspatercept. Trial ID: NCT07075406 (Luspatercept Outcomes in MDS) Reason for Qualification: MDS patient in MENA region on Luspatercept.
+
+Profile 96: Sofia M. (Rheumatology - Italy) Condition: Systemic Lupus Erythematosus. Patient Context: 27-year-old female in Rome. Clinical Detail: Active SLE. Starting Anifrolumab. Trial ID: NCT06673043 (Anifrolumab Outcomes) Reason for Qualification: Italian SLE patient receiving Anifrolumab.
+
+Profile 97: Jack B. (Neurology - USA) Condition: Acute Migraine. Patient Context: 38-year-old male in Seattle, WA. Clinical Detail: Frequent attacks. Using Rimegepant for pain relief. Trial ID: NCT06898047 (Consistency of Response with Rimegepant) Reason for Qualification: Adult using Rimegepant for acute migraine.
+
+Profile 98: Elena D. (Oncology - Spain) Condition: Advanced Endometrial Cancer. Patient Context: 64-year-old female in Barcelona. Clinical Detail: dMMR/MSI-H status. Starting Dostarlimab. Trial ID: NCT06859736 (Dostarlimab Safety and Efficacy) Reason for Qualification: Advanced dMMR endometrial cancer patient on Dostarlimab.
+
+Profile 99: Carlos R. (Dermatology - Chile) Condition: Moderate-to-Severe Atopic Dermatitis. Patient Context: 9-year-old male in Santiago. Clinical Detail: Starting Dupilumab after failing topicals. Trial ID: NCT06385431 (Dupilumab Pediatric Registry - Latin America) Reason for Qualification: Pediatric patient in Chile on Dupilumab.
+
+Profile 100: Simon P. (Pediatrics - UK) Condition: High Risk for RSV. Patient Context: 7-month-old male born premature with CLD. Clinical Detail: High-risk infant receiving Palivizumab prophylaxis. Trial ID: NCT06851806 (Palivizumab in High-Risk Children) Reason for Qualification: UK premature infant meeting RSV prophylaxis criteria.
+
+Profile 101: Benjamin G. (Pediatrics - USA) Condition: High Risk of Severe RSV. Patient Context: 9-month-old male in Seattle, WA; born at 32 weeks gestation. Clinical Detail: Entering second RSV season with hemodynamically significant congenital heart disease. Trial ID: NCT06851806 (Study of Palivizumab in High-Risk Children) Reason for Qualification: Qualifies for continued Palivizumab prophylaxis due to high-risk cardiac status.
+
+Profile 102: Fatima R. (Rheumatology - Saudi Arabia) Condition: Systemic Lupus Erythematosus (SLE). Patient Context: 31-year-old female in Jeddah with moderate-to-severe active SLE. Clinical Detail: Positive for anti-dsDNA; inadequate response to standard oral therapies. Initiated Anifrolumab. Trial ID: NCT06673043 (Anifrolumab Real-world Treatment Outcomes) Reason for Qualification: Middle Eastern patient receiving Anifrolumab in a routine clinical care setting.
+
+Profile 103: Hiroshi M. (Hematology - Japan) Condition: Paroxysmal Nocturnal Haemoglobinuria (PNH). Patient Context: 44-year-old male in Kyoto with high LDH levels (>1.5x ULN). Clinical Detail: Switching from Eculizumab to Ravulizumab for an every-8-week dosing schedule. Trial ID: NCT06633536 (Ravulizumab Outcomes in PNH) Reason for Qualification: PNH patient in Japan transitioning to Ravulizumab for disease management.
+
+Profile 104: Elena K. (Neurology - Russia) Condition: Generalized Myasthenia Gravis (gMG). Patient Context: 37-year-old female in Saint Petersburg; anti-AChR antibody positive. Clinical Detail: MG-ADL score of 7; experiences significant ocular and bulbar symptoms. Starting Ravulizumab. Trial ID: NCT06909253 (Ravulizumab Treatment Outcomes in gMG) Reason for Qualification: Confirmed gMG patient receiving Ravulizumab in a real-world setting.
+
+Profile 105: Robert P. (Respiratory - USA) Condition: Severe Eosinophilic Asthma. Patient Context: 59-year-old male in Miami, FL, with a history of hypertension. Clinical Detail: Blood eosinophils 450 cells/μL. Initiating Tezepelumab (Tezspire). Trial ID: NCT06951867 (Tezspire Cardiac Events PASS) Reason for Qualification: US patient with asthma and cardiovascular risk factors starting Tezepelumab.
+
+Profile 106: Wei-Chen L. (Hematology - Taiwan) Condition: Transfusion-Dependent β-Thalassemia. Patient Context: 26-year-old female in Taipei. Clinical Detail: Requires 2-3 units of RBCs monthly. Starting Luspatercept to reduce transfusion volume. Trial ID: NCT06596642 (Luspatercept in β-Thalassemia - Taiwan) Reason for Qualification: Adult Taiwanese patient with thalassemia on Luspatercept therapy.
+
+Profile 107: Sophia T. (Oncology - UK) Condition: Advanced Melanoma (Unresectable). Patient Context: 53-year-old female in Birmingham; BRAF wild-type. Clinical Detail: Starting first-line dual therapy with Nivolumab and Relatlimab. Trial ID: NCT07091695 (Real-world Outcomes in Advanced Melanoma) Reason for Qualification: UK patient receiving the specific dual-immunotherapy combination.
+
+Profile 108: Hans K. (Respiratory - Germany) Condition: Symptomatic COPD. Patient Context: 67-year-old male in Frankfurt; former smoker with frequent cough. Clinical Detail: FEV1 48%; inadequate relief from dual therapy. Starting BGF Triple Therapy. Trial ID: NCT06712563 (BGF Pooled Analysis in Routine Care) Reason for Qualification: German resident receiving routine care triple therapy for COPD.
+
+Profile 109: Maria J. (Cardiology - Mexico) Condition: Obstructive Hypertrophic Cardiomyopathy (oHCM). Patient Context: 60-year-old female in Mexico City with NYHA Class III symptoms. Clinical Detail: Resting LVOT gradient 55 mmHg. Starting Mavacamten (Camzyos). Trial ID: NCT07168655 (Mavacamten in Obstructive Hypertrophic Cardiomyopathy) Reason for Qualification: LATAM resident with symptomatic oHCM receiving Mavacamten.
+
+Profile 110: James S. (Hematology - Canada) Condition: Lower-Risk Myelodysplastic Syndromes (MDS). Patient Context: 72-year-old male in Vancouver with ring sideroblasts. Clinical Detail: Refractory to ESAs; requires regular RBC transfusions. Starting Luspatercept. Trial ID: NCT07075406 (Luspatercept Outcomes in Lower-Risk MDS) Reason for Qualification: MDS patient in North America transitioning to Luspatercept therapy.
+
+Profile 111: Chloe L. (Oncology - France) Condition: High-risk MIUC (Muscle Invasive Urothelial Carcinoma). Patient Context: 66-year-old female in Marseille post-radical cystectomy. Clinical Detail: Adjuvant setting; high risk of recurrence (pT3). Starting Nivolumab. Trial ID: NCT06421311 (Nivolumab Adjuvant Study in France) Reason for Qualification: French post-op patient receiving adjuvant immunotherapy.
+
+Profile 112: Samuel V. (Dermatology - Brazil) Condition: Moderate-to-Severe Atopic Dermatitis. Patient Context: 7-year-old male in Rio de Janeiro. Clinical Detail: Failed topical immunomodulators. Starting Dupilumab (Dupixent). Trial ID: NCT06385431 (Dupilumab in Pediatric Patients - Latin America) Reason for Qualification: Pediatric patient (6–11 years) in Brazil receiving Dupilumab for AD.
+
+Profile 113: Oliver D. (Oncology - USA) Condition: Metastatic Colorectal Cancer (KRAS G12C). Patient Context: 58-year-old male in Denver, CO. Clinical Detail: Progressed on standard chemotherapy; KRAS G12C mutation confirmed. Starting Adagrasib. Trial ID: NCT05162443 (Expanded Access of Adagrasib) Reason for Qualification: KRAS G12C+ mCRC patient with no standard options left.
+
+Profile 114: Min-Su P. (Hematology - South Korea) Condition: Relapsed/Refractory Multiple Myeloma. Patient Context: 69-year-old male in Busan. Clinical Detail: Exposed to IMiD, PI, and anti-CD38. Starting Elranatamab. Trial ID: NCT06581848 (Post-Marketing Surveillance for Elranatamab - Korea) Reason for Qualification: Korean myeloma patient receiving Elranatamab in routine practice.
+
+Profile 115: Isabella F. (Gastroenterology - Italy) Condition: Moderate-to-Severe Ulcerative Colitis (UC). Patient Context: 34-year-old female in Rome. Clinical Detail: Inadequate response to thiopurines. Starting Ozanimod (Zeposia). Trial ID: NCT05382715 (Ozanimod Quality of Life in UC) Reason for Qualification: Italian UC patient on Ozanimod tracking effectiveness and QoL.
+
+Profile 116: Thomas R. (Neurology - Germany) Condition: Relapsing-Remitting Multiple Sclerosis (RRMS). Patient Context: 31-year-old male in Munich. Clinical Detail: Recently switched from first-line therapy to Ozanimod for better relapse control. Trial ID: NCT05335031 (Ozanimod Quality of Life - Germany) Reason for Qualification: German RRMS patient on Ozanimod in a real-world setting.
+
+Profile 117: Emily W. (Cardiology - UK) Condition: Transthyretin Amyloid Cardiomyopathy (ATTR-CM). Patient Context: 78-year-old female in London. Clinical Detail: Diagnosed with wild-type ATTR-CM. Starting Tafamidis (Vyndaqel). Trial ID: NCT06214582 (Tafamidis in ATTR-CM - UK Registry) Reason for Qualification: UK patient with ATTR-CM receiving Tafamidis.
+
+Profile 118: Carlos M. (Oncology - Spain) Condition: Metastatic NSCLC (PD-L1 < 1%). Patient Context: 62-year-old male in Madrid. Clinical Detail: PD-L1 negative; no EGFR/ALK mutations. Starting Nivolumab + Ipilimumab. Trial ID: NCT07215962 (NSCLC Treatment Patterns - PD-L1 < 1%) Reason for Qualification: European patient in the PD-L1 low biomarker cohort for treatment tracking.
+
+Profile 119: Sarah H. (Rheumatology - USA) Condition: HR+/HER2- Early Breast Cancer (Node-positive). Patient Context: 45-year-old female in Philadelphia, PA. Clinical Detail: High risk of recurrence. Starting adjuvant Ribociclib (Kisqali). Trial ID: NCT06830720 (Kisqali Adjuvant Treatment in EBC) Reason for Qualification: US patient receiving Kisqali in an adjuvant setting for EBC.
+
+Profile 120: Anton B. (Dermatology - Germany) Condition: Plaque Psoriasis. Patient Context: 48-year-old male in Berlin. Clinical Detail: PASI score 16; starting therapy with Deucravacitinib. Trial ID: NCT06104644 (Deucravacitinib in Plaque Psoriasis - Germany) Reason for Qualification: German resident initiating the TYK2 inhibitor for psoriasis.
+
+Profile 121: Luca V. (Rheumatology - Italy) Condition: Psoriatic Arthritis (PsA). Patient Context: 43-year-old male in Naples. Clinical Detail: Active PsA with axial involvement. Starting Guselkumab (Tremfya). Trial ID: NCT05987412 (Guselkumab Utilization in Italy) Reason for Qualification: Italian PsA patient initiating Guselkumab in clinical practice.
+
+Profile 122: Fatima H. (Hematology - UAE) Condition: Transfusion-Dependent β-Thalassemia. Patient Context: 29-year-old female in Abu Dhabi. Clinical Detail: Transitioning to Luspatercept to reduce iron chelation needs. Trial ID: NCT07215975 (Luspatercept in Thalassemia - Middle East) Reason for Qualification: Adult thalassemia patient in the UAE on Luspatercept.
+
+Profile 123: Erik S. (Nephrology - Norway) Condition: CKD with Heart Failure. Patient Context: 70-year-old male in Oslo. Clinical Detail: eGFR 38 mL/min/1.73m²; HFrEF diagnosed. Prescribed Dapagliflozin. Trial ID: NCT06924581 (Dapagliflozin Outcomes in the Nordic Region) Reason for Qualification: Nordic resident with cardio-renal comorbidities on Dapagliflozin.
+
+Profile 124: Jordan T. (Dermatology - USA) Condition: Severe Alopecia Areata. Patient Context: 22-year-old male in Seattle, WA. Clinical Detail: >50% hair loss. Starting Ritlecitinib (Litfulo). Trial ID: NCT07226531 (Ritlecitinib in Severe AA - US) Reason for Qualification: US adult starting Ritlecitinib for severe alopecia.
+
+Profile 125: Liu Y. (Respiratory - China) Condition: COPD with Exacerbation Risk. Patient Context: 68-year-old male in Shanghai. Clinical Detail: Starting triple therapy (BGF) after failing dual bronchodilation. Trial ID: NCT07043251 (BGF Triple Therapy in China) Reason for Qualification: Chinese COPD patient on triple therapy management.
+
+Profile 126: Marta D. (Oncology - Poland) Condition: Resectable Melanoma (Stage III). Patient Context: 50-year-old female in Krakow. Clinical Detail: Starting neoadjuvant Nivolumab + Relatlimab prior to surgery. Trial ID: NCT07091695 (Real-world Outcomes in Neoadjuvant Melanoma) Reason for Qualification: Polish patient in a neoadjuvant immunotherapy cohort.
+
+Profile 127: Jean G. (Psychiatry - USA) Condition: Schizophrenia. Patient Context: 29-year-old male in Chicago, IL. Clinical Detail: Acute psychosis flare; starting KarXT (Xanomeline-Trospium). Trial ID: NCT07101094 (KarXT Utilization Registry) Reason for Qualification: Adult with schizophrenia initiating KarXT in the US.
+
+Profile 128: Elena F. (Dermatology - France) Condition: Generalized Pustular Psoriasis (GPP). Patient Context: 41-year-old female in Marseille. Clinical Detail: Acute flare GPP; receiving Spesolimab. Trial ID: NCT06684531 (Spesolimab in GPP - France) Reason for Qualification: French patient receiving Spesolimab for acute psoriasis flare.
+
+Profile 129: David L. (Infectious Disease - USA) Condition: Multi-drug resistant Gram-negative infection. Patient Context: 52-year-old male with HAP (Hospital Acquired Pneumonia). Clinical Detail: Suspected MDR Pseudomonas; treated with Ceftazidime-Avibactam. Trial ID: NCT05487586 (Ceftazidime-Avibactam in Serious Infections) Reason for Qualification: US patient with serious bacterial infection on advanced antibiotics.
+
+Profile 130: Anna S. (Oncology - Netherlands) Condition: Pediatric Melanoma. Patient Context: 13-year-old female in Amsterdam. Clinical Detail: Treated with Ipilimumab for advanced disease. Trial ID: NCT04196452 (Ipilimumab-treated Pediatric Participants) Reason for Qualification: Dutch pediatric patient with melanoma in the DMTR registry.
+
+Profile 131: Robert K. (Neurology - Germany) Condition: Generalized Myasthenia Gravis. Patient Context: 56-year-old male in Berlin; Anti-AChR+. Clinical Detail: Starting Ravulizumab for complement inhibition. Trial ID: NCT06909253 (Ravulizumab Outcomes in gMG) Reason for Qualification: German gMG patient on Ravulizumab therapy.
+
+Profile 132: Chloe M. (Gastroenterology - UK) Condition: Moderate-to-Severe Crohn's Disease. Patient Context: 30-year-old female in Manchester. Clinical Detail: Failed anti-TNF therapy; starting Risankizumab (Skyrizi). Trial ID: NCT06894521 (Risankizumab Outcomes in Crohn's Disease) Reason for Qualification: UK Crohn's patient on Risankizumab in clinical practice.
+
+Profile 133: Hiroshi T. (Rheumatology - Japan) Condition: Biologic-Naive Rheumatoid Arthritis. Patient Context: 54-year-old male in Osaka. Clinical Detail: Methotrexate inadequate; starting Abatacept. Trial ID: NCT02758769 (Abatacept in Biologic-Naive RA - Japan) Reason for Qualification: Japanese RA patient starting first biologic therapy.
+
+Profile 134: Marie L. (Oncology - France) Condition: MIUC Post-Radical Cystectomy. Patient Context: 70-year-old female in Paris. Clinical Detail: Pathological pT3 stage. Starting adjuvant Nivolumab. Trial ID: NCT06421311 (Nivolumab Adjuvant Study - France) Reason for Qualification: French patient receiving adjuvant immunotherapy for bladder cancer.
+
+Profile 135: Li Z. (Hematology - China) Condition: Lower-Risk MDS with Anemia. Patient Context: 66-year-old male in Guangzhou. Clinical Detail: Starting Luspatercept for transfusion reduction. Trial ID: NCT07073690 (Luspatercept Outcomes in MDS - China) Reason for Qualification: Chinese resident with lower-risk MDS on Luspatercept.
+
+Profile 136: Isabella K. (Neurology - Austria) Condition: Acute Migraine. Patient Context: 35-year-old female in Vienna. Clinical Detail: Using Rimegepant (Vydura) for acute attack relief. Trial ID: NCT06898047 (Consistency of Response with Rimegepant) Reason for Qualification: Adult using oral gepant for acute migraine relief.
+
+Profile 137: Mark B. (Cardiology - USA) Condition: Symptomatic oHCM (NYHA Class II). Patient Context: 49-year-old male in New York, NY. Clinical Detail: Resting LVOT gradient 60 mmHg. Enrolled in Prospective Registry. Trial ID: NCT05489705 (Prospective Registry for Mavacamten in oHCM) Reason for Qualification: US oHCM patient in a longitudinal treatment registry.
+
+Profile 138: Sarah P. (Oncology - Spain) Condition: Advanced Endometrial Cancer (dMMR). Patient Context: 61-year-old female in Barcelona. Clinical Detail: dMMR confirmed; starting Dostarlimab (Jemperli). Trial ID: NCT06859736 (Dostarlimab Safety and Efficacy) Reason for Qualification: European patient with dMMR endometrial cancer on Dostarlimab.
+
+Profile 139: Mateo J. (Pediatrics - Colombia) Condition: Moderate Atopic Dermatitis. Patient Context: 10-year-old male in Bogotá. Clinical Detail: Failed topical steroids; starting Dupilumab. Trial ID: NCT06385431 (Dupilumab Pediatric Registry - Latin America) Reason for Qualification: LATAM pediatric patient (6–11 years) on Dupilumab.
+
+Profile 140: Emma W. (Pediatrics - UK) Condition: High Risk for RSV. Patient Context: 6-month-old female born at 30 weeks. Clinical Detail: High-risk infant receiving Palivizumab. Trial ID: NCT06851806 (Palivizumab in High-Risk Children) Reason for Qualification: UK premature infant meeting RSV prophylaxis criteria.
+
+Profile 141: Robert F. (Oncology - USA) Condition: HR+/HER2- Metastatic Breast Cancer. Patient Context: 54-year-old male (Rare Male Breast Cancer). Clinical Detail: Metastatic adenocarcinoma; ESR1 mutation confirmed. Trial ID: NCT07091695 (Real-world Outcomes - Oncology Registry) Reason for Qualification: Male breast cancer patient with specific molecular markers in an oncology cohort.
+
+Profile 142: Sofia C. (Rheumatology - Italy) Condition: Active Systemic Lupus Erythematosus. Patient Context: 29-year-old female in Milan. Clinical Detail: Skin and joint involvement; starting Anifrolumab. Trial ID: NCT06673043 (Anifrolumab Outcomes) Reason for Qualification: Italian SLE patient receiving Anifrolumab.
+
+Profile 143: Carlos S. (Neurology - Chile) Condition: RRMS. Patient Context: 33-year-old male in Santiago. Clinical Detail: Switching to Ozanimod for better quality of life. Trial ID: NCT05335031 (Ozanimod Quality of Life Study) Reason for Qualification: LATAM resident with RRMS on Ozanimod.
+
+Profile 144: Lin W. (Respiratory - China) Condition: COPD Exacerbations. Patient Context: 71-year-old male in Beijing. Clinical Detail: Starting BGF Triple Therapy care. Trial ID: NCT07043251 (BGF Triple Therapy in China) Reason for Qualification: Chinese COPD patient on triple therapy care.
+
+Profile 145: Oliver K. (Cardiology - UK) Condition: Wild-Type ATTR-CM. Patient Context: 80-year-old male in Manchester. Clinical Detail: Heart failure symptoms; starting Tafamidis. Trial ID: NCT06214582 (Tafamidis in ATTR-CM - UK Registry) Reason for Qualification: UK-based ATTR-CM patient on Tafamidis.
+
+Profile 146: Beatrice R. (Oncology - France) Condition: High-risk Urothelial Carcinoma. Patient Context: 69-year-old female in Lyon. Clinical Detail: Post-operative Nivolumab adjuvant therapy. Trial ID: NCT06421311 (Nivolumab Adjuvant Study - France) Reason for Qualification: French MIUC patient on adjuvant immunotherapy.
+
+Profile 147: Samuel L. (Hematology - USA) Condition: IPSS-R Very Low Risk MDS. Patient Context: 75-year-old male in Seattle, WA. Clinical Detail: Ring sideroblast positive; on Luspatercept. Trial ID: NCT07075406 (Luspatercept Outcomes in Lower-Risk MDS) Reason for Qualification: US MDS patient on Luspatercept therapy.
+
+Profile 148: Mia G. (Rheumatology - Italy) Condition: Psoriatic Arthritis. Patient Context: 41-year-old female in Rome. Clinical Detail: Starting Guselkumab (Tremfya). Trial ID: NCT05987412 (Guselkumab Utilization in Italy) Reason for Qualification: Italian PsA patient initiating Guselkumab.
+
+Profile 149: Hans G. (Neurology - Germany) Condition: gMG (Anti-AChR+). Patient Context: 52-year-old male in Berlin. Clinical Detail: Switched to Ravulizumab. Trial ID: NCT06909253 (Ravulizumab Outcomes in gMG) Reason for Qualification: German gMG patient on Ravulizumab.
+
+Profile 150: Sofia P. (Hematology - Taiwan) Condition: β-Thalassemia Major. Patient Context: 28-year-old female in Taipei. Clinical Detail: On Luspatercept to reduce iron load. Trial ID: NCT06596642 (Luspatercept in β-Thalassemia - Taiwan) Reason for Qualification: Taiwanese thalassemia patient on Luspatercept.
+
+Profile 151: Jean-Luc P. (Urological Oncology - France) Condition: Muscle Invasive Urothelial Carcinoma (MIUC). Patient Context: 69-year-old male in Paris, France. Clinical Detail: Post-radical cystectomy; pathology confirms pT3 stage with high recurrence risk. Trial ID: NCT06421311 (Nivolumab Adjuvant Study in France) Reason for Qualification: French post-operative patient starting adjuvant Nivolumab therapy as per observational protocol.
+
+Profile 152: Sofia G. (Pediatric Dermatology - Brazil) Condition: Moderate-to-Severe Atopic Dermatitis. Patient Context: 9-year-old female in Rio de Janeiro, Brazil. Clinical Detail: EASI score of 26; inadequate response to topical therapy. Starting Dupilumab (Dupixent). Trial ID: NCT06385431 (Dupilumab in Pediatric Patients - Latin America) Reason for Qualification: Pediatric patient in the specified age range (6–11) in Latin America starting Dupilumab.
+
+Profile 153: Lars N. (Nephrology/Cardiology - Denmark) Condition: Chronic Kidney Disease (CKD) and Heart Failure. Patient Context: 73-year-old male in Copenhagen, Denmark. Clinical Detail: eGFR of 32 mL/min/1.73m²; diagnosed with HFrEF. Starting Dapagliflozin. Trial ID: NCT06924581 (Dapagliflozin Outcomes in the Nordic Region) Reason for Qualification: Nordic resident with CKD and heart failure comorbidity starting SGLT2 inhibitor therapy.
+
+Profile 154: Sarah M. (Rheumatology - USA) Condition: Systemic Lupus Erythematosus (SLE). Patient Context: 34-year-old female in Philadelphia, PA, USA. Clinical Detail: Moderate-to-severe SLE with joint and skin involvement; starting Anifrolumab (Saphnelo). Trial ID: NCT06673043 (Anifrolumab Real-world Treatment Outcomes) Reason for Qualification: Adult US patient with confirmed SLE currently receiving Anifrolumab.
+
+Profile 155: Ahmed M. (Hematology - Saudi Arabia) Condition: Transfusion-Dependent β-Thalassemia. Patient Context: 27-year-old male in Riyadh, Saudi Arabia. Clinical Detail: Requires regular RBC transfusions every 3 weeks. Initiating Luspatercept to reduce transfusion burden. Trial ID: NCT07215975 (Luspatercept in Adults with β-Thalassemia - Middle East) Reason for Qualification: Adult Middle Eastern patient with thalassemia receiving Luspatercept.
+
+Profile 156: Elena V. (Neurology - Italy) Condition: Generalized Myasthenia Gravis (gMG). Patient Context: 41-year-old female in Rome, Italy. Clinical Detail: Anti-AChR antibody positive; MG-ADL score of 9. Switched to Ravulizumab. Trial ID: NCT06909253 (Ravulizumab Treatment Outcomes in gMG) Reason for Qualification: Confirmed gMG patient in Italy receiving Ravulizumab in a real-world setting.
+
+Profile 157: Hans S. (Respiratory - Germany) Condition: Chronic Obstructive Pulmonary Disease (COPD). Patient Context: 66-year-old male in Hamburg, Germany. Clinical Detail: Frequent exacerbations (2+ per year); starting BGF triple therapy (Budesonide/Glycopyrronium/Formoterol). Trial ID: NCT06712563 (BGF Pooled Analysis in Routine Care) Reason for Qualification: German resident with symptomatic COPD receiving routine BGF triple therapy.
+
+Profile 158: Robert K. (Cardiology - USA) Condition: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM). Patient Context: 54-year-old male in Chicago, IL, USA. Clinical Detail: NYHA Class III; Dynamic LVOT gradient > 50 mmHg. Enrolled in a prospective registry for Mavacamten. Trial ID: NCT05489705 (Prospective Registry for Mavacamten in oHCM) Reason for Qualification: US patient with symptomatic oHCM participating in longitudinal treatment tracking.
+
+Profile 159: Claire O. (Respiratory - UK) Condition: Severe Eosinophilic Asthma. Patient Context: 47-year-old female in London, UK. Clinical Detail: High blood eosinophil count; on high-dose ICS. Starting Tezepelumab. Trial ID: NCT06455462 (Tezepelumab Real-World Outcomes - UK) Reason for Qualification: UK patient being treated at a Severe Asthma Centre with Tezepelumab.
+
+Profile 160: Sofia L. (Rheumatology - Italy) Condition: Psoriatic Arthritis (PsA). Patient Context: 39-year-old female in Milan, Italy. Clinical Detail: Active arthritis in multiple joints with skin plaque involvement. Starting Guselkumab (Tremfya). Trial ID: NCT05987412 (Guselkumab Utilization in Italy) Reason for Qualification: Italian PsA patient initiating Guselkumab in a real-world clinical setting.
+
+Profile 161: Emily W. (Pediatrics - USA) Condition: High Risk for Severe RSV. Patient Context: 7-month-old female in Seattle, WA, born at 31 weeks gestation. Clinical Detail: Chronic lung disease of prematurity; entering first RSV season. Receiving Palivizumab. Trial ID: NCT06851806 (Study of Palivizumab in High-Risk Children) Reason for Qualification: Meets high-risk criteria (prematurity + CLD) for Palivizumab prophylaxis.
+
+Profile 162: James D. (Gastroenterology - USA) Condition: Moderate-to-Severe Crohn's Disease. Patient Context: 35-year-old male in New York, NY, USA. Clinical Detail: Failed prior anti-TNF therapy (Infliximab). Starting Risankizumab (Skyrizi). Trial ID: NCT06894521 (Risankizumab Outcomes in Crohn's Disease) Reason for Qualification: US bio-experienced patient starting Risankizumab for Crohn's disease.
+
+Profile 163: Marek P. (Oncology - Poland) Condition: High-Risk Resectable Melanoma. Patient Context: 52-year-old male in Warsaw, Poland. Clinical Detail: Stage III melanoma; undergoing Neoadjuvant Nivolumab + Relatlimab prior to surgery. Trial ID: NCT07091695 (Real-world Outcomes in Neoadjuvant Melanoma) Reason for Qualification: Polish patient receiving a specific neoadjuvant dual-immunotherapy combination.
+
+Profile 164: Michael R. (Psychiatry - USA) Condition: Schizophrenia. Patient Context: 31-year-old male in Boston, MA, USA. Clinical Detail: Starting therapy with KarXT (Xanomeline-Trospium) for psychosis management. Trial ID: NCT07101094 (Evaluation of KarXT Utilization Registry) Reason for Qualification: Adult with schizophrenia initiating KarXT in a real-world US setting.
+
+Profile 165: Elena S. (Thoracic Oncology - Spain) Condition: Metastatic Non-Small Cell Lung Cancer (NSCLC). Patient Context: 62-year-old female in Madrid, Spain. Clinical Detail: PD-L1 expression < 1%; receiving first-line Nivolumab + Ipilimumab with limited chemotherapy. Trial ID: NCT07024862 (Long-term Outcomes in PD-L1 <1% NSCLC) Reason for Qualification: Matches biomarker (PD-L1 < 1%) and European treatment cohort for dual IO therapy.
+
+Profile 166: David H. (Neurology - USA) Condition: Acute Migraine. Patient Context: 38-year-old male in Denver, CO, USA. Clinical Detail: Frequent migraine days; using oral Rimegepant (Nurtec) for acute pain relief. Trial ID: NCT06898047 (Consistency of Response with Rimegepant) Reason for Qualification: Adult using Rimegepant to evaluate acute response consistency across multiple attacks.
+
+Profile 167: Oliver J. (Cardiology - UK) Condition: Transthyretin Amyloid Cardiomyopathy (ATTR-CM). Patient Context: 77-year-old male in Manchester, UK. Clinical Detail: Diagnosed via PYP scan; heart failure symptoms present. Starting Tafamidis. Trial ID: NCT06214582 (Tafamidis in ATTR-CM - UK Registry) Reason for Qualification: UK-based ATTR-CM patient on standard-of-care Tafamidis in a registry cohort.
+
+Profile 168: Hiroshi T. (Rheumatology - Japan) Condition: Rheumatoid Arthritis (RA). Patient Context: 54-year-old male in Osaka, Japan. Clinical Detail: Biologic-treatment-naive; inadequate response to methotrexate. Starting Abatacept. Trial ID: NCT02758769 (Abatacept in Biologic-Naive RA - Japan) Reason for Qualification: Japanese RA patient meeting the "biologic-naive" requirement for Abatacept outcome tracking.
+
+Profile 169: Marie D. (Dermatology - France) Condition: Generalized Pustular Psoriasis (GPP). Patient Context: 42-year-old female in Lyon, France. Clinical Detail: Acute GPP flare; receiving targeted IL-36 receptor inhibition with Spesolimab. Trial ID: NCT06684531 (Spesolimab in GPP - Observational Study in France) Reason for Qualification: French patient with GPP receiving Spesolimab in a real-world observational setting.
+
+Profile 170: Robert B. (Hematology - USA) Condition: Polycythemia Vera (PV). Patient Context: 65-year-old male in Atlanta, GA, USA. Clinical Detail: Inadequate response to hydroxyurea; accessing Ruxolitinib via a managed access program. Trial ID: NCT05269771 (Access to Ruxolitinib for Polycythemia Vera) Reason for Qualification: Hydroxyurea-resistant PV patient in the US requiring JAK inhibitor therapy.
+
+Profile 171: Anna K. (Pediatric Oncology - Netherlands) Condition: Pediatric Melanoma. Patient Context: 14-year-old female in Amsterdam, Netherlands. Clinical Detail: Treated with Ipilimumab for advanced melanoma; records in DMTR registry. Trial ID: NCT04196452 (Ipilimumab-treated Pediatric Participants in DMTR) Reason for Qualification: Dutch pediatric melanoma patient treated with Ipilimumab.
+
+Profile 172: Michael C. (Advanced Oncology - USA) Condition: Metastatic Colorectal Cancer (mCRC). Patient Context: 59-year-old male in Houston, TX, USA. Clinical Detail: KRAS G12C mutation confirmed via ctDNA; progressed on standard care. Starting Adagrasib. Trial ID: NCT05162443 (Expanded Access Program for Adagrasib) Reason for Qualification: US patient with KRAS G12C biomarker seeking expanded access to Adagrasib.
+
+Profile 173: Elena B. (Oncology - Italy) Condition: HR+/HER2- Early Breast Cancer. Patient Context: 46-year-old female in Milan, Italy. Clinical Detail: High-risk node-positive EBC; starting adjuvant Ribociclib (Kisqali). Trial ID: NCT06830720 (Kisqali Adjuvant Treatment in High-Risk EBC) Reason for Qualification: European high-risk EBC patient receiving adjuvant Kisqali.
+
+Profile 174: Li-Wei C. (Hematology - Taiwan) Condition: Relapsed/Refractory Multiple Myeloma. Patient Context: 62-year-old male in Kaohsiung, Taiwan. Clinical Detail: Starting a combination regimen including Elotuzumab after prior PI/IMiD failure. Trial ID: NCT06163040 (Elotuzumab Safety Study in Taiwan) Reason for Qualification: Taiwanese myeloma patient receiving Elotuzumab in later-line therapy.
+
+Profile 175: Jordan D. (Dermatology - USA) Condition: Severe Alopecia Areata. Patient Context: 21-year-old male in Los Angeles, CA, USA. Clinical Detail: >50% scalp hair loss; starting therapy with Ritlecitinib (Litfulo). Trial ID: NCT07226531 (Ritlecitinib in Severe AA - US) Reason for Qualification: US adult with severe AA initiating Ritlecitinib.
+
+Profile 176: Park J. (Multiple Myeloma - South Korea) Condition: Relapsed/Refractory Multiple Myeloma. Patient Context: 70-year-old male in Seoul, South Korea. Clinical Detail: Triple-class refractory; starting therapy with Elranatamab. Trial ID: NCT06581848 (Post-Marketing Surveillance for Elranatamab - Korea) Reason for Qualification: Korean myeloma patient receiving Elranatamab in routine practice post-approval.
+
+Profile 177: Liu W. (Critical Care - China) Condition: Hospital Acquired Pneumonia (HAP). Patient Context: 56-year-old male in Beijing, China. Clinical Detail: Developed serious bacterial infection (HAP); treated with Ceftazidime-Avibactam. Trial ID: NCT05487586 (Ceftazidime Avibactam in China) Reason for Qualification: Chinese patient with HAP receiving Ceftazidime-Avibactam in a hospital setting.
+
+Profile 178: Maria G. (Obstetrics/Dermatology - USA) Condition: Atopic Dermatitis in Pregnancy. Patient Context: 30-year-old female in Miami, FL, USA; 15 weeks pregnant. Clinical Detail: Managing eczema with Abrocitinib; requires longitudinal safety tracking. Trial ID: NCT05721937 (Abrocitinib Safety in Pregnant Women) Reason for Qualification: Pregnant woman in the US exposed to Abrocitinib.
+
+Profile 179: Kenji S. (Nephrology - Japan) Condition: Infection with Renal Impairment. Patient Context: 75-year-old male in Tokyo, Japan. Clinical Detail: Diagnosed with sepsis-associated acute kidney injury; treated with Zavicefta. Trial ID: NCT06864585 (Zavicefta in Patients with Sepsis or Renal Impairment - Japan) Reason for Qualification: Japanese patient with renal impairment receiving specialized antibiotic management.
+
+Profile 180: Sofia R. (Oncology - Spain) Condition: Advanced Endometrial Cancer (dMMR). Patient Context: 63-year-old female in Barcelona, Spain. Clinical Detail: Recurrent disease; tumor confirmed as dMMR. Starting Dostarlimab (Jemperli). Trial ID: NCT06859736 (Long-term Safety and Efficacy of Dostarlimab) Reason for Qualification: Spanish patient with dMMR endometrial cancer on Dostarlimab.
+
+Profile 181: Isabella R. (Obstetrics/Cardiology - USA) Condition: HCM in Pregnancy. Patient Context: 32-year-old female in Dallas, TX, USA; 10 weeks pregnant. Clinical Detail: Exposed to Mavacamten therapy prior to pregnancy; requires fetal surveillance. Trial ID: NCT05939700 (Mavacamten Pregnancy Surveillance) Reason for Qualification: Pregnant US patient with HCM exposed to Mavacamten.
+
+Profile 182: Sarah L. (GI Oncology - USA) Condition: Adjuvant Esophageal Cancer. Patient Context: 57-year-old female in Philadelphia, PA, USA. Clinical Detail: Post-operative Nivolumab use following neoadjuvant chemoradiotherapy and resection. Trial ID: NCT06499298 (Retrospective Evaluation of Nivolumab in Adjuvant Esophageal Cancer) Reason for Qualification: US patient meeting retrospective adjuvant criteria for esophageal cancer.
+
+Profile 183: Thomas H. (Head & Neck Oncology - USA) Condition: Recurrent SCCHN. Patient Context: 61-year-old male in San Francisco, CA, USA. Clinical Detail: Platinum-refractory recurrent disease; starting Nivolumab monotherapy. Trial ID: NCT04050761 (Study of Nivolumab in Head and Neck Cancer) Reason for Qualification: US patient with platinum-refractory SCCHN starting Nivolumab.
+
+Profile 184: Robert G. (Neurology - Germany) Condition: gMG (Anti-AChR+). Patient Context: 54-year-old male in Berlin, Germany. Clinical Detail: Starting Ravulizumab for complement inhibition in routine care. Trial ID: NCT06909253 (Ravulizumab Outcomes in gMG) Reason for Qualification: German gMG patient initiating Ravulizumab therapy.
+
+Profile 185: Chen X. (Respiratory - China) Condition: COPD Triple Therapy. Patient Context: 67-year-old male in Guangzhou, China. Clinical Detail: Starting triple therapy (BGF) following exacerbations. Trial ID: NCT07043251 (Effectiveness of BGF Triple Therapy in China) Reason for Qualification: Chinese COPD patient managed with BGF triple therapy in a real-world cohort.
+
+Profile 186: Luca F. (Rheumatology - Italy) Condition: Psoriatic Arthritis. Patient Context: 46-year-old male in Rome, Italy. Clinical Detail: Initiating Guselkumab (Tremfya) for active PsA. Trial ID: NCT05987412 (Guselkumab Utilization in Italy) Reason for Qualification: Italian PsA patient in a real-world Guselkumab tracking study.
+
+Profile 187: James V. (Gastroenterology - USA) Condition: Crohn's Disease. Patient Context: 36-year-old male in Los Angeles, CA, USA. Clinical Detail: Bio-experienced; starting Risankizumab (Skyrizi). Trial ID: NCT06894521 (Risankizumab Outcomes in Crohn's Disease) Reason for Qualification: US Crohn's patient on Risankizumab therapy.
+
+Profile 188: Elena M. (Gastroenterology - Italy) Condition: Ulcerative Colitis. Patient Context: 32-year-old female in Naples, Italy. Clinical Detail: Starting Ozanimod (Zeposia) for UC management. Trial ID: NCT05382715 (Utilization and Quality of Life of Ozanimod in UC) Reason for Qualification: Italian UC patient on Ozanimod therapy.
+
+Profile 189: Ingrid B. (Nephrology - Norway) Condition: CKD/HF. Patient Context: 71-year-old female in Oslo, Norway. Clinical Detail: Proteinuria and HFrEF; receiving Dapagliflozin. Trial ID: NCT06924581 (Dapagliflozin Outcomes in the Nordic Region) Reason for Qualification: Nordic cardio-renal patient on SGLT2 inhibitor therapy.
+
+Profile 190: Mateo L. (Pediatrics - Mexico) Condition: Moderate-to-Severe Atopic Dermatitis. Patient Context: 8-year-old male in Mexico City, Mexico. Clinical Detail: Failed topicals; starting Dupilumab (Dupixent). Trial ID: NCT06385431 (Dupilumab in Pediatric Patients - Latin America) Reason for Qualification: Pediatric patient (6–11) in Mexico starting Dupilumab.
+
+Profile 191: Sofia P. (Hematology - Taiwan) Condition: β-Thalassemia Major. Patient Context: 29-year-old female in Taipei, Taiwan. Clinical Detail: Receiving Luspatercept to reduce transfusion iron load. Trial ID: NCT06596642 (Luspatercept in β-Thalassemia - Taiwan) Reason for Qualification: Adult in Taiwan with Thalassemia on Luspatercept.
+
+Profile 192: Samuel K. (Hematology - USA) Condition: Lower-Risk MDS. Patient Context: 74-year-old male in Seattle, WA, USA. Clinical Detail: Ring sideroblast positive; starting Luspatercept for anemia. Trial ID: NCT07075406 (Luspatercept Outcomes in Lower-Risk MDS) Reason for Qualification: US MDS patient on Luspatercept therapy.
+
+Profile 193: Emma J. (Pediatrics - UK) Condition: High Risk for RSV. Patient Context: 8-month-old female in Manchester, UK, born at 31 weeks. Clinical Detail: High-risk infant receiving Palivizumab prophylaxis. Trial ID: NCT06851806 (Study of Palivizumab in High-Risk Children) Reason for Qualification: UK premature infant meeting RSV prophylaxis criteria.
+
+Profile 194: Sofia C. (Rheumatology - Italy) Condition: SLE. Patient Context: 28-year-old female in Milan, Italy. Clinical Detail: Moderate SLE; starting Anifrolumab (Saphnelo). Trial ID: NCT06673043 (Anifrolumab Real-world Treatment Outcomes) Reason for Qualification: Italian SLE patient receiving Anifrolumab.
+
+Profile 195: Mark A. (Oncology - UK) Condition: Advanced Melanoma. Patient Context: 62-year-old male in Birmingham, UK. Clinical Detail: Treated with Nivolumab + Relatlimab; records in oncology registry. Trial ID: NCT07079644 (Outcomes of Nivolumab + Relatlimab in Real-world Databases) Reason for Qualification: UK patient record in database receiving specified drug combination.
+
+Profile 196: Hans G. (Neurology - Germany) Condition: Acute Migraine. Patient Context: 36-year-old male in Berlin, Germany. Clinical Detail: Using Rimegepant (Vydura) for acute attack management. Trial ID: NCT06898047 (Consistency of Response with Rimegepant) Reason for Qualification: German adult using oral gepant for acute migraine relief.
+
+Profile 197: Olivia W. (Cardiology - UK) Condition: ATTR-CM. Patient Context: 79-year-old female in London, UK. Clinical Detail: Starting Tafamidis for wild-type ATTR-CM. Trial ID: NCT06214582 (Tafamidis in ATTR-CM - UK Registry) Reason for Qualification: UK-based ATTR-CM patient on Tafamidis.
+
+Profile 198: Marek W. (Neurology - Poland) Condition: gMG. Patient Context: 50-year-old male in Krakow, Poland. Clinical Detail: Anti-AChR+; starting Ravulizumab. Trial ID: NCT06909253 (Ravulizumab Treatment Outcomes in gMG) Reason for Qualification: Polish gMG patient receiving Ravulizumab.
+
+Profile 199: Yuki S. (Hematology - Japan) Condition: PNH. Patient Context: 45-year-old male in Osaka, Japan. Clinical Detail: High disease activity; switching to Ravulizumab. Trial ID: NCT06633536 (Ravulizumab Outcomes in PNH) Reason for Qualification: Japanese PNH patient transitioning to Ravulizumab.
+
+Profile 200: Carlos R. (Pediatrics - Colombia) Condition: Moderate-to-Severe Atopic Dermatitis. Patient Context: 9-year-old male in Bogotá, Colombia. Clinical Detail: Failed topicals; starting Dupilumab. Trial ID: NCT06385431 (Dupilumab Pediatric Registry - Latin America) Reason for Qualification: Pediatric patient (6–11) in Colombia on Dupilumab.
