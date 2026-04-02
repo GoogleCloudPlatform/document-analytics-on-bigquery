@@ -25,6 +25,43 @@ FROM clinical_trial_multiregion.cssr_reports_chunked_pdf, UNNEST(JSON_EXTRACT_AR
 );
 
 
+CREATE OR REPLACE TABLE `clinical_trial_multiregion.ClinicalTrialMasterData` AS (
+SELECT
+uri,
+extracted_data.Sponsor,
+extracted_data.StudyTitle,
+extracted_data.PreferredUMLSName,
+extracted_data.NCT_Number,
+extracted_data.Phase,
+extracted_data.Trial_Status,
+extracted_data.Disease_Areas,
+extracted_data.Targeted_Enrollment,
+extracted_data.Company,
+extracted_data.semantic_text,
+extracted_data.name,
+extracted_data.preferred_name,
+extracted_data.semantic_type,
+extracted_data.definition,
+extracted_data.mesh_code,
+extracted_data.mesh_codes,
+extracted_data.hpo_codes,
+extracted_data.snomed_id,
+extracted_data.snomed_hierarchy,
+extracted_data.drug_name,
+extracted_data.atc_code,
+extracted_data.atc_codes,
+extracted_data.rxnorm_code,
+extracted_data.trade_names,
+extracted_data.ema_url,
+extracted_data.source_level,
+extracted_data.drug_preferred_name,
+extracted_data.drug_semantic_type,
+extracted_data.criteria_type,
+extracted_data.criteria_text,
+extracted_data.phase_id,
+extracted_data.status_name,
+extracted_data.status_description
+FROM (
 SELECT
     uri,
     AI.GENERATE(
@@ -79,5 +116,7 @@ SELECT
     SELECT uri, STRING_AGG(content ORDER BY page_span_start) as content FROM `meridian-dev-455515.clinical_trial_multiregion.cssr_reports_parsed_pdf`
 GROUP BY uri
   )
+)
+)
 ;
 
