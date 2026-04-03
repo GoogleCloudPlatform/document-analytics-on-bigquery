@@ -1,0 +1,28 @@
+PATIENT PROFILE: SARAH MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 42 years
+- Sex: Female
+- Place of Residency: Not specified (assumed to be in a region where Ozanimod is available and studied).
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Ulcerative Colitis (UC)
+- Diagnosis Date: 8 years prior
+- Disease Severity: Moderate-to-severe flare.
+- Comorbidities: None specified.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: 6-8 bloody bowel movements per day, urgency, moderate abdominal pain.
+- Performance Status: Impaired during flare, affecting daily activities.
+- Other: Ozanimod-naïve, no stoma, no plans for surgical intervention or hospitalization due to UC.
+
+4. LABORATORY RESULTS
+- Endoscopic findings: Consistent with moderate-to-severe UC.
+- Inflammatory markers: Likely elevated (e.g., CRP, fecal calprotectin) during flare.
+- Complete Blood Count (CBC): May show mild anemia due to blood loss.
+- Other Lab Results: Assumed within normal limits for study eligibility, no known contraindications to Ozanimod.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Tried and failed mesalamine and a short course of corticosteroids.
+- Current Plan: Physician has determined suitability for Ozanimod therapy.

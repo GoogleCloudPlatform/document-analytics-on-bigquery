@@ -1,0 +1,29 @@
+PATIENT PROFILE: ELEANOR VANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: United States (specifically, treated at the Hospital of The University of Pennsylvania)
+- Employment Status: Not specified, assumed active.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Diagnosis Date: Prior to 3 months ago.
+- Initial Status (pre-mavacamten): NYHA Class III symptoms.
+- Initial Echocardiogram: Resting LVOT gradient of 68 mmHg, Valsalva-provoked gradient of 105 mmHg, LVEF of 64%.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Progressive exertional dyspnea and fatigue (initial presentation). After 3 months on mavacamten, improved to NYHA Class II.
+- Current NYHA Functional Class: II (improved from III).
+- Performance Status: Improved, but still experiencing some limitation with ordinary physical activity.
+
+4. LABORATORY RESULTS
+- Echocardiogram (after 3 months on mavacamten):
+  - Resting LVOT gradient: 25 mmHg (improved from 68 mmHg)
+  - LVEF: 62%
+- Other Lab Results: Assumed within normal limits for study eligibility.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Not specified, but likely conventional oHCM management (e.g., beta-blockers, calcium channel blockers) before mavacamten.
+- Current Therapy: Mavacamten initiated three months ago.
+- Follow-up: Completed over 12 weeks of follow-up on mavacamten.

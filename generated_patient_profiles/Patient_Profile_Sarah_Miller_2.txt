@@ -1,0 +1,24 @@
+PATIENT PROFILE: SARAH MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: Not specified (assumed US).
+- Employment Status: Active (Supports ECOG status).
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HR+/HER2- Metastatic Breast Cancer (MBC)
+- Diagnosis Date: April 2019
+- Disease Status: Currently stable on treatment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Not specified, assumed stable on current therapy.
+- Performance Status: Assumed good, allowing for ongoing systemic therapy.
+
+4. LABORATORY RESULTS
+- Histopathology: Confirmed HR+/HER2- MBC.
+- Other Lab Results: Assumed within normal limits for ongoing systemic therapy.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None for MBC, initiated first-line Palbociclib in combination with an aromatase inhibitor in April 2019.
+- Current Plan: Ongoing treatment with Palbociclib and an aromatase inhibitor.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: MARIA RODRIGUEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 42 years
+- Sex: Female
+- Place of Residency: United States
+- Languages: English, Spanish
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia
+- Diagnosis Date: 15 years prior
+- Disease Status: Confirmed diagnosis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Not specified, but indicative of schizophrenia (e.g., hallucinations, delusions, disorganized thought, negative symptoms).
+- Performance Status: Assumed capable of participating in treatment and providing informed consent.
+- Other: No recent history of participating in interventional studies.
+
+4. LABORATORY RESULTS
+- Lab Results: Assumed to be within normal limits for study eligibility; no specific results provided.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Not specified, but has a confirmed diagnosis of schizophrenia for 15 years, suggesting prior treatments.
+- Current Plan: Recently prescribed xanomeline and trospium chloride (XT) therapy by her clinician and intends to initiate treatment soon.

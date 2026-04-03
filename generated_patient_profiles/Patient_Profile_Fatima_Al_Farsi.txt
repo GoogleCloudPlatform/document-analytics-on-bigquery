@@ -1,0 +1,29 @@
+PATIENT PROFILE: FATIMA AL-FARSI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 38 years
+- Sex: Female
+- Place of Residency: Middle Eastern descent (e.g., Dubai, UAE)
+- Employment Status: Not specified (assumed active and able to perform daily activities)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia (TDT)
+- Onset: Childhood
+- Complications: Iron overload (implied by long history of transfusions, but not explicitly stated as current condition).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic anemia, fatigue, weakness (implied by TDT and transfusion needs).
+- Physical Examination: Jaundice (possible), pallor, splenomegaly (common in thalassemia).
+- Performance Status: Able to perform most daily activities, but with a degree of fatigue impacting quality of life.
+
+4. LABORATORY RESULTS
+- Hemoglobin: Typically 6.5 to 7.0 g/dL (pre-transfusion)
+- Red Blood Cell Transfusions: Regular, last transfusion 3 weeks ago.
+- Other Hematology: Consistent with TDT (e.g., microcytosis, hypochromia, elevated reticulocytes if not suppressed by transfusion).
+- Liver Function Tests: May show signs of iron overload (e.g., elevated ferritin, LFTs if organ damage occurs).
+- Renal Function: Normal (no indication of renal complications).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Long history of regular red blood cell transfusions.
+- Current Therapy: Initiated luspatercept 8 months ago, with initial positive response and ongoing treatment.
+- Other Medications: Iron chelation therapy (likely, given long transfusion history).

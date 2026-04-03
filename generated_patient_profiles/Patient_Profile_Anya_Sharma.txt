@@ -1,0 +1,26 @@
+PATIENT PROFILE: ANYA SHARMA
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 32 years
+- Sex: Female
+- Place of Residency: Not specified (assumed North America due to trial details).
+- Pregnancy Status: 20 weeks pregnant with first child.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Psoriasis (PsO)
+- Diagnosis Date: Since age 25.
+- Disease Status: Well-managed on deucravacitinib.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Not currently experiencing severe PsO flares due to effective management.
+- Pregnancy Health: Current pregnancy progressing normally; all prenatal screenings normal. No diagnostic test indicating a major congenital malformation (MCM).
+
+4. LABORATORY RESULTS
+- PsO Disease Markers: Assumed to be controlled (e.g., low PASI score).
+- Prenatal Screening: Normal.
+- Other Lab Results: Assumed within normal limits; no exposure to contraindicated medications.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Deucravacitinib for two years, with continuous exposure from prior to conception and throughout current pregnancy.
+- Other Medications: No exposure to other oral TYK2 inhibitors, JAK inhibitors, methotrexate, or oral retinoids during the qualifying period.
+- Current Plan: Continued monitoring per study requirements.
