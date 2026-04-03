@@ -1,0 +1,25 @@
+PATIENT PROFILE: AGNIESZKA W.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 27 years
+- Sex: Female
+- Place of Residency: Krakow, Poland
+- Employment Status: University student.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Disease Activity: High, with evidence of ongoing intravascular hemolysis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Experiences fatigue, dysphagia, and abdominal pain. Has a history of a deep vein thrombosis.
+- Performance Status: Generally well, but symptoms can be debilitating during periods of increased hemolysis.
+- Transfusion History: Has required occasional blood transfusions.
+
+4. LABORATORY RESULTS
+- LDH Levels: Lactate dehydrogenase (LDH) levels are consistently elevated (> 1.5 times the upper limit of normal), indicating active hemolysis.
+- Flow Cytometry: Confirmed PNH clone with a large population of GPI-deficient cells.
+- Hemoglobin: Fluctuates, with drops during hemolytic episodes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Was on a stable dose of Eculizumab, a C5 inhibitor, administered every 2 weeks.
+- Current Plan: Has transitioned to Ravulizumab, a long-acting C5 inhibitor, to extend the infusion interval to every 8 weeks, improving convenience and quality of life.

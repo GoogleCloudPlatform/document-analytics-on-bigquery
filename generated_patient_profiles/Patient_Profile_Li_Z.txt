@@ -1,0 +1,22 @@
+PATIENT PROFILE: LI Z.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 66 years
+- Sex: Male
+- Place of Residency: Guangzhou, China
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk MDS with Anemia.
+- Goal: Transfusion reduction.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Hemoglobin: Low.
+- Bone Marrow: Confirms MDS.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Supportive care.
+- Current Plan: Starting Luspatercept.

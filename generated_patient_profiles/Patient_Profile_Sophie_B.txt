@@ -1,0 +1,23 @@
+PATIENT PROFILE: SOPHIE B.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 14 years
+- Sex: Female
+- Place of Residency: Amsterdam, Netherlands
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Melanoma.
+- Disease Stage: Stage III (locoregionally advanced) or Stage IV (metastatic).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Presence of enlarged lymph nodes or distant metastases.
+- Performance Status: ECOG 0 or 1, depending on disease burden.
+- Diagnosis: Confirmed by biopsy.
+
+4. LABORATORY RESULTS
+- Molecular Testing: BRAF mutation status assessed.
+- Imaging: CT/MRI scans to determine extent of disease.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has received Ipilimumab, an anti-CTLA-4 immune checkpoint inhibitor, as part of her treatment regimen for advanced melanoma.
+- Current Plan: Continued monitoring and follow-up as part of long-term survival data collection.

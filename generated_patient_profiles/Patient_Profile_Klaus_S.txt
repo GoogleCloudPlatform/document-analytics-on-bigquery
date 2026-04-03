@@ -1,0 +1,23 @@
+PATIENT PROFILE: KLAUS S.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 44 years
+- Sex: Male
+- Place of Residency: Munich, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Plaque Psoriasis.
+- Disease Extent: Affects approximately 20% of his body surface area.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- PASI Score: Psoriasis Area and Severity Index (PASI) score of 18, indicating severe disease.
+- Symptoms: Large, red, scaly plaques on his trunk, arms, and legs, causing significant itching and discomfort.
+- Quality of Life: Reports a significant impact on his quality of life, including social activities.
+
+4. LABORATORY RESULTS
+- Biopsy: Skin biopsy confirms the diagnosis of plaque psoriasis.
+- Blood Work: No significant abnormalities.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has tried various topical treatments, including corticosteroids and vitamin D analogues, with limited success.
+- Current Plan: Starting oral therapy with Deucravacitinib, a selective TYK2 inhibitor.

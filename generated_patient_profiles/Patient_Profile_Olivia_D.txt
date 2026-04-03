@@ -1,0 +1,22 @@
+PATIENT PROFILE: OLIVIA D.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 76 years
+- Sex: Female
+- Place of Residency: Liverpool, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transthyretin Amyloid Cardiomyopathy (ATTR-CM).
+- Type: Wild-type.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Heart failure symptoms.
+- NYHA Class: II.
+
+4. LABORATORY RESULTS
+- PYP Scan: Positive.
+- Genetic Testing: Negative for TTR mutations.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Diuretics.
+- Current Plan: Starting Tafamidis.

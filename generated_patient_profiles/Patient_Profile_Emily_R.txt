@@ -1,0 +1,22 @@
+PATIENT PROFILE: EMILY R.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 4 months
+- Sex: Female
+- Place of Residency: Ontario, Canada
+- Gestational Age at Birth: 29 weeks.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe Respiratory Syncytial Virus (RSV) infection.
+- Comorbidities: Bronchopulmonary dysplasia (BPD) requiring oxygen support for the first month of life.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Current Status: Clinically stable but at high risk for respiratory complications.
+- Respiratory System: Lungs show signs of chronic lung disease of prematurity.
+
+4. LABORATORY RESULTS
+- Not applicable for this indication.
+
+5. TREATMENT HISTORY
+- Neonatal Care: Received intensive care for prematurity and BPD.
+- Current Plan: Scheduled to receive monthly injections of Palivizumab for RSV prophylaxis during the winter season.

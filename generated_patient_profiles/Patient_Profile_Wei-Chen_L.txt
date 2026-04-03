@@ -1,0 +1,22 @@
+PATIENT PROFILE: WEI-CHEN L.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 26 years
+- Sex: Female
+- Place of Residency: Taipei, Taiwan
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent β-Thalassemia.
+- Transfusion Need: Requires 2-3 units of RBCs monthly.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic anemia.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Hemoglobin: Low.
+- Ferritin: High.
+
+5. TREATMENT HISTORY
+- Standard Care: Regular transfusions and chelation therapy.
+- Current Plan: Starting Luspatercept to reduce transfusion volume.

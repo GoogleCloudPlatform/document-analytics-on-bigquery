@@ -1,0 +1,22 @@
+PATIENT PROFILE: KENJI S.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 78 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Sepsis with associated Acute Kidney Injury (AKI).
+- Underlying Cause: The sepsis is secondary to a complicated intra-abdominal infection.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fever, hypotension, and reduced urine output.
+- Renal Function: Acute decline in kidney function with a significant rise in serum creatinine.
+
+4. LABORATORY RESULTS
+- Microbiology: Blood cultures are positive for a Gram-negative bacterium.
+- Renal Panel: eGFR is severely reduced.
+
+5. TREATMENT HISTORY
+- Hospitalization: Admitted to the intensive care unit for management of septic shock.
+- Antibiotic Therapy: Being treated with Zavicefta (Ceftazidime-Avibactam), with the dose adjusted for his level of renal impairment.

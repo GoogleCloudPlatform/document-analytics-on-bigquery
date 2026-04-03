@@ -1,0 +1,27 @@
+PATIENT PROFILE: ROBERT M.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Male
+- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Employment Status: Retired. Supports ECOG 1 status.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Eosinophilic Asthma (20-year history)
+- Secondary Condition: Minor Arrhythmias (recent onset)
+- Other Relevant History: No history of myocardial infarction or severe cardiac events.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent wheezing, shortness of breath, occasional palpitations.
+- Performance Status: ECOG 1 (Restricted in physically strenuous activity, but ambulatory and able to perform light work).
+- Cardiac Health: History of minor arrhythmias, currently managed. Baseline echocardiogram within normal limits, but requires ongoing cardiovascular monitoring due to medication.
+- Respiratory Function: Impaired FEV1, consistent with severe asthma.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Elevated blood eosinophil count (e.g., >300 cells/µL), consistent with eosinophilic asthma.
+- Cardiac Markers: Normal troponin levels.
+- Renal/Liver Function: Within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Various asthma medications over 20 years, including high-dose inhaled corticosteroids and long-acting beta-agonists.
+- Current Plan: Currently prescribed Tezepelumab (Tezspire) for severe eosinophilic asthma. Requires long-term safety monitoring for Major Adverse Cardiovascular Events (MACE) as per trial NCT06951867.

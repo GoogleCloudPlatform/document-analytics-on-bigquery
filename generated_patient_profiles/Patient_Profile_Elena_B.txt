@@ -1,0 +1,22 @@
+PATIENT PROFILE: ELENA B.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 46 years
+- Sex: Female
+- Place of Residency: Milan, Italy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HR+/HER2- Early Breast Cancer.
+- Risk: High-risk node-positive EBC.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Status: Post-surgery.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed HR+/HER2- EBC.
+- Nodal Status: Positive.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Surgery and chemotherapy.
+- Current Plan: Starting adjuvant Ribociclib (Kisqali).

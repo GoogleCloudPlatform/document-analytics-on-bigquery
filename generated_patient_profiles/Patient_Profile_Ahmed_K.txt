@@ -1,0 +1,22 @@
+PATIENT PROFILE: AHMED K.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 35 years
+- Sex: Male
+- Place of Residency: Dubai, UAE
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE).
+- Disease Manifestations: Persistent cutaneous lupus (malar rash) and polyarthritis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Joint pain and swelling, skin rashes, and fatigue.
+- Disease Activity: Moderate-to-severe disease activity despite standard therapies.
+
+4. LABORATORY RESULTS
+- Autoantibodies: Positive for ANA and anti-dsDNA antibodies.
+- Complement Levels: Low C3 and C4 levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to antimalarials (hydroxychloroquine) and methotrexate.
+- Current Plan: Initiated treatment with Anifrolumab (Saphnelo), an anti-interferon receptor monoclonal antibody.

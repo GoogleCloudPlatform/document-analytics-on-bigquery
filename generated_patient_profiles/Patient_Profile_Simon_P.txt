@@ -1,0 +1,22 @@
+PATIENT PROFILE: SIMON P.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 7 months
+- Sex: Male
+- Place of Residency: UK
+- Gestational Age: Premature with Chronic Lung Disease (CLD).
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk for RSV.
+- Risk Factors: Prematurity and CLD.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: None.
+- Health Status: High-risk infant.
+
+4. LABORATORY RESULTS
+- N/A
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Receiving Palivizumab prophylaxis.

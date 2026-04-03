@@ -1,0 +1,25 @@
+PATIENT PROFILE: ELENA PETROVA
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Female
+- Place of Residency: Not specified.
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Diagnosis Date: 10 years prior
+- Disease Status: Active, with recent MRI showing new T2 lesions.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Not specified, but history of several relapses. EDSS score is 3.5.
+- Performance Status: Moderate disability.
+
+4. LABORATORY RESULTS
+- MRI: Recent MRI showing new T2 lesions.
+- EDSS Score: 3.5.
+- Other Lab Results: Assumed within normal limits; no contraindications to ozanimod.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Various disease-modifying therapies (DMTs) without achieving stable disease control.
+- Current Plan: Current treatment with ozanimod was initiated 6 months ago.

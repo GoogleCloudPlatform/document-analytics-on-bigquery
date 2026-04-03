@@ -1,0 +1,22 @@
+PATIENT PROFILE: ANNA M.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 28 years
+- Sex: Female
+- Place of Residency: Warsaw, Poland
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Treatment Status: Treatment-naive for complement inhibitors.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Significant hemolysis-related symptoms.
+- Disease Activity: High disease activity with elevated LDH.
+
+4. LABORATORY RESULTS
+- LDH: Markedly elevated.
+- PNH Clone: Large clone size.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Starting Ravulizumab (Ultomiris) as first-line complement inhibitor therapy.

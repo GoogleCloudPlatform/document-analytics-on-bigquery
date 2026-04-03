@@ -1,0 +1,25 @@
+PATIENT PROFILE: LINDA MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Female
+- Place of Residency: Not specified.
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Ulcerative Colitis
+- Diagnosis Date: 10 years prior
+- Disease Status: Currently well-controlled on ozanimod therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Not specified, but historically indicative of moderate-to-severe UC. Currently well-controlled implies reduced or absent symptoms.
+- Performance Status: Assumed good, enabling daily activities.
+
+4. LABORATORY RESULTS
+- Endoscopic findings: Expected to show signs of UC, potentially improved on therapy.
+- Inflammatory markers: Expected to be reduced due to effective therapy.
+- Other Lab Results: Assumed within normal limits for study eligibility.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed corticosteroids and anti-TNF therapy.
+- Current Plan: Currently on ozanimod therapy, which her physician has determined is suitable for continued use.

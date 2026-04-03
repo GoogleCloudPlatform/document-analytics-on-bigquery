@@ -1,0 +1,21 @@
+PATIENT PROFILE: NINA K.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 40 years
+- Sex: Female
+- Place of Residency: Athens, Greece
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE).
+- Main Symptom: Active SLE skin rash.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Active malar rash and discoid lupus lesions.
+- Disease Activity: Moderate-to-severe.
+
+4. LABORATORY RESULTS
+- Serology: Positive ANA and anti-dsDNA.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed to respond adequately to oral corticosteroids and hydroxychloroquine.
+- Current Plan: Starting treatment with Anifrolumab (Saphnelo).

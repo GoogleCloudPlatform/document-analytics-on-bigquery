@@ -1,0 +1,29 @@
+PATIENT PROFILE: ELENA V.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Female
+- Place of Residency: [To be inferred or randomized, e.g., European Union, specifically a country with routine BGF triple therapy usage]
+- Employment Status: Retired. Supports ECOG 1 status.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD)
+- History: Former smoker, 30 pack-year history.
+- Current Status: Frequent exacerbations despite previous dual therapy (LAMA/LABA).
+- CAT Score: 22 (indicating high impact of COPD on daily life).
+- FEV1: < 50% predicted (severe airflow limitation).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough, dyspnea on exertion, increased sputum production, recurrent episodes of worsening respiratory symptoms requiring intervention.
+- Performance Status: ECOG 1 (Symptomatic, but able to carry out light activities).
+- Cardiac Health: Stable, no history of significant cardiovascular events exacerbating COPD.
+- Respiratory Status: Demonstrates signs of chronic bronchitis and emphysema.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Within normal limits.
+- Arterial Blood Gases: Mild hypoxemia on exertion.
+- Pulmonary Function Tests: Confirmed severe airflow obstruction with FEV1 < 50% predicted.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Long-acting muscarinic antagonist (LAMA) and long-acting beta-agonist (LABA) combination therapy.
+- Current Plan: Recently switched to triple therapy consisting of Budesonide (inhaled corticosteroid), Glycopyrronium (LAMA), and Formoterol (LABA) for improved symptom control and reduction of exacerbations.

@@ -1,0 +1,22 @@
+PATIENT PROFILE: ROBERT B.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 33 years
+- Sex: Male
+- Place of Residency: United States
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Crohn's Disease.
+- Treatment Experience: "Bio-experienced," meaning he has failed a previous biologic therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Frequent diarrhea, abdominal pain, and weight loss.
+- Endoscopic Findings: Colonoscopy shows active inflammation and ulceration in the terminal ileum.
+
+4. LABORATORY RESULTS
+- Inflammatory Markers: Elevated C-reactive protein and fecal calprotectin.
+- Anemia: Mild anemia.
+
+5. TREATMENT HISTORY
+- Prior Biologic Therapy: Was treated with Infliximab (an anti-TNF therapy), but lost response over time.
+- Current Plan: Starting treatment with Risankizumab (Skyrizi), a monoclonal antibody that targets IL-23.

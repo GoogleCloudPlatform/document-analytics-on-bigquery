@@ -1,0 +1,24 @@
+PATIENT PROFILE: DAVID R.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Male
+- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Smoking History: Former smoker.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Non-Small Cell Lung Cancer (NSCLC)
+- Disease Stage: Resectable Stage II (T2b N1 M0).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mild cough. Generally asymptomatic with good functional status.
+- Performance Status: ECOG 0 (Fully active, able to carry on all pre-disease performance without restriction).
+- Surgical Candidacy: Deemed fit for lung resection surgery.
+
+4. LABORATORY RESULTS
+- Histology: Squamous cell carcinoma confirmed by biopsy.
+- Molecular Testing: No actionable mutations (EGFR, ALK, ROS1) detected. PD-L1 expression is moderate.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for lung cancer.
+- Current Plan: Receiving neoadjuvant therapy consisting of Nivolumab in combination with platinum-doublet chemotherapy, followed by planned lobectomy.

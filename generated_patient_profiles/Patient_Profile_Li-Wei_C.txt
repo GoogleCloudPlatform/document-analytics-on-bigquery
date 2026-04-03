@@ -1,0 +1,26 @@
+PATIENT PROFILE: LI-WEI C.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 63 years
+- Sex: Male
+- Place of Residency: Taipei, Taiwan
+- Employment Status: Retired.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed and Refractory Multiple Myeloma
+- Disease Stage: Durie-Salmon Stage III.
+- Prior Therapies: Has received three prior lines of therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bone pain in the lower back, fatigue, and anemia-related symptoms.
+- Performance Status: ECOG 2 (Ambulatory and capable of all selfcare but unable to carry out any work activities).
+- Skeletal Involvement: Lytic lesions identified on skeletal survey.
+
+4. LABORATORY RESULTS
+- Monoclonal Protein: M-spike present in serum protein electrophoresis.
+- Hematologic Function: Anemia (Hemoglobin < 10 g/dL) and mild thrombocytopenia.
+- Renal Function: Mild renal impairment with elevated creatinine.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has been treated with a proteasome inhibitor (e.g., Bortezomib), an immunomodulatory drug (e.g., Lenalidomide), and an alkylating agent. His disease has relapsed and is now considered refractory to these agents.
+- Current Plan: Starting a new combination regimen that includes Elotuzumab, an immunostimulatory antibody targeting SLAMF7.

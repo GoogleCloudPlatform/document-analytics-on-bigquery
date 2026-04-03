@@ -1,0 +1,21 @@
+PATIENT PROFILE: LUCA F.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 46 years
+- Sex: Male
+- Place of Residency: Rome, Italy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Psoriatic Arthritis.
+- Disease Activity: Active PsA.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Joint pain and skin lesions.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- CRP: Elevated.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to conventional DMARDs.
+- Current Plan: Initiating Guselkumab (Tremfya).

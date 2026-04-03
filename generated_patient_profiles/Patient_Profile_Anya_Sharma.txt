@@ -3,26 +3,24 @@ PATIENT PROFILE: ANYA SHARMA
 1. DEMOGRAPHIC INFORMATION
 - Age: 32 years
 - Sex: Female
-- Place of Residency: London, UK
-- Pregnancy Status: Currently 20 weeks pregnant (G1P0)
+- Place of Residency: Not specified (assumed North America due to trial details).
+- Pregnancy Status: 20 weeks pregnant with first child.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Primary Disorder: Plaque Psoriasis (PsO)
-- Severity: Moderate-to-severe (documented since age 25).
-- Comorbidities: None related to the pregnancy or current treatment.
+- Primary Disorder: Moderate-to-Severe Psoriasis (PsO)
+- Diagnosis Date: Since age 25.
+- Disease Status: Well-managed on deucravacitinib.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic erythematous plaques with scaling; currently well-managed.
-- Performance Status: ECOG 0 (Fully active).
-- Physical Status: Normal prenatal screenings; no evidence of major congenital malformations (MCM) in the fetus.
+- Symptoms: Not currently experiencing severe PsO flares due to effective management.
+- Pregnancy Health: Current pregnancy progressing normally; all prenatal screenings normal. No diagnostic test indicating a major congenital malformation (MCM).
 
 4. LABORATORY RESULTS
-- Hematologic Function: Normal for pregnancy (Hemoglobin: 11.5 g/dL).
-- Liver Function: Normal.
-- Renal Function: Normal.
-- Prenatal Labs: Normal glucose tolerance and negative infectious disease screen.
+- PsO Disease Markers: Assumed to be controlled (e.g., low PASI score).
+- Prenatal Screening: Normal.
+- Other Lab Results: Assumed within normal limits; no exposure to contraindicated medications.
 
 5. TREATMENT HISTORY
-- Prior Therapy: Continuous exposure to Deucravacitinib for the past two years, including the period prior to conception and throughout the current pregnancy.
-- Current Plan: Continue Deucravacitinib therapy under close obstetric and dermatologic supervision.
-- Monitoring: Scheduled for regular prenatal interviews, medical record review, and a neonatal dysmorphology examination for the infant after birth.
+- Prior Therapy: Deucravacitinib for two years, with continuous exposure from prior to conception and throughout current pregnancy.
+- Other Medications: No exposure to other oral TYK2 inhibitors, JAK inhibitors, methotrexate, or oral retinoids during the qualifying period.
+- Current Plan: Continued monitoring per study requirements.

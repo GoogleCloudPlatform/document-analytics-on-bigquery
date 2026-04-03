@@ -1,0 +1,24 @@
+PATIENT PROFILE: MARIA SCHMIDT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: Germany
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HR+/HER2- Early Breast Cancer
+- Diagnosis: Recent histological diagnosis of early breast cancer.
+- Risk Profile: High risk of recurrence.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Not specified; assumed asymptomatic post-surgery.
+- Performance Status: Assumed good, consistent with eligibility for adjuvant treatment.
+
+4. LABORATORY RESULTS
+- Histopathology: Confirmed HR+/HER2- early breast cancer.
+- Other Lab Results: Assumed within normal limits for adjuvant systemic therapy.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Not specified, but a recent histological diagnosis implies surgical intervention or prior biopsies.
+- Current Plan: Initiating adjuvant treatment with abemaciclib in combination with endocrine therapy (ET). Baseline for therapy start was within 2 weeks prior to providing written informed consent for the study.

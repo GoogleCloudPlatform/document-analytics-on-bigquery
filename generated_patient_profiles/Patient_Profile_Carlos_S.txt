@@ -1,0 +1,21 @@
+PATIENT PROFILE: CARLOS S.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 33 years
+- Sex: Male
+- Place of Residency: Santiago, Chile
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Goal: Improve quality of life.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Relapse-related neurological symptoms.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- MRI: Shows MS lesions.
+
+5. TREATMENT HISTORY
+- Prior Therapy: First-line MS therapy.
+- Current Plan: Switching to Ozanimod.

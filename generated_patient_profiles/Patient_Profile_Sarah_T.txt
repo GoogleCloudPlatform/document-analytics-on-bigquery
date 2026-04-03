@@ -1,0 +1,22 @@
+PATIENT PROFILE: SARAH T.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Female
+- Place of Residency: Chicago, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Eosinophilic Asthma.
+- Exacerbation History: Frequent exacerbations requiring oral corticosteroids.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough, wheezing, and shortness of breath.
+- Performance Status: Her asthma impacts her ability to exercise.
+
+4. LABORATORY RESULTS
+- Eosinophil Count: Blood eosinophils are 400 cells/μL.
+- Lung Function: FEV1 is reduced.
+
+5. TREATMENT HISTORY
+- Prior Therapy: On a high-dose inhaled corticosteroid and long-acting beta-agonist (ICS/LABA) with continued symptoms.
+- Current Plan: Starting treatment with Tezepelumab.

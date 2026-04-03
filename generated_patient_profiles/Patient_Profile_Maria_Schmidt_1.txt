@@ -1,0 +1,24 @@
+PATIENT PROFILE: MARIA SCHMIDT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: Germany
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HR+/HER2- Early Breast Cancer
+- Diagnosis: Recently diagnosed with HR+/HER2- early breast cancer.
+- Risk Profile: Assessed as high risk of recurrence.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Not specified; assumed asymptomatic post-surgery or initial diagnosis.
+- Performance Status: Assumed good, consistent with eligibility for adjuvant treatment.
+
+4. LABORATORY RESULTS
+- Histopathology: Confirmed HR+/HER2- early breast cancer.
+- Other Lab Results: Assumed within normal limits for adjuvant systemic therapy.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Not specified, but recently diagnosed implying recent surgical intervention or biopsies.
+- Current Plan: Just started adjuvant treatment with ribociclib in combination with an aromatase inhibitor (AI) with curative intent. No adverse events reported yet.

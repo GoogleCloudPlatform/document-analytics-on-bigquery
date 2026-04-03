@@ -4,28 +4,24 @@ PATIENT PROFILE: CARLOS ROSSI
 - Age: 9 years
 - Sex: Male
 - Place of Residency: Bogotá, Colombia
-- Employment Status: Not applicable (pediatric patient); active and attending school
+- School Status: Attending primary school
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Atopic Dermatitis
-- Onset: Diagnosed in early childhood, with intermittent flares.
-- Severity: Moderate-to-severe, requiring systemic treatment due to inadequate control with topical therapies.
-- Other Conditions: No other significant co-morbidities identified.
+- Onset: Infancy (diagnosed at 1 year of age)
+- Affected Areas: Flexural areas (elbows, knees), face, and neck, with significant lichenification.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent pruritus, erythema, lichenification, and xerosis affecting multiple body areas, including flexural surfaces and face. Significant impact on sleep and quality of life.
-- Performance Status: Active, but symptoms interfere with daily activities and sleep.
-- General Health: No acute infectious processes related to skin lesions. No history of severe allergic reactions or anaphylaxis.
-- Cardiac Health: Normal for age.
-- Autoimmune History: No active autoimmune conditions.
+- Symptoms: Severe pruritus leading to sleep disturbance and daytime inattentiveness. Erythematous and oozing plaques, with areas of dry, scaly skin.
+- Performance Status: Fully active and age-appropriate, but with significant impact on quality of life due to itching and skin discomfort.
+- Comorbidities: Allergic rhinitis.
 
 4. LABORATORY RESULTS
-- Hematologic Function: Within normal pediatric limits.
-- Liver Function: Normal (relevant prior to systemic therapy initiation).
-- Renal Function: Normal (relevant prior to systemic therapy initiation).
-- IgE Levels: Elevated (consistent with atopic condition).
-- Eosinophil Count: May be elevated during active flares.
+- Eosinophil Count: Elevated (650 cells/µL)
+- IgE Levels: Significantly elevated (1200 IU/mL)
+- Complete Blood Count (CBC): Within normal limits
+- Comprehensive Metabolic Panel (CMP): Within normal limits
 
 5. TREATMENT HISTORY
-- Prior Therapy: Extensive history of topical corticosteroid use, topical calcineurin inhibitors, and emollients with insufficient response.
-- Current Plan: Initiating Dupilumab therapy as a systemic treatment option due to persistent moderate-to-severe disease despite optimized topical management. Parents have received education on proper administration and potential side effects.
+- Prior Therapy: Extensive use of high-potency topical corticosteroids and calcineurin inhibitors with limited and unsustained efficacy. Multiple courses of oral antihistamines for symptomatic relief of pruritus.
+- Current Plan: Scheduled to initiate treatment with Dupilumab.

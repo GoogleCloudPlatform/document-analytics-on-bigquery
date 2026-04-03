@@ -1,0 +1,22 @@
+PATIENT PROFILE: OLIVIA W.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 79 years
+- Sex: Female
+- Place of Residency: London, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: ATTR-CM.
+- Type: Wild-type.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Heart failure.
+- NYHA Class: II.
+
+4. LABORATORY RESULTS
+- PYP Scan: Positive.
+- Genetic Testing: Negative.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Diuretics.
+- Current Plan: Starting Tafamidis.

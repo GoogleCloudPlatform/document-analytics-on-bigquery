@@ -1,0 +1,21 @@
+PATIENT PROFILE: MEI L.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 69 years
+- Sex: Female
+- Place of Residency: Shanghai, China
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: COPD with Frequent Exacerbations.
+- History: Recent hospital stay for an exacerbation.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough and dyspnea.
+- Lung Function: Reduced FEV1.
+
+4. LABORATORY RESULTS
+- Spirometry: Confirms airflow obstruction.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Dual bronchodilator.
+- Current Plan: Starting triple therapy (BGF).

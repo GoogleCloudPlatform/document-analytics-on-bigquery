@@ -1,0 +1,21 @@
+PATIENT PROFILE: MARIE L.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 70 years
+- Sex: Female
+- Place of Residency: Paris, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: MIUC Post-Radical Cystectomy.
+- Stage: Pathological pT3 stage.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Post-operative recovery.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Pathology: High-risk urothelial carcinoma.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Starting adjuvant Nivolumab.

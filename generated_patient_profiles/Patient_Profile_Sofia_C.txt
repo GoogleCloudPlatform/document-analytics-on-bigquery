@@ -1,0 +1,22 @@
+PATIENT PROFILE: SOFIA C.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 29 years
+- Sex: Female
+- Place of Residency: Milan, Italy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Active Systemic Lupus Erythematosus (SLE).
+- Main Manifestations: Skin and joint involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Rash, arthritis, fatigue.
+- Disease Activity: Moderate-to-severe.
+
+4. LABORATORY RESULTS
+- Serology: ANA and anti-dsDNA positive.
+- Complement: Low C3/C4.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to standard therapies.
+- Current Plan: Starting Anifrolumab.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: ROBERT K.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 47 years
+- Sex: Male
+- Place of Residency: [To be inferred or randomized, e.g., United States]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Heart Failure Class: NYHA Class III, indicating marked limitation in activity.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Experiences shortness of breath, fatigue, and chest pain with minimal exertion.
+- LVOT Gradient: Resting LVOT gradient of 70 mmHg.
+- Performance Status: Daily activities are significantly limited by his symptoms.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirms oHCM with significant septal hypertrophy and systolic anterior motion of the mitral valve.
+- Genetic Testing: Positive for a pathogenic mutation in the MYH7 gene.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has been on beta-blockers and calcium channel blockers with persistent symptoms.
+- Current Plan: Enrolled in a prospective registry to track his treatment with Mavacamten.

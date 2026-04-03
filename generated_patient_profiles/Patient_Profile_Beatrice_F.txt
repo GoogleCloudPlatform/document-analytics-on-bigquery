@@ -1,0 +1,21 @@
+PATIENT PROFILE: BEATRICE F.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Female
+- Place of Residency: Lyon, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High-risk Muscle Invasive Urothelial Carcinoma (MIUC).
+- Status: Post-cystectomy.
+
+3. SYMPToms & PHYSICAL STATUS
+- Symptoms: Recovering from surgery.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Pathology: High-risk features.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Starting adjuvant Nivolumab.

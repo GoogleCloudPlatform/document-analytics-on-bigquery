@@ -3,30 +3,27 @@ PATIENT PROFILE: ELEANOR VANCE
 1. DEMOGRAPHIC INFORMATION
 - Age: 58 years
 - Sex: Female
-- Place of Residency: Philadelphia, PA, USA
-- Employment Status: Retired (Supports functional assessment)
+- Place of Residency: United States (specifically, treated at the Hospital of The University of Pennsylvania)
+- Employment Status: Not specified, assumed active.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
-- Diagnosis Detail: Diagnosed with significant obstruction and symptoms of heart failure.
-- Cardiac Structure: Left ventricular wall hypertrophy confirmed via imaging.
+- Diagnosis Date: Prior to 3 months ago.
+- Initial Status (pre-mavacamten): NYHA Class III symptoms.
+- Initial Echocardiogram: Resting LVOT gradient of 68 mmHg, Valsalva-provoked gradient of 105 mmHg, LVEF of 64%.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Initial Symptoms (3 months ago): Progressive exertional dyspnea, fatigue, and NYHA Functional Class III symptoms.
-- Current Symptoms: Improved exertional capacity, NYHA Functional Class II.
-- Physical Status: Ambulatory, currently stable on therapy.
-- General Health: No participation in other clinical trials during the observation period.
+- Symptoms: Progressive exertional dyspnea and fatigue (initial presentation). After 3 months on mavacamten, improved to NYHA Class II.
+- Current NYHA Functional Class: II (improved from III).
+- Performance Status: Improved, but still experiencing some limitation with ordinary physical activity.
 
 4. LABORATORY RESULTS
-- Left Ventricular Ejection Fraction (LVEF):
-  - Baseline (3 months ago): 64%
-  - Current: 62%
-- Left Ventricular Outflow Tract (LVOT) Gradient:
-  - Baseline Resting Gradient: 68 mmHg
-  - Baseline Valsalva-Provoked Gradient: 105 mmHg
-  - Current Resting Gradient: 25 mmHg
-- Hemodynamics: Significant reduction in outflow tract obstruction following therapy initiation.
+- Echocardiogram (after 3 months on mavacamten):
+  - Resting LVOT gradient: 25 mmHg (improved from 68 mmHg)
+  - LVEF: 62%
+- Other Lab Results: Assumed within normal limits for study eligibility.
 
 5. TREATMENT HISTORY
-- Prior Therapy: Beta-blockers or calcium channel blockers used prior to escalation.
-- Current Plan: Initiated Mavacamten 3 months ago at a tertiary care center (Hospital of the University of Pennsylvania). Has completed more than 12 weeks of follow-up on the medication. Treatment is ongoing as part of routine clinical care.
+- Prior Therapy: Not specified, but likely conventional oHCM management (e.g., beta-blockers, calcium channel blockers) before mavacamten.
+- Current Therapy: Mavacamten initiated three months ago.
+- Follow-up: Completed over 12 weeks of follow-up on mavacamten.

@@ -1,0 +1,22 @@
+PATIENT PROFILE: SARAH H.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Female
+- Place of Residency: Philadelphia, PA, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HR+/HER2- Early Breast Cancer (Node-positive).
+- Risk: High risk of recurrence.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Status: Post-surgery.
+- Performance Status: ECOG 0.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed HR+/HER2- EBC.
+- Nodal Status: Positive.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Surgery and (neo)adjuvant chemotherapy.
+- Current Plan: Starting adjuvant Ribociclib (Kisqali).

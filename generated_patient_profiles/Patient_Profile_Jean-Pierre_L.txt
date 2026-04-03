@@ -1,0 +1,26 @@
+PATIENT PROFILE: JEAN-PIERRE L.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 67 years
+- Sex: Male
+- Place of Residency: Lyon, France
+- Employment Status: Retired.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC)
+- Surgical History: Recently underwent radical cystectomy with pelvic lymph node dissection.
+- Pathological Stage: pT3 N0 M0, indicating a high risk of recurrence.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Recovering from surgery. No evidence of metastatic disease.
+- Performance Status: ECOG 1 (Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature).
+- Urological Status: Has a urostomy.
+
+4. LABORATORY RESULTS
+- Renal Function: Creatinine and eGFR are being monitored post-surgery and are stable.
+- Tumor Markers: No specific tumor markers are routinely used for surveillance in this setting.
+- Imaging: Post-operative CT scans show no evidence of residual or metastatic disease.
+
+5. TREATMENT HISTORY
+- Prior Therapy: No prior systemic therapy for bladder cancer.
+- Current Plan: Scheduled to begin adjuvant therapy with Nivolumab to reduce the risk of disease recurrence.

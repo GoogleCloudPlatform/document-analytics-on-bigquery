@@ -1,0 +1,22 @@
+PATIENT PROFILE: IVAN P.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 49 years
+- Sex: Male
+- Place of Residency: Warsaw, Poland
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG).
+- Antibody Status: Positive for anti-acetylcholine receptor (AChR) antibodies.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Significant muscle weakness, including ptosis, diplopia, and difficulty swallowing.
+- Disease Severity: Myasthenia Gravis-Activities of Daily Living (MG-ADL) score of 9.
+
+4. LABORATORY RESULTS
+- Serology: Confirmed anti-AChR antibody positive.
+- Electromyography (EMG): Shows a decremental response, confirming neuromuscular junction dysfunction.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to cholinesterase inhibitors and corticosteroids.
+- Current Plan: Switched to Ravulizumab for long-acting C5 complement inhibition.

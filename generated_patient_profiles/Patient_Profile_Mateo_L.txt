@@ -1,0 +1,23 @@
+PATIENT PROFILE: MATEO L.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 8 years
+- Sex: Male
+- Place of Residency: São Paulo, Brazil
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Atopic Dermatitis.
+- Disease Severity: Eczema Area and Severity Index (EASI) score of 24.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Widespread, intensely itchy, and inflamed skin.
+- Impact: Sleep disturbance and difficulty concentrating in school due to itching.
+- Prior Treatment: Has failed to achieve adequate control with topical corticosteroids and calcineurin inhibitors.
+
+4. LABORATORY RESULTS
+- Eosinophil Count: Elevated peripheral blood eosinophils.
+- IgE Level: High total serum IgE.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to high-potency topical therapies.
+- Current Plan: Starting treatment with Dupilumab (Dupixent), a monoclonal antibody that inhibits IL-4 and IL-13 signaling.

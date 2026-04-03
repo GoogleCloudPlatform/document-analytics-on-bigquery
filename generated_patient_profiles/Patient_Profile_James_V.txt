@@ -1,0 +1,25 @@
+PATIENT PROFILE: JAMES V.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Male
+- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Smoking History: Long-term smoker, recently quit.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Disease Stage: Stage IV.
+- Histology: Adenocarcinoma.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent cough, mild dyspnea, and weight loss.
+- Performance Status: ECOG 1 (Ambulatory and able to perform light work).
+- Metastatic Sites: Metastases to bone and liver.
+
+4. LABORATORY RESULTS
+- Tumor Biopsy: Confirmed adenocarcinoma. PD-L1 expression < 1%. No sensitizing EGFR mutations, ALK rearrangements, or ROS1 fusions.
+- Blood Work: Routine blood work within acceptable limits for therapy.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for metastatic NSCLC.
+- Current Plan: Initiating first-line treatment with dual immunotherapy (Nivolumab and Ipilimumab) in combination with two cycles of platinum-doublet chemotherapy.

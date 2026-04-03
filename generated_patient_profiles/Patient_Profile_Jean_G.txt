@@ -1,0 +1,21 @@
+PATIENT PROFILE: JEAN G.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 29 years
+- Sex: Male
+- Place of Residency: Chicago, IL, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia.
+- Status: Acute psychosis flare.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hallucinations and delusions.
+- Functionality: Impaired.
+
+4. LABORATORY RESULTS
+- N/A
+
+5. TREATMENT HISTORY
+- Prior Therapy: Limited success with other antipsychotics.
+- Current Plan: Starting KarXT (Xanomeline-Trospium).

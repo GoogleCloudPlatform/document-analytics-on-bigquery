@@ -3,31 +3,29 @@ PATIENT PROFILE: MARIA ROSSI
 1. DEMOGRAPHIC INFORMATION
 - Age: 62 years
 - Sex: Female
-- Place of Residency: Europe
-- Employment Status: Retired (Supports functional status assessment)
+- Place of Residency: Rome, Italy
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
-- Diagnosis Duration: 5 years
-- Clinical Presentation: Consistent with ESC/AHA/ACC guidelines; characterized by asymmetric septal hypertrophy.
-- Cardiac Structure: Interventricular septum thickness of 17 mm.
-- Hemodynamics: Peak resting Left Ventricular Outflow Tract (LVOT) gradient of 58 mmHg at diagnosis.
-- Phenocopy Status: Negative for Fabry disease and amyloidosis. No LV hypertrophy associated with hypertension.
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Diagnosis Date: 5 years prior
+- Key Diagnostic Features: Interventricular septum thickness of 17 mm, peak resting LVOT gradient of 58 mmHg at diagnosis.
+- Comorbidities: None reported.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent shortness of breath (exertional dyspnea) and chest discomfort with moderate exertion.
-- Functional Class: NYHA Functional Class III.
-- Physical Status: Ambulatory but limited by cardiac symptoms. No history of syncope or significant arrhythmias in the last 6 months.
-- Performance Status: Able to perform activities of daily living with limitations.
+- Symptoms: Persistent shortness of breath and chest discomfort with moderate exertion.
+- NYHA Functional Class: Class III
+- Performance Status: Restricted in physically strenuous activity but ambulatory and able to carry out all self-care.
 
 4. LABORATORY RESULTS
-- Left Ventricular Ejection Fraction (LVEF): 62% (Preserved, documented within the last 3 months).
-- Wall Thickness: 17 mm (Consistent with oHCM diagnosis).
-- LVOT Gradient: Peak resting gradient of 55 mmHg (Most recent echocardiogram).
-- Valvular Function: No evidence of aortic valve stenosis or other fixed obstructions.
-- Renal Function: Normal (Creatinine and eGFR within acceptable limits).
+- Echocardiogram (within last 3 months):
+  - Left Ventricular Ejection Fraction (LVEF): 62%
+  - LV wall thickness: 17 mm
+  - Peak resting Left Ventricular Outflow Tract (LVOT) gradient: 55 mmHg
+- Electrocardiogram (ECG): Shows left ventricular hypertrophy.
+- Complete Blood Count (CBC): Within normal limits.
+- Comprehensive Metabolic Panel (CMP): Within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: Managed on Metoprolol (beta-blocker) at optimized doses for 4 years with inadequate symptomatic control.
-- Surgical History: No history of invasive septal reduction procedures (surgical myectomy or alcohol septal ablation) within the last 6 months.
-- Current Plan: Initiating Mavacamten therapy as part of routine clinical care for symptomatic obstructive HCM following the failure of prior beta-blocker therapy. Patients will be monitored via regular echocardiograms for LVEF and LVOT gradient response.
+- Prior Therapy: Managed on metoprolol for the past 4 years with continuing symptoms.
+- Current Plan: Scheduled to initiate treatment with mavacamten to manage ongoing symptoms.

@@ -1,0 +1,22 @@
+PATIENT PROFILE: DAVID L.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 52 years
+- Sex: Male
+- Place of Residency: USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Multi-drug resistant Gram-negative infection.
+- Source: Hospital Acquired Pneumonia (HAP).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fever, cough, and hypoxemia.
+- Microbiology: Suspected MDR Pseudomonas.
+
+4. LABORATORY RESULTS
+- Cultures: Pending.
+- Inflammatory markers: Elevated.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None for this infection.
+- Current Plan: Treated with Ceftazidime-Avibactam.

@@ -1,0 +1,22 @@
+PATIENT PROFILE: OLIVER K.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 80 years
+- Sex: Male
+- Place of Residency: Manchester, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Wild-Type ATTR-CM.
+- Symptoms: Heart failure symptoms.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dyspnea, edema.
+- NYHA Class: II.
+
+4. LABORATORY RESULTS
+- PYP Scan: Positive.
+- Genetic Testing: Negative.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Diuretics.
+- Current Plan: Starting Tafamidis.

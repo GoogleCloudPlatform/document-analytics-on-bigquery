@@ -1,0 +1,22 @@
+PATIENT PROFILE: SOPHIA K.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 32 years
+- Sex: Female
+- Place of Residency: Munich, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Disease History: Diagnosed 2 years ago.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Relapses with sensory symptoms.
+- Disease Activity: Active disease on MRI.
+
+4. LABORATORY RESULTS
+- MRI: New T2 lesions.
+- CSF: Oligoclonal bands.
+
+5. TREATMENT HISTORY
+- Prior Therapy: First-line injectable therapy.
+- Current Plan: Switched to Ozanimod (Zeposia) for better disease control.

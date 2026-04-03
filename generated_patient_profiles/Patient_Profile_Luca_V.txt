@@ -1,0 +1,22 @@
+PATIENT PROFILE: LUCA V.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 43 years
+- Sex: Male
+- Place of Residency: Naples, Italy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Psoriatic Arthritis (PsA).
+- Disease Activity: Active PsA with axial involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Inflammatory back pain, and peripheral arthritis.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- CRP: Elevated.
+- HLA-B27: May be positive.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to NSAIDs and methotrexate.
+- Current Plan: Starting Guselkumab (Tremfya).

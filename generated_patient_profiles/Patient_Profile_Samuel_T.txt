@@ -1,0 +1,23 @@
+PATIENT PROFILE: SAMUEL T.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Male
+- Place of Residency: [To be inferred or randomized, e.g., United States]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Complicated Urinary Tract Infection (cUTI).
+- History: History of recurrent UTIs, suggesting an underlying urological issue.
+- Microbiology: Urine culture positive for a Carbapenem-Resistant Enterobacteriaceae (CRE).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fever, chills, flank pain, and dysuria.
+- Hospitalization: Hospitalized for intravenous antibiotic therapy.
+
+4. LABORATORY RESULTS
+- Urine Analysis: Shows pyuria and bacteriuria.
+- Susceptibility Testing: The cultured organism is resistant to multiple classes of antibiotics, including carbapenems.
+
+5. TREATMENT HISTORY
+- Prior Antibiotics: Has received several courses of different antibiotics for his recurrent UTIs.
+- Current Plan: Being treated with Ceftazidime-Avibactam, an antibiotic combination effective against many CRE.

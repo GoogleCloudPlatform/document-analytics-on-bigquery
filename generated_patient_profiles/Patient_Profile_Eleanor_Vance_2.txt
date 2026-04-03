@@ -1,0 +1,24 @@
+PATIENT PROFILE: ELEANOR VANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 72 years
+- Sex: Female
+- Place of Residency: US
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Diagnosis Date: Five years prior
+- Disease Status: Progressively worsened symptoms.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Significant exertional dyspnea and fatigue, severely impacting quality of life. NYHA Class III symptoms.
+- Performance Status: Impaired due to severe symptoms.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Resting Left Ventricular Outflow Tract (LVOT) gradient of 75 mmHg, Left Ventricular Ejection Fraction (LVEF) of 60%.
+- Other Lab Results: Assumed within normal limits; no contraindications for mavacamten.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard medical therapies (beta-blockers and calcium channel blockers) without adequate symptom control.
+- Current Plan: Initiating mavacamten therapy.
