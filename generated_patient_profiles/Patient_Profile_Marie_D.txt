@@ -20,4 +20,3 @@ PATIENT PROFILE: MARIE D.
 5. TREATMENT HISTORY
 - Prior Therapy: Has a history of psoriasis, but this is her first severe GPP flare.
 - Current Plan: Admitted to the hospital and starting treatment with Spesolimab, a monoclonal antibody that targets the IL-36 receptor.
-- Rationale: As a French patient with a rare and severe form of psoriasis (GPP) who is receiving targeted IL-36 receptor inhibition, her case is being followed in the NCT06684531 observational study in France.

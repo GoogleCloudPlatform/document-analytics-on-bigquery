@@ -19,4 +19,3 @@ PATIENT PROFILE: MARTA D.
 5. TREATMENT HISTORY
 - Prior Therapy: None.
 - Current Plan: Starting neoadjuvant Nivolumab + Relatlimab prior to surgery.
-- Rationale: A Polish patient in a neoadjuvant immunotherapy cohort is a candidate for the NCT07091695 real-world outcomes study.

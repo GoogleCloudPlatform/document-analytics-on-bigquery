@@ -20,4 +20,3 @@ PATIENT PROFILE: SOPHIE M.
 5. TREATMENT HISTORY
 - Prior Therapy: Was on a first-line injectable MS therapy.
 - Current Plan: Recently switched to Ozanimod (Zeposia).
-- Rationale: An RRMS patient on Ozanimod is a candidate for the NCT05335031 Quality of Life study.

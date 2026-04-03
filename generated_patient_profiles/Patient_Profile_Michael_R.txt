@@ -19,4 +19,3 @@ PATIENT PROFILE: MICHAEL R.
 5. TREATMENT HISTORY
 - Prior Therapy: Previous antipsychotics.
 - Current Plan: Starting therapy with KarXT (Xanomeline-Trospium).
-- Rationale: An adult with schizophrenia initiating KarXT in a real-world US setting is a candidate for the NCT07101094 utilization registry.

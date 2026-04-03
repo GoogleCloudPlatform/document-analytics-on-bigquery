@@ -21,4 +21,3 @@ PATIENT PROFILE: KLAUS S.
 5. TREATMENT HISTORY
 - Prior Therapy: Has tried various topical treatments, including corticosteroids and vitamin D analogues, with limited success.
 - Current Plan: Starting oral therapy with Deucravacitinib, a selective TYK2 inhibitor.
-- Rationale: As a German resident with moderate-to-severe plaque psoriasis who is initiating treatment with Deucravacitinib, he is an ideal candidate for the post-marketing study NCT06104644, which is evaluating the drug's effectiveness in a real-world setting in Germany.

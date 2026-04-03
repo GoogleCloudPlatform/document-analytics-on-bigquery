@@ -20,4 +20,3 @@ PATIENT PROFILE: ELENA M.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to conventional therapies.
 - Current Plan: Starting Ozanimod (Zeposia).
-- Rationale: An Italian UC patient on Ozanimod therapy is a candidate for the NCT05382715 utilization and quality of life study.

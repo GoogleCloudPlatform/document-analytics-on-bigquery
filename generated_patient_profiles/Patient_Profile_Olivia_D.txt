@@ -20,4 +20,3 @@ PATIENT PROFILE: OLIVIA D.
 5. TREATMENT HISTORY
 - Prior Therapy: Diuretics.
 - Current Plan: Starting Tafamidis.
-- Rationale: A UK-based ATTR-CM patient on Tafamidis is a candidate for the NCT06214582 registry.

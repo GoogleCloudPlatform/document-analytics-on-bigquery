@@ -21,4 +21,3 @@ PATIENT PROFILE: LIU W.
 5. TREATMENT HISTORY
 - Prior Antibiotics: Was not on antibiotics prior to the onset of HAP.
 - Current Plan: Started empiric treatment with Ceftazidime-Avibactam, a beta-lactam/beta-lactamase inhibitor combination, to cover for suspected resistant pathogens.
-- Rationale: A Chinese patient in a tertiary hospital who develops HAP and is treated with Ceftazidime-Avibactam is a key subject for the NCT05487586 study, which is evaluating the use of this antibiotic for serious infections in China.

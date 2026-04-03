@@ -19,4 +19,3 @@ PATIENT PROFILE: MAREK P.
 5. TREATMENT HISTORY
 - Prior Therapy: None.
 - Current Plan: Undergoing Neoadjuvant Nivolumab + Relatlimab prior to surgery.
-- Rationale: A Polish patient receiving a specific neoadjuvant dual-immunotherapy combination is a candidate for the NCT07091695 real-world outcomes study.

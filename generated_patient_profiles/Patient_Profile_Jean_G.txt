@@ -19,4 +19,3 @@ PATIENT PROFILE: JEAN G.
 5. TREATMENT HISTORY
 - Prior Therapy: Limited success with other antipsychotics.
 - Current Plan: Starting KarXT (Xanomeline-Trospium).
-- Rationale: An adult with schizophrenia initiating KarXT in the US is a candidate for the NCT07101094 utilization registry.

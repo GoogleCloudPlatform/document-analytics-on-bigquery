@@ -20,4 +20,3 @@ PATIENT PROFILE: MIN-JAE K.
 5. TREATMENT HISTORY
 - Prior Therapy: IMiD, PI, and anti-CD38 antibody.
 - Current Plan: Starting Elranatamab.
-- Rationale: Korean patient with triple-class refractory myeloma, eligible for post-marketing surveillance study NCT06581848.

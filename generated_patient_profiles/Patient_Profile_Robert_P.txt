@@ -21,4 +21,3 @@ PATIENT PROFILE: ROBERT P.
 5. TREATMENT HISTORY
 - Prior Therapy: High-dose ICS/LABA.
 - Current Plan: Initiating Tezepelumab (Tezspire).
-- Rationale: A US patient with asthma and cardiovascular risk factors starting Tezepelumab is a candidate for the NCT06951867 PASS study.

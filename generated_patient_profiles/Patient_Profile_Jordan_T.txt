@@ -19,4 +19,3 @@ PATIENT PROFILE: JORDAN T.
 5. TREATMENT HISTORY
 - Prior Therapy: Failed topical steroids.
 - Current Plan: Starting Ritlecitinib (Litfulo).
-- Rationale: A US adult starting Ritlecitinib for severe alopecia is a candidate for the NCT07226531 study.

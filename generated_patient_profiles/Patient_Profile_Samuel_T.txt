@@ -21,4 +21,3 @@ PATIENT PROFILE: SAMUEL T.
 5. TREATMENT HISTORY
 - Prior Antibiotics: Has received several courses of different antibiotics for his recurrent UTIs.
 - Current Plan: Being treated with Ceftazidime-Avibactam, an antibiotic combination effective against many CRE.
-- Rationale: A patient with a cUTI caused by a multi-drug resistant organism like CRE, requiring treatment with an advanced antibiotic such as Ceftazidime-Avibactam, is a key subject for an observational study like NCT05487586 that tracks outcomes of serious bacterial infections.

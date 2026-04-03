@@ -19,4 +19,3 @@ PATIENT PROFILE: MARIE L.
 5. TREATMENT HISTORY
 - Prior Therapy: None.
 - Current Plan: Starting adjuvant Nivolumab.
-- Rationale: A French patient receiving adjuvant immunotherapy for bladder cancer is a candidate for the NCT06421311 study.

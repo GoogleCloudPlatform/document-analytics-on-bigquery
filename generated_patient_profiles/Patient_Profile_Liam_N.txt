@@ -20,4 +20,3 @@ PATIENT PROFILE: LIAM N.
 5. TREATMENT HISTORY
 - Cardiac Care: Has undergone cardiac monitoring and may have had surgical or catheter-based interventions.
 - Current Plan: Receiving Palivizumab for RSV prophylaxis.
-- Rationale: An infant with hemodynamically significant congenital heart disease is at high risk for severe RSV and is a candidate for prophylaxis with Palivizumab, fitting the criteria for the NCT06851806 study.

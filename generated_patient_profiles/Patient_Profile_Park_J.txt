@@ -20,4 +20,3 @@ PATIENT PROFILE: PARK J.
 5. TREATMENT HISTORY
 - Prior Therapies: Has received multiple lines of therapy, including bortezomib, lenalidomide, and daratumumab.
 - Current Plan: Starting treatment with Elranatamab (ELREXFIO), a bispecific antibody targeting BCMA and CD3.
-- Rationale: This patient is a Korean resident with heavily pre-treated, triple-class refractory multiple myeloma. His initiation of Elranatamab in a post-approval setting makes his case relevant for the post-marketing surveillance study NCT06581848 in South Korea.

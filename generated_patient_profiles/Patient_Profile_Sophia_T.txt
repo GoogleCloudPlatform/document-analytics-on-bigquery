@@ -20,4 +20,3 @@ PATIENT PROFILE: SOPHIA T.
 5. TREATMENT HISTORY
 - Prior Therapy: None for advanced disease.
 - Current Plan: Starting first-line dual therapy with Nivolumab and Relatlimab.
-- Rationale: A UK patient receiving the specific dual-immunotherapy combination is a candidate for the NCT07091695 real-world outcomes study.

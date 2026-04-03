@@ -21,4 +21,3 @@ PATIENT PROFILE: MATEO L.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to high-potency topical therapies.
 - Current Plan: Starting treatment with Dupilumab (Dupixent), a monoclonal antibody that inhibits IL-4 and IL-13 signaling.
-- Rationale: This patient meets the age (6–11 years), regional (Brazil), and disease severity criteria for the NCT06385431 pediatric registry for Dupilumab in Latin America.

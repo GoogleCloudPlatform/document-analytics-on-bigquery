@@ -20,4 +20,3 @@ PATIENT PROFILE: CHLOE L.
 5. TREATMENT HISTORY
 - Prior Therapy: None.
 - Current Plan: Starting adjuvant Nivolumab.
-- Rationale: A French post-op patient receiving adjuvant immunotherapy for high-risk MIUC is a candidate for the NCT06421311 study.

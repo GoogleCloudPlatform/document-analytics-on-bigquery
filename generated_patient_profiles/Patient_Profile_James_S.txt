@@ -20,4 +20,3 @@ PATIENT PROFILE: JAMES S.
 5. TREATMENT HISTORY
 - Prior Therapy: ESAs.
 - Current Plan: Transitioning to Luspatercept therapy.
-- Rationale: An MDS patient in North America transitioning to Luspatercept therapy is a candidate for the NCT07075406 outcomes study.

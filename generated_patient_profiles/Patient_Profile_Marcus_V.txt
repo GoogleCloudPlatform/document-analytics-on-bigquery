@@ -20,4 +20,3 @@ PATIENT PROFILE: MARCUS V.
 5. TREATMENT HISTORY
 - Prior Therapy: Treated with hydroxyurea, but failed to achieve adequate control of his hematocrit and symptoms.
 - Current Plan: Accessing Ruxolitinib, a JAK1/2 inhibitor, through a Managed Access Program (MAP) to control his disease.
-- Rationale: This patient is hydroxyurea-resistant or intolerant, which are the main criteria for second-line therapy in PV. His need for Ruxolitinib makes him eligible for the NCT05269771 Managed Access Program.

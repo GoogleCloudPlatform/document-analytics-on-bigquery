@@ -20,4 +20,3 @@ PATIENT PROFILE: SOFIA G.
 5. TREATMENT HISTORY
 - Prior Therapy: Topical steroids.
 - Current Plan: Starting Dupilumab (Dupixent).
-- Rationale: A pediatric patient in the specified age range (6–11) in Latin America starting Dupilumab is a candidate for the NCT06385431 pediatric registry.

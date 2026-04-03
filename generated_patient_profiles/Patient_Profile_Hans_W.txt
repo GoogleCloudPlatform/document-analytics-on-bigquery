@@ -19,4 +19,3 @@ PATIENT PROFILE: HANS W.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to standard therapies.
 - Current Plan: Starting Ravulizumab.
-- Rationale: A German gMG patient on Ravulizumab therapy is a candidate for the NCT06909253 outcomes study.

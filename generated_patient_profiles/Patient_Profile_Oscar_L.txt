@@ -20,4 +20,3 @@ PATIENT PROFILE: OSCAR L.
 5. TREATMENT HISTORY
 - Prior Therapy: None.
 - Current Plan: Undergoing neoadjuvant Nivolumab + Chemotherapy.
-- Rationale: A patient with resectable NSCLC in a neoadjuvant setting is a candidate for the NCT07141563 real-world effectiveness study.

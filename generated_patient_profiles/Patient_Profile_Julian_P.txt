@@ -22,4 +22,3 @@ PATIENT PROFILE: JULIAN P.
 5. TREATMENT HISTORY
 - Prior Therapy: Has received FOLFOX or FOLFIRI based chemotherapy.
 - Current Plan: Starting therapy with Adagrasib, a targeted inhibitor of KRAS G12C, through an expanded access program.
-- Rationale: This patient has the specific KRAS G12C biomarker in his tumor and has progressed on standard chemotherapy, making him a candidate for the NCT05162443 Expanded Access Program for Adagrasib.

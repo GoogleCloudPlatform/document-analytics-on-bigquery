@@ -19,4 +19,3 @@ PATIENT PROFILE: ANNA S.
 5. TREATMENT HISTORY
 - Prior Therapy: Treated with Ipilimumab.
 - Current Plan: Long-term follow-up.
-- Rationale: A Dutch pediatric patient with melanoma in the DMTR registry is a candidate for the NCT04196452 study.

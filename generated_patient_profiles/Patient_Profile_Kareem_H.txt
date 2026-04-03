@@ -20,4 +20,3 @@ PATIENT PROFILE: KAREEM H.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to ESAs.
 - Current Plan: Starting Luspatercept.
-- Rationale: An MDS patient in the MENA region on Luspatercept is a candidate for the NCT07075406 outcomes study.

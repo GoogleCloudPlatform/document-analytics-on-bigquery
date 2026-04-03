@@ -20,4 +20,3 @@ PATIENT PROFILE: BENJAMIN G.
 5. TREATMENT HISTORY
 - Prior Prophylaxis: Received Palivizumab during his first RSV season.
 - Current Plan: Continuing Palivizumab prophylaxis.
-- Rationale: Qualifies for continued Palivizumab prophylaxis due to his high-risk cardiac status, fitting the criteria for the NCT06851806 study.

@@ -24,4 +24,3 @@ PATIENT PROFILE: JEAN-PIERRE L.
 5. TREATMENT HISTORY
 - Prior Therapy: No prior systemic therapy for bladder cancer.
 - Current Plan: Scheduled to begin adjuvant therapy with Nivolumab to reduce the risk of disease recurrence.
-- Rationale: This patient is a post-operative MIUC patient in France with high-risk pathology, and is starting adjuvant Nivolumab as part of standard observational care, which aligns with the NCT06421311 study.

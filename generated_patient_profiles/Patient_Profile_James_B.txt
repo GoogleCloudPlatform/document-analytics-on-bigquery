@@ -21,4 +21,3 @@ PATIENT PROFILE: JAMES B.
 5. TREATMENT HISTORY
 - Prior NHL Therapy: Received Idecabtagene Vicleucel (Ide-cel), a CAR-T therapy targeting BCMA, 18 months ago for his relapsed NHL.
 - Current Plan: The squamous cell carcinoma will be treated with simple excision. He is also being enrolled in a long-term follow-up study for patients who have received gene-modified cell therapies.
-- Rationale: As a recipient of a gene-modified cell therapy (Ide-cel) who has subsequently developed a second primary malignancy, James B. is eligible for the NCT06357754 study, which is conducting transgene assays to assess the safety of these advanced therapies.

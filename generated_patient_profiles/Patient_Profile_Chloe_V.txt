@@ -19,4 +19,3 @@ PATIENT PROFILE: CHLOE V.
 5. TREATMENT HISTORY
 - Prior Biologic: Lost response to Adalimumab.
 - Current Plan: Starting treatment with Risankizumab (Skyrizi).
-- Rationale: A bio-experienced Crohn's disease patient starting Risankizumab in a clinical setting is a candidate for the NCT06894521 outcomes study.

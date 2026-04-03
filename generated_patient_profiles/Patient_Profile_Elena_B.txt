@@ -20,4 +20,3 @@ PATIENT PROFILE: ELENA B.
 5. TREATMENT HISTORY
 - Prior Therapy: Surgery and chemotherapy.
 - Current Plan: Starting adjuvant Ribociclib (Kisqali).
-- Rationale: A European high-risk EBC patient receiving adjuvant Kisqali is a candidate for the NCT06830720 study.

@@ -21,4 +21,3 @@ PATIENT PROFILE: CHLOE J.
 5. TREATMENT HISTORY
 - Prior Therapy: Has been treated with oral and rectal mesalamine (a 5-ASA agent) with an inadequate clinical response.
 - Current Plan: Starting treatment with Ozanimod (Zeposia), an oral S1P receptor modulator.
-- Rationale: A patient with moderately active UC who has failed conventional therapy and is starting Ozanimod is a perfect fit for study NCT05382715, which assesses the real-world utilization, effectiveness, and quality of life outcomes of this therapy.

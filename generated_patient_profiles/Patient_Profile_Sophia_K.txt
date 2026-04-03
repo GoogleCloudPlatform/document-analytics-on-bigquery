@@ -20,4 +20,3 @@ PATIENT PROFILE: SOPHIA K.
 5. TREATMENT HISTORY
 - Prior Therapy: First-line injectable therapy.
 - Current Plan: Switched to Ozanimod (Zeposia) for better disease control.
-- Rationale: A German RRMS patient on Ozanimod therapy is a candidate for the NCT05335031 Quality of Life study.

@@ -20,4 +20,3 @@ PATIENT PROFILE: SOFIA P.
 5. TREATMENT HISTORY
 - Standard Care: Regular blood transfusions and iron chelation.
 - Current Plan: On Luspatercept to reduce iron load.
-- Rationale: A Taiwanese thalassemia patient on Luspatercept is a candidate for the NCT06596642 study.

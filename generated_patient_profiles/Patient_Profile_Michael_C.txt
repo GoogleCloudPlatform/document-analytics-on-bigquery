@@ -24,4 +24,3 @@ PATIENT PROFILE: MICHAEL C.
 5. TREATMENT HISTORY
 - Prior Therapy: Has received and exhausted standard-of-care chemotherapy regimens for mCRC, including FOLFOX and FOLFIRI.
 - Current Plan: Seeking treatment with Adagrasib, a targeted KRAS G12C inhibitor, through an expanded access program.
-- Rationale: Patient has an advanced solid tumor with a confirmed KRAS G12C mutation and has exhausted all available standard treatment options, making him eligible for expanded access to Adagrasib under trial NCT05162443.

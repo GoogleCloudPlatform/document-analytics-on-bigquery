@@ -20,4 +20,3 @@ PATIENT PROFILE: SAMUEL K.
 5. TREATMENT HISTORY
 - Prior Therapy: History of recurrent UTIs.
 - Current Plan: Treated with Ceftazidime-Avibactam.
-- Rationale: A patient with a resistant infection requiring advanced antibiotic therapy is a candidate for the NCT05487586 study.

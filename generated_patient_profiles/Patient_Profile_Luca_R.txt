@@ -20,4 +20,3 @@ PATIENT PROFILE: LUCA R.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to methotrexate.
 - Current Plan: Starting Guselkumab (Tremfya).
-- Rationale: An Italian PsA patient initiating Guselkumab therapy is a candidate for the NCT05987412 utilization study in Italy.

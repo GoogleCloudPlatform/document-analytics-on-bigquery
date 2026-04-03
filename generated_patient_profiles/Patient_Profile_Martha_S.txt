@@ -24,4 +24,3 @@ PATIENT PROFILE: MARTHA S.
 5. TREATMENT HISTORY
 - Prior Therapy: Previously treated with Erythropoiesis-Stimulating Agents (ESAs) with an inadequate response.
 - Current Plan: Initiated treatment with Luspatercept to improve erythropoiesis and reduce transfusion dependence.
-- Rationale: The patient fits the profile for the NCT07075406 trial, which is observing real-world outcomes for lower-risk MDS patients who are transfusion-dependent and being treated with Luspatercept.

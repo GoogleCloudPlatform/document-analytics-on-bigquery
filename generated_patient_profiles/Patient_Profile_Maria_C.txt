@@ -20,4 +20,3 @@ PATIENT PROFILE: MARIA C.
 5. TREATMENT HISTORY
 - Prior Therapy: Was on a LAMA/LABA combination inhaler.
 - Current Plan: Started on BGF triple therapy (Budesonide/Glycopyrronium/Formoterol).
-- Rationale: An Italian patient on routine care with triple therapy for COPD management is a candidate for the NCT06712563 pooled analysis study.

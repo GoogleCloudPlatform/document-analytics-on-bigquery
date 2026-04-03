@@ -19,4 +19,3 @@ PATIENT PROFILE: BEATRICE R.
 5. TREATMENT HISTORY
 - Prior Therapy: Surgery.
 - Current Plan: Post-operative Nivolumab adjuvant therapy.
-- Rationale: A French MIUC patient on adjuvant immunotherapy is a candidate for the NCT06421311 study.

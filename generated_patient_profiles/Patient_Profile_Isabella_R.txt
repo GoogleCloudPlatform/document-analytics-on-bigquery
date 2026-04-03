@@ -23,4 +23,3 @@ PATIENT PROFILE: ISABELLA R.
 5. TREATMENT HISTORY
 - Prior Therapy: Was on a stable dose of Mavacamten for 6 months for symptomatic oHCM.
 - Current Plan: Mavacamten has been discontinued upon confirmation of pregnancy. The patient will be closely monitored by a cardio-obstetrics team throughout her pregnancy. Enrolled in a pregnancy surveillance study to monitor maternal and fetal outcomes.
-- Rationale: The patient became pregnant while on Mavacamten, making her eligible for the NCT05939700 pregnancy surveillance study, which collects safety data on exposure to the drug during pregnancy.

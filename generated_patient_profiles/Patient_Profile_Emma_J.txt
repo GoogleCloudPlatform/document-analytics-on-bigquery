@@ -20,4 +20,3 @@ PATIENT PROFILE: EMMA J.
 5. TREATMENT HISTORY
 - Prior Therapy: None.
 - Current Plan: Receiving Palivizumab prophylaxis.
-- Rationale: A UK premature infant meeting RSV prophylaxis criteria is a candidate for the NCT06851806 study.

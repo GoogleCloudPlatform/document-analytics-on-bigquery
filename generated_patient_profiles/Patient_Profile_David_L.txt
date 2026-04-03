@@ -20,4 +20,3 @@ PATIENT PROFILE: DAVID L.
 5. TREATMENT HISTORY
 - Prior Therapy: None for this infection.
 - Current Plan: Treated with Ceftazidime-Avibactam.
-- Rationale: A US patient with a serious bacterial infection on advanced antibiotics is a candidate for the NCT05487586 study.

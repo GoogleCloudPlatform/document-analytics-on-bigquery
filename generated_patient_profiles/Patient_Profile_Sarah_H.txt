@@ -20,4 +20,3 @@ PATIENT PROFILE: SARAH H.
 5. TREATMENT HISTORY
 - Prior Therapy: Surgery and (neo)adjuvant chemotherapy.
 - Current Plan: Starting adjuvant Ribociclib (Kisqali).
-- Rationale: A US patient receiving Kisqali in an adjuvant setting for EBC is a candidate for the NCT06830720 study.

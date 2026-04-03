@@ -19,4 +19,3 @@ PATIENT PROFILE: THOMAS W.
 5. TREATMENT HISTORY
 - Prior Therapy: Topical treatments.
 - Current Plan: Starting Deucravacitinib.
-- Rationale: German resident with moderate-to-severe psoriasis initiating a TYK2 inhibitor, fitting the criteria for the NCT06104644 post-marketing study.

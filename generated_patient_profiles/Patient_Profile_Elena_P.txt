@@ -20,4 +20,3 @@ PATIENT PROFILE: ELENA P.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to beta-blockers.
 - Current Plan: Initiating Mavacamten (Camzyos).
-- Rationale: A patient with a confirmed oHCM diagnosis who is starting therapy with Mavacamten is a candidate for the NCT07168655 observational study.

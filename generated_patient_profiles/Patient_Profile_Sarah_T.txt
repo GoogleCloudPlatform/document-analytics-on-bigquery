@@ -20,4 +20,3 @@ PATIENT PROFILE: SARAH T.
 5. TREATMENT HISTORY
 - Prior Therapy: On a high-dose inhaled corticosteroid and long-acting beta-agonist (ICS/LABA) with continued symptoms.
 - Current Plan: Starting treatment with Tezepelumab.
-- Rationale: A US patient with severe eosinophilic asthma who is initiating Tezepelumab is eligible for long-term cardiac safety monitoring under the NCT06951867 Post-Authorization Safety Study (PASS).

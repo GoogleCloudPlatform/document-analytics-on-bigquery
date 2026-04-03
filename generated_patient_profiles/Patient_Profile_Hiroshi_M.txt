@@ -20,4 +20,3 @@ PATIENT PROFILE: HIROSHI M.
 5. TREATMENT HISTORY
 - Prior Therapy: Eculizumab.
 - Current Plan: Switching to Ravulizumab for an every-8-week dosing schedule.
-- Rationale: A PNH patient in Japan transitioning to Ravulizumab for disease management is a candidate for the NCT06633536 outcomes study.

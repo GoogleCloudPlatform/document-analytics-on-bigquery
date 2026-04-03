@@ -20,4 +20,3 @@ PATIENT PROFILE: SARAH L.
 5. TREATMENT HISTORY
 - Neoadjuvant Therapy: Received standard chemoradiotherapy.
 - Adjuvant Therapy: Due to the residual disease found at surgery, she is a candidate for adjuvant Nivolumab.
-- Rationale: Her clinical history meets the criteria for the retrospective study NCT06499298, which evaluates the outcomes of patients who received adjuvant Nivolumab in this setting.

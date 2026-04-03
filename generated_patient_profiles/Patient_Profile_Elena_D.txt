@@ -19,4 +19,3 @@ PATIENT PROFILE: ELENA D.
 5. TREATMENT HISTORY
 - Prior Therapy: Platinum-based chemotherapy.
 - Current Plan: Starting Dostarlimab.
-- Rationale: An advanced dMMR endometrial cancer patient on Dostarlimab is a candidate for the NCT06859736 study.

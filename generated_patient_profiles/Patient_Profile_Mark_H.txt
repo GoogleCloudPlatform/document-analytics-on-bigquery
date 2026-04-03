@@ -18,4 +18,3 @@ PATIENT PROFILE: MARK H.
 
 5. TREATMENT HISTORY
 - First-Line Therapy: Was treated with the combination of Nivolumab and Relatlimab for his advanced melanoma.
-- Rationale: An electronic record of a patient who has received this specific drug combination for advanced melanoma is a key data point for the NCT07079644 real-world database outcomes study.

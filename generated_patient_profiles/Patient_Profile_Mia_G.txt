@@ -19,4 +19,3 @@ PATIENT PROFILE: MIA G.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to conventional DMARDs.
 - Current Plan: Starting Guselkumab (Tremfya).
-- Rationale: An Italian PsA patient initiating Guselkumab is a candidate for the NCT05987412 utilization study.

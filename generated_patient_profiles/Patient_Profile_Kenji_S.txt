@@ -20,4 +20,3 @@ PATIENT PROFILE: KENJI S.
 5. TREATMENT HISTORY
 - Hospitalization: Admitted to the intensive care unit for management of septic shock.
 - Antibiotic Therapy: Being treated with Zavicefta (Ceftazidime-Avibactam), with the dose adjusted for his level of renal impairment.
-- Rationale: This Japanese patient with a serious infection and concomitant renal impairment is a candidate for the NCT06864585 study, which is assessing the pharmacokinetics and safety of Zavicefta in this specific and vulnerable population.

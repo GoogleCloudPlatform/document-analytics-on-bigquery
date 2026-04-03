@@ -18,4 +18,3 @@ PATIENT PROFILE: MARK A.
 
 5. TREATMENT HISTORY
 - Prior Therapy: Treated with Nivolumab + Relatlimab.
-- Rationale: A UK patient record in a database receiving the specified drug combination is a candidate for the NCT07079644 real-world outcomes study.

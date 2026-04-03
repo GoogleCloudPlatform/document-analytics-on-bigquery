@@ -19,4 +19,3 @@ PATIENT PROFILE: CARLOS R.
 5. TREATMENT HISTORY
 - Prior Therapy: Topical steroids.
 - Current Plan: Starting Dupilumab.
-- Rationale: A pediatric patient in Chile on Dupilumab is a candidate for the NCT06385431 pediatric registry.

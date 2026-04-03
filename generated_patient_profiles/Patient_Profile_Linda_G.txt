@@ -20,4 +20,3 @@ PATIENT PROFILE: LINDA G.
 5. TREATMENT HISTORY
 - Prior Therapy: Surgery.
 - Current Plan: Starting adjuvant Ribociclib.
-- Rationale: A high-risk early breast cancer patient on adjuvant therapy is a candidate for the NCT06830720 study.

@@ -21,4 +21,3 @@ PATIENT PROFILE: PIERRE D.
 5. TREATMENT HISTORY
 - Prior Therapy: None for this cancer.
 - Current Plan: Starting adjuvant therapy with Nivolumab.
-- Rationale: A post-operative patient in France with high-risk MIUC who is starting adjuvant Nivolumab as part of observational care is a candidate for the NCT06421311 study.

@@ -19,4 +19,3 @@ PATIENT PROFILE: LIN W.
 5. TREATMENT HISTORY
 - Prior Therapy: Dual bronchodilators.
 - Current Plan: Starting BGF Triple Therapy care.
-- Rationale: A Chinese COPD patient on triple therapy care is a candidate for the NCT07043251 study.

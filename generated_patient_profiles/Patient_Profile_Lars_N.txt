@@ -20,4 +20,3 @@ PATIENT PROFILE: LARS N.
 5. TREATMENT HISTORY
 - Standard Care: On ACEI and beta-blocker.
 - Current Plan: Starting Dapagliflozin.
-- Rationale: A Nordic resident with CKD and heart failure comorbidity starting an SGLT2 inhibitor is a candidate for the NCT06924581 outcomes study.

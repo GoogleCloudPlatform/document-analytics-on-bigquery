@@ -20,4 +20,3 @@ PATIENT PROFILE: ANNA M.
 5. TREATMENT HISTORY
 - Prior Therapy: None.
 - Current Plan: Starting Ravulizumab (Ultomiris) as first-line complement inhibitor therapy.
-- Rationale: A Polish PNH patient receiving Ravulizumab as first-line therapy is a candidate for the NCT06633536 outcomes study.

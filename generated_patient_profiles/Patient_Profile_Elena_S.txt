@@ -20,4 +20,3 @@ PATIENT PROFILE: ELENA S.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to standard therapy.
 - Current Plan: Starting Anifrolumab.
-- Rationale: An adult SLE patient on Anifrolumab therapy is a candidate for the NCT06673043 outcomes study.

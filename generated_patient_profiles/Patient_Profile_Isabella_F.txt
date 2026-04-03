@@ -20,4 +20,3 @@ PATIENT PROFILE: ISABELLA F.
 5. TREATMENT HISTORY
 - Prior Therapy: Thiopurines.
 - Current Plan: Starting Ozanimod (Zeposia).
-- Rationale: An Italian UC patient on Ozanimod tracking effectiveness and QoL is a candidate for the NCT05382715 study.

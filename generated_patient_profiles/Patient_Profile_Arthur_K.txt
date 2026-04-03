@@ -24,4 +24,3 @@ PATIENT PROFILE: ARTHUR K.
 5. TREATMENT HISTORY
 - Prior Therapy: Previously managed with acetylcholinesterase inhibitors (e.g., pyridostigmine) and corticosteroids, with incomplete symptom control.
 - Current Plan: Switched to Ravulizumab (a C5 complement inhibitor) for long-acting complement inhibition, aimed at reducing disease exacerbations and improving muscle strength.
-- Rationale: Confirmed gMG diagnosis with anti-AChR antibodies and active treatment with Ravulizumab makes him eligible for treatment outcomes monitoring in this real-world setting.

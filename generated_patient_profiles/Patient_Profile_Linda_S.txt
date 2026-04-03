@@ -20,4 +20,3 @@ PATIENT PROFILE: LINDA S.
 5. TREATMENT HISTORY
 - Prior Therapy: Has been treated with several antipsychotic medications in the past, with either suboptimal efficacy or intolerable side effects.
 - Current Plan: Enrolled in the RESKU registry and starting treatment with KarXT (Xanomeline-Trospium), a novel M1/M4 muscarinic agonist.
-- Rationale: As an adult with schizophrenia initiating KarXT in a real-world setting, her experience and treatment satisfaction are being evaluated as part of the NCT07101094 utilization registry.

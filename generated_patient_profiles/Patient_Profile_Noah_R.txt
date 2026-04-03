@@ -20,4 +20,3 @@ PATIENT PROFILE: NOAH R.
 5. TREATMENT HISTORY
 - Standard Care: Blood pressure control with an ACE inhibitor.
 - Current Plan: Starting Dapagliflozin.
-- Rationale: A Nordic CKD patient receiving SGLT2 inhibitor therapy is a candidate for the NCT06924581 outcomes study.

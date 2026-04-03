@@ -23,4 +23,3 @@ PATIENT PROFILE: CLAIRE O.
 5. TREATMENT HISTORY
 - Prior Therapy: Long-term use of high-dose ICS/LABA combination inhalers. Has also tried a leukotriene receptor antagonist without significant benefit.
 - Current Plan: Will be starting treatment with Tezepelumab, a monoclonal antibody that blocks thymic stromal lymphopoietin (TSLP).
-- Rationale: This patient is a UK resident with severe, uncontrolled eosinophilic asthma who is being treated at a designated Severe Asthma Centre. Her initiation of Tezepelumab fits the criteria for the NCT06455462 real-world outcomes study.

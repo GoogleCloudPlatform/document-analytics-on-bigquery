@@ -20,4 +20,3 @@ PATIENT PROFILE: CARLOS M.
 5. TREATMENT HISTORY
 - Prior Therapy: None for metastatic disease.
 - Current Plan: Starting Nivolumab + Ipilimumab.
-- Rationale: A European patient in the PD-L1 low biomarker cohort for treatment tracking is a candidate for the NCT07215962 study.

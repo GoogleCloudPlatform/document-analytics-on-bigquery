@@ -21,4 +21,3 @@ PATIENT PROFILE: GEORGE B.
 5. TREATMENT HISTORY
 - Prior Therapy: Treatment-naive for metastatic disease.
 - Current Plan: Starting first-line treatment with dual immunotherapy (Nivolumab and Relatlimab).
-- Rationale: A patient receiving this specific Nivolumab/Relatlimab combination for advanced melanoma in the UK is a candidate for the NCT07091695 real-world outcomes study.

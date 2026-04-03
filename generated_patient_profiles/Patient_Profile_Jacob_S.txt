@@ -20,4 +20,3 @@ PATIENT PROFILE: JACOB S.
 5. TREATMENT HISTORY
 - Prior Therapy: FOLFOX.
 - Current Plan: Starting Adagrasib under an expanded access program.
-- Rationale: Fits the criteria for NCT05162443 due to KRAS G12C mutation and progression on prior therapy.

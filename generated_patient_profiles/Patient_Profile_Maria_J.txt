@@ -19,4 +19,3 @@ PATIENT PROFILE: MARIA J.
 5. TREATMENT HISTORY
 - Prior Therapy: Beta-blockers.
 - Current Plan: Starting Mavacamten (Camzyos).
-- Rationale: A LATAM resident with symptomatic oHCM receiving Mavacamten is a candidate for the NCT07168655 study.

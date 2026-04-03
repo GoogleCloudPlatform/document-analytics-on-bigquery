@@ -19,4 +19,3 @@ PATIENT PROFILE: CARLOS S.
 5. TREATMENT HISTORY
 - Prior Therapy: First-line MS therapy.
 - Current Plan: Switching to Ozanimod.
-- Rationale: A LATAM resident with RRMS on Ozanimod is a candidate for the NCT05335031 Quality of Life study.

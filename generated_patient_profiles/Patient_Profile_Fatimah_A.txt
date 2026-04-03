@@ -20,4 +20,3 @@ PATIENT PROFILE: FATIMAH A.
 5. TREATMENT HISTORY
 - Standard Care: Long-term management with blood transfusions and iron chelation therapy.
 - Current Plan: Starting Luspatercept to manage her anemia and reduce her transfusion burden and iron overload.
-- Rationale: An adult thalassemia patient in the Middle East region who is receiving Luspatercept is a candidate for the NCT07215975 real-world evidence study.

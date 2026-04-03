@@ -20,4 +20,3 @@ PATIENT PROFILE: EMILY W.
 5. TREATMENT HISTORY
 - Prior Therapy: None.
 - Current Plan: Receiving Palivizumab prophylaxis.
-- Rationale: Meets high-risk criteria (prematurity + CLD) for Palivizumab prophylaxis, fitting the NCT06851806 study.

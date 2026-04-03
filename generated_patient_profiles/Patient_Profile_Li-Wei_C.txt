@@ -24,4 +24,3 @@ PATIENT PROFILE: LI-WEI C.
 5. TREATMENT HISTORY
 - Prior Therapy: Has been treated with a proteasome inhibitor (e.g., Bortezomib), an immunomodulatory drug (e.g., Lenalidomide), and an alkylating agent. His disease has relapsed and is now considered refractory to these agents.
 - Current Plan: Starting a new combination regimen that includes Elotuzumab, an immunostimulatory antibody targeting SLAMF7.
-- Rationale: This patient is a Taiwanese resident with relapsed/refractory multiple myeloma who has received multiple prior lines of therapy. His initiation of an Elotuzumab-containing regimen in a later-line setting is consistent with the population being studied in the NCT06163040 safety study in Taiwan.

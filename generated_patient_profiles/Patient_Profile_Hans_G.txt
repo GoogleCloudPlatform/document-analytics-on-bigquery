@@ -24,4 +24,3 @@ PATIENT PROFILE: HANS G.
 5. TREATMENT HISTORY
 - Prior Therapy: Was treated with interferon-beta for 18 months, but experienced breakthrough disease activity (relapses and new MRI lesions).
 - Current Plan: Recently switched to Ozanimod (Zeposia®), an oral S1P receptor modulator, for better disease control.
-- Rationale: This patient is a German resident with RRMS who has switched to Ozanimod in a real-world setting after an inadequate response to a first-line injectable therapy. This aligns with the NCT05335031 study, which is assessing the quality of life in patients treated with Ozanimod in Germany.

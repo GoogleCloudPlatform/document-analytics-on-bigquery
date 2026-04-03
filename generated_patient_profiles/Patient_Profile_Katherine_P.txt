@@ -21,4 +21,3 @@ PATIENT PROFILE: KATHERINE P.
 5. TREATMENT HISTORY
 - Prior Therapy: Has completed surgery. May have also received (neo)adjuvant chemotherapy.
 - Current Plan: Starting adjuvant endocrine therapy with an Aromatase Inhibitor in combination with Ribociclib (Kisqali), a CDK4/6 inhibitor, to reduce the risk of recurrence.
-- Rationale: This patient's high-risk, pre-menopausal EBC status makes her a candidate for the NCT06830720 study, which is evaluating the addition of Ribociclib to standard endocrine therapy in the adjuvant setting.

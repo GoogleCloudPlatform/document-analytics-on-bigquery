@@ -24,4 +24,3 @@ PATIENT PROFILE: DAVID W.
 5. TREATMENT HISTORY
 - Prior Therapy: Beta-blockers or calcium channel blockers for symptom management, but with persistent LVOT gradient and symptoms.
 - Current Plan: Prescribed Mavacamten, a cardiac myosin inhibitor, to reduce hypercontractility and LVOT obstruction.
-- Rationale: US-based patient with symptomatic oHCM (dynamic LVOT gradient and NYHA Class II symptoms) receiving standard-of-care Mavacamten, fitting the criteria for the trial focusing on real-world treatment outcomes.

@@ -19,4 +19,3 @@ PATIENT PROFILE: ANTON B.
 5. TREATMENT HISTORY
 - Prior Therapy: Topicals.
 - Current Plan: Starting therapy with Deucravacitinib.
-- Rationale: A German resident initiating the TYK2 inhibitor for psoriasis is a candidate for the NCT06104644 study.

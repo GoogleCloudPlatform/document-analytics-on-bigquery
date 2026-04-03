@@ -19,4 +19,3 @@ PATIENT PROFILE: MEI L.
 5. TREATMENT HISTORY
 - Prior Therapy: Dual bronchodilator.
 - Current Plan: Starting triple therapy (BGF).
-- Rationale: A Chinese COPD patient on triple therapy care is a candidate for the NCT07043251 study.

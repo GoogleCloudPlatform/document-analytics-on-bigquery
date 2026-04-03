@@ -23,4 +23,3 @@ PATIENT PROFILE: SUSAN K.
 5. TREATMENT HISTORY
 - Prior Therapy: Treatment-naive for metastatic disease.
 - Current Plan: Starting first-line systemic therapy. The treatment choice is being recorded as part of a treatment pattern surveillance study.
-- Rationale: This patient is a never-smoker with metastatic NSCLC and a PD-L1 expression of < 1%, making her a key subject for the NCT07215962 study, which aims to understand first-line treatment patterns in this specific subgroup.

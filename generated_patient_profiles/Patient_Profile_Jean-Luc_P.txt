@@ -20,4 +20,3 @@ PATIENT PROFILE: JEAN-LUC P.
 5. TREATMENT HISTORY
 - Prior Therapy: Surgery.
 - Current Plan: Starting adjuvant Nivolumab therapy.
-- Rationale: A French post-operative patient starting adjuvant Nivolumab therapy as per observational protocol is a candidate for the NCT06421311 study.

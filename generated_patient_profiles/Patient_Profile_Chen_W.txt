@@ -20,4 +20,3 @@ PATIENT PROFILE: CHEN W.
 5. TREATMENT HISTORY
 - Standard Care: Regular blood transfusions and iron chelation.
 - Current Plan: Starting Luspatercept to reduce iron overload.
-- Rationale: An adult in Taiwan with Thalassemia on Luspatercept is a candidate for the NCT06596642 study.

@@ -20,4 +20,3 @@ PATIENT PROFILE: LUCIA F.
 5. TREATMENT HISTORY
 - Prior Therapy: Stable on Eculizumab for the past two years.
 - Current Plan: Transitioning to Ravulizumab (Ultomiris), a long-acting C5 complement inhibitor, for an every-8-week infusion schedule.
-- Rationale: A confirmed PNH patient in Spain switching to Ravulizumab for routine clinical management is an ideal candidate for the NCT06633536 outcomes study.

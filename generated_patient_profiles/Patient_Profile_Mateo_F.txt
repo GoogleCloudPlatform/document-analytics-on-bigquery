@@ -20,4 +20,3 @@ PATIENT PROFILE: MATEO F.
 5. TREATMENT HISTORY
 - Prior Therapy: None.
 - Current Plan: Receiving Palivizumab.
-- Rationale: A premature infant in Latin America meeting RSV risk criteria is a candidate for the NCT06851806 study.

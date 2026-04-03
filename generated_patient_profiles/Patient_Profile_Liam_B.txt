@@ -26,4 +26,3 @@ PATIENT PROFILE: LIAM B.
 5. TREATMENT HISTORY
 - Prior Therapy: Hospitalization in Neonatal Intensive Care Unit post-birth for prematurity-related complications.
 - Current Plan: Scheduled to receive monthly passive immunization with Palivizumab throughout the RSV season.
-- Rationale: Prophylaxis is indicated due to prematurity and chronic lung disease, mitigating the risk of severe lower respiratory tract infection from RSV.

@@ -20,4 +20,3 @@ PATIENT PROFILE: THOMAS R.
 5. TREATMENT HISTORY
 - Prior Therapy: First-line injectable.
 - Current Plan: Switched to Ozanimod for better relapse control.
-- Rationale: A German RRMS patient on Ozanimod in a real-world setting is a candidate for the NCT05335031 Quality of Life study.

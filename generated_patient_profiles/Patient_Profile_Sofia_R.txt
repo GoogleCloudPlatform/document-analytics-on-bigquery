@@ -21,4 +21,3 @@ PATIENT PROFILE: SOFIA R.
 5. TREATMENT HISTORY
 - Prior Therapy: Has received at least one line of platinum-based chemotherapy for advanced/recurrent endometrial cancer.
 - Current Plan: Starting second-line therapy with Dostarlimab (Jemperli), an anti-PD-1 monoclonal antibody.
-- Rationale: This patient has advanced/recurrent endometrial cancer with a dMMR/MSI-H tumor, which is the specific indication for Dostarlimab. Her case is being followed as part of the NCT06859736 long-term safety and efficacy study.

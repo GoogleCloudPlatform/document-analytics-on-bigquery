@@ -21,4 +21,3 @@ PATIENT PROFILE: ERIK S.
 5. TREATMENT HISTORY
 - Standard Care: ACE inhibitor, beta-blocker.
 - Current Plan: Prescribed Dapagliflozin.
-- Rationale: A Nordic resident with cardio-renal comorbidities on Dapagliflozin is a candidate for the NCT06924581 outcomes study.

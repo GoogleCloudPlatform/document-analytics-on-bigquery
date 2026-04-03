@@ -22,4 +22,3 @@ PATIENT PROFILE: DAVID R.
 5. TREATMENT HISTORY
 - Prior Therapy: Treatment-naive for lung cancer.
 - Current Plan: Receiving neoadjuvant therapy consisting of Nivolumab in combination with platinum-doublet chemotherapy, followed by planned lobectomy.
-- Rationale: This patient's treatment plan aligns with the NCT07141563 study, which evaluates the real-world effectiveness of neoadjuvant immunotherapy plus chemotherapy in resectable NSCLC.

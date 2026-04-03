@@ -20,4 +20,3 @@ PATIENT PROFILE: ISABELLA S.
 5. TREATMENT HISTORY
 - Prior Therapy: Has had an inadequate response to conventional synthetic DMARDs (e.g., methotrexate).
 - Current Plan: Initiating therapy with Guselkumab (Tremfya), a monoclonal antibody that targets IL-23.
-- Rationale: An Italian patient with active PsA who is starting Guselkumab in a real-world setting is a suitable candidate for the NCT05987412 utilization study in Italy.

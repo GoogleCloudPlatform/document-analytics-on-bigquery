@@ -27,4 +27,3 @@ PATIENT PROFILE: ELENA V.
 5. TREATMENT HISTORY
 - Prior Therapy: Long-acting muscarinic antagonist (LAMA) and long-acting beta-agonist (LABA) combination therapy.
 - Current Plan: Recently switched to triple therapy consisting of Budesonide (inhaled corticosteroid), Glycopyrronium (LAMA), and Formoterol (LABA) for improved symptom control and reduction of exacerbations.
-- Rationale: Patient meets criteria for "routine care" patients treated with BGF triple therapy for symptomatic COPD management, as indicated by her history of frequent exacerbations and FEV1 < 50% predicted, aligning with the trial's focus on real-world outcomes.

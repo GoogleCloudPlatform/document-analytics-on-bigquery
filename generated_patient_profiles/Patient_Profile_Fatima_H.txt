@@ -20,4 +20,3 @@ PATIENT PROFILE: FATIMA H.
 5. TREATMENT HISTORY
 - Standard Care: Transfusions and iron chelation.
 - Current Plan: Transitioning to Luspatercept.
-- Rationale: An adult thalassemia patient in the UAE on Luspatercept is a candidate for the NCT07215975 Middle East study.

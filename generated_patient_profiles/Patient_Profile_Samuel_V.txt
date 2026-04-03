@@ -19,4 +19,3 @@ PATIENT PROFILE: SAMUEL V.
 5. TREATMENT HISTORY
 - Prior Therapy: Topical calcineurin inhibitors.
 - Current Plan: Starting Dupilumab (Dupixent).
-- Rationale: A pediatric patient (6–11 years) in Brazil receiving Dupilumab for AD is a candidate for the NCT06385431 pediatric registry in Latin America.

@@ -19,4 +19,3 @@ PATIENT PROFILE: NINA K.
 5. TREATMENT HISTORY
 - Prior Therapy: Failed to respond adequately to oral corticosteroids and hydroxychloroquine.
 - Current Plan: Starting treatment with Anifrolumab (Saphnelo).
-- Rationale: A European SLE patient receiving Anifrolumab in a real-world setting is a candidate for the NCT06673043 real-world treatment outcomes study.

@@ -19,4 +19,3 @@ PATIENT PROFILE: HANS S.
 5. TREATMENT HISTORY
 - Prior Therapy: Dual bronchodilator.
 - Current Plan: Starting BGF triple therapy.
-- Rationale: A German resident with symptomatic COPD receiving routine BGF triple therapy is a candidate for the NCT06712563 pooled analysis study.

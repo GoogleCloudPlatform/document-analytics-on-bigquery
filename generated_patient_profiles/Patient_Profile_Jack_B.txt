@@ -19,4 +19,3 @@ PATIENT PROFILE: JACK B.
 5. TREATMENT HISTORY
 - Prior Therapy: Triptans with variable success.
 - Current Plan: Using Rimegepant for pain relief.
-- Rationale: An adult using Rimegepant for acute migraine is a candidate for the NCT06898047 study.

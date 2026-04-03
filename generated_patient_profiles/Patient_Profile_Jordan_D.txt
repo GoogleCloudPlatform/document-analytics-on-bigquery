@@ -21,4 +21,3 @@ PATIENT PROFILE: JORDAN D.
 5. TREATMENT HISTORY
 - Prior Therapy: Has failed to respond to topical and intralesional steroids.
 - Current Plan: Starting oral treatment with Ritlecitinib, a JAK3/TEC family kinase inhibitor.
-- Rationale: This patient meets the age (12 years and older) and severity (>50% scalp hair loss) requirements for treatment with Ritlecitinib for severe Alopecia Areata in the United States, aligning with the patient population of study NCT07226531.

@@ -21,4 +21,3 @@ PATIENT PROFILE: ROBERT K.
 5. TREATMENT HISTORY
 - Prior Therapy: Has been on beta-blockers and calcium channel blockers with persistent symptoms.
 - Current Plan: Enrolled in a prospective registry to track his treatment with Mavacamten.
-- Rationale: As a patient with symptomatic oHCM, his enrollment in the NCT05489705 registry will help track the real-world longitudinal outcomes and treatment patterns of Mavacamten.

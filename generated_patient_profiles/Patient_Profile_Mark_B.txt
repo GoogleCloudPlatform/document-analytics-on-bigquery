@@ -19,4 +19,3 @@ PATIENT PROFILE: MARK B.
 5. TREATMENT HISTORY
 - Prior Therapy: Beta-blockers.
 - Current Plan: Enrolled in a Prospective Registry for Mavacamten.
-- Rationale: A US oHCM patient in a longitudinal treatment registry is a candidate for the NCT05489705 study.

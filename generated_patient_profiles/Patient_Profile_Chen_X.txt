@@ -21,4 +21,3 @@ PATIENT PROFILE: CHEN X.
 5. TREATMENT HISTORY
 - Prior Therapy: Was on a LAMA/LABA dual bronchodilator.
 - Current Plan: Stepped up to a triple therapy regimen of Budesonide/Glycopyrronium/Formoterol (a combination of an inhaled corticosteroid, a LAMA, and a LABA).
-- Rationale: A Chinese COPD patient with a history of frequent exacerbations who is initiating triple therapy is a suitable candidate for the NCT07043251 study, which is assessing the real-world effectiveness of this regimen in China.

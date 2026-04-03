@@ -20,4 +20,3 @@ PATIENT PROFILE: FATIMA Z.
 5. TREATMENT HISTORY
 - Standard Care: Regular transfusions and iron chelation.
 - Current Plan: Starting Luspatercept.
-- Rationale: An adult thalassemia patient in North Africa on Luspatercept is a candidate for the NCT07215975 real-world evidence study.

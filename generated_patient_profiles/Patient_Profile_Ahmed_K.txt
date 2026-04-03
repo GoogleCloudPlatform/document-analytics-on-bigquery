@@ -20,4 +20,3 @@ PATIENT PROFILE: AHMED K.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to antimalarials (hydroxychloroquine) and methotrexate.
 - Current Plan: Initiated treatment with Anifrolumab (Saphnelo), an anti-interferon receptor monoclonal antibody.
-- Rationale: An adult patient with SLE in the Middle East receiving Anifrolumab in a real-world setting is a candidate for the NCT06673043 treatment outcomes study.

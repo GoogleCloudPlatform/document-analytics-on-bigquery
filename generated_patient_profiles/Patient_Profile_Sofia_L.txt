@@ -26,4 +26,3 @@ PATIENT PROFILE: SOFIA L.
 5. TREATMENT HISTORY
 - Prior Therapy: Oral corticosteroids (e.g., prednisone) at varying doses, hydroxychloroquine (antimalarial). Limited efficacy and/or intolerable side effects with these treatments.
 - Current Plan: Initiated Anifrolumab (Saphnelo) intravenous therapy approximately 3 months ago, targeting Type I interferon pathway.
-- Rationale: Patient has confirmed moderate-to-severe SLE with inadequate response to conventional therapies, making her eligible for real-world treatment outcome monitoring with Anifrolumab.

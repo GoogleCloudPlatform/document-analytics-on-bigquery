@@ -20,4 +20,3 @@ PATIENT PROFILE: CHLOE M.
 5. TREATMENT HISTORY
 - Prior Therapy: Anti-TNF.
 - Current Plan: Starting Risankizumab (Skyrizi).
-- Rationale: A UK Crohn's patient on Risankizumab in clinical practice is a candidate for the NCT06894521 outcomes study.

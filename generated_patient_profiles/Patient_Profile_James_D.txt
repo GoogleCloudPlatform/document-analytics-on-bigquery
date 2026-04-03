@@ -20,4 +20,3 @@ PATIENT PROFILE: JAMES D.
 5. TREATMENT HISTORY
 - Prior Therapy: Infliximab.
 - Current Plan: Starting Risankizumab (Skyrizi).
-- Rationale: A US bio-experienced patient starting Risankizumab for Crohn's disease is a candidate for the NCT06894521 outcomes study.

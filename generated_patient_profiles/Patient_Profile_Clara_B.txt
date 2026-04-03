@@ -20,4 +20,3 @@ PATIENT PROFILE: CLARA B.
 5. TREATMENT HISTORY
 - Prior Therapy: Topical corticosteroids.
 - Current Plan: Starting Dupilumab.
-- Rationale: Pediatric patient in Brazil with severe atopic dermatitis, meeting criteria for the Dupilumab pediatric registry in Latin America (NCT06385431).

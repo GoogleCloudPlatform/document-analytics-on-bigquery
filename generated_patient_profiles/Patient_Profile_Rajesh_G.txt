@@ -21,4 +21,3 @@ PATIENT PROFILE: RAJESH G.
 5. TREATMENT HISTORY
 - Prior Therapy: Has been treated with ESAs without a durable response.
 - Current Plan: Starting treatment with Luspatercept.
-- Rationale: A transfusion-dependent MDS patient in India receiving Luspatercept is a candidate for the NCT07075406 outcomes study.

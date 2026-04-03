@@ -20,4 +20,3 @@ PATIENT PROFILE: ZHANG L.
 5. TREATMENT HISTORY
 - Prior Therapy: Has not responded adequately to erythropoiesis-stimulating agents.
 - Current Plan: Starting treatment with Luspatercept.
-- Rationale: A Chinese resident with lower-risk MDS-RS requiring transfusions who is starting Luspatercept in a routine hospital setting is a candidate for the NCT07073690 outcomes study in China.

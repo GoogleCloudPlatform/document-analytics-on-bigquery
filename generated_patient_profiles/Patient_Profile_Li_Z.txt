@@ -20,4 +20,3 @@ PATIENT PROFILE: LI Z.
 5. TREATMENT HISTORY
 - Prior Therapy: Supportive care.
 - Current Plan: Starting Luspatercept.
-- Rationale: A Chinese resident with lower-risk MDS on Luspatercept is a candidate for the NCT07073690 outcomes study.

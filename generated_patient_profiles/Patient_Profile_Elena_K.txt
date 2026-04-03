@@ -19,4 +19,3 @@ PATIENT PROFILE: ELENA K.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to standard therapies.
 - Current Plan: Starting Ravulizumab.
-- Rationale: A confirmed gMG patient receiving Ravulizumab in a real-world setting is a candidate for the NCT06909253 outcomes study.

@@ -20,4 +20,3 @@ PATIENT PROFILE: IVAN P.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to cholinesterase inhibitors and corticosteroids.
 - Current Plan: Switched to Ravulizumab for long-acting C5 complement inhibition.
-- Rationale: A Polish patient with confirmed gMG who is receiving Ravulizumab in a real-world setting is a candidate for the NCT06909253 treatment outcomes study.

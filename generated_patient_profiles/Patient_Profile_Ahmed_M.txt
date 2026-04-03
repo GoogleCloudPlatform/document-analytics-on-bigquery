@@ -20,4 +20,3 @@ PATIENT PROFILE: AHMED M.
 5. TREATMENT HISTORY
 - Standard Care: Regular transfusions and iron chelation.
 - Current Plan: Initiating Luspatercept to reduce transfusion burden.
-- Rationale: An adult Middle Eastern patient with thalassemia receiving Luspatercept is a candidate for the NCT07215975 real-world evidence study.

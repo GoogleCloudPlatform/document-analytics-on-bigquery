@@ -19,4 +19,3 @@ PATIENT PROFILE: MAREK W.
 5. TREATMENT HISTORY
 - Prior Therapy: Standard of care.
 - Current Plan: Starting Ravulizumab.
-- Rationale: A Polish gMG patient receiving Ravulizumab is a candidate for the NCT06909253 outcomes study.

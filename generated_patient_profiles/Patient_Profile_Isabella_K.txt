@@ -19,4 +19,3 @@ PATIENT PROFILE: ISABELLA K.
 5. TREATMENT HISTORY
 - Prior Therapy: Triptans with inconsistent response.
 - Current Plan: Using Rimegepant (Vydura) for acute attack relief.
-- Rationale: An adult using an oral gepant for acute migraine relief is a candidate for the NCT06898047 consistency of response study.

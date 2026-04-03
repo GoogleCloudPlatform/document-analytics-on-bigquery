@@ -19,4 +19,3 @@ PATIENT PROFILE: SARAH M.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to standard therapies.
 - Current Plan: Starting Anifrolumab (Saphnelo).
-- Rationale: An adult US patient with confirmed SLE currently receiving Anifrolumab is a candidate for the NCT06673043 real-world treatment outcomes study.

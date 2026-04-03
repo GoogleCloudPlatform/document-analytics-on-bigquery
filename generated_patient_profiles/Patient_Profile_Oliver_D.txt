@@ -20,4 +20,3 @@ PATIENT PROFILE: OLIVER D.
 5. TREATMENT HISTORY
 - Prior Therapy: Progressed on standard chemotherapy.
 - Current Plan: Starting Adagrasib.
-- Rationale: A KRAS G12C+ mCRC patient with no standard options left is a candidate for the NCT05162443 Expanded Access Program.

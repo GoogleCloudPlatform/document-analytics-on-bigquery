@@ -20,4 +20,3 @@ PATIENT PROFILE: ROBERT F.
 5. TREATMENT HISTORY
 - Prior Therapy: Standard of care.
 - Current Plan: Enrollment in an oncology registry.
-- Rationale: A male breast cancer patient with specific molecular markers in an oncology cohort is a candidate for a real-world outcomes study like NCT07091695.

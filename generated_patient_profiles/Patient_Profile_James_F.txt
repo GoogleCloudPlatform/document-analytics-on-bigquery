@@ -20,4 +20,3 @@ PATIENT PROFILE: JAMES F.
 5. TREATMENT HISTORY
 - Prior Therapy: None for metastatic disease.
 - Current Plan: Starting first-line treatment.
-- Rationale: A PD-L1 low sub-group patient in North America is a candidate for the NCT07215962 treatment patterns study.

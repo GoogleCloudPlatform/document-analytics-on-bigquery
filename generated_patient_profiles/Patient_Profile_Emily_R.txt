@@ -20,4 +20,3 @@ PATIENT PROFILE: EMILY R.
 5. TREATMENT HISTORY
 - Neonatal Care: Received intensive care for prematurity and BPD.
 - Current Plan: Scheduled to receive monthly injections of Palivizumab for RSV prophylaxis during the winter season.
-- Rationale: This infant meets the strict criteria for Palivizumab prophylaxis in Canada, being under 6 months of age at the start of the RSV season and having a history of prematurity and BPD. Her case is being followed in the NCT06851806 study.

@@ -20,4 +20,3 @@ PATIENT PROFILE: SOFIA C.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to standard therapies.
 - Current Plan: Starting Anifrolumab.
-- Rationale: An Italian SLE patient receiving Anifrolumab is a candidate for the NCT06673043 outcomes study.

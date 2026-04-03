@@ -20,4 +20,3 @@ PATIENT PROFILE: ISABELLE G.
 5. TREATMENT HISTORY
 - Prior Therapy: History of psoriasis.
 - Current Plan: Starting Spesolimab.
-- Rationale: French patient with an acute GPP flare receiving Spesolimab, making her eligible for the NCT06684531 observational study.

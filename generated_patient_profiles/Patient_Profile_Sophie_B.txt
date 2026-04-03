@@ -21,4 +21,3 @@ PATIENT PROFILE: SOPHIE B.
 5. TREATMENT HISTORY
 - Prior Therapy: Has received Ipilimumab, an anti-CTLA-4 immune checkpoint inhibitor, as part of her treatment regimen for advanced melanoma.
 - Current Plan: Continued monitoring and follow-up as part of long-term survival data collection.
-- Rationale: As a Dutch pediatric patient diagnosed with advanced melanoma and treated with Ipilimumab, Sophie B.'s case is included in the Dutch Melanoma Treatment Registry (DMTR), aligning with the criteria for the NCT04196452 study.

@@ -20,4 +20,3 @@ PATIENT PROFILE: SAMUEL L.
 5. TREATMENT HISTORY
 - Prior Therapy: Inadequate response to ESAs.
 - Current Plan: On Luspatercept.
-- Rationale: A US MDS patient on Luspatercept therapy is a candidate for the NCT07075406 outcomes study.

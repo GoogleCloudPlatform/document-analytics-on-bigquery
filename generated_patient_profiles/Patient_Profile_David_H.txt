@@ -19,4 +19,3 @@ PATIENT PROFILE: DAVID H.
 5. TREATMENT HISTORY
 - Prior Therapy: Triptans.
 - Current Plan: Using oral Rimegepant (Nurtec) for acute pain relief.
-- Rationale: An adult using Rimegepant to evaluate acute response consistency across multiple attacks is a candidate for the NCT06898047 study.

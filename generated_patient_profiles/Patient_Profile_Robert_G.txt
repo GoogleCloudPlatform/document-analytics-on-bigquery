@@ -19,4 +19,3 @@ PATIENT PROFILE: ROBERT G.
 5. TREATMENT HISTORY
 - Prior Therapy: Standard of care.
 - Current Plan: Starting Ravulizumab for complement inhibition in routine care.
-- Rationale: A German gMG patient initiating Ravulizumab therapy is a candidate for the NCT06909253 outcomes study.

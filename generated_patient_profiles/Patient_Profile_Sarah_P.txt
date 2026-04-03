@@ -19,4 +19,3 @@ PATIENT PROFILE: SARAH P.
 5. TREATMENT HISTORY
 - Prior Therapy: Platinum-based chemotherapy.
 - Current Plan: Starting Dostarlimab (Jemperli).
-- Rationale: A European patient with dMMR endometrial cancer on Dostarlimab is a candidate for the NCT06859736 safety and efficacy study.

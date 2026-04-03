@@ -20,4 +20,3 @@ PATIENT PROFILE: ERIK J.
 5. TREATMENT HISTORY
 - Standard Therapy: On an ACE inhibitor and beta-blocker for his heart failure.
 - Current Plan: Has been prescribed Dapagliflozin, an SGLT2 inhibitor.
-- Rationale: A Swedish resident with both CKD and heart failure who is on standard SGLT2 inhibitor therapy is a candidate for the NCT06924581 outcomes study in the Nordic region.

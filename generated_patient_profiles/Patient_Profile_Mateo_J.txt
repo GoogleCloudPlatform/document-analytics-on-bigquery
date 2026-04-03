@@ -19,4 +19,3 @@ PATIENT PROFILE: MATEO J.
 5. TREATMENT HISTORY
 - Prior Therapy: Topical steroids.
 - Current Plan: Starting Dupilumab.
-- Rationale: A LATAM pediatric patient (6–11 years) on Dupilumab is a candidate for the NCT06385431 pediatric registry.
