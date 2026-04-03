@@ -1,0 +1,22 @@
+PATIENT PROFILE: ANNA S.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 13 years
+- Sex: Female
+- Place of Residency: Amsterdam, Netherlands
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Pediatric Melanoma.
+- Stage: Advanced disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Related to metastatic disease.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed melanoma.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treated with Ipilimumab.
+- Current Plan: Long-term follow-up.
+- Rationale: A Dutch pediatric patient with melanoma in the DMTR registry is a candidate for the NCT04196452 study.

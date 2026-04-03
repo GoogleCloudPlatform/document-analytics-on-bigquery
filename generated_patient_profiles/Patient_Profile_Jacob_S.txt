@@ -1,0 +1,23 @@
+PATIENT PROFILE: JACOB S.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Male
+- Place of Residency: Dallas, TX, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Colorectal Cancer (mCRC) with KRAS G12C mutation.
+- Disease Status: Progressed on standard chemotherapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue and abdominal discomfort.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Genomics: KRAS G12C mutation confirmed.
+- CEA: Elevated.
+
+5. TREATMENT HISTORY
+- Prior Therapy: FOLFOX.
+- Current Plan: Starting Adagrasib under an expanded access program.
+- Rationale: Fits the criteria for NCT05162443 due to KRAS G12C mutation and progression on prior therapy.

@@ -1,0 +1,22 @@
+PATIENT PROFILE: MARIA J.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 60 years
+- Sex: Female
+- Place of Residency: Mexico City, Mexico
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Symptoms: NYHA Class III.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- LVOT Gradient: Resting LVOT gradient 55 mmHg.
+- Symptoms: Dyspnea on exertion.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirms oHCM.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blockers.
+- Current Plan: Starting Mavacamten (Camzyos).
+- Rationale: A LATAM resident with symptomatic oHCM receiving Mavacamten is a candidate for the NCT07168655 study.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: ROBERT P.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 59 years
+- Sex: Male
+- Place of Residency: Miami, FL, USA
+- Comorbidity: History of hypertension.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Eosinophilic Asthma.
+- Eosinophil Count: 450 cells/μL.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Frequent exacerbations.
+- Performance Status: Limited.
+
+4. LABORATORY RESULTS
+- Eosinophils: Elevated.
+- FEV1: Reduced.
+
+5. TREATMENT HISTORY
+- Prior Therapy: High-dose ICS/LABA.
+- Current Plan: Initiating Tezepelumab (Tezspire).
+- Rationale: A US patient with asthma and cardiovascular risk factors starting Tezepelumab is a candidate for the NCT06951867 PASS study.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: FATIMAH A.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 22 years
+- Sex: Female
+- Place of Residency: Riyadh, Saudi Arabia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent β-Thalassemia.
+- Complications: Iron overload.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic anemia-related symptoms, including fatigue.
+- Transfusion Need: Requires red blood cell transfusions every 2 weeks.
+
+4. LABORATORY RESULTS
+- Hemoglobin: Baseline hemoglobin is low, necessitating frequent transfusions.
+- Iron Studies: Markedly elevated serum ferritin.
+
+5. TREATMENT HISTORY
+- Standard Care: Long-term management with blood transfusions and iron chelation therapy.
+- Current Plan: Starting Luspatercept to manage her anemia and reduce her transfusion burden and iron overload.
+- Rationale: An adult thalassemia patient in the Middle East region who is receiving Luspatercept is a candidate for the NCT07215975 real-world evidence study.

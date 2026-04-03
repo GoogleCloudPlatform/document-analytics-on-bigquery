@@ -1,0 +1,22 @@
+PATIENT PROFILE: JACK B.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 38 years
+- Sex: Male
+- Place of Residency: Seattle, WA, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Acute Migraine.
+- Frequency: Frequent attacks.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Severe headache with photophobia/phonophobia.
+- Impact: Interferes with daily activities.
+
+4. LABORATORY RESULTS
+- N/A
+
+5. TREATMENT HISTORY
+- Prior Therapy: Triptans with variable success.
+- Current Plan: Using Rimegepant for pain relief.
+- Rationale: An adult using Rimegepant for acute migraine is a candidate for the NCT06898047 study.

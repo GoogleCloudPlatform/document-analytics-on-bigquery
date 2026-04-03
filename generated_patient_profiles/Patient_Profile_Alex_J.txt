@@ -1,0 +1,22 @@
+PATIENT PROFILE: ALEX J.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 31 years
+- Sex: Male
+- Place of Residency: New York, NY, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia.
+- Status: Experiencing an acute exacerbation.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Psychosis.
+- Functionality: Impaired.
+
+4. LABORATORY RESULTS
+- N/A
+
+5. TREATMENT HISTORY
+- Prior Therapy: Previous antipsychotics with limited success.
+- Current Plan: Starting KarXT (Xanomeline-Trospium).
+- Rationale: A US adult starting KarXT for schizophrenia is a candidate for the NCT07101094 utilization registry.

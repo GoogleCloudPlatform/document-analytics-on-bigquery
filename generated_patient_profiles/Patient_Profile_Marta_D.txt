@@ -1,0 +1,22 @@
+PATIENT PROFILE: MARTA D.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Female
+- Place of Residency: Krakow, Poland
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Resectable Melanoma (Stage III).
+- Treatment: Neoadjuvant immunotherapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Palpable lymph node.
+- Performance Status: ECOG 0.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed melanoma.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Starting neoadjuvant Nivolumab + Relatlimab prior to surgery.
+- Rationale: A Polish patient in a neoadjuvant immunotherapy cohort is a candidate for the NCT07091695 real-world outcomes study.

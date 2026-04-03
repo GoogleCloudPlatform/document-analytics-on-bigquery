@@ -1,0 +1,22 @@
+PATIENT PROFILE: MAREK P.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 52 years
+- Sex: Male
+- Place of Residency: Warsaw, Poland
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High-Risk Resectable Melanoma.
+- Stage: Stage III melanoma.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Asymptomatic after diagnosis.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed melanoma.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Undergoing Neoadjuvant Nivolumab + Relatlimab prior to surgery.
+- Rationale: A Polish patient receiving a specific neoadjuvant dual-immunotherapy combination is a candidate for the NCT07091695 real-world outcomes study.

@@ -1,0 +1,22 @@
+PATIENT PROFILE: MARK B.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 49 years
+- Sex: Male
+- Place of Residency: New York, NY, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic oHCM (NYHA Class II).
+- LVOT Gradient: Resting LVOT gradient 60 mmHg.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dyspnea on exertion.
+- Performance Status: Limited.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirms oHCM.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blockers.
+- Current Plan: Enrolled in a Prospective Registry for Mavacamten.
+- Rationale: A US oHCM patient in a longitudinal treatment registry is a candidate for the NCT05489705 study.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: EMMA W.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 6 months
+- Sex: Female
+- Place of Residency: UK
+- Gestational Age: 30 weeks.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk for RSV.
+- Risk Factor: Prematurity.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: None.
+- Health Status: High-risk infant.
+
+4. LABORATORY RESULTS
+- N/A
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Receiving Palivizumab.
+- Rationale: A UK premature infant meeting RSV prophylaxis criteria is a candidate for the NCT06851806 study.

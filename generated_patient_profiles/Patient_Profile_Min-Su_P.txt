@@ -1,0 +1,23 @@
+PATIENT PROFILE: MIN-SU P.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 69 years
+- Sex: Male
+- Place of Residency: Busan, South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed/Refractory Multiple Myeloma.
+- Treatment History: Exposed to IMiD, PI, and anti-CD38.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bone pain, fatigue.
+- Performance Status: ECOG 2.
+
+4. LABORATORY RESULTS
+- M-protein: Rising.
+- Bone Marrow: Increased plasma cells.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Triple-class refractory.
+- Current Plan: Starting Elranatamab.
+- Rationale: A Korean myeloma patient receiving Elranatamab in routine practice is a candidate for the NCT06581848 post-marketing surveillance study.

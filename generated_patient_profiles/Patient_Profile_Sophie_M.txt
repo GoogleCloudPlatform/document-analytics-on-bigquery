@@ -1,0 +1,23 @@
+PATIENT PROFILE: SOPHIE M.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 29 years
+- Sex: Female
+- Place of Residency: Zurich, Switzerland
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Disease Duration: Diagnosed 3 years ago.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Has experienced relapses with sensory and motor symptoms.
+- Disease Activity: Has had evidence of disease activity on MRI.
+
+4. LABORATORY RESULTS
+- MRI: Shows lesions typical for MS.
+- CSF: Positive for oligoclonal bands.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Was on a first-line injectable MS therapy.
+- Current Plan: Recently switched to Ozanimod (Zeposia).
+- Rationale: An RRMS patient on Ozanimod is a candidate for the NCT05335031 Quality of Life study.

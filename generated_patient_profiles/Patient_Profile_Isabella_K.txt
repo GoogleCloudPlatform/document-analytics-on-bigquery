@@ -1,0 +1,22 @@
+PATIENT PROFILE: ISABELLA K.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 35 years
+- Sex: Female
+- Place of Residency: Vienna, Austria
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Acute Migraine.
+- Frequency: 4-6 attacks per month.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Severe, debilitating headaches.
+- Impact: Affects work and social life.
+
+4. LABORATORY RESULTS
+- N/A
+
+5. TREATMENT HISTORY
+- Prior Therapy: Triptans with inconsistent response.
+- Current Plan: Using Rimegepant (Vydura) for acute attack relief.
+- Rationale: An adult using an oral gepant for acute migraine relief is a candidate for the NCT06898047 consistency of response study.

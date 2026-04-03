@@ -1,0 +1,23 @@
+PATIENT PROFILE: PARK J.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 71 years
+- Sex: Male
+- Place of Residency: Seoul, South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed/Refractory Multiple Myeloma.
+- Refractory Status: Triple-class refractory (has been exposed to and is no longer responding to an IMiD, a proteasome inhibitor, and an anti-CD38 monoclonal antibody).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Progressive fatigue, bone pain, and recurrent infections.
+- Performance Status: ECOG 2 (Significantly limited in daily activities).
+
+4. LABORATORY RESULTS
+- Disease Markers: Rising M-protein levels in serum and urine.
+- Bone Marrow: Increased plasma cell infiltration.
+
+5. TREATMENT HISTORY
+- Prior Therapies: Has received multiple lines of therapy, including bortezomib, lenalidomide, and daratumumab.
+- Current Plan: Starting treatment with Elranatamab (ELREXFIO), a bispecific antibody targeting BCMA and CD3.
+- Rationale: This patient is a Korean resident with heavily pre-treated, triple-class refractory multiple myeloma. His initiation of Elranatamab in a post-approval setting makes his case relevant for the post-marketing surveillance study NCT06581848 in South Korea.

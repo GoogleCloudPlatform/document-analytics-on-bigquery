@@ -1,0 +1,24 @@
+PATIENT PROFILE: INGRID B.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 72 years
+- Sex: Female
+- Place of Residency: Stockholm, Sweden
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorders: Chronic Kidney Disease (CKD) and Heart Failure with Reduced Ejection Fraction (HFrEF).
+- Renal Function: eGFR of 35 mL/min/1.73m².
+- Cardiac Function: Left ventricular ejection fraction (LVEF) of 35%.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Experiences fluid retention, dyspnea on exertion, and fatigue.
+- NYHA Class: NYHA Class II heart failure symptoms.
+
+4. LABORATORY RESULTS
+- Renal Panel: Stable but reduced eGFR. Proteinuria present.
+- Cardiac Biomarkers: Elevated NT-proBNP levels.
+
+5. TREATMENT HISTORY
+- Standard of Care: Already on standard-of-care medications for heart failure, including an ACE inhibitor and a beta-blocker.
+- Current Plan: Starting treatment with Dapagliflozin, an SGLT2 inhibitor, for its proven benefits in both CKD and HFrEF.
+- Rationale: As a Nordic resident with the dual diagnosis of CKD and HFrEF, this patient's initiation of Dapagliflozin makes her an ideal candidate for the NCT06924581 real-world outcomes study.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: SAMUEL K.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 48 years
+- Sex: Male
+- Place of Residency: Nairobi, Kenya
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Complicated Urinary Tract Infection (cUTI).
+- Microbiology: Multi-drug resistant Gram-negative infection.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fever, chills, and flank pain.
+- Severity: Hospitalized for IV antibiotics.
+
+4. LABORATORY RESULTS
+- Urine Culture: Positive for a resistant organism.
+- Blood Culture: May be positive.
+
+5. TREATMENT HISTORY
+- Prior Therapy: History of recurrent UTIs.
+- Current Plan: Treated with Ceftazidime-Avibactam.
+- Rationale: A patient with a resistant infection requiring advanced antibiotic therapy is a candidate for the NCT05487586 study.

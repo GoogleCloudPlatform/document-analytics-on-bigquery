@@ -1,0 +1,22 @@
+PATIENT PROFILE: HANS W.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG).
+- Antibody Status: Anti-AChR+.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Muscle weakness.
+- Disease Severity: Moderate-to-severe.
+
+4. LABORATORY RESULTS
+- Serology: Confirmed anti-AChR positive.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to standard therapies.
+- Current Plan: Starting Ravulizumab.
+- Rationale: A German gMG patient on Ravulizumab therapy is a candidate for the NCT06909253 outcomes study.

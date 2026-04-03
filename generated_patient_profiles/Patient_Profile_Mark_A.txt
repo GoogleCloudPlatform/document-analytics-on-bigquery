@@ -1,22 +1,21 @@
 PATIENT PROFILE: MARK A.
 
 1. DEMOGRAPHIC INFORMATION
-- Age: 64 years
+- Age: 62 years
 - Sex: Male
-- Place of Residency: United States (record in Flatiron Health database)
+- Place of Residency: Birmingham, UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Primary Disorder: Advanced Melanoma (Unresectable Stage IV)
-- Biomarker Status: BRAF wild-type.
+- Primary Disorder: Advanced Melanoma.
+- Database: Record in an oncology registry.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Disease Status: Metastatic disease identified in liver and lungs.
-- Performance Status: ECOG 1 at the start of first-line therapy.
+- Disease Status: Advanced disease.
+- Performance Status: Good.
 
 4. LABORATORY RESULTS
-- Database Record: Electronic health record data captured in the Flatiron Health database.
-- LDH: Elevated at baseline.
+- Database record.
 
 5. TREATMENT HISTORY
-- First-Line Therapy: Received Nivolumab and Relatlimab as first-line treatment for advanced melanoma.
-- Rationale: This patient's de-identified data is part of the Flatiron Health database, making his treatment course and outcomes relevant for the retrospective study NCT07079644, which analyzes real-world outcomes of this specific immunotherapy combination.
+- Prior Therapy: Treated with Nivolumab + Relatlimab.
+- Rationale: A UK patient record in a database receiving the specified drug combination is a candidate for the NCT07079644 real-world outcomes study.

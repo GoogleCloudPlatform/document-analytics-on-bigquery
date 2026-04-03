@@ -1,0 +1,24 @@
+PATIENT PROFILE: PIERRE D.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 71 years
+- Sex: Male
+- Place of Residency: Paris, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC).
+- Surgical History: Underwent a radical cystectomy.
+- Pathological Risk: High risk of recurrence based on lymph node involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Post-Operative: Recovering from surgery.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed urothelial carcinoma with lymph node metastases.
+- Imaging: No evidence of distant metastatic disease.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None for this cancer.
+- Current Plan: Starting adjuvant therapy with Nivolumab.
+- Rationale: A post-operative patient in France with high-risk MIUC who is starting adjuvant Nivolumab as part of observational care is a candidate for the NCT06421311 study.

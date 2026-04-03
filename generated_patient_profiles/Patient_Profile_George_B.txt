@@ -1,0 +1,24 @@
+PATIENT PROFILE: GEORGE B.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 60 years
+- Sex: Male
+- Place of Residency: London, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Melanoma (Stage IV).
+- Biomarker: BRAF wild-type.
+- Disease Site: Metastatic disease in the lungs.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mild cough and fatigue.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed metastatic melanoma.
+- LDH: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for metastatic disease.
+- Current Plan: Starting first-line treatment with dual immunotherapy (Nivolumab and Relatlimab).
+- Rationale: A patient receiving this specific Nivolumab/Relatlimab combination for advanced melanoma in the UK is a candidate for the NCT07091695 real-world outcomes study.

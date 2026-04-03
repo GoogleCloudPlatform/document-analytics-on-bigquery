@@ -1,0 +1,24 @@
+PATIENT PROFILE: JORDAN D.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 19 years
+- Sex: Male
+- Place of Residency: United States
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Alopecia Areata (AA).
+- Disease Extent: Greater than 50% scalp hair loss.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Extensive, patchy hair loss on the scalp.
+- Psychological Impact: The hair loss is causing significant emotional distress.
+- Prior Treatment Response: No significant regrowth after treatment with topical and intralesional corticosteroids.
+
+4. LABORATORY RESULTS
+- Autoimmune Screen: No other autoimmune conditions identified.
+- Biopsy: Scalp biopsy shows perifollicular lymphocytic infiltrate, consistent with Alopecia Areata.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has failed to respond to topical and intralesional steroids.
+- Current Plan: Starting oral treatment with Ritlecitinib, a JAK3/TEC family kinase inhibitor.
+- Rationale: This patient meets the age (12 years and older) and severity (>50% scalp hair loss) requirements for treatment with Ritlecitinib for severe Alopecia Areata in the United States, aligning with the patient population of study NCT07226531.
