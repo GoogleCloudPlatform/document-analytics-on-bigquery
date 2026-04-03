@@ -1,0 +1,24 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Sophie Dubois
+- Age: 78 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Neovascular (Wet) Age-Related Macular Degeneration (nAMD).
+- Active choroidal neovascularization.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Sudden onset of distorted vision (metamorphopsia) in the affected eye.
+- Reduced central visual acuity.
+
+4. LABORATORY RESULTS
+- Fluorescein Angiography: Confirmed active subretinal choroidal neovascularization.
+- Optical Coherence Tomography (OCT): Subretinal fluid and macular thickening.
+- Visual Acuity: 20/100 in the affected eye.
+
+5. TREATMENT HISTORY
+- Previous: Treatment naïve for nAMD.
+- Plan: Initiate Faricimab (Vabysmo) intravitreal injections for the management of neovascular age-related macular degeneration.

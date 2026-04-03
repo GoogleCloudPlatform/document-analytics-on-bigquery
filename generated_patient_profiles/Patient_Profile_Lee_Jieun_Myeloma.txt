@@ -1,0 +1,27 @@
+PATIENT PROFILE: LEE JI-EUN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 63 years
+- Sex: Female
+- Place of Residency: South Korea
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed Multiple Myeloma
+- Disease Status: Refractory to lenalidomide and bortezomib.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bone pain and fatigue.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for advanced systemic therapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Paraprotein: Monoclonal protein present.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Includes lenalidomide and bortezomib.
+- Current Plan: Initiating treatment with Elranatamab monotherapy.
+- Monitoring: Post-marketing safety study participation.

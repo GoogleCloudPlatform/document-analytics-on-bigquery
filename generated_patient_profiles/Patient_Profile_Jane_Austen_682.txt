@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Jane Austen
+- Age: 42 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Chronic Migraine.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- 18 headache days per month.
+- Severe throbbing unilateral pain with nausea and vomiting.
+- Photophobia and phonophobia.
+- BMI: 23.0 kg/m².
+
+4. LABORATORY RESULTS
+- Routine hematology: Normal.
+- Renal function: Normal.
+- Vital signs: Stable.
+
+5. TREATMENT HISTORY
+- Previous: Failed multiple triptans and topiramate due to side effects.
+- Plan: Use Rimegepant (Nurtec) for the acute treatment of migraine attacks and evaluate consistency of response.

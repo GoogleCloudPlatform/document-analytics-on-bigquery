@@ -1,0 +1,27 @@
+PATIENT PROFILE: MARIA GARCIA
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Cardiac Anatomy: Septal thickness 18 mm.
+- Disease Status: Symptomatic with significant left ventricular outflow tract (LVOT) gradient.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath during light exercise and exertional fatigue.
+- Performance Status: NYHA Class II heart failure symptoms.
+- Physical Status: No history of prior septal reduction procedure.
+
+4. LABORATORY RESULTS
+- Echocardiography: Documented significant resting or provoked LVOT gradient.
+- Cardiac Function: Preserved ejection fraction (LVEF > 55%).
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blocker therapy with persistent symptoms.
+- Current Plan: Initiating treatment with Mavacamten.
+- Monitoring: Regular echocardiographic assessment of LVEF and LVOT gradient.

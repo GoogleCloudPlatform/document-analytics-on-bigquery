@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Erik Lehnsherr
+Age: 60
+Sex: Male
+Residency: Berlin, Germany
+Occupation: Structural Engineer
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Diagnosis: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+Duration: 4 years
+Comorbidities: Chronic Fatigue
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Recurrent dark-colored urine (hemoglobinuria), extreme fatigue, abdominal pain episodes.
+Physical Status: Adult patient. No history of prior participation in Ravulizumab clinical trials.
+Weight: 80 kg.
+
+4. LABORATORY RESULTS
+LDH: 750 U/L (3x Upper Limit of Normal)
+Flow Cytometry: 55% PNH clone (Type III cells)
+Hemoglobin: 9.2 g/dL
+Reticulocyte Count: Elevated (180 x 10^9/L)
+Bilirubin: 2.1 mg/dL
+
+5. TREATMENT HISTORY
+Previous Treatments: Managed with supportive care and Eculizumab for 2 years with residual hemolysis and injection fatigue.
+Plan: Transition to Ravulizumab for long-term complement inhibition in a routine clinical setting.

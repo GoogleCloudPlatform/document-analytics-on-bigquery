@@ -1,0 +1,29 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Bruce Wayne
+Age: 67
+Sex: Male
+Residency: Gotham City, USA
+Occupation: Business Executive
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Diagnosis: Muscle Invasive Bladder Cancer (Urothelial Carcinoma)
+Duration: 6 months
+Comorbidities: None
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Hematuria, urinary frequency.
+Physical Status: WHO Performance Status 0. Scheduled for radical cystectomy.
+Weight: 82 kg.
+
+4. LABORATORY RESULTS
+Genomic Testing: Positive for Deleterious BRCA2 Mutation.
+Hemoglobin: 13.8 g/dL
+ANC: 4.2 x 10^9/L
+Platelets: 250 x 10^9/L
+Creatinine Clearance: 75 mL/min
+LVEF: 60%
+QTc: 415ms.
+
+5. TREATMENT HISTORY
+Previous Treatments: None. Treatment-naive for muscle-invasive disease.
+Plan: Initiate biomarker-directed neoadjuvant therapy with Olaparib prior to scheduled surgery.

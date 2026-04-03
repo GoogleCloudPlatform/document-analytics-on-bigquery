@@ -1,0 +1,24 @@
+PATIENT PROFILE: ARTHUR PENDRAGON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 52 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Secondary Condition: None documented
+- Other Relevant History: Adult patient with gMG initiating Ravulizumab to monitor real-world functional status and safety.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: MG-ADL score of 10; previously on pyridostigmine and low-dose steroids with suboptimal response.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Generalized Myasthenia Gravis (gMG)
+- Current Plan: MG-ADL score of 10; previously on pyridostigmine and low-dose steroids with suboptimal response.

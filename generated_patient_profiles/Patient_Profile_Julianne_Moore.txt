@@ -1,0 +1,24 @@
+PATIENT PROFILE: JULIANNE MOORE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD)
+- Secondary Condition: None documented
+- Other Relevant History: Symptomatic COPD patient requiring escalation to triple therapy for better lung function and symptom control.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: CAT score of 22; FEV1 48% predicted; transitioning to BGF triple therapy after persistent symptoms on dual therapy.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Chronic Obstructive Pulmonary Disease (COPD).
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Chronic Obstructive Pulmonary Disease (COPD)
+- Current Plan: CAT score of 22; FEV1 48% predicted; transitioning to BGF triple therapy after persistent symptoms on dual therapy.

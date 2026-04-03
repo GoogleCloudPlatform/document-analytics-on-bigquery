@@ -1,0 +1,27 @@
+PATIENT PROFILE: PARK JI-MIN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 67 years
+- Sex: Male
+- Place of Residency: Seoul, South Korea
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed Multiple Myeloma
+- Disease Status: Returned after three lines of therapy.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue and generalized bone discomfort.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for advanced immunotherapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Paraprotein: Elevation in myeloma markers.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Includes proteasome inhibitors and IMiDs.
+- Current Plan: Initiating treatment with Elranatamab (bispecific antibody).
+- Monitoring: Post-marketing surveillance for safety and efficacy in Korea.

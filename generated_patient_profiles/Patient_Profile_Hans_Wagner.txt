@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Hans Wagner
+- Age: 67 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Muscle Invasive Bladder Cancer (MIBC).
+- Urothelial carcinoma of the bladder (Stage T2N0M0).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Intermittent hematuria.
+- Frequency and urgency of urination.
+- ECOG Performance Status: 0.
+
+4. LABORATORY RESULTS
+- Tumor Genomic Profiling: Confirmed high DNA damage repair (DDR) gene mutations.
+- Renal Function: Creatinine 1.0 mg/dL.
+- Hematology: Hemoglobin 13.5 g/dL.
+- Imaging: Localized bladder wall thickening, no evidence of metastasis.
+
+5. TREATMENT HISTORY
+- Previous: Biopsy and initial staging.
+- Plan: Initiate biomarker-directed therapy with Olaparib in combination with standard care for muscle-invasive bladder cancer.

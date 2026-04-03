@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Maria Gonzalez
+- Age: 31 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Moderate Systemic Lupus Erythematosus (SLE).
+- Systemic involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Debilitating systemic fatigue and "brain fog."
+- Significant impact on health-related quality of life.
+- Joint aches and occasional skin sensitivity.
+
+4. LABORATORY RESULTS
+- SLEDAI-2K score: Moderate activity.
+- Anti-dsDNA: Positive.
+- Complement levels: Mildly low.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Standard of care therapy with suboptimal symptom relief.
+- Plan: Initiate Anifrolumab (Saphnelo) to assess improvements in patient-reported outcomes and disease control in a real-world setting.

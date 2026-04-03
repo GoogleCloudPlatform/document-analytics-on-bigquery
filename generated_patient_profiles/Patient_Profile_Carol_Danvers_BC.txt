@@ -1,0 +1,27 @@
+PATIENT PROFILE: CAROL DANVERS
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 49 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HER2+ Metastatic Breast Cancer
+- Disease Status: Progressed after initial HER2-targeted therapy.
+- Metastatic Sites: Lymph nodes and bone.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Exertional fatigue and localized bone pain.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for triple therapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Pathology: HER2-positive status confirmed.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Progressed after Trastuzumab Deruxtecan (T-DXd).
+- Current Plan: Initiating triple therapy with Tucatinib, Trastuzumab, and Capecitabine.
+- Monitoring: Real-world outcome study following T-DXd failure.

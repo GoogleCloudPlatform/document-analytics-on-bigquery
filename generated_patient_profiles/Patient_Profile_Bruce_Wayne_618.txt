@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Bruce Wayne
+- Age: 32 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Business Owner
+- Location: USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Alopecia Areata.
+- Alopecia Universalis (total loss of hair on scalp and body).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Complete loss of hair on the scalp, eyebrows, and eyelashes.
+- Total loss of body hair.
+- SALT score: 100.
+- No other significant medical conditions.
+
+4. LABORATORY RESULTS
+- Thyroid function: Normal.
+- Hemoglobin: 15.0 g/dL.
+- LFTs: Normal.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Failed topical corticosteroids, intralesional injections, and minoxidil.
+- Plan: Initiate Ritlecitinib (Litfulo) for the treatment of severe Alopecia Areata and evaluation of hair regrowth.

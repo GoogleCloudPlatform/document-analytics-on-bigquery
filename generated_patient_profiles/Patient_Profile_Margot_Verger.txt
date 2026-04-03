@@ -1,0 +1,31 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Margot Verger
+Age: 38
+Gender: Female
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Business Owner
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Relapsed Non-Hodgkin Lymphoma (NHL).
+History: Previously participated in a Phase 1 study of CC-122. Currently deriving clinical benefit from therapy and has not experienced progressive disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 0.
+Symptoms: Stable. No current constitutional symptoms. Tolerating prior therapy well with no unresolved significant toxicities.
+Physical Examination: No new lymphadenopathy. No signs of infection.
+
+4. LABORATORY RESULTS
+Hematology:
+- WBC: 4.8 x 10^3/µL
+- Hemoglobin: 11.2 g/dL
+- Platelets: 160 x 10^3/µL
+Chemistry:
+- ALT: 18 U/L
+- AST: 20 U/L
+- LDH: 190 U/L (Normal)
+- Creatinine: 0.8 mg/dL
+Pregnancy Test: Negative.
+
+5. TREATMENT HISTORY
+Plan: Transition to rollover study (NCT05688475) to continue receiving treatment with CC-122 plus Dexamethasone. CC-122 dose to remain consistent with the dose established in the parent study. Dexamethasone administered orally as per protocol. Continue long-term safety and tolerability monitoring.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: DAVID STRATHAIRN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 77 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: COPD symptomatic management
+- Secondary Condition: None documented
+- Other Relevant History: COPD routine care patient requiring escalation to triple therapy for better symptom management.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent dyspnea; CAT score 22; switching to triple therapy with BGF.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for COPD symptomatic management.
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for COPD symptomatic management
+- Current Plan: Persistent dyspnea; CAT score 22; switching to triple therapy with BGF.

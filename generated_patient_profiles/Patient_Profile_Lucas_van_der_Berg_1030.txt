@@ -1,0 +1,42 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Lucas van der Berg
+Age: 12
+Gender: Male
+Race: Caucasian
+Ethnicity: Dutch
+Occupation: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Von Willebrand Disease (VWD), Type 3.
+Status: Confirmed diagnosis based on medical records (Extremely low VWF:Ag and FVIII).
+Symptoms: History of severe mucosal bleeding (epistaxis and gingival bleeding) and joint bleeds.
+Requirement: Documented and confirmed use of standard-of-care (SOC) prophylactic therapy (1-3 times weekly).
+Comorbidities: None. No history of intracranial hemorrhage or GI bleeding within 18 months. Adequate hematologic, hepatic, and renal function.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Overall Status: Stable on prophylaxis.
+Symptoms: Occasional easy bruising. No active bleeds.
+Physical Examination: Normal range of motion in all joints. No signs of acute hemorrhage.
+Height: 155 cm
+Weight: 42 kg
+Vital Signs:
+- BP: 105/65 mmHg
+- HR: 78 bpm
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 12.2 g/dL
+- WBC: 6.0 x 10^3/µL
+- Platelets: 210 x 10^9/L
+Coagulation:
+- VWF Antigen: < 1%
+- VWF Ristocetin Cofactor: < 1%
+- FVIII Activity: 2%
+Chemistry:
+- ALT: 18 U/L
+- AST: 20 U/L
+- Total Bilirubin: 0.6 mg/dL
+- Creatinine: 0.5 mg/dL (Normal for age)
+
+5. TREATMENT HISTORY
+Plan: Continue prophylactic treatment with von Willebrand factor concentrate (e.g., Alphanate or Wilate) twice weekly as part of a multicenter non-interventional study (NCT06883240). Monitor annualized bleed rate (ABR) for treated bleeds and evaluate health-related quality of life (HRQoL) over 24 weeks. Maintain stable SOC regimen and participate in regular registry data collection. Provide signed informed consent (parental) and assent.

@@ -1,0 +1,32 @@
+PATIENT PROFILE: LEE JI-EUN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: South Korea
+- Ethnicity: Korean
+- Employment Status: Active (Supports health status assessment)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Non-Small Cell Lung Cancer (NSCLC)
+- Clinical Stage: Locally advanced or metastatic disease.
+- Molecular Marker: Epidermal Growth Factor Receptor (EGFR) exon 19 deletion confirmed via tissue biopsy or plasma testing.
+- Diagnosis Detail: Confirmed diagnosis requiring first-line targeted therapy.
+- General Health: No history of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Symptoms consistent with advanced lung cancer, such as persistent cough, fatigue, or exertional shortness of breath.
+- Performance Status: Good (e.g., ECOG 0–1; fully ambulatory and able to perform activities of daily living).
+- Clinical Status: Treatment-naïve for Vizimpro (Dacomitinib).
+- Physical Status: Stable; no history of untreated CNS metastases or severe uncontrolled cardiovascular disease.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate (ANC, Platelets, Hemoglobin within normal limits).
+- Liver Function: Normal (AST/ALT, Bilirubin within normal limits).
+- Renal Function: Normal (Creatinine and eGFR within acceptable limits).
+- Biomarker Confirmation: EGFR mutation-positive status documented at baseline.
+- Allergy Status: No known hypersensitivity to Dacomitinib or its excipients.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naïve for the current advanced NSCLC diagnosis. No prior exposure to Dacomitinib (Vizimpro).
+- Current Plan: Initiating first-line treatment with Dacomitinib (Vizimpro) according to the locally approved label in South Korea. Therapy is ongoing with plans for clinical follow-up for safety and effectiveness monitoring. Signed informed consent provided for post-marketing surveillance. Decision for therapy made independently of study participation. No contraindications per the local label.

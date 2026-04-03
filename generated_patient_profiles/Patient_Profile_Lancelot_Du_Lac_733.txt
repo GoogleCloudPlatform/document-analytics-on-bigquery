@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Lancelot Du Lac
+- Age: 60 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Long-standing Generalized Myasthenia Gravis (gMG).
+- History of Myasthenic Crisis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent limb weakness.
+- Generalized fatigue.
+- Stable respiratory status currently.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Anti-AChR Antibody: Positive (High titer).
+- Pulmonary Function Tests: Within baseline limits.
+- Hemoglobin: 14.2 g/dL.
+- LFTs: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Multiple immunosuppressants and chronic corticosteroids.
+- Plan: Transition to Ravulizumab (Ultomiris) for consistent complement inhibition and prevention of future crises.

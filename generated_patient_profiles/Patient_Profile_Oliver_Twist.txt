@@ -1,0 +1,27 @@
+PATIENT PROFILE: OLIVER TWIST
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 4 months
+- Sex: Male
+- Place of Residency: Rural UK
+- Status: Infant
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Comorbidities: Bronchopulmonary dysplasia (BPD) due to extreme prematurity.
+- Birth History: Born at 28 weeks gestation.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Occasional tachypnea and increased work of breathing during feeds.
+- Performance Status: Dependent on caregivers; requires specialized respiratory monitoring.
+- Physical Status: Stable but at high risk for severe lower respiratory tract infection.
+
+4. LABORATORY RESULTS
+- Pulmonary Function: Reduced lung compliance consistent with BPD.
+- Growth: Tracking below 10th percentile for corrected age.
+- Infectious Disease: Currently negative for acute respiratory infections.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None for RSV prevention.
+- Current Plan: Scheduled for monthly prophylactic Palivizumab injections before and during the winter season.
+- Monitoring: Close follow-up by pediatric pulmonology.

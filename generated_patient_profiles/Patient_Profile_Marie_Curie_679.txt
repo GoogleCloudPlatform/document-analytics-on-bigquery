@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Marie Curie
+- Age: 32 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Scientist
+- Location: USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Alopecia Areata.
+- Alopecia Totalis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- > 90% loss of scalp hair.
+- Loss of eyebrows and eyelashes.
+- No history of other excluded alopecia types.
+- SALT score: 95.
+
+4. LABORATORY RESULTS
+- Thyroid function: Normal.
+- Hemoglobin: 12.8 g/dL.
+- Renal function: Normal.
+- LFTs: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Failed topical and intralesional corticosteroids.
+- Plan: Initiate Ritlecitinib (Litfulo) for the treatment of severe Alopecia Areata and evaluation of real-world effectiveness.

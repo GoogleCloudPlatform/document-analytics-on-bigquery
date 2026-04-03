@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: William Riker
+- Age: 60 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Post-surgical status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Asymptomatic post-surgery.
+- ECOG Performance Status: 0.
+- Generally physically fit.
+
+4. LABORATORY RESULTS
+- Pathology: T3 bladder tumor with invasive features.
+- PD-L1 expression: Present.
+- Hemoglobin: 13.5 g/dL.
+- Creatinine Clearance: 65 mL/min.
+
+5. TREATMENT HISTORY
+- Previous: Surgical resection of primary tumor.
+- Plan: Initiate adjuvant Nivolumab (Opdivo) therapy for the reduction of disease recurrence risk.

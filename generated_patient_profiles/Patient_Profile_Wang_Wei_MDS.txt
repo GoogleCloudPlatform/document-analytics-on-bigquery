@@ -1,0 +1,27 @@
+PATIENT PROFILE: WANG WEI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 72 years
+- Sex: Male
+- Place of Residency: Beijing, China
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-risk Myelodysplastic Syndromes (MDS)
+- IPSS-R Score: 'Very Low' risk.
+- Status: ESA-naive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic anemia-related fatigue.
+- Performance Status: ECOG 1.
+- Physical Status: Symptomatic anemia.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Low hemoglobin count.
+- Marrow Function: Confirmed MDS.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: ESA-naive.
+- Current Plan: Initiating Luspatercept monotherapy.
+- Monitoring: Real-world treatment pattern study in China.

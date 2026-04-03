@@ -1,25 +1,24 @@
 PATIENT PROFILE: ROBERT WILSON
 
 1. DEMOGRAPHIC INFORMATION
-- Age: 45 years
+- Age: 60 years
 - Sex: Male
-- Place of Residency: Not specified.
-- Employment Status: Not specified.
+- Place of Residency: United States
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Primary Disorder: Moderate-to-Severe Ulcerative Colitis
-- Diagnosis Date: 7 years prior
-- Disease Status: Currently well-controlled on ozanimod therapy.
+- Primary Disorder: Metastatic NSCLC (PD-L1 <1%)
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: US patient with PD-L1 negative metastatic NSCLC receiving the NIC regimen in a real-world setting.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but historically indicative of moderate-to-severe UC. Currently well-controlled implies reduced or absent symptoms.
-- Performance Status: Assumed good, enabling daily activities.
+- Symptoms: Initiating first-line dual immunotherapy (Nivolumab + Ipilimumab) plus 2 cycles of chemotherapy.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Metastatic NSCLC (PD-L1 <1%).
 
 4. LABORATORY RESULTS
-- Endoscopic findings: Expected to show signs of UC, potentially improved on therapy.
-- Inflammatory markers: Expected to be reduced due to effective therapy.
-- Other Lab Results: Assumed within normal limits for study eligibility.
+- Tumor Markers: PD-L1 expression < 1% (TPS 0%). Molecular Testing: Wild type for EGFR, ALK, and ROS1 mutations.
 
 5. TREATMENT HISTORY
-- Prior Therapy: Failed several conventional and biologic therapies.
-- Current Plan: Currently on ozanimod therapy, which his physician has determined is suitable for continued use.
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Initiating first-line dual immunotherapy (Nivolumab + Ipilimumab) plus 2 cycles of chemotherapy.

@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Lucas van der Berg
+- Age: 12 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Student
+- Location: Netherlands
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Von Willebrand Disease (VWD), Type 3.
+- History of severe mucosal hemorrhage.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Life-long history of severe nosebleeds and gastrointestinal bleeding.
+- Recurrent joint bleeds causing chronic hemarthrosis.
+- Active lifestyle within limitations of disease.
+
+4. LABORATORY RESULTS
+- VWF Activity: < 1% (Undetectable).
+- VWF Antigen: Undetectable.
+- Factor VIII: 4%.
+- Hemoglobin: 11.2 g/dL.
+
+5. TREATMENT HISTORY
+- Previous: On-demand factor replacement.
+- Plan: Initiate prophylactic standard-of-care factor replacement therapy to prevent chronic joint disease.

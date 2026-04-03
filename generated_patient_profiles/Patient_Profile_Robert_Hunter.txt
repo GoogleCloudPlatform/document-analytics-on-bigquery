@@ -1,0 +1,24 @@
+PATIENT PROFILE: ROBERT HUNTER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Rheumatoid Arthritis
+- Secondary Condition: None documented
+- Other Relevant History: Biologic-naive RA patient in Japan starting Abatacept.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: biologic-naive; starting Abatacept.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Rheumatoid Arthritis.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Rheumatoid Arthritis
+- Current Plan: biologic-naive; starting Abatacept.

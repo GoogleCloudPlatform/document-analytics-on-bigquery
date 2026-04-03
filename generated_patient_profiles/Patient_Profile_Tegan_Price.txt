@@ -1,0 +1,24 @@
+PATIENT PROFILE: TEGAN PRICE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 40 years
+- Sex: Female
+- Place of Residency: Poland
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Secondary Condition: None documented
+- Other Relevant History: Polish adult with PNH initiating Ravulizumab in routine clinical practice.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: starting Ravulizumab within the Polish National Drug Program.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.5x Upper Limit of Normal (ULN); Hemoglobin 8.5 g/dL; Flow cytometry confirms 45% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Current Plan: starting Ravulizumab within the Polish National Drug Program.

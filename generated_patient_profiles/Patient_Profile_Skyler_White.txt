@@ -1,0 +1,24 @@
+PATIENT PROFILE: SKYLER WHITE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
+- Secondary Condition: None documented
+- Other Relevant History: Real-world MDS patient initiating Luspatercept for the treatment of transfusion-dependent anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Documented ring sideroblasts; seeking to reduce the burden of clinic visits for blood transfusions.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Lower-Risk Myelodysplastic Syndromes (MDS).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Hemoglobin 7.8 g/dL; Serum Erythropoietin (sEPO) 350 U/L. Bone Marrow: >15% ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Lower-Risk Myelodysplastic Syndromes (MDS)
+- Current Plan: Documented ring sideroblasts; seeking to reduce the burden of clinic visits for blood transfusions.

@@ -1,0 +1,35 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Jame Gumb
+Age: 44
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Tailor
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Metastatic Non-Small Cell Lung Cancer (NSCLC).
+Mutation: Confirmed KRAS G12C mutation (histologically confirmed).
+Status: Advanced malignant tumor, metastatic.
+Comorbidities: None significant. No history of ILD or pneumonitis. No history of severe cutaneous adverse reactions (SCARs).
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 1.
+Symptoms: Persistent cough, mild chest discomfort.
+Physical Examination: No untreated CNS metastases. No clinically significant cardiac disease.
+Measurable Disease: Right lung mass 3.2 cm, mediastinal lymph node 1.8 cm (RECIST 1.1).
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 12.2 g/dL
+- ANC: 4.1 x 10^9/L
+- Platelets: 210 x 10^9/L
+Chemistry:
+- ALT: 35 U/L
+- AST: 32 U/L
+- Total Bilirubin: 1.0 mg/dL
+- Creatinine: 1.1 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Initiate triple combination therapy with BMS-986488 (SOS1 inhibitor), Adagrasib (KRAS G12C inhibitor), and Cetuximab as part of a Phase 1 study (NCT06764771). Adagrasib 600 mg BID orally, Cetuximab 500 mg/m2 IV every 2 weeks, and BMS-986488 at assigned oral dose. Monitor for safety, DLTs, and antitumor activity.

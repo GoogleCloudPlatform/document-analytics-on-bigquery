@@ -1,0 +1,27 @@
+PATIENT PROFILE: BRUCE WAYNE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 38 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Atopic Dermatitis
+- Symptoms: Chronic eczema, intense itching, and sleep disruption.
+- Comorbidities: None.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Extensive skin lesions and debilitating pruritus.
+- Performance Status: ECOG 0.
+- Physical Status: Failed prior biologic therapy.
+
+4. LABORATORY RESULTS
+- EASI Score: > 20.
+- IgE Level: High.
+- Hematologic Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed Dupilumab.
+- Current Plan: Initiating Abrocitinib for rapid symptom control.
+- Monitoring: Clinical study for safety and efficacy in severe AD.

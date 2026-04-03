@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Michael Ryan
+- Age: 61 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Chronic Renal Insufficiency.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Morning hemoglobinuria (dark urine).
+- Significant fatigue.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Flow Cytometry: Confirmed large PNH clone size.
+- Serum Creatinine: 1.4 mg/dL (Mildly elevated).
+- Creatinine Clearance: 58 mL/min.
+- LDH: 750 U/L.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care only.
+- Plan: Initiate Ravulizumab (Ultomiris) for consistent C5 inhibition and stabilization of hemoglobin levels in a routine care setting.

@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Linda Mercer
+- Age: 35 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: School Teacher
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Breakthrough Hemolysis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Disabling fatigue interfering with daily activities.
+- History of dark urine in the mornings.
+- Scleral icterus.
+
+4. LABORATORY RESULTS
+- Flow Cytometry: Confirmed large PNH clone.
+- LDH: Elevated despite prior therapy (Breakthrough hemolysis).
+- Hemoglobin: 9.8 g/dL.
+- Bilirubin: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Eculizumab therapy with experienced breakthrough hemolysis.
+- Plan: Transition to Ravulizumab (Ultomiris) for improved clinical stability and reduced dosing frequency.

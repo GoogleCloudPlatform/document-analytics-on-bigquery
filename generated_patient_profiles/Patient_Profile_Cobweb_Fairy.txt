@@ -1,0 +1,35 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Cobweb Fairy
+Age: 64
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Gardener
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Acute Myeloid Leukemia (AML).
+Status: Newly diagnosed AML based on WHO 2016.
+Risk Stratification: Adverse genetic risk (ELN 2022). TP53 mutation negative.
+Treatment Eligibility: Ineligible for intensive induction chemotherapy due to age (near 75) and comorbidities (DLCO 60% predicted).
+Comorbidities: Mild COPD. No history of MDM2-inhibitor therapy. No active serious systemic infection.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 2.
+Symptoms: Progressive fatigue, dyspnea on exertion, frequent infections.
+Physical Examination: Pallor, petechiae. Stable vital signs.
+Ability: Willing and able to comply with intensive sampling and bone marrow biopsies.
+
+4. LABORATORY RESULTS
+Hematology:
+- WBC: 12 x 10^9/L (< 25 x 10^9/L requirement)
+- Hemoglobin: 8.2 g/dL
+- Platelets: 45 x 10^9/L
+Renal/Hepatic Function:
+- eGFR: 75 mL/min/1.73 m2 (>= 60 requirement)
+- AST: 45 U/L (<= 3x ULN)
+- ALT: 40 U/L (<= 3x ULN)
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with Siremadlin (MDM2 inhibitor) in combination with Venetoclax and Azacitidine as part of a Phase 1b/2 study (NCT05155709). Treatment administered in 28-day cycles. Monitor for dose-limiting toxicities (DLTs) and achievement of Complete Remission (CR). Undergo regular bone marrow monitoring and safety assessments. Avoid prohibited CYP3A4 inhibitors/inducers.

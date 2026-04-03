@@ -1,0 +1,27 @@
+PATIENT PROFILE: LARA CROFT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 32 years
+- Sex: Female
+- Place of Residency: UK
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Refractory Atopic Dermatitis
+- Severity: Extensive skin lesions.
+- Disease Status: Inadequate response to prior biologic therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic itching and visible skin inflammation.
+- Performance Status: ECOG 0.
+- Physical Status: EASI score > 20.
+
+4. LABORATORY RESULTS
+- EASI Score: 22.
+- IgE Level: Elevated.
+- Hematologic Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed Dupilumab and topical therapies.
+- Current Plan: Initiating treatment with Abrocitinib.
+- Monitoring: Real-world efficiency study in biologic-failing patients.

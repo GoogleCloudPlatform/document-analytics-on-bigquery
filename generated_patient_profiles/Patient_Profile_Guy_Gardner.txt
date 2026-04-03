@@ -1,0 +1,24 @@
+PATIENT PROFILE: GUY GARDNER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 79 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Sepsis with Renal Impairment
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Japanese patient with sepsis and renal impairment initiating Zavicefta in a surveillance study.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Creatinine clearance < 50 mL/min; starting Zavicefta (Ceftazidime-Avibactam).
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Sepsis with Renal Impairment.
+
+4. LABORATORY RESULTS
+- Renal Function: Creatinine Clearance (CrCl) 45 mL/min (Mild to Moderate Impairment).
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Creatinine clearance < 50 mL/min; starting Zavicefta (Ceftazidime-Avibactam).

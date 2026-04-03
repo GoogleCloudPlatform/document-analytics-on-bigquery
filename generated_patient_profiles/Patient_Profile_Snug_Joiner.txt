@@ -1,0 +1,35 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Snug Joiner
+Age: 45
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Joiner
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Healthy Volunteer. No history of cancer or significant medical illnesses. Negative for HIV, HBsAg, and HCV.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Overall Status: Healthy.
+Height: 175 cm
+Weight: 80 kg
+BMI: 26.1 kg/m2 (Within 18.0 to 32.0 range)
+Vital Signs:
+- BP: 122/76 mmHg
+- HR: 72 bpm
+Physical Examination: Normal findings.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 14.8 g/dL
+- WBC: 6.5 x 10^3/µL
+Chemistry:
+- ALT: 20 U/L
+- AST: 18 U/L
+- Bilirubin: 0.7 mg/dL
+- Creatinine: 0.9 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Enroll in a Phase 1 open-label, 2-period crossover study (NCT07222098). Evaluate the effect of a single dose of MK-1084 on the pharmacokinetics of Rosuvastatin and Metformin. Administer Rosuvastatin and Metformin with and without MK-1084 in different periods. Conduct intensive PK sampling for all three drugs. Monitor for safety and tolerability.

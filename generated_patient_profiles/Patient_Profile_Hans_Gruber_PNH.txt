@@ -1,0 +1,27 @@
+PATIENT PROFILE: HANS GRUBER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Male
+- Place of Residency: Germany
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Symptoms: Chronic fatigue and evidence of breakthrough hemolysis.
+- Clone Size: Confirmed via flow cytometry.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent fatigue and occasional episodes of hemoglobinuria.
+- Performance Status: ECOG 0.
+- Physical Status: Suboptimal control on current therapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Hemoglobin 10.8 g/dL.
+- Hemolysis Markers: LDH elevated at 1.5x Upper Limit of Normal (ULN).
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Previously managed with Eculizumab.
+- Current Plan: Transitioning to Ravulizumab for more stable complement inhibition.
+- Monitoring: Regular assessment of LDH and clinical symptoms in a real-world setting.

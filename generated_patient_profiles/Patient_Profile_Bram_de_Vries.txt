@@ -1,0 +1,34 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Bram de Vries
+Age: 14
+Gender: Male
+Race: Caucasian
+Ethnicity: Dutch
+Occupation: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Advanced Melanoma (Metastatic).
+Status: Histologically confirmed metastatic melanoma. Identified in the Dutch Melanoma Treatment Registry (DMTR).
+Comorbidities: None. No participation in other clinical trials within 4 weeks prior to first dose.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: Good.
+Symptoms: Palpable skin lesions, mild lymphadenopathy. No significant pain.
+Physical Examination: Post-surgical changes from initial resection. Multiple subcutaneous nodules.
+Height: 165 cm
+Weight: 55 kg
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 12.5 g/dL
+- WBC: 6.2 x 10^3/µL
+- Platelets: 240 x 10^3/µL
+Chemistry:
+- ALT: 22 U/L
+- AST: 20 U/L
+- LDH: 215 U/L (Normal)
+- Total Bilirubin: 0.7 mg/dL
+- Creatinine: 0.6 mg/dL
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with monotherapy Ipilimumab for advanced melanoma as part of a national retrospective registry study (NCT04196452). Administer Ipilimumab at established pediatric dosing. Monitor for Grade 3-4 Adverse Events and long-term clinical effects. Participate in regular follow-up visits within the DMTR framework.

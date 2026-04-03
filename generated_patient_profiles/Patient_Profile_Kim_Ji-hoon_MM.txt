@@ -1,0 +1,29 @@
+PATIENT PROFILE: KIM JI-HOON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Seoul, South Korea
+- Employment Status: Retired (Supports functional status assessment)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed and Refractory Multiple Myeloma (RRMM)
+- Diagnosis Duration: 5 years
+- Clinical Status: Progressed after several lines of advanced therapy.
+- Performance Status: Functional; ECOG 0–2 (Able to provide informed consent).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Symptoms consistent with multiple myeloma progression, including fatigue and potentially bone pain.
+- Physical Status: Generally stable but requires advanced systemic intervention due to relapsed disease.
+- General Health: No history of significant hypersensitivity to monoclonal antibodies.
+- Clinical State: Currently stable enough for monotherapy initiation.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate for therapy initiation (ANC, Platelets, and Hemoglobin within protocol-defined ranges).
+- Liver Function: Normal (AST/ALT within acceptable limits).
+- Renal Function: Normal or mildly impaired (CrCl within acceptable ranges for therapy).
+- Disease Markers: Evidence of measurable disease (e.g., M-protein, serum free light chain) confirming progression.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Extensive history of at least three prior lines of therapy, including a proteasome inhibitor (e.g., Bortezomib), an immunomodulatory agent (e.g., Lenalidomide), and an anti-CD38 monoclonal antibody (e.g., Daratumumab).
+- Current Plan: Initiating Elranatamab monotherapy as part of routine clinical care for RRMM following progression on prior treatments. Signed informed consent for post-marketing surveillance provided. Decision to receive therapy made independently of study participation. No contraindications per the local label.

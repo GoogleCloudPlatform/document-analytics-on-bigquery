@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Harry Osborn
+- Age: 50 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Eosinophilic Asthma.
+- Significant nocturnal symptoms.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Waking up 3-4 times per week due to cough and wheeze.
+- Daytime fatigue due to poor sleep.
+- Poorly controlled disease on current biologic therapy.
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 420 cells/µL.
+- FEV1: 68% of predicted.
+- IgE levels: Elevated.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Failed prior biologic therapy (e.g., Omalizumab).
+- Plan: Transition to Tezepelumab (Tezspire) for broad-spectrum inflammatory control in a real-world setting.

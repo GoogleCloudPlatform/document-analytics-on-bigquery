@@ -1,0 +1,29 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Arthur Curry
+- Age: 65 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Advanced Solid Malignancy (Metastatic).
+- Type 2 Diabetes Mellitus.
+- Hypertension.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Stable metastatic disease.
+- Controlled hypertension and blood glucose.
+- ECOG Performance Status: 1.
+- BMI: 28.0 kg/m².
+
+4. LABORATORY RESULTS
+- LFTs: Within normal limits.
+- Renal function: Normal.
+- HbA1c: 7.0%.
+- Blood Pressure: 135/85 mmHg.
+
+5. TREATMENT HISTORY
+- Previous: Multiple lines of standard chemotherapy for advanced cancer.
+- Current: Metformin and antihypertensive medications.
+- Plan: Participate in a pharmacology study to evaluate the bioavailability and drug-drug interaction potential of Saruparib when co-administered with Metformin and Rosuvastatin.

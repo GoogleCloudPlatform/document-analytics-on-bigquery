@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Rick Blaine
+- Age: 52 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Business Owner (Casablanca)
+- Location: Morocco
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Eosinophilic Asthma.
+- History of minor cardiac arrhythmias.
+- Increased risk for Major Adverse Cardiovascular Events (MACE).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Frequent asthma exacerbations requiring systemic corticosteroids.
+- Persistent wheezing and nocturnal dyspnea.
+- Cardiovascular: Occasional palpitations, currently stable.
+- Blood Pressure: 130/85 mmHg.
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 500 cells/µL.
+- FEV1: 68% of predicted.
+- IgE: 250 IU/mL.
+- ECG: Evidence of prior minor supraventricular ectopy.
+
+5. TREATMENT HISTORY
+- Previous: High-dose ICS/LABA and Leukotriene receptor antagonists.
+- Plan: Initiate add-on therapy with Tezepelumab (Tezspire) for severe asthma management with targeted MACE surveillance.

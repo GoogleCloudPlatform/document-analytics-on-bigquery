@@ -1,0 +1,24 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: James Gordon
+- Age: 60 years
+- Sex: Male
+- Race/Ethnicity: Korean
+- Occupation: Retired
+- Location: Seoul, South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- COVID-19 Vaccination (BNT162b2 safety monitoring).
+- Generally healthy status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Currently asymptomatic.
+- No history of myocarditis or pericarditis.
+- Physical Status: Stable.
+
+4. LABORATORY RESULTS
+- Baseline vital signs: Normal.
+- ECG: Normal sinus rhythm.
+- Troponin: Within normal limits.
+
+5. TREATMENT HISTORY
+- Plan: Post-marketing surveillance for late-onset adverse events following the administration of the Comirnaty booster vaccine.

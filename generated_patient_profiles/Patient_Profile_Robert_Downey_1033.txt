@@ -1,0 +1,29 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Robert Downey
+Age: 59
+Sex: Male
+Residency: Los Angeles, USA
+Occupation: Actor
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Diagnosis: Stage IV Adenocarcinoma of the Lung (Metastatic NSCLC)
+Duration: 2 months
+Comorbidities: Managed Hypertension
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Persistent cough, mild shortness of breath on exertion, fatigue.
+Physical Status: WHO Performance Status 1. No evidence of CNS metastases.
+Weight: 75 kg.
+
+4. LABORATORY RESULTS
+PD-L1 TPS: 45%
+EGFR Mutation: Wild-type
+ALK Fusion: Negative
+Troponin I: 0.02 ng/mL (Normal)
+Hemoglobin: 13.5 g/dL
+Platelets: 210 x 10^9/L
+Creatinine: 0.9 mg/dL
+
+5. TREATMENT HISTORY
+Previous Treatments: None for metastatic disease.
+Plan: Initiate first-line systemic chemotherapy with Cisplatin and Pemetrexed.

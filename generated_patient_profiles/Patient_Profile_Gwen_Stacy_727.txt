@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Gwen Stacy
+- Age: 33 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Allergic Asthma.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent wheezing and cough.
+- Allergic triggers identified.
+- Daily asthma symptoms despite maintenance therapy.
+- Managed at a UK specialized asthma center.
+
+4. LABORATORY RESULTS
+- Blood Eosinophils: 320 cells/µL.
+- Total IgE: 450 IU/mL.
+- FEV1: 78% of predicted.
+- Specific IgE: Positive for multiple allergens.
+
+5. TREATMENT HISTORY
+- Previous: High-dose inhaled steroids and LABA.
+- Plan: Initiate Tezepelumab (Tezspire) therapy and monitor treatment patterns in a real-world setting.

@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Hiroshi Tanaka
+- Age: 50 years
+- Sex: Male
+- Race/Ethnicity: Japanese
+- Occupation: Professional
+- Location: Japan
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Chronic Myelogenous Leukemia (CML).
+- Chronic Phase disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Currently asymptomatic.
+- ECOG Performance Status: 0.
+- Stable clinical condition on current therapy.
+
+4. LABORATORY RESULTS
+- BCR-ABL1 transcript levels: Achieving Major Molecular Response (MMR, < 0.1%).
+- Hematology: Within normal limits.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Long-term Imatinib therapy.
+- Plan: Switch to or add Asciminib to evaluate the potential for treatment-free remission.

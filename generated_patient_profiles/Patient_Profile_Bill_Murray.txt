@@ -1,0 +1,24 @@
+PATIENT PROFILE: BILL MURRAY
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 74 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: MDS Ring Sideroblasts
+- Secondary Condition: None documented
+- Other Relevant History: Transfusion-dependent MDS patient with ring sideroblasts initiating Luspatercept therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Serum EPO > 200 U/L; transfusion-dependent; starting Luspatercept.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for MDS Ring Sideroblasts.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Hemoglobin 7.8 g/dL; Serum Erythropoietin (sEPO) 350 U/L. Bone Marrow: >15% ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for MDS Ring Sideroblasts
+- Current Plan: Serum EPO > 200 U/L; transfusion-dependent; starting Luspatercept.

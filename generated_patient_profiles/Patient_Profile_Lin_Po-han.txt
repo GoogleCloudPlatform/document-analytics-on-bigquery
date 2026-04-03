@@ -1,0 +1,24 @@
+PATIENT PROFILE: LIN PO-HAN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 24 years
+- Sex: Male
+- Place of Residency: Taiwan
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent β-Thalassemia
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Adult TDT patient in Taiwan initiating Luspatercept in a post-marketing surveillance study.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Managing iron overload; starting Luspatercept to reduce transfusion frequency.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Transfusion-Dependent β-Thalassemia.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Pre-transfusion Hemoglobin 6.8 g/dL; Serum Ferritin 1850 ng/mL.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Managing iron overload; starting Luspatercept to reduce transfusion frequency.

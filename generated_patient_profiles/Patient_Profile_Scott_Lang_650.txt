@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Scott Lang
+- Age: 52 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Esophageal Carcinoma.
+- Post-surgical resection status.
+- High risk for recurrence.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Recovering from recent esophagectomy.
+- No current evidence of macroscopic disease.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed esophageal cancer with residual disease or high-risk features in the resected specimen.
+- PD-L1: Known status.
+- Renal and Hepatic function: Adequate for therapy.
+
+5. TREATMENT HISTORY
+- Previous: Pre-operative chemoradiotherapy and esophagectomy.
+- Plan: Initiate adjuvant Nivolumab (Opdivo) therapy to reduce the risk of disease recurrence.

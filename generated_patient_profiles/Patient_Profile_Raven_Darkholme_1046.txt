@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Raven Darkholme
+Age: 42
+Sex: Female
+Residency: Warsaw, Poland
+Occupation: Performing Artist
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Diagnosis: Generalized Myasthenia Gravis (gMG)
+Duration: 3 years
+Comorbidities: None
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Bilateral ptosis, double vision (diplopia), generalized muscle weakness that worsens throughout the day, difficulty swallowing.
+Physical Status: MG-ADL Score: 11. Adult patient. Complement-inhibitor naive.
+Weight: 55 kg.
+
+4. LABORATORY RESULTS
+Anti-AChR Antibody: Positive
+Meningococcal Vaccination: Up to date (received 4 weeks ago)
+Hemoglobin: 12.5 g/dL
+Renal Function: Normal.
+Liver Function: Normal.
+
+5. TREATMENT HISTORY
+Previous Treatments: Suboptimal response to Pyridostigmine and Prednisone. No prior exposure to eculizumab or other complement inhibitors.
+Plan: Initiate therapy with Ravulizumab within the National Drug Program in Poland.

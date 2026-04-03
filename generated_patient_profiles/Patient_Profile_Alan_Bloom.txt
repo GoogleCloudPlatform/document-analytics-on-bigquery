@@ -1,0 +1,36 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Alan Bloom
+Age: 70
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Retired Professor
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Myelodysplastic Syndrome (MDS).
+Status: Very High-Risk (IPSS-R).
+Classification: MDS with excess blasts-2 (MDS-EB-2) per WHO 2016.
+Comorbidities: Well-controlled hypertension.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 1.
+Symptoms: Significant fatigue, occasional shortness of breath on exertion, easy bruising.
+Physical Examination: Pallor, multiple small petechiae on lower extremities. No signs of active uncontrolled infection or bleeding.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 8.5 g/dL
+- Absolute Neutrophil Count (ANC): 1.2 x 10^9/L
+- Platelets: 45 x 10^9/L
+- Bone Marrow Blasts: 12%
+Chemistry:
+- ALT: 25 U/L
+- AST: 22 U/L
+- Total Bilirubin: 1.0 mg/dL
+- Creatinine: 1.1 mg/dL
+Genetic Markers:
+- CD47/SIRPα treatment-naive.
+- No TP53 mutation detected.
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with CC-95251 (SIRPα inhibitor) in combination with Azacitidine and Venetoclax as part of a Phase 1 clinical trial (NCT05168202). Azacitidine to be administered at 75 mg/m2 IV/SC daily for 7 days, and Venetoclax at 100 mg orally daily (Cycle 1) with CC-95251 at assigned dose. Monitor for dose-limiting toxicities and hematologic recovery.

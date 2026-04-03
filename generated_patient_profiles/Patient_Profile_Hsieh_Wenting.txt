@@ -1,0 +1,27 @@
+PATIENT PROFILE: HSIEH WEN-TING
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 26 years
+- Sex: Female
+- Place of Residency: Taiwan
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent β-Thalassemia Major
+- Disease Status: Life-long transfusion requirement.
+- Transfusion Burden: 28 units in the last 24 weeks.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue and symptoms related to iron overload.
+- Performance Status: Stable.
+- Physical Status: Requires regular infusions.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Low pre-transfusion hemoglobin.
+- Iron Stores: Elevated serum ferritin.
+- Renal/Hepatic Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard transfusion and chelation therapy.
+- Current Plan: Initiating Luspatercept for transfusion reduction.
+- Monitoring: Post-marketing surveillance for transfusion frequency changes.

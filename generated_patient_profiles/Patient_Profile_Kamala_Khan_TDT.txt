@@ -1,0 +1,27 @@
+PATIENT PROFILE: KAMALA KHAN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 18 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia
+- Disease Status: Transitioning from pediatric to adult care.
+- Comorbidities: Chronic anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent fatigue affecting academic activities.
+- Performance Status: Stable.
+- Physical Status: Requires frequent red blood cell transfusions.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Chronic low hemoglobin.
+- Genetic Testing: Confirmed beta-thalassemia major.
+- Iron Stores: Elevated serum ferritin.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Pediatric transfusion management.
+- Current Plan: Initiating Luspatercept to reduce transfusion frequency and improve quality of life.
+- Monitoring: Real-world study for adults with transfusion-dependent thalassemia.

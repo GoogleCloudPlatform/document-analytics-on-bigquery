@@ -1,0 +1,34 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Lucas Mendes
+Age: 55
+Gender: Male
+Race: Caucasian
+Ethnicity: Hispanic
+Occupation: Construction Project Manager
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Non-Small Cell Lung Cancer (NSCLC).
+Status: Newly diagnosed early-stage, resectable NSCLC (Stage IIIA, AJCC 8th ed). Confirmed by histology.
+Molecular Status: Negative for EGFR gene mutation and ALK fusion gene.
+Comorbidities: None. No prior malignancy within the last 3 years. No history of hematotoxicity from antineoplastic agents.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 1.
+Symptoms: Persistent non-productive cough, mild pleuritic chest pain.
+Physical Examination: No clinically significant findings other than lung primary. No history of major surgery within 3 months. Stable vital signs.
+Smoking Status: Non-smoker.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 12.8 g/dL
+- ANC: 4.5 x 10^9/L
+- Platelets: 230 x 10^9/L
+Chemistry:
+- ALT: 25 U/L
+- AST: 22 U/L
+- Total Bilirubin: 0.8 mg/dL
+- Creatinine: 0.9 mg/dL
+Organ Function: Adequate marrow and organ function for neoadjuvant therapy.
+
+5. TREATMENT HISTORY
+Plan: Initiate neoadjuvant combination therapy with Nivolumab (360 mg Q3W) and platinum-based chemotherapy as part of a retrospective effectiveness study (NCT07141563). Complete three cycles of neoadjuvant therapy followed by definitive surgical resection. Monitor for pathological complete response (pCR) and event-free survival (EFS). Provide informed consent for retrospective data extraction.

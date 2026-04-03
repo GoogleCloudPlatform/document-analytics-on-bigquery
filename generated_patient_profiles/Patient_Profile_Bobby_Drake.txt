@@ -1,0 +1,24 @@
+PATIENT PROFILE: BOBBY DRAKE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Bladder Cancer
+- Secondary Condition: [Inferred, e.g., None or Hypertension]
+- Other Relevant History: Observational study of Nivolumab outcomes in a real-world urothelial carcinoma cohort.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: PD-L1 positive; starting Nivolumab after progression on platinum chemotherapy.. Post-radical cystectomy for pT3N0 bladder cancer.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: PD-L1 positive (CPS >= 1). No evidence of distant metastasis on imaging.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard of Care as per context]
+- Current Plan: PD-L1 positive; starting Nivolumab after progression on platinum chemotherapy.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: JOHN NASH
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 40 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia
+- Symptoms: History of auditory hallucinations.
+- Disease Status: Chronic symptoms with poor response to typical antipsychotics.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Auditory hallucinations and social withdrawal.
+- Performance Status: Stable.
+- Physical Status: Experiencing metabolic side effects from current medications.
+
+4. LABORATORY RESULTS
+- Metabolism: Elevated fasting glucose and lipids.
+- Weight: Increased BMI on current antipsychotics.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Multiple typical and atypical antipsychotics.
+- Current Plan: Transitioning to KarXT (xanomeline and trospium chloride).
+- Monitoring: Evaluation of treatment satisfaction and metabolic profile in the RESKU registry.

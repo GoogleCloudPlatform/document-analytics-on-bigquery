@@ -1,0 +1,39 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Wang Xiao
+Age: 52
+Gender: Female
+Race: Asian
+Ethnicity: Chinese
+Occupation: Accountant
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: HER2-Positive Advanced Breast Cancer.
+Status: Diagnosed with metastatic breast cancer, unresectable.
+Molecular Status: HER2-positive.
+Treatment History: Previously received first-line treatment with a taxane (Docetaxel) and Trastuzumab. Disease has since progressed.
+Requirement: Initiating Trastuzumab Emtansine (T-DM1) for the first time as second-line therapy.
+Comorbidities: None. Not currently participating in other clinical trials.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 1.
+Symptoms: Mild bone pain, fatigue.
+Physical Examination: Palpable axillary lymph nodes. Normal breath sounds. Stable vital signs.
+Life Expectancy: > 6 months.
+Weight: 58 kg.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 11.5 g/dL
+- WBC: 5.2 x 10^3/µL
+- Platelets: 185 x 10^9/L
+Chemistry:
+- ALT: 28 U/L
+- AST: 25 U/L
+- Bilirubin: 0.8 mg/dL
+- Creatinine: 0.7 mg/dL
+Molecular Testing:
+- HER2: IHC 3+ (Positive)
+- ER/PR: Negative
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with Trastuzumab Emtansine (T-DM1, Kadcyla) 3.6 mg/kg IV every 3 weeks as part of an observational clinical study in China (NCT05945927). Monitor for safety, real-world progression-free survival (rwPFS), and time-to-treatment discontinuation (TTD). Participate in regular clinical assessments and adverse event monitoring according to standard of care. Provide signed informed consent.

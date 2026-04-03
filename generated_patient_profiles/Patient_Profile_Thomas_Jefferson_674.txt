@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Thomas Jefferson
+- Age: 40 years
+- Sex: Male
+- Race/Ethnicity: Korean
+- Occupation: Professional
+- Location: South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Active Ankylosing Spondylitis (AS).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent inflammatory back pain.
+- Significant spinal stiffness, especially in the morning.
+- BASDAI score: 5.2.
+- Limited spinal mobility.
+
+4. LABORATORY RESULTS
+- HLA-B27: Positive.
+- CRP: 12 mg/L.
+- ESR: 30 mm/hr.
+- Imaging: Sacroiliitis confirmed on MRI.
+
+5. TREATMENT HISTORY
+- Previous: NSAIDs with inadequate symptom control.
+- Plan: Initiate Xeljanz XR (Tofacitinib) for the management of active Ankylosing Spondylitis.

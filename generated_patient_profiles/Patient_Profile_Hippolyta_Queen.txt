@@ -1,0 +1,37 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Hippolyta Queen
+Age: 75
+Gender: Female
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Retired Educator
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Alzheimer's Disease (AD) Dementia.
+Status: Probable AD based on NINCDS-ADRDA criteria.
+History: Cognitive and functional decline with slow progression for 2 years, corroborated by family members.
+Current Treatment: Receiving stable dose of Donepezil 10 mg orally daily for > 2 months.
+Comorbidities: Well-controlled hypertension and hypothyroidism. No unstable psychiatric or neurological disorders. No history of cancer.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Memory loss, disorientation to time, difficulty with complex tasks.
+Status: Clinically stable. No history of multiple/severe allergies. Non-smoker.
+Support: Has a reliable full-time trial partner (daughter) living in the same household.
+Physical Examination: Normal findings for age. No significant cardiovascular or gastrointestinal abnormalities.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 12.5 g/dL
+- WBC: 5.2 x 10^3/µL
+Chemistry:
+- ALT: 20 U/L
+- AST: 18 U/L
+- Bilirubin: 0.7 mg/dL
+- Creatinine: 0.9 mg/dL
+- TSH: 2.5 mIU/L (Normal)
+- HbA1c: 5.8%
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Enroll in a Phase 2 randomized, double-blind, placebo-controlled clinical trial (NCT06285240) to assess the safety and efficacy of MK-1167. Continue stable dose of Donepezil 10 mg daily. Administer MK-1167 (or placebo) orally. Undergo regular cognitive assessments and PK sampling for 24 hours. Follow strict medication and alcohol restrictions during the study.

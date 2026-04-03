@@ -1,0 +1,24 @@
+PATIENT PROFILE: GABRIELLA CONTI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Female
+- Place of Residency: partial remission
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE)
+- Secondary Condition: None documented
+- Other Relevant History: Adult SLE patient with multi-system involvement monitoring treatment response to Anifrolumab in routine care.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Experiencing new-onset systemic symptoms (fever, rash); physician adding a Type I interferon receptor antagonist to stabilize disease.. SLEDAI-2K score of 12.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Systemic Lupus Erythematosus (SLE).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-dsDNA antibodies; low C3 and C4 complement levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Systemic Lupus Erythematosus (SLE)
+- Current Plan: Experiencing new-onset systemic symptoms (fever, rash); physician adding a Type I interferon receptor antagonist to stabilize disease.

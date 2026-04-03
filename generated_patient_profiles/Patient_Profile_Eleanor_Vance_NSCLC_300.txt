@@ -1,0 +1,27 @@
+PATIENT PROFILE: ELEANOR VANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Female
+- Place of Residency: Pennsylvania, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Locally Advanced or Metastatic Non-Small Cell Lung Cancer
+- Histology: Non-squamous NSCLC; confirmed HER2 overexpression by central pathology review.
+- Molecular Markers: No known actionable genomic alterations with available approved therapies.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mild cough and generalized fatigue.
+- Performance Status: ECOG 1.
+- Physical Status: No active infections; no history of cardiac issues, ILD, or autoimmune disorders requiring systemic treatment.
+
+4. LABORATORY RESULTS
+- Hematology: Adequate bone marrow and organ function.
+- Physical: Body weight 65 kg.
+- Measurability: Measurable target lesions confirmed by RECIST 1.1.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for advanced/metastatic NSCLC. No prior systemic therapy for current disease stage.
+- Current Plan: Initiating therapy for HER2-overexpressing non-squamous NSCLC.
+- Monitoring: Clinical follow-up for adverse events and objective response assessment via imaging.

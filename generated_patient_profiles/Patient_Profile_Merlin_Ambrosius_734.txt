@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Merlin Ambrosius
+- Age: 68 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Generalized Myasthenia Gravis (gMG).
+- Anti-AChR antibody-positive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Ptosis (drooping eyelids) and generalized fatigue.
+- Difficulty with activities of daily living due to weakness.
+- BMI: 26.0 kg/m².
+- Heart Rate: 70 bpm.
+
+4. LABORATORY RESULTS
+- Anti-AChR Antibody: Positive.
+- Baseline Biochemistry: Normal renal and hepatic function.
+- Hematology: Stable.
+
+5. TREATMENT HISTORY
+- Previous: Anticholinesterase inhibitors.
+- Plan: Initiate Ravulizumab (Ultomiris) as part of routine clinical management for complement-inhibitor naive gMG.

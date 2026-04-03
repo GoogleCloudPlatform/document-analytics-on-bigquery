@@ -1,0 +1,29 @@
+PATIENT PROFILE: ROBERT JOHNSON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Illinois, USA
+- Employment Status: Retired (Former smoker)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Histology: Biopsy-confirmed Stage IV Adenocarcinoma.
+- Metastatic Sites: Lymph nodes and liver.
+- Molecular Markers: Negative for EGFR and ALK alterations.
+- PD-L1 Expression: 55%
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough and exertional dyspnea.
+- Performance Status: ECOG 1.
+- Physical Status: No history of autoimmune disorders; no untreated CNS metastases.
+
+4. LABORATORY RESULTS
+- Cardiac Markers: Troponin T within normal limits.
+- Hematology: Adequate bone marrow and organ function.
+- Life Expectancy: Estimated > 12 weeks.
+
+5. TREATMENT HISTORY
+- Prior Therapy: No prior systemic therapy for metastatic disease.
+- Current Plan: Initiating first-line immunotherapy for Stage IV NSCLC.
+- Monitoring: Assessment of radiographic response and symptom control.

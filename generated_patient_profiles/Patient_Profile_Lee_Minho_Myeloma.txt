@@ -1,0 +1,27 @@
+PATIENT PROFILE: LEE MIN-HO
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Seoul, South Korea
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed or Refractory Multiple Myeloma
+- Disease Status: Received four prior lines of therapy.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bone pain and fatigue.
+- Performance Status: ECOG 1.
+- Physical Status: Progressed on last therapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Protein Studies: Elevated monoclonal protein.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Multiple lines including proteasome inhibitors.
+- Current Plan: Initiating treatment with Elranatamab monotherapy.
+- Monitoring: Korean post-marketing surveillance for RRMM.

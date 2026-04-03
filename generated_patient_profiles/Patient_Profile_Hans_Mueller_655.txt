@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Hans Müller
+- Age: 68 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Metastatic Non-Small Cell Lung Cancer (NSCLC).
+- Squamous cell histology.
+- Homozygous MTAP deletion.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent cough.
+- Generalized fatigue.
+- ECOG Performance Status: 1.
+- Smoking status: Heavy former smoker.
+
+4. LABORATORY RESULTS
+- Tumor IHC: Confirmed homozygous MTAP deletion.
+- PD-L1: Known status.
+- EGFR/ALK: Negative.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Treatment-naive for metastatic disease.
+- Plan: Initiate first-line therapy with BMS-986504 in combination with Pembrolizumab and platinum-based chemotherapy.

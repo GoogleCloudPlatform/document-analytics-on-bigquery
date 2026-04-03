@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Elena Martinez
+- Age: 34 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Systemic Lupus Erythematosus (SLE).
+- Recurrent systemic flares.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent malar rash.
+- Symmetrical polyarthritis.
+- Frequent disease flares requiring glucocorticoid bursts.
+- BMI: 24.0 kg/m².
+
+4. LABORATORY RESULTS
+- SLEDAI-2K: Elevated disease activity.
+- Anti-dsDNA: Positive (High titer).
+- Complement levels: Low.
+- LFTs: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Long-term glucocorticoid therapy with associated side effects.
+- Plan: Transition to Anifrolumab (Saphnelo) for symptomatic management and potential steroid sparing.

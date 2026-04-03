@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Ilsa Lund
+- Age: 50 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Lower-Risk Myelodysplastic Syndromes (MDS).
+- Symptomatic Anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Severe fatigue and lack of energy.
+- Pallor and occasional palpitations.
+- ECOG Performance Status: 1.
+- No history of prior leukemic transformation.
+
+4. LABORATORY RESULTS
+- Hemoglobin: 7.9 g/dL.
+- Serum Erythropoietin (sEPO): 350 U/L (Refractory to ESA).
+- Transfusion Burden: Requires 4 units of RBC per month.
+- Bone Marrow: Confirmed Low-risk MDS (IPSS-R).
+
+5. TREATMENT HISTORY
+- Previous: Erythropoiesis-stimulating agents (ESAs) with no clinical benefit.
+- Plan: Initiate Luspatercept (Reblozyl) to reduce red blood cell transfusion frequency and improve hemoglobin levels.

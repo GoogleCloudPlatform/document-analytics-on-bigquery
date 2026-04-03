@@ -1,0 +1,27 @@
+PATIENT PROFILE: PETER PARKER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 56 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Secondary Primary Malignancy (Basal Cell Carcinoma)
+- History: Treated with Breyanzi (lisocabtagene maraleucel) 2 years ago for B-cell lymphoma.
+- Disease Status: Lymphoma in remission.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: New localized skin lesion on the face.
+- Performance Status: ECOG 0.
+- Physical Status: Systemically healthy.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed localized Basal Cell Carcinoma.
+- Genetic Testing: Required for transgene assay testing.
+- Hematologic Function: Stable.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Completed CAR-T cell therapy for lymphoma.
+- Current Plan: Undergoing genetic assay testing to rule out insertional mutagenesis.
+- Monitoring: Long-term safety surveillance for cell therapy recipients.

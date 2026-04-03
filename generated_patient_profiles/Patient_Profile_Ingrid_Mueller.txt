@@ -1,0 +1,24 @@
+PATIENT PROFILE: INGRID MUELLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 44 years
+- Sex: Female
+- Place of Residency: Hamburg
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Secondary Condition: None documented
+- Other Relevant History: Real-world RRMS patient in Germany receiving Ozanimod in an observational clinical study.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Tracking patient-reported satisfaction and quality of life over a 12-month period.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Relapsing-Remitting Multiple Sclerosis (RRMS).
+
+4. LABORATORY RESULTS
+- Imaging: MRI shows multiple T2-weighted hyperintense lesions; Gadolinium-enhancing lesions present.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Current Plan: Tracking patient-reported satisfaction and quality of life over a 12-month period.

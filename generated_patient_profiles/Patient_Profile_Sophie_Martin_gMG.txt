@@ -1,0 +1,27 @@
+PATIENT PROFILE: SOPHIE MARTIN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 48 years
+- Sex: Female
+- Place of Residency: France
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Serology: Anti-AChR antibody-positive.
+- Status: Complement-inhibitor naive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Significant ptosis, limb weakness, and muscle fatigue.
+- Performance Status: MG-ADL score of 12.
+- Physical Status: Symptomatic despite conventional therapy.
+
+4. LABORATORY RESULTS
+- Serology: Positive for acetylcholine receptor antibodies.
+- Hematologic Function: Normal.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard care with acetylcholinesterase inhibitors.
+- Current Plan: Initiating treatment with Ravulizumab.
+- Monitoring: Real-world functional outcome assessment and safety monitoring.

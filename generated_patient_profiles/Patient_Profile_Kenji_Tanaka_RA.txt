@@ -1,0 +1,27 @@
+PATIENT PROFILE: KENJI TANAKA
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Rheumatoid Arthritis (RA)
+- Disease Activity: Severe joint swelling and high disease activity.
+- Biologic Status: Biologic-naive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Symmetric polyarthritis, morning stiffness, and fatigue.
+- Performance Status: Moderate functional limitation.
+- Inflammatory Markers: High CRP and ESR.
+
+4. LABORATORY RESULTS
+- Inflammatory Markers: CRP 4.5 mg/dL.
+- Serology: Positive for Rheumatoid Factor and Anti-CCP antibodies.
+- Hematologic Function: Normal white cell count.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to Methotrexate (MTX) monotherapy.
+- Current Plan: Transitioning to Abatacept as the first biologic therapy.
+- Monitoring: Long-term outcome assessment of joint damage and disease activity.

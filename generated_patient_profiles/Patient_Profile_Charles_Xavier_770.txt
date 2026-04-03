@@ -1,0 +1,24 @@
+PATIENT PROFILE: CHARLES XAVIER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 60 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma with Cardiac Risk
+- Secondary Condition: [None or Hypertension as appropriate]
+- Other Relevant History: PASS study participant monitoring cardiovascular outcomes in Tezspire users.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: On Tezepelumab; requires prospective surveillance for MACE risk.. History of severe eosinophilic asthma with comorbid cardiovascular risk factors.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Blood eosinophil count 480 cells/µL. Cardiac Markers: Troponin I within normal limits; baseline ECG shows stable sinus rhythm.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard care as per clinical guidelines]
+- Current Plan: On Tezepelumab; requires prospective surveillance for MACE risk.

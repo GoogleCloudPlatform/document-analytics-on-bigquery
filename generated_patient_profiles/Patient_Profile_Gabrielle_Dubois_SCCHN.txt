@@ -1,0 +1,27 @@
+PATIENT PROFILE: GABRIELLE DUBOIS
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 64 years
+- Sex: Female
+- Place of Residency: France
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Recurrent Head and Neck Squamous Cell Carcinoma (SCCHN)
+- Subtype: Oral cavity cancer.
+- Disease Status: Recurrent disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Localized pain and difficulty with speech.
+- Performance Status: ECOG 1.
+- Physical Status: Progressed after radiation and cisplatin.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Pathology: Confirmed SCCHN.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Primary radiation and cisplatin chemotherapy.
+- Current Plan: Initiating Nivolumab therapy.
+- Monitoring: Longitudinal response assessment.

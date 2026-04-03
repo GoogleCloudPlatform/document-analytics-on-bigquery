@@ -1,0 +1,27 @@
+PATIENT PROFILE: NATASHA ROMANOFF
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 35 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Acute Migraine Attacks
+- Frequency: 4-5 severe attacks per month.
+- Comorbidities: None.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Severe unilateral headache, photophobia, and nausea.
+- Performance Status: ECOG 0.
+- Physical Status: Requires consistent relief across multiple attacks.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Cardiac Function: Normal.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Various acute medications with inconsistent results.
+- Current Plan: Initiating treatment with Rimegepant for acute attacks.
+- Monitoring: Consistency of response study for acute migraine treatment.

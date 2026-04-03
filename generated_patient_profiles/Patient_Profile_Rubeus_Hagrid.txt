@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Rubeus Hagrid
+- Age: 63 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Grounds Keeper
+- Location: UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Lower-Risk Myelodysplastic Syndromes (MDS).
+- Symptomatic Anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Chronic fatigue and shortness of breath on exertion.
+- No evidence of blast transformation.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Hemoglobin: 8.5 g/dL.
+- Serum Erythropoietin (sEPO): 380 U/L.
+- Transfusion Burden: Requires red blood cell transfusions.
+- Bone Marrow: Confirmed MDS (low-risk).
+
+5. TREATMENT HISTORY
+- Previous: Refractory to ESAs.
+- Plan: Initiate Luspatercept (Reblozyl) to reduce transfusion burden and improve hemoglobin.

@@ -1,0 +1,35 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Oberon King
+Age: 38
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Landscaper
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Healthy Volunteer. In good health before randomization. No history of invasive pneumococcal disease or culture-positive pneumococcal disease within 3 years. No history of significant endocrine, gastrointestinal, cardiovascular, hematological, or neurological diseases.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Overall Status: Healthy.
+Height: 182 cm
+Weight: 85 kg
+BMI: 25.7 kg/m2
+Vital Signs:
+- BP: 118/74 mmHg
+- HR: 68 bpm
+Physical Examination: Normal. No active infection or fever.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 15.0 g/dL
+- WBC: 6.2 x 10^3/µL
+Chemistry:
+- ALT: 22 U/L
+- AST: 20 U/L
+- Total Bilirubin: 0.8 mg/dL
+- Creatinine: 1.0 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Participate in a Phase 1 randomized, double-blind study (NCT07168915) to evaluate the safety, tolerability, and immunogenicity of V118 formulation E (pneumococcal vaccine candidate). Receive a single vaccination of V118E. Monitor for solicited injection-site and systemic adverse events using a vaccine report card for 7 days post-vaccination. Undergo long-term immunogenicity assessment via serotype-specific IgG GMCs.

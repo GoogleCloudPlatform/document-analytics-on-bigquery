@@ -1,0 +1,27 @@
+PATIENT PROFILE: ZHANG LI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 61 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Stage II Esophageal Squamous Cell Carcinoma
+- Surgical Status: Post-surgical resection.
+- Histology: Predominant squamous cell histology.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Post-surgical recovery.
+- Performance Status: ECOG 1.
+- Physical Status: Stable.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed Stage II esophageal cancer.
+- Hematologic Function: Adequate for adjuvant therapy.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Completed surgical resection.
+- Current Plan: Initiating adjuvant Nivolumab therapy.
+- Monitoring: Monitoring for recurrence in adult Chinese patients.

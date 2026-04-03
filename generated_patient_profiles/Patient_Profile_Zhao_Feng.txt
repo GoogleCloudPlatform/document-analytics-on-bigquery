@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Zhao Feng
+- Age: 61 years
+- Sex: Male
+- Race/Ethnicity: Chinese
+- Occupation: Not specified
+- Location: China
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Diffuse Large B-Cell Lymphoma (DLBCL).
+- Relapsed/Refractory disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Palpable lymphadenopathy.
+- B-symptoms: Occasional night sweats and weight loss.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed CD20+ Diffuse Large B-Cell Lymphoma.
+- Hematology: Mild anemia.
+- LFTs: Normal.
+- LDH: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: First-line R-CHOP chemotherapy (relapsed).
+- Plan: Initiate Glofitamab (Columvi) therapy as second-line treatment for relapsed DLBCL with monitoring for cytokine release syndrome.

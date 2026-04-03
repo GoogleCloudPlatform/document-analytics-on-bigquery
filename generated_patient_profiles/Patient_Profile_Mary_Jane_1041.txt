@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Mary Jane
+Age: 55
+Sex: Female
+Residency: New York, USA
+Occupation: Journalist
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Diagnosis: Pathologic Stage IV Cutaneous Melanoma
+Duration: 3 months
+Comorbidities: None
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Enlarging skin lesion on the back, palpable axillary lymph nodes.
+Physical Status: ECOG Performance Status 0. Confirmed metastatic disease to lungs.
+Weight: 65 kg.
+
+4. LABORATORY RESULTS
+BRAF V600E: Wild-type
+LDH: 220 U/L (Normal)
+Hemoglobin: 12.8 g/dL
+Platelets: 240 x 10^9/L
+Liver Function: Within normal limits.
+
+5. TREATMENT HISTORY
+Previous Treatments: Surgical excision of primary lesion 6 months ago.
+Plan: Initiate first-line combination immunotherapy with Nivolumab and Relatlimab.

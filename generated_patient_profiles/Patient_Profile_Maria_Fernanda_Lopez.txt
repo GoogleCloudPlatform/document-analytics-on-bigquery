@@ -3,25 +3,27 @@ PATIENT PROFILE: MARIA FERNANDA LOPEZ
 1. DEMOGRAPHIC INFORMATION
 - Age: 62 years
 - Sex: Female
-- Place of Residency: Argentina
-- Employment Status: Not specified, assumed active.
+- Place of Residency: Buenos Aires, Argentina
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Primary Disorder: Non-small Cell Lung Cancer (NSCLC)
-- Diagnosis: Newly diagnosed, resectable Stage IIIA (AJCC 8th ed).
-- Molecular Markers: Absence of EGFR or ALK driver mutations confirmed by pathological testing.
-- Other Malignancies: No active malignancies other than NSCLC.
+- Primary Disorder: Non-Small Cell Lung Cancer (NSCLC)
+- Histology: Adenocarcinoma
+- Current Stage: Stage IIIA (AJCC 8th ed) — Resectable disease
+- Molecular Markers: EGFR mutation-negative; ALK fusion-negative (confirmed via NGS)
+- Prior Malignancies: None within the last 3 years
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, assumed related to lung cancer (e.g., cough, dyspnea, fatigue).
-- Performance Status: Assumed good, consistent with eligibility for neoadjuvant therapy.
-- General Health: No history of prior antineoplastic therapy within the last three months, no participation in other NSCLC clinical trials.
+- Symptoms: Persistent dry cough, mild exertional dyspnea, and localized chest discomfort.
+- Performance Status: ECOG 1 (Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature).
+- Physical Status: No active infections; no significant cardiovascular or respiratory comorbidities.
 
 4. LABORATORY RESULTS
-- Pathological Confirmation: Histological or cytological confirmation of NSCLC.
-- Molecular Testing: Negative for EGFR gene mutation and ALK fusion gene.
-- Other Lab Results: Assumed within normal limits to tolerate chemotherapy (e.g., adequate hematologic, renal, and liver function).
+- Hematologic Function: Adequate (ANC: 2.8 x 10^9/L, Platelets: 210 x 10^9/L, Hemoglobin: 12.2 g/dL).
+- Liver Function: Normal (AST/ALT < 1.5x ULN; Total Bilirubin within normal limits).
+- Renal Function: Normal (Serum Creatinine: 0.9 mg/dL; eGFR > 60 mL/min).
 
 5. TREATMENT HISTORY
-- Prior Therapy: No prior antineoplastic therapy for NSCLC within the last three months.
-- Current Plan: Initiated neoadjuvant therapy with nivolumab (360 mg Q3W) combined with platinum-based chemotherapy in January 2023.
+- Prior Therapy: Treatment-naive for advanced/metastatic NSCLC. No antineoplastic therapy received within the last 3 months.
+- Current Plan: Initiating neoadjuvant therapy consisting of Nivolumab (360 mg Q3W) in combination with platinum-based chemotherapy.
+- Surgical Plan: Evaluation for definitive surgical resection following completion of neoadjuvant cycles.

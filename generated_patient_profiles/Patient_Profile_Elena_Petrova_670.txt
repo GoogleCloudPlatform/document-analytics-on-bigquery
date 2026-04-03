@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Elena Petrova
+- Age: 50 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Russia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Cold Agglutinin Disease (CAD).
+- Chronic Autoimmune Hemolytic Anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Chronic fatigue and dyspnea on exertion.
+- Acrocyanosis (bluish discoloration of fingers/toes) exacerbated by cold exposure.
+- History of dark urine in cold weather.
+
+4. LABORATORY RESULTS
+- Cold Agglutinin Titer: Elevated (1:512 at 4°C).
+- LDH: Elevated.
+- Indirect Bilirubin: Elevated.
+- Hemoglobin: 9.2 g/dL.
+- Direct Antiglobulin Test (DAT): Positive for C3d.
+
+5. TREATMENT HISTORY
+- Previous: Thermal protection and avoidance of cold.
+- Plan: Initiate Iptacopan therapy to inhibit complement-mediated red cell destruction.

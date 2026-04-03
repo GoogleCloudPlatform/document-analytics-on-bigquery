@@ -1,0 +1,24 @@
+PATIENT PROFILE: HERCULE POIROT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: gMG Functional Status
+- Secondary Condition: [Inferred, e.g., None or Hypertension]
+- Other Relevant History: Monitoring functional outcomes and safety of Ravulizumab in geriatric gMG patients.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: MG-ADL score of 11; anti-AChR+; initiating Ravulizumab.. MG-ADL score of 12. Significant ptosis and muscle fatigue.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard of Care as per context]
+- Current Plan: MG-ADL score of 11; anti-AChR+; initiating Ravulizumab.

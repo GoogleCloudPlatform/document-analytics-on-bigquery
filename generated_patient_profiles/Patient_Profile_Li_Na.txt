@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Li Na
+- Age: 52 years
+- Sex: Female
+- Race/Ethnicity: Chinese
+- Occupation: Not specified
+- Location: China
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- ALK-Positive Non-Small Cell Lung Cancer (NSCLC), early-stage.
+- Post-surgical resection status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Currently asymptomatic post-complete surgical resection.
+- ECOG Performance Status: 0.
+- Smoking Status: Never-smoker.
+
+4. LABORATORY RESULTS
+- Pathology: Stage IIB NSCLC, adenocarcinoma histology.
+- FISH Analysis: Positive for ALK gene rearrangement.
+- EGFR, ROS1: Negative.
+- Imaging: No evidence of residual or metastatic disease post-surgery.
+
+5. TREATMENT HISTORY
+- Previous: Complete surgical resection of primary tumor.
+- Plan: Initiate adjuvant Alectinib therapy to prevent disease recurrence in ALK-positive early-stage NSCLC.

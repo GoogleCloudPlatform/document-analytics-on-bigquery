@@ -1,0 +1,24 @@
+PATIENT PROFILE: MOLLY BLOOM
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Female
+- Place of Residency: Ireland
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma with MACE Risk
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Patient user of Tezepelumab in a post-authorization safety study (PASS) with cardiovascular risk factors.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Prescribed Tezepelumab (Tezspire); requires long-term monitoring for Major Adverse Cardiovascular Events (MACE).
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Severe Asthma with MACE Risk.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Blood eosinophil count 450 cells/µL. Cardiac Markers: Troponin I within normal limits; stable ECG.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Prescribed Tezepelumab (Tezspire); requires long-term monitoring for Major Adverse Cardiovascular Events (MACE).

@@ -1,0 +1,29 @@
+PATIENT PROFILE: SARAH JENKINS
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: Maryland, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Histology: Adenocarcinoma, Stage IV.
+- Current Stage: Stage IV (Metastatic)
+- Molecular Markers: EGFR mutation-negative, ALK fusion-negative.
+- PD-L1 Status: TPS 60%
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mild cough and occasional chest discomfort.
+- Performance Status: ECOG 0 (Fully ambulatory and active).
+- Physical Status: No history of autoimmune disease or significant cardiac issues; no untreated CNS metastases.
+
+4. LABORATORY RESULTS
+- Cardiac Markers: Troponin I/T within normal limits.
+- Hematology: Adequate organ and bone marrow function.
+- Life Expectancy: Estimated to exceed 12 weeks.
+
+5. TREATMENT HISTORY
+- Prior Therapy: No prior systemic therapy for metastatic disease.
+- Current Plan: Initiating first-line systemic immunotherapy for metastatic NSCLC.
+- Monitoring: Regular imaging studies and evaluation of performance status.

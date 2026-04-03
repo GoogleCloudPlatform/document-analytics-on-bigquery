@@ -1,0 +1,24 @@
+PATIENT PROFILE: HARRISON WELLS
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Ulcerative Colitis
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Ozanimod-naive patient with moderate-to-severe UC in a prospective non-interventional study.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mayo score of 7; starting Ozanimod (Zeposia) as the next advanced therapy.. Mayo score of 8.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Ulcerative Colitis.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Mayo score of 7; starting Ozanimod (Zeposia) as the next advanced therapy.

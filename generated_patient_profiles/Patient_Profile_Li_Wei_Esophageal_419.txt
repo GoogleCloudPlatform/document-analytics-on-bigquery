@@ -1,0 +1,27 @@
+PATIENT PROFILE: LI WEI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 63 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Esophageal Cancer
+- Surgical Status: Post-surgical resection of squamous cell tumor.
+- Current Stage: Pathologic Stage III.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Post-surgical recovery.
+- Performance Status: ECOG 1.
+- Physical Status: Stable.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed squamous cell esophageal cancer.
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Completed definitive surgical resection.
+- Current Plan: Initiating adjuvant Nivolumab therapy.
+- Monitoring: Routine care study participation for esophageal cancer.

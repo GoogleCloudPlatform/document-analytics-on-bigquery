@@ -1,0 +1,24 @@
+PATIENT PROFILE: WADE WILSON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 41 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Solid Tumor (KRAS G12C Mutation)
+- Secondary Condition: None documented
+- Other Relevant History: Patient with a KRAS G12C mutated advanced solid tumor eligible for expanded access to adagrasib.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Progressed on prior platinum chemotherapy and immunotherapy; seeking targeted therapy through expanded access.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Advanced Solid Tumor (KRAS G12C Mutation).
+
+4. LABORATORY RESULTS
+- Molecular Testing: Confirmed KRAS G12C mutation via NGS.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Advanced Solid Tumor (KRAS G12C Mutation)
+- Current Plan: Progressed on prior platinum chemotherapy and immunotherapy; seeking targeted therapy through expanded access.

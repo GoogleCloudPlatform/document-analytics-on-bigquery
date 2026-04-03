@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Martha Stewart
+- Age: 68 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Retired Librarian
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Frequent Exacerbations (2-3 per year).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- High symptom burden.
+- mMRC (Modified Medical Research Council) Dyspnea Scale: 3.
+- History of recurrent acute exacerbations requiring medical intervention.
+- BMI: 24.5 kg/m².
+
+4. LABORATORY RESULTS
+- FEV1: 45% of predicted.
+- Pulse oximetry: 93%.
+- Renal function: Normal.
+- LFTs: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Dual maintenance bronchodilator therapy.
+- Plan: Switch to fixed-dose triple therapy (BGF) to improve lung function and reduce the rate of future exacerbations.

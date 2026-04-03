@@ -1,0 +1,27 @@
+PATIENT PROFILE: LINDA CHEN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: KRAS G12C-Mutated Metastatic Colorectal Cancer
+- Molecular Marker: Confirmed KRAS G12C mutation via NGS.
+- Disease Status: Advanced/Metastatic disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Altered bowel habits and generalized abdominal discomfort.
+- Performance Status: ECOG 1.
+- Physical Status: Exhausted standard chemotherapy options.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal hepatic and renal function.
+- Molecular Testing: Positive for KRAS p.G12C.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Multiple lines of standard chemotherapy including fluoropyrimidines and oxaliplatin.
+- Current Plan: Seeking access to targeted therapy with Adagrasib through an expanded access program.
+- Monitoring: Regular CT imaging to assess tumor response.

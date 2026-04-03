@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Guinevere Smith
+- Age: 44 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Generalized Myasthenia Gravis (gMG).
+- Bulbar symptoms predominating.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Significant difficulty swallowing (dysphagia).
+- Slurred speech (dysarthria).
+- Generalized muscle weakness.
+- MG-ADL score: 12.
+
+4. LABORATORY RESULTS
+- Anti-AChR Antibody: Positive.
+- Repetitive Nerve Stimulation: Decremental response.
+- Thyroid function: Normal.
+- BMI: 23.0 kg/m².
+
+5. TREATMENT HISTORY
+- Previous: Standard immunosuppressive therapy.
+- Plan: Initiate Ravulizumab (Ultomiris) for faster symptom stabilization and long-term control of bulbar symptoms in gMG.

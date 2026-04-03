@@ -1,0 +1,24 @@
+PATIENT PROFILE: FELIX THORNE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 4 months
+- Sex: Male
+- Place of Residency: a rural area with limited access to immediate pediatric emergency services
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe Respiratory Syncytial Virus (RSV)
+- Secondary Condition: None documented
+- Other Relevant History: Preterm infant (<35 weeks) meeting the age and high-risk gestational criteria for palivizumab prophylaxis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: History of neonatal respiratory distress; entering the peak RSV season; requires passive immunization to prevent hospitalization.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe Respiratory Syncytial Virus (RSV).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for High Risk of Severe Respiratory Syncytial Virus (RSV)
+- Current Plan: History of neonatal respiratory distress; entering the peak RSV season; requires passive immunization to prevent hospitalization.

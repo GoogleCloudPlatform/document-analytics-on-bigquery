@@ -1,0 +1,24 @@
+PATIENT PROFILE: CYRUS BEENE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 65 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Sepsis
+- Secondary Condition: None documented
+- Other Relevant History: Patient with sepsis and renal impairment initiating Zavicefta.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: CrCl is 45 mL/min; starting Zavicefta for the first time.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Sepsis.
+
+4. LABORATORY RESULTS
+- Renal Function: Creatinine Clearance (CrCl) 45 mL/min (Mild to Moderate Impairment).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Sepsis
+- Current Plan: CrCl is 45 mL/min; starting Zavicefta for the first time.

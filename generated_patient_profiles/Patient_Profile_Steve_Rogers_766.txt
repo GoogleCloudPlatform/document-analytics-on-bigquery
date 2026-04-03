@@ -1,0 +1,24 @@
+PATIENT PROFILE: STEVE ROGERS
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 10 months
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: N/A (Infant)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV
+- Secondary Condition: [None or Hypertension as appropriate]
+- Other Relevant History: Pediatric patient with congenital heart disease meeting high-risk RSV criteria.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Scheduled for corrective surgery; requires prophylactic passive immunization.. Preterm infant at high risk for severe RSV.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Status: Stable but requires seasonal passive immunization.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard care as per clinical guidelines]
+- Current Plan: Scheduled for corrective surgery; requires prophylactic passive immunization.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: INSPECTOR LESTRADE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Melanoma Outcomes Study
+- Secondary Condition: [Inferred, e.g., None or Hypertension]
+- Other Relevant History: Real-world data study for immunotherapy combination in advanced skin cancer.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Treated with Nivo/Rela; tracking long-term survival and adverse events.. Stage IV metastatic melanoma, BRAF wild-type.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Biopsy confirmed melanoma; LDH within normal range.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard of Care as per context]
+- Current Plan: Treated with Nivo/Rela; tracking long-term survival and adverse events.

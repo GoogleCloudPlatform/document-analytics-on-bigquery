@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Arthur Hastings
+- Age: 58 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired (Former military)
+- Location: UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Metastatic Non-Small Cell Lung Cancer (NSCLC), adenocarcinoma histology.
+- PD-L1 negative status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Chronic cough and occasional hemoptysis.
+- Generalized fatigue and unintentional weight loss (5 kg in 3 months).
+- ECOG Performance Status: 1.
+- History of heavy tobacco use (30 pack-years).
+
+4. LABORATORY RESULTS
+- PD-L1 expression (TPS): < 1%.
+- EGFR, ALK, ROS1, BRAF mutations: Negative (Wild-type).
+- Hemoglobin: 11.2 g/dL.
+- LFTs: Mildly elevated AST/ALT due to liver metastases.
+- Imaging: 4 cm right upper lobe mass with hilar lymphadenopathy and liver lesions.
+
+5. TREATMENT HISTORY
+- Previous: No prior systemic therapy for metastatic disease.
+- Plan: Initiate first-line dual immunotherapy with Nivolumab and Ipilimumab for metastatic NSCLC.

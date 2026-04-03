@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Beverly Crusher
+- Age: 70 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Medical Doctor
+- Location: France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Muscle Invasive Urothelial Carcinoma (MIUC).
+- Post-radical resection status.
+- High-risk pathology.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Clinically stable following radical resection for bladder cancer.
+- ECOG Performance Status: 1.
+- No history of other active malignancies.
+
+4. LABORATORY RESULTS
+- Surgical margins: High-risk margins identified on pathology.
+- Pathology: Urothelial carcinoma involving the muscularis propria.
+- LFTs and RFTs: Within normal limits.
+
+5. TREATMENT HISTORY
+- Previous: Radical resection for bladder cancer.
+- Plan: Initiate standard-of-care adjuvant Nivolumab (Opdivo) therapy to prevent disease recurrence.

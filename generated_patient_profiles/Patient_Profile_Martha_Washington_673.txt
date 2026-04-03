@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Martha Washington
+- Age: 55 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Refractory Rheumatoid Arthritis (RA).
+- High disease activity.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Severe joint pain and swelling in multiple joints.
+- Prolonged morning stiffness.
+- DAS28-CRP: 5.5.
+- BMI: 26.5 kg/m².
+
+4. LABORATORY RESULTS
+- RF: Positive.
+- Anti-CCP: Positive.
+- CRP: 25 mg/L.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Failed multiple TNF-inhibitors and JAK-inhibitors.
+- Plan: Initiate Tulisokibart (MK-7240) therapy for the management of refractory joint disease.

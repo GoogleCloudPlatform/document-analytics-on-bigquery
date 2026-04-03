@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Linda Choi
+- Age: 58 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- HER2-Positive Non-Small Cell Lung Cancer (NSCLC).
+- Metastatic non-squamous histology.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent dry cough.
+- Exertional shortness of breath.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- NGS (Tumor): Confirmed HER2 (ERBB2) mutation.
+- PD-L1: Positive.
+- Brain Imaging: Negative for metastases.
+- LFTs: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Platinum-based chemotherapy and immunotherapy (progressed).
+- Plan: Initiate Trastuzumab Deruxtecan (T-DXd) in combination with chemotherapy for advanced HER2+ NSCLC.

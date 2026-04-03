@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Wanda Maximoff
+- Age: 33 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Systemic Lupus Erythematosus (SLE).
+- Cutaneous Lupus Erythematosus.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent and extensive malar rash.
+- Symmetrical polyarthritis affecting small joints.
+- Significant systemic fatigue.
+- SLEDAI score: 12.
+
+4. LABORATORY RESULTS
+- Anti-dsDNA: Positive (High titer).
+- Complement C3/C4: Low.
+- ANA: Positive.
+- Hematology: Mild lymphopenia.
+
+5. TREATMENT HISTORY
+- Previous: Standard therapy including Mycophenolate Mofetil and Prednisone.
+- Plan: Initiate Anifrolumab (Saphnelo) in a routine clinical practice setting for the management of severe SLE.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: WALLY WEST
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 24 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: oHCM (UPenn)
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Patient with symptomatic oHCM treated with Mavacamten at a specialized US medical center.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: NYHA Class II; peak gradient 45 mmHg; initiating Mavacamten therapy.. NYHA Functional Class II or III.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for oHCM (UPenn).
+
+4. LABORATORY RESULTS
+- Cardiac Imaging: Echocardiogram shows interventricular thickness of 18 mm and peak resting LVOT gradient of 60 mmHg. Preserved LVEF (62%).
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: NYHA Class II; peak gradient 45 mmHg; initiating Mavacamten therapy.

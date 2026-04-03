@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Liam O'Connor
+- Age: 62 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- EGFR-Mutated Non-Small Cell Lung Cancer (NSCLC).
+- Stage IV Adenocarcinoma.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Exertional shortness of breath.
+- ECOG Performance Status: 1.
+- Smoking status: Never-smoker.
+
+4. LABORATORY RESULTS
+- Tumor NGS: EGFR exon 19 deletion confirmed.
+- Biomarkers: Rising CEA levels despite current therapy.
+- Organ Function: Adequate hepatic and renal function.
+
+5. TREATMENT HISTORY
+- Previous: Currently on Osimertinib (stable but with rising biomarkers).
+- Plan: Continue Osimertinib and initiate combination therapy with Datopotamab Deruxtecan (Dato-DXd).

@@ -1,0 +1,29 @@
+PATIENT PROFILE: SARAH MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Female
+- Place of Residency: Ohio, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Histology: Squamous cell carcinoma
+- Current Stage: Stage IV (Metastatic)
+- Molecular Markers: EGFR wild-type, ALK negative, ROS1 negative.
+- PD-L1 Expression: < 1% (Tumor Proportion Score)
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough, occasional hemoptysis, and fatigue.
+- Performance Status: ECOG 1 (Ambulatory and able to perform light activities).
+- Physical Status: No untreated CNS metastases; no history of autoimmune disease requiring systemic intervention.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate (ANC: 3.5 x 10^9/L, Platelets: 195 x 10^9/L, Hemoglobin: 11.8 g/dL).
+- Liver Function: Normal (AST/ALT within normal limits).
+- Renal Function: Normal (Serum Creatinine: 0.8 mg/dL).
+
+5. TREATMENT HISTORY
+- Prior Therapy: No prior systemic therapy for metastatic NSCLC.
+- Current Plan: Initiating first-line treatment with the NIC regimen: Nivolumab, Ipilimumab, and 2 cycles of platinum-doublet chemotherapy.
+- Monitoring: Scheduled for long-term follow-up to assess response and safety.

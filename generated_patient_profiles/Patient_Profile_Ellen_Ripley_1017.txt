@@ -1,0 +1,39 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Ellen Ripley
+Age: 62
+Gender: Female
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Consultant
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Cancer-associated Venous Thromboembolism (VTE).
+Diagnosis: Pulmonary embolism (PE) recently diagnosed via CT angiography.
+Primary Cancer: Metastatic HR+/HER2- breast cancer, active.
+Requirement: Initiating anticoagulant treatment with a NOAC (Apixaban).
+Comorbidities: None. No prior VTE diagnosis. No history of atrial fibrillation. No IVC filter.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 1.
+Symptoms: Sudden onset shortness of breath, pleuritic chest pain, fatigue.
+Physical Examination: Tachypnea (22 bpm), tachycardia (95 bpm). Normal BP (120/75 mmHg). No signs of deep vein thrombosis in lower extremities.
+Weight: 68 kg
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 11.5 g/dL
+- Platelets: 190 x 10^3/µL
+- WBC: 6.5 x 10^3/µL
+Coagulation:
+- D-dimer: 1200 ng/mL (Elevated)
+Chemistry:
+- ALT: 28 U/L
+- AST: 25 U/L
+- Bilirubin: 0.8 mg/dL
+- Creatinine: 0.9 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+Pregnancy Test: N/A (Post-menopausal).
+
+5. TREATMENT HISTORY
+Plan: Initiate oral anticoagulation with Apixaban (Eliquis) as part of an observational cohort study (VICTORIE, NCT04618913). Start with Apixaban 10 mg BID for 7 days, followed by 5 mg BID. Monitor for recurrence of thromboembolism and bleeding events. Participate in regular follow-up visits to assess healthcare resource utilization and safety outcomes.

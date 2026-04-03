@@ -1,0 +1,36 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Tom Snout
+Age: 30
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Tinker
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Healthy Volunteer. In good health based on medical history and physical exam. No history of clinically significant endocrine, gastrointestinal, cardiovascular, hematological, hepatic, immunological, renal, respiratory, or major neurological abnormalities. No history of cancer.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Overall Status: Healthy.
+Height: 178 cm
+Weight: 75 kg
+BMI: 23.7 kg/m2 (Within 18.0 to 32.0 range)
+Vital Signs:
+- BP: 120/78 mmHg
+- HR: 70 bpm
+Physical Examination: Normal findings. No clinically significant abnormalities.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 15.0 g/dL
+- WBC: 6.0 x 10^3/µL
+- Platelets: 240 x 10^3/µL
+Chemistry:
+- ALT: 22 U/L
+- AST: 20 U/L
+- Total Bilirubin: 0.7 mg/dL
+- Creatinine: 0.9 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Participate in a Phase 1 open-label clinical pharmacology study (NCT07199452). Receive multiple oral doses of Rifabutin and a single dose of the investigational agent MK-4646. Undergo intensive blood sampling to determine the pharmacokinetics (AUC0-inf) of MK-4646 when co-administered with Rifabutin. Monitor for safety and tolerability.

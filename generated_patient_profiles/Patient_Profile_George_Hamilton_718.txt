@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: George Hamilton
+- Age: 75 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Severe Airflow Obstruction.
+- History of recurrent respiratory infections.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Chronic dyspnea at rest.
+- Frequent hospitalizations for COPD exacerbations and respiratory infections.
+- Smoking status: Former smoker (50 pack-years).
+- Physical Exam: Decreased breath sounds, barrel chest.
+
+4. LABORATORY RESULTS
+- FEV1: 35% of predicted.
+- FEV1/FVC: 0.55.
+- PaO2: 65 mmHg on room air.
+- WBC: 8.5 x 10^9/L.
+
+5. TREATMENT HISTORY
+- Previous: Inhaled maintenance therapy and acute courses of antibiotics/steroids.
+- Plan: Initiate BGF (Budesonide/Glycopyrronium/Formoterol) triple therapy as part of long-term management in a routine care setting.

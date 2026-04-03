@@ -1,0 +1,27 @@
+PATIENT PROFILE: ANDRZEJ WISNIEWSKI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Male
+- Place of Residency: Poland
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Serology: Anti-AChR antibody-positive.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Muscle weakness and ptosis.
+- Performance Status: MG-ADL score monitored.
+- Physical Status: Fit for complement inhibition.
+
+4. LABORATORY RESULTS
+- Serology: Positive for AChR antibodies.
+- Infectious Disease: Meningococcal vaccination completed.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard gMG care.
+- Current Plan: Initiating treatment with Ravulizumab.
+- Monitoring: Routine clinical practice evaluation of outcomes.

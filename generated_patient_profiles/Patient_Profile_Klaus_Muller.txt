@@ -1,0 +1,29 @@
+PATIENT PROFILE: KLAUS MÜLLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Male
+- Place of Residency: Germany
+- Employment Status: Active (Supports health status assessment)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Plaque Psoriasis
+- Onset: 20-year history of chronic condition.
+- Diagnosis Detail: Physician-reported diagnosis with extensive skin involvement.
+- Comorbidities: No other active interventional clinical trial for psoriasis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent skin plaques affecting multiple body areas, causing significant impact on quality of life and daily activities.
+- Physical Status: Generally healthy aside from dermatological condition.
+- Quality of Life: Documented impact from long-standing disease and failure of prior therapies.
+- Performance Status: Able to participate in daily activities but limited by skin flares.
+
+4. LABORATORY RESULTS
+- Psoriasis Area Severity Index (PASI): 18 (Consistent with moderate-to-severe disease).
+- Physician's Global Assessment (sPGA): 3 (Moderate).
+- Other Labs: Routine screening conducted prior to initiation of systemic therapy.
+- Allergy Status: No known contraindications to Deucravacitinib.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Extensive history of failing multiple topical treatments, phototherapy, and at least one conventional systemic agent.
+- Current Plan: Initiating Deucravacitinib treatment as per the approved label in the European Union. The decision to initiate this therapy was made independently of any observational studies and based on routine clinical practice for inadequate disease control. First dose scheduled for initiation. No prior exposure to Deucravacitinib.

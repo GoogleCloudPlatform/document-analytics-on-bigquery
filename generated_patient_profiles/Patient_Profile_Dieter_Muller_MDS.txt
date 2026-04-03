@@ -1,0 +1,27 @@
+PATIENT PROFILE: DIETER MÜLLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 75 years
+- Sex: Male
+- Place of Residency: Germany
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
+- IPSS-R Score: 'Low' risk.
+- Disease Status: Symptomatic anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Severe fatigue and pallor.
+- Performance Status: ECOG 1.
+- Physical Status: Stable but symptomatic.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Hemoglobin < 10.0 g/dL.
+- Marrow Function: Confirmed MDS.
+- EPO Level: Within expected range for MDS.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for Luspatercept.
+- Current Plan: Initiating treatment with Luspatercept.
+- Monitoring: Real-world tracking of hemoglobin levels and transfusion independence.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: SAMUEL LEE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
+- Phenotype: Presence of ring sideroblasts.
+- Disease Status: Transfusion-dependent anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Severe fatigue, weakness, and pallor.
+- Performance Status: ECOG 1.
+- Physical Status: Dependent on red blood cell transfusions.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Hemoglobin < 9.0 g/dL.
+- EPO Level: Serum erythropoietin > 200 U/L.
+- Bone Marrow: Confirmed MDS with ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failing initial erythropoiesis-stimulating agents (ESAs).
+- Current Plan: Initiating treatment with Luspatercept to achieve transfusion independence.
+- Monitoring: Tracking transfusion requirements and hemoglobin levels.

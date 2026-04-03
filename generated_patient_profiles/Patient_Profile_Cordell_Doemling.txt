@@ -1,0 +1,35 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Cordell Doemling
+Age: 55
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Private Nurse
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Metastatic Pancreatic Adenocarcinoma (PAAD).
+Status: Advanced, unresectable.
+Molecular Status: EGFR wild-type, ALK/ROS1 wild-type (not indicated). No prior anti-PD-(L)1-based immunotherapy for this indication. Resistant to standard-of-care chemotherapy (gemcitabine/nab-paclitaxel).
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 1.
+Symptoms: Chronic abdominal pain, anorexia, weight loss (5 kg over 3 months).
+Physical Examination: Palpable epigastric mass. No signs of jaundice or ascites. No CNS involvement.
+Measurable Disease: Primary pancreatic head mass 3.5 cm, liver metastasis 2.0 cm (RECIST 1.1).
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 10.8 g/dL
+- ANC: 3.5 x 10^9/L
+- Platelets: 180 x 10^9/L
+Chemistry:
+- ALT: 45 U/L
+- AST: 40 U/L
+- Total Bilirubin: 1.1 mg/dL
+- Creatinine: 0.9 mg/dL
+- Albumin: 3.2 g/dL
+Tumor Markers:
+- CA 19-9: 450 U/mL
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with BMS-986360 (CC-90001, JNK inhibitor) in combination with Nivolumab as part of a Phase 1 study (NCT05625412). Administer BMS-986360 orally once daily and Nivolumab IV every 2 or 4 weeks. Monitor for dose-limiting toxicities and antitumor response via RECIST 1.1. Provide archival or fresh biopsy as required for Part 2 eligibility.

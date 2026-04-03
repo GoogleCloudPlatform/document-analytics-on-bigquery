@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Charles Darwin
+- Age: 6 months
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: N/A (Infant)
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Spinal Muscular Atrophy (SMA), Type 1.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Severe hypotonia ("floppy baby").
+- Absence of deep tendon reflexes.
+- Weakness in swallowing and poor head control.
+- Normal sensory perception.
+
+4. LABORATORY RESULTS
+- Genetic Testing: Confirmed biallelic SMN1 deletions.
+- SMN2 Gene Copy Number: 2 copies.
+- LFTs: Mildly elevated AST/ALT.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Plan: Initiate treatment with Risdiplam (Evrysdi) for the management of SMA Type 1 and evaluation of pharmacokinetics.

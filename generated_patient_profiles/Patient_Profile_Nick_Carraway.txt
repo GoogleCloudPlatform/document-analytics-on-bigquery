@@ -1,0 +1,24 @@
+PATIENT PROFILE: NICK CARRAWAY
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 42 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC)
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Post-surgical MIUC patient receiving adjuvant Nivolumab in a prospective real-world study.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: High risk for recurrence; PD-L1 staining confirmed; starting adjuvant Nivolumab.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Muscle Invasive Urothelial Carcinoma (MIUC).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: High risk for recurrence; PD-L1 staining confirmed; starting adjuvant Nivolumab.

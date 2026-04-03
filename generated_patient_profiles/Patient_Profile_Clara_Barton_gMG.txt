@@ -1,0 +1,27 @@
+PATIENT PROFILE: CLARA BARTON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 42 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Serology: Anti-AChR antibody-positive.
+- Disease Status: Symptomatic generalized weakness.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Ptosis, diplopia (double vision), and proximal muscle fatigue.
+- Performance Status: MG-ADL score of 10.
+- Physical Status: Bulbar symptoms present but stable.
+
+4. LABORATORY RESULTS
+- Serology: High titer of acetylcholine receptor antibodies.
+- Pulmonary Function: Normal forced vital capacity (FVC).
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Pyridostigmine and oral corticosteroids with only partial relief.
+- Current Plan: Initiating treatment with Ravulizumab.
+- Monitoring: Longitudinal assessment of functional outcomes and MG-ADL score improvement.

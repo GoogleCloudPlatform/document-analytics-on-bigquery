@@ -1,0 +1,28 @@
+PATIENT PROFILE: MARIA SCHMIDT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Early Breast Cancer
+- Subtype: HR+/HER2- (Hormone Receptor positive, HER2 negative)
+- Risk Category: High risk of recurrence.
+- Surgical Status: Post-complete surgical resection with curative intent.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Post-surgical recovery; currently asymptomatic.
+- Performance Status: ECOG 0 (Fully active).
+- Physical Status: No active infections; no evidence of metastatic disease.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate (ANC: 3.2 x 10^9/L, Platelets: 250 x 10^9/L, Hemoglobin: 13.0 g/dL).
+- Liver Function: Normal (AST/ALT within normal limits).
+- Renal Function: Normal (Serum Creatinine: 0.85 mg/dL).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for adjuvant therapy.
+- Current Plan: Initiating adjuvant treatment consisting of Ribociclib in combination with an Aromatase Inhibitor (AI).
+- Monitoring: Regular clinical follow-up and assessment for adverse events related to CDK4/6 inhibitor therapy.

@@ -1,0 +1,30 @@
+PATIENT PROFILE: SARAH JOHNSON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 32 years
+- Sex: Female
+- Pregnancy Status: Currently pregnant (10 weeks gestation; G2P1).
+- Place of Residency: USA
+- Employment Status: Active (Supports health status assessment)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Atopic Dermatitis (AD)
+- Diagnosis Duration: Long-standing history since adolescence.
+- Disease Severity: Moderate-to-severe, requiring systemic therapy for symptom control.
+- Comorbidities: No history of other significant systemic inflammatory or autoimmune disorders.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Recent significant flare-up of atopic dermatitis during early pregnancy, characterized by intense pruritus, erythema, and extensive skin lesions.
+- Functional Status: Stable at present, following resolution of a significant flare.
+- Performance Status: Ambulatory; able to manage activities of daily living with intermittent limitations during flares.
+- Offspring Status: Currently in first trimester; pregnancy progressing normally.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate (ANC, Platelets, Hemoglobin within normal limits).
+- Liver Function: AST/ALT and Bilirubin within normal limits.
+- Renal Function: Normal (Creatinine and eGFR within acceptable limits).
+- Screening: Negative for acute infectious processes during the treatment period.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Successfully managed with oral Abrocitinib for the past 2 years prior to pregnancy.
+- Current Plan: Received a reduced dose of Abrocitinib for the first 8 weeks of her current pregnancy to manage a significant atopic dermatitis flare, after consultation with her dermatologist and obstetrician. Has since discontinued Abrocitinib as symptoms have stabilized. Enrolled in a safety surveillance study to monitor outcomes for herself and her offspring. Informed consent provided. Decision to receive therapy made independently of study participation. No prior exposure to other JAK inhibitors during the current pregnancy.

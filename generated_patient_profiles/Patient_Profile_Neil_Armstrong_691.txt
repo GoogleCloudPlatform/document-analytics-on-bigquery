@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Neil Armstrong
+- Age: 45 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- NYHA Class II heart failure symptoms.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Exercise-induced chest pain and palpitations.
+- History of exertional syncope.
+- BMI: 25.5 kg/m².
+- Normal vital signs at rest.
+
+4. LABORATORY RESULTS
+- Peak resting LVOT gradient: 65 mmHg.
+- Echocardiogram: Significant septal hypertrophy (Interventricular septum: 20 mm).
+- LVEF: 68%.
+- NT-proBNP: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Beta-blocker therapy with persistent symptoms.
+- Plan: Initiate Mavacamten (Camzyos) for reduction of LVOT gradient and symptomatic management.

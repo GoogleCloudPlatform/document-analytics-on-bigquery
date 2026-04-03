@@ -1,0 +1,27 @@
+PATIENT PROFILE: JACK REACHER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma
+- Comorbidities: History of non-fatal myocardial infarction two years ago.
+- Disease Status: Uncontrolled despite high-intensity SOC treatment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Nighttime wheezing and exertional dyspnea.
+- Performance Status: ECOG 0.
+- Cardiac Health: History of MI; stable cardiovascular profile.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Elevated eosinophil count.
+- Pulmonary Function: Reduced FEV1.
+- Cardiovascular: ECG and troponin stable.
+
+5. TREATMENT HISTORY
+- Prior Therapy: High-intensity inhaled therapy.
+- Current Plan: Initiating add-on therapy with Tezepelumab.
+- Monitoring: Safety surveillance for cardiovascular events (MACE).

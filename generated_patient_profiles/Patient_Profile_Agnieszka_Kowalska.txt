@@ -1,0 +1,27 @@
+PATIENT PROFILE: AGNIESZKA KOWALSKA
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 35 years
+- Sex: Female
+- Place of Residency: Poland
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE)
+- Severity: Moderate-to-severe disease activity.
+- Involvement: Long-standing SLE with persistent skin rashes and joint pain.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Malar rash, polyarthritis, and systemic fatigue.
+- Performance Status: ECOG 1.
+- Physical Status: Active disease despite standard care.
+
+4. LABORATORY RESULTS
+- SLEDAI-2K Score: 12.
+- Immunology: Positive anti-dsDNA.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to conventional immunosuppressants.
+- Current Plan: Initiating treatment with Anifrolumab under the National Drug Program.
+- Monitoring: Regular assessment of SLEDAI-2K score changes and flare frequency.

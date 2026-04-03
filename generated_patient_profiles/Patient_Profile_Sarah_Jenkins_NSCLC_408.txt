@@ -1,0 +1,28 @@
+PATIENT PROFILE: SARAH JENKINS
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 61 years
+- Sex: Female
+- Place of Residency: Canada
+- Employment Status: Retired (Former smoker)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Histology: Stage IV lung adenocarcinoma.
+- PD-L1 Expression: 0%.
+- Molecular Markers: EGFR/ALK/ROS1 negative.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue and mild persistent cough.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for dual immunotherapy.
+
+4. LABORATORY RESULTS
+- PD-L1 Status: Negative staining.
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for metastatic disease.
+- Current Plan: Initiating first-line dual immunotherapy with Nivolumab and Ipilimumab.
+- Monitoring: Safety surveillance cohort participation.

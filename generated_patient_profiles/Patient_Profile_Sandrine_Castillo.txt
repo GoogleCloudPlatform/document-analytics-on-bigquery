@@ -1,0 +1,24 @@
+PATIENT PROFILE: SANDRINE CASTILLO
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Female
+- Place of Residency: Russia
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic oHCM
+- Secondary Condition: None documented
+- Other Relevant History: European patient with symptomatic oHCM starting Mavacamten.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: initiating Mavacamten in a multi-national registry.. NYHA Functional Class II or III.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Symptomatic oHCM.
+
+4. LABORATORY RESULTS
+- Cardiac Imaging: Echocardiogram shows interventricular thickness of 18 mm and peak resting LVOT gradient of 60 mmHg. Preserved LVEF (62%).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Symptomatic oHCM
+- Current Plan: initiating Mavacamten in a multi-national registry.

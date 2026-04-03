@@ -1,0 +1,28 @@
+PATIENT PROFILE: SARAH MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: Colorado, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Metastatic Breast Cancer
+- Subtype: ER+ (Estrogen Receptor positive)
+- Histology: Histologically confirmed advanced disease.
+- Measurable Disease: Lung metastatic lesion identified via CT scan.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Exertional fatigue and localized chest discomfort.
+- Performance Status: ECOG 1 (Ambulatory and capable of light activity).
+- Physical Status: Post-menopausal (non-childbearing potential); no severe cardiac conditions.
+
+4. LABORATORY RESULTS
+- Metabolism: HbA1c 6.5% (Controlled diabetes).
+- Hematology: Adequate organ function for treatment.
+- Measurability: Target lesion suitable for repeated assessment via CT.
+
+5. TREATMENT HISTORY
+- Prior Therapy: No recent chemotherapy, biological therapy, or radiation (last 14 days); no major surgery in the past 4 weeks.
+- Current Plan: Initiating systemic anticancer therapy for ER+ metastatic breast cancer.
+- Monitoring: Regular CT assessment of lung lesion and evaluation of glycemic control.

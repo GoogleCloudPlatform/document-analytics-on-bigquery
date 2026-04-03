@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Eleanor Rigby
+- Age: 75 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- wild-type Transthyretin Amyloid Cardiomyopathy (ATTR-CM).
+- Heart failure with preserved ejection fraction (HFpEF).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Shortness of breath on exertion.
+- Fluid retention (peripheral edema).
+- NYHA Class II.
+
+4. LABORATORY RESULTS
+- Cardiac MRI: Patterns consistent with amyloid deposition.
+- NT-proBNP: 1800 pg/mL.
+- LVEF: 55%.
+- Technetium-99m pyrophosphate (PYP) scan: Positive (Grade 2/3).
+
+5. TREATMENT HISTORY
+- Previous: Diuretics.
+- Plan: Initiate Tafamidis therapy for disease stabilization and management of ATTR-CM symptoms.

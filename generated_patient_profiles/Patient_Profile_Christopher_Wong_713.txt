@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Christopher Wong
+- Age: 52 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional (Marathon Runner)
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Allergic Asthma.
+- History of intermittent Cardiac Arrhythmias.
+- High risk for MACE monitoring.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Exercise-induced wheezing and cough.
+- History of palpitations.
+- Active lifestyle (marathon runner).
+- BMI: 22.5 kg/m².
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 400 cells/µL.
+- Total IgE: 300 IU/mL.
+- ECG: Evidence of prior supraventricular premature beats.
+- FEV1: 78% of predicted.
+
+5. TREATMENT HISTORY
+- Previous: Inhaled corticosteroids and long-acting bronchodilators.
+- Plan: Initiate add-on therapy with Tezepelumab (Tezspire) for severe asthma with prospective long-term cardiac surveillance.

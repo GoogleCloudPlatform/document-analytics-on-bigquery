@@ -1,0 +1,27 @@
+PATIENT PROFILE: SARAH WILLIAMS
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Cardiac Anatomy: Significant septal hypertrophy.
+- Disease Status: Symptomatic.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Exertional fatigue and dyspnea.
+- Performance Status: NYHA Class III.
+- Cardiac Health: LVEF 60%.
+
+4. LABORATORY RESULTS
+- Echocardiography: Documented gradient suitable for myosin inhibition.
+- Cardiac Function: Preserved ejection fraction.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blocker therapy.
+- Current Plan: Prescribed Mavacamten for gradient reduction.
+- Monitoring: Clinical follow-up at University of Pennsylvania center.

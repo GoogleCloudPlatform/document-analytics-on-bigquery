@@ -1,0 +1,27 @@
+PATIENT PROFILE: MATT MURDOCK
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 47 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Head and Neck Squamous Cell Carcinoma (SCCHN)
+- Subtype: Oropharyngeal cancer.
+- Disease Status: Recurrent disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Localized pain and difficulty speaking.
+- Performance Status: ECOG 1.
+- Physical Status: Disease progressed after chemotherapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Pathology: Confirmed recurrent squamous cell carcinoma.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Previously treated with platinum-based chemotherapy.
+- Current Plan: Initiating salvage immunotherapy with Nivolumab.
+- Monitoring: Clinical study evaluation for recurrent SCCHN.

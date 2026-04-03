@@ -1,0 +1,25 @@
+PATIENT PROFILE: AMÉLIE LAURENT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 42 years
+- Sex: Male
+- Place of Residency: France
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Adult patient with PNH initiating Ravulizumab in a real-world routine clinical setting in France.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Flow cytometry shows 40% PNH clone; starting Ravulizumab for long-term complement inhibition.
+- Performance Status: ECOG 0 or 1 (as required by most trials)
+- Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification (e.g., LDH, Hemoglobin, etc.).
+- Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Flow cytometry shows 40% PNH clone; starting Ravulizumab for long-term complement inhibition.

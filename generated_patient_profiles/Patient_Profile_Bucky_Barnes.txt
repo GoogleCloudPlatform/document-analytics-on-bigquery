@@ -1,0 +1,24 @@
+PATIENT PROFILE: BUCKY BARNES
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: PNH Transition
+- Secondary Condition: [Inferred, e.g., None or Hypertension]
+- Other Relevant History: Evaluation of patient satisfaction and stability during the switch between complement inhibitors.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Seeking to reduce injection frequency; transitioning to Ravulizumab every 8 weeks.. Patient reports dark urine and extreme fatigue.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.8x Upper Limit of Normal (ULN); Hemoglobin 8.2 g/dL; Flow cytometry confirms 42% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard of Care as per context]
+- Current Plan: Seeking to reduce injection frequency; transitioning to Ravulizumab every 8 weeks.

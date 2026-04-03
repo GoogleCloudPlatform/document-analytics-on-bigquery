@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Reba McClane
+Age: 28
+Gender: Female
+Ethnicity: Not specified
+Performance Status: Not specified
+BMI: 22.5 kg/m2
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Healthy Volunteer
+History: No significant history of clinical manifestation of any metabolic, allergic, dermatological, renal, hematological, pulmonary, cardiovascular, gastrointestinal, neurological, respiratory, endocrine, psychiatric, neoplastic, or genitourinary abnormalities or diseases.
+Comorbidities: None. Not of childbearing potential (INOCBP).
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: None.
+Physical Status: Normal physical examination. Normal vital signs (Blood Pressure: 118/75 mmHg, Heart Rate: 72 bpm). No clinically significant findings.
+
+4. LABORATORY RESULTS
+ECG: 12-lead ECG shows normal sinus rhythm; no clinically significant deviations.
+Hematology: Hemoglobin 13.5 g/dL, White Blood Cells 6.2 x 10^9/L, Platelets 220 x 10^9/L.
+Chemistry: Liver (ALT/AST < 40 U/L) and renal function (Creatinine 0.8 mg/dL, GFR > 90 mL/min/1.73m²) within reference ranges. Urinalysis: Negative for glucose and protein.
+
+5. TREATMENT HISTORY
+Prior Therapies: None. No recent use of any medications.
+Treatment Plan: Enrolled in a Phase 1, drug-drug interaction study to evaluate the effects of repotrectinib on probe substrates such as digoxin and metformin.

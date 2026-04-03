@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Thomas Miller
+- Age: 58 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Eosinophilic Asthma (15-year history).
+- Controlled Hypertension.
+- Increased risk for Major Adverse Cardiovascular Events (MACE).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Uncontrolled asthma symptoms despite optimized therapy.
+- Frequent wheezing and shortness of breath.
+- Blood pressure: 138/88 mmHg.
+- BMI: 27.0 kg/m².
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 420 cells/µL.
+- FEV1: 70% of predicted.
+- IgE levels: Elevated.
+- ECG: Normal sinus rhythm.
+
+5. TREATMENT HISTORY
+- Previous: High-intensity ICS/LABA and antihypertensives.
+- Plan: Initiate add-on therapy with Tezepelumab (Tezspire) for severe asthma with long-term safety monitoring for cardiovascular events.

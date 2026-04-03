@@ -1,0 +1,24 @@
+PATIENT PROFILE: HOPE VAN DYNE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Female
+- Place of Residency: Europe
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: oHCM Mavacamten Registry
+- Secondary Condition: None documented
+- Other Relevant History: Participation in the prospective registry study for real-world oHCM outcomes on Mavacamten.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: NYHA Class II heart failure; gradient 55 mmHg; starting Mavacamten.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for oHCM Mavacamten Registry.
+
+4. LABORATORY RESULTS
+- Cardiac Imaging: Echocardiogram shows interventricular thickness of 18 mm and peak resting LVOT gradient of 60 mmHg. Preserved LVEF (62%).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for oHCM Mavacamten Registry
+- Current Plan: NYHA Class II heart failure; gradient 55 mmHg; starting Mavacamten.

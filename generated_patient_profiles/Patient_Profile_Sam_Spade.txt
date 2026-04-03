@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Sam Spade
+- Age: 55 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Private Investigator (San Francisco)
+- Location: California, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Unresectable Stage III Cutaneous Melanoma.
+- High tumor burden.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Large, non-resectable primary lesion on the posterior trunk.
+- Clinically palpable regional lymphadenopathy.
+- ECOG Performance Status: 1.
+- No history of autoimmune disorders.
+
+4. LABORATORY RESULTS
+- BRAF V600 Mutation: Wild-type (Negative).
+- LDH: 1.2x Upper Limit of Normal.
+- Hemoglobin: 13.5 g/dL.
+- Hepatic and Renal Function: Within normal limits.
+- PD-L1 status: Known (Positive).
+
+5. TREATMENT HISTORY
+- Previous: Initial attempt at surgical resection deemed suboptimal due to tumor extent.
+- Plan: Initiate neoadjuvant combination immunotherapy with Nivolumab and Relatlimab.

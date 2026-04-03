@@ -1,0 +1,24 @@
+PATIENT PROFILE: MARCUS WALKER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Polycythemia Vera
+- Secondary Condition: None documented
+- Other Relevant History: PV patient with resistance to cytoreductive therapy seeking Managed Access to Ruxolitinib.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: peripheral blood blast count 0%; ECOG 1; starting Ruxolitinib.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Polycythemia Vera.
+
+4. LABORATORY RESULTS
+- Hematology: Hematocrit > 45%; Platelet count elevated; JAK2 V617F mutation positive.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Polycythemia Vera
+- Current Plan: peripheral blood blast count 0%; ECOG 1; starting Ruxolitinib.

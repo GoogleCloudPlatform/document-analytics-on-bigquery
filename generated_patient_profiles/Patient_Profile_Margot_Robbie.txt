@@ -1,0 +1,24 @@
+PATIENT PROFILE: MARGOT ROBBIE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 35 years
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Melanoma
+- Secondary Condition: None documented
+- Other Relevant History: Advanced melanoma patient initiating combination IO in a real-world database analysis of outcomes.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: BRAF wild-type; starting Nivolumab + Relatlimab combination; baseline data collected for survival registry.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Advanced Melanoma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Advanced Melanoma
+- Current Plan: BRAF wild-type; starting Nivolumab + Relatlimab combination; baseline data collected for survival registry.

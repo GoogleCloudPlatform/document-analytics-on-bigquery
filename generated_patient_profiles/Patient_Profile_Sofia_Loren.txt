@@ -1,0 +1,35 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Sofia Loren
+Age: 32
+Gender: Female
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Actress
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Ulcerative Colitis (UC).
+Status: Confirmed diagnosis of moderate-to-severe Ulcerative Colitis. Currently experiencing active flares with urgency and abdominal pain.
+Requirement: Ozanimod (Zeposia) naïve. Suitable for therapy as per physician recommendation.
+Comorbidities: None. No stoma. No planned surgical intervention or hospitalization.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: 6-8 bloody bowel movements per day, significant rectal bleeding, fecal urgency, moderate abdominal cramping.
+Performance Status: ECOG 0.
+Physical Examination: Mild abdominal tenderness. Normal vital signs. No signs of systemic infection.
+Partial Mayo Score: 7.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 11.5 g/dL
+- WBC: 8.5 x 10^3/µL
+- Platelets: 280 x 10^3/µL
+Chemistry:
+- CRP: 15 mg/L (Elevated)
+- ALT: 18 U/L
+- AST: 16 U/L
+- Bilirubin: 0.7 mg/dL
+- Creatinine: 0.8 mg/dL
+Pregnancy Test: Negative.
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with Ozanimod (Zeposia) 0.92 mg orally once daily (after initial titration) as part of a prospective non-interventional study (NCT05382715). Monitor clinical remission (pMayo <= 1 and RBS=0) and treatment persistence for up to 4 years. Evaluate quality of life using standardized instruments. Avoid participating in interventional clinical trials during the study.

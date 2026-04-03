@@ -1,0 +1,27 @@
+PATIENT PROFILE: PETER PARKER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 54 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Secondary Primary Malignancy (Squamous Cell Lung Cancer)
+- Medical History: Previously treated for B-cell Non-Hodgkin Lymphoma.
+- Cell Therapy History: Recipient of CAR-T cell therapy (Abecma).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: New onset persistent cough.
+- Performance Status: ECOG 0.
+- Physical Status: Lymphoma in remission.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed secondary squamous cell lung cancer.
+- Genetic Testing: Required for transgene assay.
+- Hematologic Function: Stable.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Completed CAR-T cell therapy for lymphoma.
+- Current Plan: Undergoing transgene assay testing for the new malignancy.
+- Monitoring: Long-term surveillance for gene-modified cell therapy recipients.

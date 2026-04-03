@@ -1,0 +1,28 @@
+PATIENT PROFILE: ELEANOR VANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Female
+- Place of Residency: Oregon, USA
+- Employment Status: Retired (Non-smoker for 10 years)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer
+- Histology: Non-squamous NSCLC; HER2 overexpression confirmed by central tissue review.
+- Metastatic Sites: Mediastinal lymph nodes and liver.
+- Molecular Markers: Negative for EGFR, ALK, and ROS1 mutations.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath and right upper quadrant discomfort.
+- Performance Status: ECOG 1.
+- Physical Status: No history of ILD requiring steroids or active autoimmune disorders; no clinically active CNS metastases.
+
+4. LABORATORY RESULTS
+- Hematology: Adequate organ and bone marrow function.
+- Measurability: Presence of target lesions per RECIST 1.1.
+- Cardiovascular: No significant cardiac events within the past 12 months.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for advanced or metastatic disease. No prior anti-PD-1/L1 therapy.
+- Current Plan: Initiating therapy with Trastuzumab Deruxtecan in combination with platinum-based chemotherapy (e.g., Carboplatin).
+- Monitoring: Radiographic assessment of liver and lymph node lesions and monitoring for pulmonary toxicity.

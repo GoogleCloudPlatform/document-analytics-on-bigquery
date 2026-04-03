@@ -1,0 +1,24 @@
+PATIENT PROFILE: LUCAS MOORE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 6 months
+- Sex: Male
+- Place of Residency: the US
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Preterm infant at high risk for severe RSV infection receiving Palivizumab prophylaxis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Residing in a high-incidence RSV area; requires seasonal prophylactic injections.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Residing in a high-incidence RSV area; requires seasonal prophylactic injections.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: SILAS VANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 10 months
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV
+- Secondary Condition: None documented
+- Other Relevant History: High-risk infant with underlying pulmonary pathology meeting the criteria for seasonal RSV prevention.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Still requiring supplemental oxygen at home; history of three prior admissions for respiratory exacerbations.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for High Risk of Severe RSV
+- Current Plan: Still requiring supplemental oxygen at home; history of three prior admissions for respiratory exacerbations.

@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Logan Howlett
+- Age: 45 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Stage III Resectable Melanoma.
+- Clinically palpable regional lymphadenopathy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Palpable lymph nodes in the axilla.
+- Stable performance status (ECOG 0).
+- No evidence of distant metastatic disease.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed cutaneous melanoma.
+- BRAF status: Known.
+- LDH: Normal.
+- Hematology: Stable.
+
+5. TREATMENT HISTORY
+- Plan: Initiate neoadjuvant combination therapy with Nivolumab and Relatlimab prior to planned surgical resection.

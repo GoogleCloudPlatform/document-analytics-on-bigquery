@@ -1,0 +1,24 @@
+PATIENT PROFILE: ROB YANG
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 40 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-risk MDS Luspatercept
+- Secondary Condition: None documented
+- Other Relevant History: MDS patient starting Luspatercept to reduce blood transfusion frequency.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Transfusion dependent; failing initial ESA treatment; starting Luspatercept.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Lower-risk MDS Luspatercept.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Hemoglobin 7.8 g/dL; Serum Erythropoietin (sEPO) 350 U/L. Bone Marrow: >15% ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Lower-risk MDS Luspatercept
+- Current Plan: Transfusion dependent; failing initial ESA treatment; starting Luspatercept.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: VERNA THORNTON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 4 months
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV
+- Secondary Condition: None documented
+- Other Relevant History: Preterm infant (<35 weeks) at high risk for severe RSV disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Requires seasonal RSV prophylaxis with Palivizumab.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for High Risk of Severe RSV
+- Current Plan: Requires seasonal RSV prophylaxis with Palivizumab.

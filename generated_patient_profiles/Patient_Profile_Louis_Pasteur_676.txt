@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Louis Pasteur
+- Age: 62 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Scientist
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- ANCA-Associated Vasculitis (AAV).
+- Granulomatosis with Polyangiitis (GPA).
+- Renal involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Sinusitis and epistaxis.
+- Hematuria and proteinuria.
+- Generalized malaise and weight loss.
+- Blood Pressure: 140/88 mmHg.
+
+4. LABORATORY RESULTS
+- c-ANCA (PR3-ANCA): Positive.
+- Serum Creatinine: 1.5 mg/dL.
+- Urine sediment: Microscopic hematuria.
+- Complement C3/C4: Measured at baseline.
+
+5. TREATMENT HISTORY
+- Previous: Standard induction with Rituximab and Corticosteroids.
+- Plan: Initiate Iptacopan as an adjunct to standard induction therapy to reduce complement-mediated vascular inflammation.

@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Louis Renault
+- Age: 53 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Prefect of Police
+- Location: Casablanca, Morocco
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Generalized Myasthenia Gravis (gMG).
+- Anti-AChR antibody-positive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Generalized muscle fatigue, worsening as the day progresses.
+- Occasional diplopia.
+- MG-ADL score: 11.
+- Physical Exam: Proximal muscle weakness (3/5 in upper and lower extremities).
+
+4. LABORATORY RESULTS
+- Anti-AChR Antibody: Positive.
+- Single Fiber EMG: Positive for neuromuscular jitter.
+- Hemoglobin: 14.5 g/dL.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Anticholinesterase inhibitors and steroids.
+- Plan: Initiate Ravulizumab (Ultomiris) for long-term functional status evaluation and complement inhibition.

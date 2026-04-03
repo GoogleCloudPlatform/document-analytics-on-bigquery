@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Hope van Dyne
+- Age: 45 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Advanced Metastatic Melanoma.
+- BRAF wild-type.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Metastatic lesions present in the liver and lungs.
+- ECOG Performance Status: 1.
+- No history of symptomatic brain metastases.
+
+4. LABORATORY RESULTS
+- BRAF Mutation: Negative (Wild-type).
+- LDH: 1.3x Upper Limit of Normal.
+- Hemoglobin: 12.5 g/dL.
+- LFTs: Mildly elevated (consistent with liver involvement).
+
+5. TREATMENT HISTORY
+- Previous: First-line immunotherapy naïve for metastatic disease.
+- Plan: Initiate combination immunotherapy with Nivolumab and Relatlimab for the management of advanced melanoma.

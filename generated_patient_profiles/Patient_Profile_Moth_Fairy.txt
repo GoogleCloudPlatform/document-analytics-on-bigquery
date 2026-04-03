@@ -1,0 +1,35 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Moth Fairy
+Age: 50
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Stagehand
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Metastatic Gastrointestinal Stromal Tumor (GIST).
+Status: Advanced solid tumor, metastatic. Progressed after multiple prior tyrosine kinase inhibitors (including imatinib, sunitinib, and regorafenib).
+Comorbidities: None. No prior MAPK pathway inhibitor or CDK4/6 inhibitor treatment. No history of RVO or clinically significant cardiac disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 1.
+Symptoms: Vague abdominal pain, bloating. Stable weight.
+Physical Examination: No active CNS metastases. No evidence of GI bleeding. Normal vision. Stable vital signs.
+Measurable Disease: Mesenteric mass 4.2 cm (RECIST 1.1). Site amenable to biopsy.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 11.2 g/dL (> 9.0 requirement)
+- ANC: 3.5 x 10^9/L (> 1.5 requirement)
+- Platelets: 180 x 10^9/L (> 100 requirement)
+Chemistry:
+- ALT: 35 U/L (<= 2.5x ULN)
+- AST: 32 U/L (<= 2.5x ULN)
+- Total Bilirubin: 0.9 mg/dL (<= ULN)
+- Creatinine Clearance: 85 mL/min (> 60 requirement)
+- INR: 1.1 (<= 1.5)
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Initiate combination therapy with TNO155 (SHP2 inhibitor) and Ribociclib as part of a Phase 1b study (NCT04000529). Administer TNO155 and Ribociclib orally as per established dosing schedule. Monitor for safety, tolerability, and preliminary anti-tumor activity. Undergo regular clinical chemistry and hematology monitoring. Perform mandatory tumor biopsies as required by protocol. Avoid prohibited medications including strong CYP3A4 inhibitors/inducers.

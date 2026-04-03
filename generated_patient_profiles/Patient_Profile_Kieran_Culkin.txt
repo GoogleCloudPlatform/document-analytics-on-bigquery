@@ -1,0 +1,24 @@
+PATIENT PROFILE: KIERAN CULKIN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 42 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk MDS with Ring Sideroblasts
+- Secondary Condition: None documented
+- Other Relevant History: Adult patient with lower-risk MDS receiving Luspatercept in a healthcare resource utilization study.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Failing ESA therapy; requiring 2 units of blood every month; starting Luspatercept.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Lower-Risk MDS with Ring Sideroblasts.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Hemoglobin 7.8 g/dL; Serum Erythropoietin (sEPO) 350 U/L. Bone Marrow: >15% ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Lower-Risk MDS with Ring Sideroblasts
+- Current Plan: Failing ESA therapy; requiring 2 units of blood every month; starting Luspatercept.

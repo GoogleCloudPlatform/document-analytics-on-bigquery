@@ -1,0 +1,39 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Millicent Bruton
+Age: 66
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Philanthropist
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Metastatic Liver Cancer (Hepatocellular Carcinoma).
+Comorbidities: Moderate Hepatic Impairment. Diagnosis of chronic, stable hepatic insufficiency with features of cirrhosis (Child-Pugh B). No history of liver or other solid organ transplantation. No unstable electrolyte abnormalities.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Overall Status: Stable hepatic impairment.
+Height: 172 cm
+Weight: 75 kg
+BMI: 25.4 kg/m2 (Within 18.0 to 42.0 range)
+Smoking Status: Non-smoker for > 10 years.
+Cardiac Status: No history of arrhythmia, syncopal events, or family history of sudden cardiac death.
+Physical Examination: Mild jaundice, no significant ascites. Normal neurological status.
+
+4. LABORATORY RESULTS
+Hepatic Function:
+- ALT: 55 U/L
+- AST: 62 U/L
+- Total Bilirubin: 2.2 mg/dL
+- Albumin: 3.0 g/dL
+- INR: 1.4
+Renal Function:
+- Creatinine: 1.1 mg/dL
+Hematology:
+- Hemoglobin: 11.0 g/dL
+- WBC: 4.8 x 10^3/µL
+- Platelets: 120 x 10^3/µL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Enroll in a Phase 1 open-label, single-dose PK study (NCT06860243) to evaluate the pharmacokinetics of Opevesostat (MK-5684) in participants with moderate hepatic impairment. Administer a single oral dose of Opevesostat. Conduct serial blood sampling for 24 hours post-dose to determine AUC and Cmax. Monitor for adverse events and changes in liver function.

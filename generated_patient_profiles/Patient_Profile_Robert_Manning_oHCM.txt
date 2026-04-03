@@ -1,0 +1,27 @@
+PATIENT PROFILE: ROBERT MANNING
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Symptoms: Progressive exertional fatigue.
+- Cardiac Anatomy: Documented septal hypertrophy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Significant exertion-based fatigue and dyspnea.
+- Performance Status: NYHA Class III.
+- Cardiac Health: Resting LVOT gradient of 45 mmHg.
+
+4. LABORATORY RESULTS
+- Echocardiography: Documented 45 mmHg LVOT gradient.
+- Cardiac Function: Preserved ejection fraction.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blockers with persistent symptoms.
+- Current Plan: Initiating therapy with Mavacamten.
+- Monitoring: Regular clinical and echocardiographic assessment at high-volume center.

@@ -1,0 +1,29 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Boo Radley
+- Age: 74 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Lower-Risk Myelodysplastic Syndromes (MDS).
+- Symptomatic Anemia.
+- Mild Leukopenia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent fatigue and generalized weakness.
+- Occasional shortness of breath on exertion.
+- No history of transformative leukemia.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Hemoglobin: 8.2 g/dL.
+- White Blood Cell Count: 3.1 x 10^9/L.
+- Serum Erythropoietin (sEPO): 400 U/L (ESA-refractory).
+- Bone Marrow Biopsy: Confirmed MDS with < 5% blasts.
+- Transfusion Burden: Requires 2 units of RBC every 4 weeks.
+
+5. TREATMENT HISTORY
+- Previous: Erythropoiesis-stimulating agents (ESAs) with inadequate response.
+- Plan: Initiate Luspatercept (Reblozyl) to reduce red blood cell transfusion dependency and manage anemia.

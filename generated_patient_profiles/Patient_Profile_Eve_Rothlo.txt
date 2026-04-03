@@ -1,0 +1,24 @@
+PATIENT PROFILE: EVE ROTHLO
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Female
+- Place of Residency: Korea
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Multiple Myeloma
+- Secondary Condition: None documented
+- Other Relevant History: Adult with relapsed/refractory MM initiating Elranatamab in Korea.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: progress on previous therapy; starting Elranatamab monotherapy.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Multiple Myeloma.
+
+4. LABORATORY RESULTS
+- Tumor Markers: Elevated M-protein in serum and urine; Bone marrow plasma cells > 10%.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Multiple Myeloma
+- Current Plan: progress on previous therapy; starting Elranatamab monotherapy.

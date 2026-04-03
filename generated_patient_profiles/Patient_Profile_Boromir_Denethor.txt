@@ -1,0 +1,24 @@
+PATIENT PROFILE: BOROMIR DENETHOR
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma Cardiac PASS
+- Secondary Condition: [Inferred, e.g., None or Hypertension]
+- Other Relevant History: Patient with multiple cardiovascular risk factors in the Tezspire PASS cohort.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: On Tezepelumab; monitored for cardiovascular safety outcomes.. History of eosinophilic asthma with comorbid cardiovascular risk.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Blood eosinophil count 480 cells/µL. Cardiac Markers: Troponin I within normal limits; baseline ECG show stable rhythm.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard of Care as per context]
+- Current Plan: On Tezepelumab; monitored for cardiovascular safety outcomes.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: FAISAL AL-SAUD
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 30 years
+- Sex: Male
+- Place of Residency: Saudi Arabia
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia (TDT)
+- Disease Status: Documented TDT since childhood.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic fatigue and symptoms of anemia.
+- Performance Status: Stable.
+- Physical Status: Requires monthly blood transfusions.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Low hemoglobin.
+- Genetic Testing: Confirmed Beta-Thalassemia.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard transfusion management.
+- Current Plan: Initiating Luspatercept to reduce transfusion burden.
+- Monitoring: Observational study for adult TDT in the Middle East.

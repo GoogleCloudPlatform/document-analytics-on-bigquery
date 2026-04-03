@@ -1,0 +1,24 @@
+PATIENT PROFILE: LANCELOT DU LAC
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 60 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Secondary Condition: None documented
+- Other Relevant History: High-risk gMG patient in a real-world setting being followed for long-term clinical outcomes on Ravulizumab.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: History of one prior myasthenic crisis; transitioning to more stable complement inhibition.. MG-ADL score of 11.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Generalized Myasthenia Gravis (gMG)
+- Current Plan: History of one prior myasthenic crisis; transitioning to more stable complement inhibition.

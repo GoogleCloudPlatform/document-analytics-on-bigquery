@@ -1,0 +1,24 @@
+PATIENT PROFILE: MATTHEW MACFADYEN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Male
+- Place of Residency: Europe
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic oHCM (Registry)
+- Secondary Condition: None documented
+- Other Relevant History: Enrollment in the real-world longitudinal outcomes registry for Mavacamten.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: LVOT gradient 65 mmHg; starting Mavacamten; participating in the longitudinal outcomes registry.. NYHA Functional Class II or III.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Symptomatic oHCM (Registry).
+
+4. LABORATORY RESULTS
+- Cardiac Imaging: Echocardiogram shows interventricular thickness of 18 mm and peak resting LVOT gradient of 60 mmHg. Preserved LVEF (62%).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Symptomatic oHCM (Registry)
+- Current Plan: LVOT gradient 65 mmHg; starting Mavacamten; participating in the longitudinal outcomes registry.

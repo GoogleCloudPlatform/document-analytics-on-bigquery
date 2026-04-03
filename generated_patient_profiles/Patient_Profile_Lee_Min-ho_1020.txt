@@ -1,0 +1,38 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Lee Min-ho
+Age: 7
+Gender: Male
+Race: Asian
+Ethnicity: Korean
+Occupation: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Pediatric Growth Hormone Deficiency (pGHD).
+Status: Growth disturbance due to insufficient secretion of endogenous growth hormone. Bone age is delayed (5 years). No epiphyseal closure.
+Requirement: Determined to start treatment with Somatrogon (Ngenla) according to approved indications in Korea.
+Comorbidities: None significant. No history of hypersensitivity to somatrogon or excipients.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Significant short stature compared to classmates, slow growth velocity.
+Height: 110 cm (< 1st percentile)
+Weight: 18 kg
+Physical Examination: Proportionate short stature. Normal cardiac and respiratory exam.
+Vital Signs:
+- BP: 95/60 mmHg
+- HR: 82 bpm
+
+4. LABORATORY RESULTS
+Endocrine:
+- GH Stimulation Test: Peak GH < 10 ng/mL
+- IGF-1: 35 ng/mL (Low for age)
+Chemistry:
+- ALT: 18 U/L
+- AST: 20 U/L
+- Creatinine: 0.4 mg/dL
+- Fasting Glucose: 82 mg/dL
+- HbA1c: 5.1%
+Imaging:
+- Hand/Wrist X-ray: Confirmed open epiphyses.
+
+5. TREATMENT HISTORY
+Plan: Initiate once-weekly subcutaneous Somatrogon (Ngenla) injections via pre-filled pen as part of a post-marketing surveillance study in Korea (NCT05509894). Participate in active safety and effectiveness monitoring for up to 6 years. Record annualized height velocity (cm/year), height standard deviation score (HSDS), and bone maturation changes. Provide signed informed consent from parents.

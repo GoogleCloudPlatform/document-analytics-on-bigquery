@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Rocket Raccoon
+- Age: 50 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Eosinophilic Asthma.
+- Controlled Hypertension.
+- Increased risk for Major Adverse Cardiovascular Events (MACE).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent wheezing and cough despite high-dose ICS/LABA.
+- Multiple exacerbations in the last year.
+- Blood pressure: 135/85 mmHg (controlled).
+- BMI: 24.0 kg/m².
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 480 cells/µL.
+- FEV1: 68% of predicted.
+- Serum IgE: Elevated.
+- ECG: Normal sinus rhythm.
+
+5. TREATMENT HISTORY
+- Previous: High-dose maintenance therapy and antihypertensives.
+- Plan: Initiate add-on therapy with Tezepelumab (Tezspire) for severe asthma with long-term monitoring for Major Adverse Cardiovascular Events.

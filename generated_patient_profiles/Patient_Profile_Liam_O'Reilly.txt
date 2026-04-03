@@ -1,0 +1,24 @@
+PATIENT PROFILE: LIAM O'REILLY
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 9 months
+- Sex: Male
+- Place of Residency: Ireland
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: High-risk child meeting clinical criteria for Palivizumab prophylaxis based on prematurity and respiratory risk.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Entering his first RSV season; parents seeking passive immunization to prevent severe lower respiratory tract infection.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Entering his first RSV season; parents seeking passive immunization to prevent severe lower respiratory tract infection.

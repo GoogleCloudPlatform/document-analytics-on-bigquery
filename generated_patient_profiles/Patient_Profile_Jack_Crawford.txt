@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Jack Crawford
+Age: 60
+Gender: Male
+Ethnicity: Not specified
+Performance Status: Not specified
+Body Weight: 72 kg
+BMI: 24.5 kg/m2
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Advanced Non-Small Cell Lung Cancer (NSCLC) with Severe Hepatic Impairment
+History: Metastatic NSCLC; severe hepatic impairment or cirrhosis due to chronic hepatic disease.
+Comorbidities: Severe hepatic impairment (Child-Pugh Group 2). No history of drug or alcohol abuse within 1 year. No clinically significant renal disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Jaundice, ascites, and fatigue related to severe liver dysfunction and advanced cancer.
+Physical Status: Severe hepatic impairment as defined by Child-Pugh Score. No major surgery within the last 4 weeks. Non-smoker for more than 6 months.
+
+4. LABORATORY RESULTS
+Liver Function: Child-Pugh Score: 10 (Severe, Group 2). Elevated bilirubin and prolonged prothrombin time.
+Renal Function: Stable; no significant impairment.
+Hematology: Hemoglobin 10.2 g/dL, Platelets 120 x 10^9/L.
+
+5. TREATMENT HISTORY
+Prior Therapies:
+- Platinum-based doublet chemotherapy for NSCLC.
+- Docetaxel as second-line therapy.
+Treatment Plan: Enrolled in a Phase 1 study to assess the pharmacokinetics of a single oral dose of repotrectinib in participants with severe hepatic impairment.

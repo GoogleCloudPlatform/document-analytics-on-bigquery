@@ -1,0 +1,27 @@
+PATIENT PROFILE: ELENA FERNANDEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 52 years
+- Sex: Female
+- Place of Residency: Spain
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unresectable Stage III Melanoma
+- Molecular Marker: Confirmed BRAF V600E mutation.
+- Disease Status: Locally advanced resectable disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Palpable skin lesion and localized discomfort.
+- Performance Status: ECOG 0.
+- Physical Status: Scheduled for neoadjuvant therapy.
+
+4. LABORATORY RESULTS
+- Molecular Testing: BRAF V600E positive.
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for advanced disease.
+- Current Plan: Initiating neoadjuvant therapy with Nivolumab and Relatlimab combination.
+- Monitoring: Pathologic response evaluation following surgical resection.

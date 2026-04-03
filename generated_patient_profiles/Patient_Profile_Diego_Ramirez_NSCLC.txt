@@ -1,0 +1,27 @@
+PATIENT PROFILE: DIEGO RAMIREZ
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 57 years
+- Sex: Male
+- Place of Residency: Mexico
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Resectable Stage IIIA NSCLC
+- Histology: Lung adenocarcinoma.
+- Molecular Markers: ALK and EGFR negative.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent cough and chest tightness.
+- Performance Status: ECOG 1.
+- Physical Status: Scheduled for neoadjuvant treatment.
+
+4. LABORATORY RESULTS
+- Molecular Testing: Negative for driver mutations.
+- Hematologic Function: Adequate.
+- Pathology: Confirmed NSCLC.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive.
+- Current Plan: Initiating neoadjuvant Nivolumab plus platinum-doublet chemotherapy.
+- Monitoring: Real-world study participation.

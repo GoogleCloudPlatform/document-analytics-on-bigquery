@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Francis Dolarhyde
+Age: 52
+Gender: Male
+Ethnicity: Not specified
+Performance Status: ECOG 1
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Advanced Metastatic Colorectal Carcinoma (CRC), Microsatellite Stable (MSS)
+History: Stage IV colorectal cancer, microsatellite stable (MSS); failed two prior lines of chemotherapy. No history of interstitial lung disease or pulmonary fibrosis. No known or suspected autoimmune disease.
+Comorbidities: None significant. No history of venous thromboembolism within the past 6 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Abdominal pain and altered bowel habits; fatigue related to metastatic disease.
+Physical Status: ECOG performance status of 1. Measurable disease confirmed by RECIST version 1.1. No active or serious uncontrolled medical disorders.
+
+4. LABORATORY RESULTS
+Genetics: Microsatellite status confirmed as stable (MSS).
+Hematology: Hemoglobin 10.8 g/dL, ANC 2.8 x 10^9/L, Platelets 165 x 10^9/L.
+Organ Function: Adequate liver (AST/ALT < 2.5x ULN) and renal function (Creatinine 1.0 mg/dL).
+
+5. TREATMENT HISTORY
+Prior Therapies:
+- Line 1: FOLFOX plus Bevacizumab.
+- Line 2: FOLFIRI plus Cetuximab.
+Treatment Plan: Initiate combination therapy with BMS-986484 and Nivolumab as part of a Phase 1/1b clinical trial.

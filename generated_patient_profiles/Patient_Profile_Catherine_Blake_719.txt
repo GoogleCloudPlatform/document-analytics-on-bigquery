@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Catherine Blake
+- Age: 63 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Chronic Bronchitis.
+- History of significant tobacco exposure.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Daily cough and sputum production (chronic bronchitis phenotype).
+- Exertional dyspnea limiting daily activities.
+- CAT (COPD Assessment Test) score: 22.
+- Smoking status: Former smoker.
+
+4. LABORATORY RESULTS
+- FEV1: 50% of predicted.
+- FEV1/FVC: 0.62.
+- Oxygen saturation: 94%.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Inhaled corticosteroids alone with inadequate response.
+- Plan: Switch to fixed-dose BGF (Budesonide/Glycopyrronium/Formoterol) triple therapy for symptomatic relief and prevention of lung function decline.

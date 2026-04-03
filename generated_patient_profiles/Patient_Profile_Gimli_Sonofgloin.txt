@@ -1,0 +1,24 @@
+PATIENT PROFILE: GIMLI SONOFGLOIN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: PNH real-life outcomes
+- Secondary Condition: [Inferred, e.g., None or Hypertension]
+- Other Relevant History: Real-world patient evaluating Ravulizumab for symptom control and hemoglobin stability.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: LDH remains high on standard care; starting Ravulizumab.. Patient reports dark urine and extreme fatigue.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.8x Upper Limit of Normal (ULN); Hemoglobin 8.2 g/dL; Flow cytometry confirms 42% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard of Care as per context]
+- Current Plan: LDH remains high on standard care; starting Ravulizumab.

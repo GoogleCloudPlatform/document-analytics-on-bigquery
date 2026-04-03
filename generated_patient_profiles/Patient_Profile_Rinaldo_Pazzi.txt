@@ -1,0 +1,36 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Rinaldo Pazzi
+Age: 35
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Police Inspector
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Healthy Volunteer. No history of clinically significant gastrointestinal, renal, hepatic, neurological, psychiatric, or cardiovascular disorders. No prior exposure to BMS-986446 (PRX005).
+
+3. SYMPTOMS & PHYSICAL STATUS
+Overall Status: Healthy.
+Height: 178 cm
+Weight: 80 kg
+BMI: 25.2 kg/m2 (Within 18.0 to 30.0 range)
+Vital Signs:
+- BP: 118/76 mmHg
+- HR: 64 bpm
+Physical Examination: Normal. Neurological exam reveals no deficits. C-SSRS: No suicidal ideation or behavior.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 15.0 g/dL
+- WBC: 6.8 x 10^3/mm3
+Chemistry:
+- ALT: 24 U/L
+- AST: 22 U/L
+- Bilirubin: 0.7 mg/dL
+- Creatinine: 0.9 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+ECG: Normal sinus rhythm.
+
+5. TREATMENT HISTORY
+Plan: Participate in Phase 1 randomized, parallel, single-dose study (NCT06955741) to assess the absolute bioavailability of BMS-986446 (anti-MTBR Tau mAb). Randomly assigned to receive a single dose of BMS-986446 either via intravenous (IV) or subcutaneous (SC) administration. Undergo intensive PK sampling for 672 hours and safety assessments.

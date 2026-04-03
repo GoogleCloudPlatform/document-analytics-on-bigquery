@@ -1,0 +1,27 @@
+PATIENT PROFILE: MONICA GELLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 32 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Ulcerative Colitis (UC)
+- Disease History: 5-year history.
+- Biologic Status: Ozanimod-naive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bloody bowel movements, urgency, and abdominal pain.
+- Performance Status: ECOG 0.
+- Disease Activity: Mayo score 8.
+
+4. LABORATORY RESULTS
+- Mayo Score: 8.
+- Inflammatory Markers: Elevated CRP and fecal calprotectin.
+- Hematologic Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed 5-ASA and corticosteroids.
+- Current Plan: Initiating Ozanimod (Zeposia) as a first-line advanced oral therapy.
+- Monitoring: Prospective non-interventional outcome study.

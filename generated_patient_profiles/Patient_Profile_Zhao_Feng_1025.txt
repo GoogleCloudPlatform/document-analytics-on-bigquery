@@ -1,0 +1,37 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Zhao Feng
+Age: 61
+Gender: Male
+Race: Asian
+Ethnicity: Chinese
+Occupation: Technical Supervisor
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Relapsed Diffuse Large B-Cell Lymphoma (DLBCL).
+Status: Histologically confirmed DLBCL. Relapsed after one prior line of systemic therapy (R-CHOP).
+Requirement: Will be treated with Glofitamab-based regimen (or initiated within 90 days prior).
+Comorbidities: None significant. No active CNS involvement. Not participating in interventional clinical trials.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 1.
+Symptoms: New palpable lymph nodes in the neck and axilla, drenching night sweats, fatigue.
+Physical Examination: Multiple enlarged lymph nodes (up to 2.5 cm). No signs of acute infection. Stable vital signs.
+Life Expectancy: > 6 months.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 11.2 g/dL
+- WBC: 5.8 x 10^3/µL
+- ANC: 3.5 x 10^9/L
+- Platelets: 180 x 10^9/L
+Chemistry:
+- LDH: 350 U/L (Elevated)
+- ALT: 28 U/L
+- AST: 25 U/L
+- Bilirubin: 0.9 mg/dL
+- Creatinine: 1.1 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Initiate second-line therapy with Glofitamab (Columvi) as part of a prospective, observational multicenter cohort study in China (NCT07200375). Administer Glofitamab IV according to step-up dosing schedule following obinutuzumab pre-treatment. Monitor real-world progression-free survival (rwPFS), complete response rate (CRR), and safety profile. Undergo regular imaging and clinical evaluations as per routine care. Provide signed informed consent.

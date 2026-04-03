@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Sophia Grace
+- Age: 3 months
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: N/A (Infant)
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Chronic Lung Disease (CLD) of prematurity.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Born at 29 weeks gestation.
+- Currently weaning off supplemental oxygen.
+- History of prolonged respiratory support.
+- Requires careful respiratory monitoring.
+
+4. LABORATORY RESULTS
+- Chest X-ray: Consistent with mild bronchopulmonary dysplasia.
+- Oxygen saturation: 95% on low-flow supplemental oxygen.
+- Viral panel: Negative.
+
+5. TREATMENT HISTORY
+- Previous: Surfactant therapy and mechanical ventilation post-birth.
+- Plan: Initiate seasonal RSV prophylaxis with monthly Palivizumab (Synagis) injections throughout the winter months.

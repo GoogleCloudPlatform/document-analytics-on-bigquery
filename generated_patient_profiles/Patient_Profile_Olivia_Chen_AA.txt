@@ -1,0 +1,30 @@
+PATIENT PROFILE: OLIVIA CHEN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 28 years
+- Sex: Female
+- Place of Residency: California, USA
+- Ethnicity: Asian
+- Insurance Status: Commercial PPO
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Alopecia Areata (AA)
+- Clinical Subtype: Alopecia Totalis (Documented 100% scalp hair loss).
+- Diagnosis Duration: 6 years (Diagnosed at age 22).
+- Differential Diagnosis: No history of other types of alopecia (e.g., androgenic or cicatricial) or scarring alopecia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: 100% scalp hair loss; loss of eyebrows and eyelashes (common in severe AA).
+- Performance Status: Active (Supports health status assessment).
+- Physical Status: Otherwise healthy with no other dermatological conditions that would interfere with hair loss assessment.
+- Medical Record Status: Complete records covering AA management from initial diagnosis to current follow-up.
+
+4. LABORATORY RESULTS
+- Scalp Hair Loss: Documented at 100% (SALT score equivalent) prior to therapy initiation.
+- General Labs: Within normal limits for age.
+- Hematologic Function: Adequate baseline function.
+- Screening: Negative for chronic infections (Hepatitis, HIV, Tuberculosis).
+
+5. TREATMENT HISTORY
+- Prior Therapy: History of treatment with various traditional therapies, including topical corticosteroids and minoxidil, with suboptimal response. No prior exposure to Ritlecitinib or other specified JAK inhibitors (Baricitinib, Deuruxolitinib, etc.).
+- Current Plan: Initiated Ritlecitinib treatment in October 2023 following failure of topical therapies. Patients will be monitored for clinical response and hair regrowth across regular follow-up visits. No participation in prior clinical trials involving ritlecitinib.

@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Victor Laszlo
+- Age: 45 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Political Leader (Hungary)
+- Location: Budapest, Hungary
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Active multi-system Systemic Lupus Erythematosus (SLE).
+- SLE-related arthritis and dermatitis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Multiple active joint swellings.
+- Extensive discoid lupus-like skin lesions.
+- Systemic fatigue and malaise.
+- BMI: 24.2 kg/m².
+
+4. LABORATORY RESULTS
+- SLEDAI-2K score: 14.
+- Anti-dsDNA: Positive.
+- Complement C3/C4: Low.
+- ESR: 45 mm/hr.
+- ANA: Positive (1:640).
+
+5. TREATMENT HISTORY
+- Previous: Standard of care immunosuppressants (Methotrexate, Azathioprine).
+- Plan: Initiate Anifrolumab (Saphnelo) therapy to reduce disease activity and track clinical safety outcomes.

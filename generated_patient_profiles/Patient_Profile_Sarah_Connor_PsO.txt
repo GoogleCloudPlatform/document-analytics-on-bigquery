@@ -1,0 +1,27 @@
+PATIENT PROFILE: SARAH CONNOR
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 28 years
+- Sex: Female
+- Place of Residency: USA
+- Pregnancy Status: Planning pregnancy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Plaque Psoriasis
+- Disease Status: Moderate-to-severe.
+- Risk Profile: Requires pregnancy safety data.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic skin plaques.
+- Performance Status: ECOG 0.
+- Physical Status: Systemically well.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- PASI Score: 15.
+- Pregnancy Test: Currently negative.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Managed with various systemic treatments.
+- Current Plan: Managing condition with Deucravacitinib while planning pregnancy.
+- Monitoring: Participation in safety registry for fetal outcomes monitoring.

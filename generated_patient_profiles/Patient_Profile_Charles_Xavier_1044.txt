@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Charles Xavier
+Age: 74
+Sex: Male
+Residency: Westchester, USA
+Occupation: Academic Dean
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Diagnosis: Lower-Risk Myelodysplastic Syndrome (MDS)
+Duration: 2 years
+Comorbidities: Transfusion-dependent Anemia
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Profound fatigue, shortness of breath on exertion, occasional dizziness.
+Physical Status: IPSS-R Score: Low. ECOG Performance Status 1.
+Weight: 78 kg.
+
+4. LABORATORY RESULTS
+Hemoglobin: 7.5 g/dL
+Serum Erythropoietin (sEPO): 350 U/L
+Ring Sideroblasts: Positive (>15%)
+Platelets: 110 x 10^9/L
+ANC: 1.2 x 10^9/L
+Bone Marrow Blast Count: 3%
+
+5. TREATMENT HISTORY
+Previous Treatments: Inadequate response to Erythropoiesis-Stimulating Agents (ESAs). Requires regular red blood cell transfusions (2 units every 4 weeks).
+Plan: Initiate treatment with Luspatercept to achieve transfusion independence.

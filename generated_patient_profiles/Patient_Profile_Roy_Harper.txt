@@ -1,0 +1,24 @@
+PATIENT PROFILE: ROY HARPER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 30 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Serious Bacterial Infection (China)
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Hospitalized patient in China receiving CAZ-AVI for a serious bacterial infection in a real-world study.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Infected with carbapenem-resistant Enterobacteriaceae; initiating CAZ-AVI (Zavicefta).
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Serious Bacterial Infection (China).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Infected with carbapenem-resistant Enterobacteriaceae; initiating CAZ-AVI (Zavicefta).

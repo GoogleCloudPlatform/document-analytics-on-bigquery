@@ -1,0 +1,38 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Arjun Mehta
+Age: 9
+Gender: Male
+Race: Asian
+Ethnicity: Indian
+Occupation: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Pediatric Growth Hormone Deficiency (pGHD).
+Status: Confirmed pGHD. Short stature with height velocity below the 3rd percentile for age and sex.
+Requirement: Boys < 15 years of age at start of treatment. No epiphyseal closure.
+Comorbidities: None significant. No history of neoplasm or glucose metabolism disorders.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Significant short stature, slow growth rate compared to peers.
+Height: 115 cm (< 3rd percentile)
+Weight: 22 kg
+Vital Signs:
+- BP: 100/65 mmHg
+- HR: 80 bpm
+Physical Examination: Immature facial features, normal body proportions. Bone age assessed as 7 years (delayed).
+
+4. LABORATORY RESULTS
+Endocrine:
+- GH Stimulation Test: Peak GH < 10 ng/mL (Confirmed deficiency)
+- IGF-1: 45 ng/mL (Low for age)
+Chemistry:
+- Glucose (Fasting): 85 mg/dL (Normal)
+- HbA1c: 5.2%
+- ALT: 18 U/L
+- AST: 20 U/L
+- Creatinine: 0.5 mg/dL
+Imaging:
+- Hand X-ray: Confirmed open epiphyses.
+
+5. TREATMENT HISTORY
+Plan: Initiate once-weekly subcutaneous Somatrogon (Ngenla) injections as part of a multicenter active surveillance study in India (NCT06587035). Somatrogon dose administered via pre-filled pen. Monitor for adverse events, changes in annualized height velocity (cm/year), height standard deviation score (HSDS), and bone maturation over 3 years. Maintain treatment adherence and record any missed injections.

@@ -1,0 +1,28 @@
+PATIENT PROFILE: LI WEI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: Beijing, China
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HER2-positive Advanced Breast Cancer
+- Subtype: HER2 positive (IHC 3+ or FISH amplified)
+- Current Stage: Metastatic, unresectable disease.
+- Disease Progression: Progressed following first-line systemic therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Generalized fatigue and localized discomfort at metastatic sites.
+- Performance Status: ECOG 1 (Ambulatory).
+- Physical Status: Clinically stable for initiation of second-line therapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate (ANC: 2.8 x 10^9/L, Platelets: 190 x 10^9/L, Hemoglobin: 11.5 g/dL).
+- Liver Function: Normal.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Previously received first-line treatment consisting of a taxane (e.g., Docetaxel) and Trastuzumab.
+- Current Plan: Initiating second-line therapy with Trastuzumab Emtansine (T-DM1).
+- Monitoring: Regular clinical assessment and monitoring for potential hepatotoxicity or thrombocytopenia.

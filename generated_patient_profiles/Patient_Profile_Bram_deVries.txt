@@ -1,0 +1,27 @@
+PATIENT PROFILE: BRAM DE VRIES
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 15 years
+- Sex: Male
+- Place of Residency: Netherlands
+- Status: Pediatric
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Pediatric Melanoma
+- Disease Status: Metastatic disease.
+- Involvement: Cutaneous and nodal sites.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Localized skin lesions and lymphadenopathy.
+- Performance Status: Active for age.
+- Physical Status: Unresectable disease.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Pathology: Histologically confirmed melanoma.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for systemic immunotherapy.
+- Current Plan: Initiating monotherapy with Ipilimumab.
+- Monitoring: Long-term tracking in the Dutch registry.

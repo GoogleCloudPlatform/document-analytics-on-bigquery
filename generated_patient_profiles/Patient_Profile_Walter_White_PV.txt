@@ -1,0 +1,27 @@
+PATIENT PROFILE: WALTER WHITE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 56 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Polycythemia Vera (PV)
+- Comorbidities: History of blood clots.
+- Disease Status: Elevated hematocrit levels.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Severe itching (pruritus), fatigue, and headaches.
+- Performance Status: ECOG 1.
+- Physical Status: Requiring frequent phlebotomies.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Hematocrit > 45%; elevated red cell mass.
+- Bone Marrow: Hypercellularity with trilineage growth.
+- Genetics: JAK2 mutation positive.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Phlebotomy and hydroxyurea with inadequate control.
+- Current Plan: Initiating treatment with Ruxolitinib.
+- Monitoring: Managed Access Program evaluation for PV symptoms.

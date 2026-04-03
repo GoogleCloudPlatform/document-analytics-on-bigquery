@@ -1,0 +1,29 @@
+PATIENT PROFILE: SARAH MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 72 years
+- Sex: Female
+- Place of Residency: Florida, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Neovascular Age-related Macular Degeneration (nAMD)
+- Affected Eye: Right eye
+- Diagnosis Status: Confirmed by fundus examination and OCT showing intraretinal and subretinal fluid.
+- Medical History: Controlled hypertension.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Decline in central vision affecting reading and facial recognition; baseline visual acuity 20/80.
+- Performance Status: Independent in most daily activities.
+- Ocular Health: No active ocular infections or history of significant ocular inflammation.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Liver Function: Normal.
+- Renal Function: Normal.
+- Ocular Imaging: OCT imaging confirms presence of active choroidal neovascularization.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Newly diagnosed nAMD; no prior anti-VEGF therapy.
+- Current Plan: Initiating treatment with Faricimab injections.
+- Monitoring: Regular visual acuity checks and OCT scans to guide ongoing therapy.

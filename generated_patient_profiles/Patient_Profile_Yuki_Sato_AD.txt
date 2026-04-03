@@ -1,0 +1,27 @@
+PATIENT PROFILE: YUKI SATO
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 33 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Atopic Dermatitis
+- Disease Status: Chronic eczema resistant to topical corticosteroids.
+- Comorbidities: None.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Intense itching, dry skin, and erythematous patches.
+- Performance Status: ECOG 0.
+- Physical Status: Suboptimal control on standard topicals.
+
+4. LABORATORY RESULTS
+- EASI Score: > 16.
+- IgE Level: Elevated.
+- Hematologic Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Topical corticosteroids and calcineurin inhibitors.
+- Current Plan: Initiating systemic therapy with Abrocitinib (CIBINQO).
+- Monitoring: Long-term safety investigation in Japanese patients.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: WADE WILSON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 41 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: KRAS G12C Advanced Solid Tumor
+- Subtype: Rare abdominal sarcoma.
+- Molecular Marker: Confirmed KRAS G12C mutation.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abdominal pain and palpable mass.
+- Performance Status: ECOG 1.
+- Physical Status: No standard treatment options remaining.
+
+4. LABORATORY RESULTS
+- Molecular Testing: KRAS G12C positive via NGS.
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Exhausted all standard chemotherapy and surgical options.
+- Current Plan: Seeking access to Adagrasib through compassionate use.
+- Monitoring: Expanded access program tracking for KRAS G12C tumors.

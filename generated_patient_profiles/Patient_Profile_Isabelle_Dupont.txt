@@ -1,0 +1,24 @@
+PATIENT PROFILE: ISABELLE DUPONT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Female
+- Place of Residency: France
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Recurrent Head and Neck Squamous Cell Carcinoma
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Patient with head and neck cancer progressing after platinum therapy receiving Nivolumab.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Progressed on platinum-based chemotherapy; starting second-line Nivolumab therapy.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Recurrent Head and Neck Squamous Cell Carcinoma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Progressed on platinum-based chemotherapy; starting second-line Nivolumab therapy.

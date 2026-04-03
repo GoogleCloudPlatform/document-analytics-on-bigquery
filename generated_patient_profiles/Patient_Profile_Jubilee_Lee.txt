@@ -1,0 +1,24 @@
+PATIENT PROFILE: JUBILEE LEE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 11 months
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: RSV Risk in CLD
+- Secondary Condition: [Inferred, e.g., None or Hypertension]
+- Other Relevant History: High-risk pediatric patient with underlying pulmonary pathology needing RSV prevention.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Requires specialized monitoring and Palivizumab prophylaxis during second RSV season.. Preterm infant at high risk for severe RSV.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Status: Stable but requires seasonal passive immunization.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard of Care as per context]
+- Current Plan: Requires specialized monitoring and Palivizumab prophylaxis during second RSV season.

@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Catherine the Great
+- Age: 48 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Diffuse Cutaneous Systemic Sclerosis (Scleroderma).
+- Rapidly progressive skin thickening.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Extensive skin tightening (trunk and extremities).
+- Presence of digital ulcers.
+- Raynaud's phenomenon.
+- Gastrointestinal symptoms (reflux).
+
+4. LABORATORY RESULTS
+- Anti-Scl-70 (Topoisomerase I): Positive.
+- ANA: Positive (Nucleolar pattern).
+- LFTs: Normal.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Methotrexate and vasodilators.
+- Plan: Initiate Rapcabtagene Autoleucel (CAR T therapy) to evaluate safety and cellular kinetics in systemic sclerosis.

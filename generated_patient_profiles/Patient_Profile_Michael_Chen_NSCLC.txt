@@ -1,0 +1,29 @@
+PATIENT PROFILE: MICHAEL CHEN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Male
+- Place of Residency: California, USA
+- Employment Status: Retired (Former smoker, 30 pack-years)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Histology: Histologically confirmed Stage IV NSCLC.
+- Metastatic Sites: Liver and bone.
+- Molecular Markers: Wild-type for EGFR and ALK.
+- PD-L1 Expression: 40%
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue and right upper quadrant discomfort.
+- Performance Status: ECOG 1 (Ambulatory).
+- Physical Status: No untreated CNS metastases; no history of immunodeficiency or autoimmune disorders.
+
+4. LABORATORY RESULTS
+- Cardiac Markers: Troponin I levels within the normal range.
+- Hematology: Adequate bone marrow and organ function.
+- Life Expectancy: Estimated at greater than 12 weeks.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for metastatic disease.
+- Current Plan: Initiating first-line systemic therapy for Stage IV NSCLC.
+- Monitoring: Serial imaging for liver and bone metastases response.

@@ -1,0 +1,24 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Groot
+- Age: 65 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired (UK)
+- Location: UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Uncontrolled Eosinophilic Asthma.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Frequent asthma flares requiring systemic steroids.
+- Chronic wheezing and breathlessness despite high-intensity maintenance therapy.
+- Managed at a specialist asthma center.
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 400 cells/µL.
+- FEV1: 65% of predicted.
+- FeNO: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Maximum dose ICS/LABA and oral corticosteroids.
+- Plan: Initiate add-on biologic therapy with Tezepelumab (Tezspire) for improved disease control.

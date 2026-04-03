@@ -1,0 +1,30 @@
+PATIENT PROFILE: KENJI TANAKA
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: Active (Supports health status assessment)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Atopic Dermatitis (AD)
+- Diagnosis Duration: Long-standing history (Chronic condition).
+- Clinical Presentation: Persistent skin inflammation requiring advanced systemic intervention.
+- Clinical Practice: Managed according to current Japanese medical guidelines.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Intense pruritus (itching), widespread erythema, and lichenification affecting multiple body regions.
+- Performance Status: Active, but daily activities and sleep quality are impacted by chronic symptoms.
+- Physical Status: Generally healthy aside from dermatological condition; no other significant co-morbidities identified.
+- General Health: No history of severe allergic reactions or anaphylaxis.
+
+4. LABORATORY RESULTS
+- Eczema Area and Severity Index (EASI): Consistent with moderate-to-severe disease (e.g., EASI > 16).
+- Hematologic Function: Within normal limits for therapy initiation.
+- Liver Function: Normal (AST/ALT within acceptable limits).
+- Renal Function: Normal (Creatinine and eGFR within acceptable limits).
+- Viral Screening: Negative for chronic infections (Hepatitis B/C, HIV, Tuberculosis).
+
+5. TREATMENT HISTORY
+- Prior Therapy: History of treatment with various topical corticosteroids and potentially conventional systemic therapies with suboptimal response.
+- Current Plan: Initiating first-time treatment with Abrocitinib (CIBINQO) as a new commercial product for Atopic Dermatitis in Japan. Therapy is ongoing with plans for long-term safety and effectiveness monitoring within routine medical practice. Decision to receive therapy made independently of study participation. Dosing based on clinical assessment and label recommendations. No prior enrollment in the current surveillance study.

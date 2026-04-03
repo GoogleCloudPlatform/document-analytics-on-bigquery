@@ -1,0 +1,24 @@
+PATIENT PROFILE: LOGAN HOWLETT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Recurrent Urothelial Carcinoma
+- Secondary Condition: [None or Hypertension as appropriate]
+- Other Relevant History: Real-world assessment of Nivolumab in muscle-invasive urothelial carcinoma management.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Previous BCG treatment failed; initiating Nivolumab in a neoadjuvant or adjuvant setting.. Post-radical cystectomy for pT3N0 bladder cancer.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: PD-L1 positive (CPS >= 1). No evidence of distant metastasis on imaging.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard care as per clinical guidelines]
+- Current Plan: Previous BCG treatment failed; initiating Nivolumab in a neoadjuvant or adjuvant setting.

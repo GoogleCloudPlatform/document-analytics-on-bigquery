@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Orville Wright
+- Age: 70 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Very Severe Chronic Obstructive Pulmonary Disease (COPD).
+- GOLD Grade 4 disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Significant airflow limitation and daily dyspnea.
+- Chronic cough and sputum production.
+- Physical Exam: Barrel chest, decreased breath sounds.
+
+4. LABORATORY RESULTS
+- FEV1: 28% of predicted value.
+- FEV1/FVC: 0.55.
+- PaO2: 62 mmHg on room air.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Triple inhaler therapy and oxygen as needed.
+- Plan: Initiate add-on therapy with Tezepelumab to assess its role in reducing COPD exacerbations and improving symptoms.

@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Park Ji-sung
+- Age: 66 years
+- Sex: Male
+- Race/Ethnicity: Korean
+- Occupation: Retired
+- Location: South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Relapsed/Refractory Multiple Myeloma.
+- Refractory to anti-CD38 monoclonal antibodies.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- New onset of bone pain.
+- Generalized fatigue.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Serum M-protein: Rising.
+- Free Light Chain Ratio: Abnormal.
+- Hemoglobin: 10.2 g/dL.
+- Platelets: 95 x 10^9/L.
+
+5. TREATMENT HISTORY
+- Previous: Failed four prior lines of therapy, including proteasome inhibitors, IMiDs, and Daratumumab.
+- Plan: Initiate Elranatamab (Elrexfio) monotherapy for relapsed/refractory disease.

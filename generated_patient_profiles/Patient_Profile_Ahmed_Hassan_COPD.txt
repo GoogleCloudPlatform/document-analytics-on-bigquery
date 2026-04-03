@@ -1,0 +1,27 @@
+PATIENT PROFILE: AHMED HASSAN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 64 years
+- Sex: Male
+- Place of Residency: Egypt
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD)
+- Symptoms: Frequent cough and exertional dyspnea.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath during daily walks and chronic morning cough.
+- Performance Status: CAT score 23.
+- Physical Status: Moderate-to-severe airflow obstruction.
+
+4. LABORATORY RESULTS
+- Pulmonary Function: FEV1 < 60% predicted.
+- Hematologic Function: Normal.
+- Oxygen Saturation: 93%.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Previously managed with LAMA/LABA dual therapy.
+- Current Plan: Switching to BGF triple therapy (Budesonide/Glycopyrronium/Formoterol).
+- Monitoring: Assessment of symptom improvement and exacerbation frequency.

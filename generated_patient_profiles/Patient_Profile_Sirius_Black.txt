@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Sirius Black
+- Age: 54 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Metastatic Non-Small Cell Lung Cancer (NSCLC), Stage IV.
+- PD-L1 negative status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent cough and chest pain.
+- Generalized fatigue.
+- ECOG Performance Status: 1.
+- History of tobacco use.
+
+4. LABORATORY RESULTS
+- PD-L1 expression: < 1%.
+- EGFR, ALK: Negative.
+- Hemoglobin: 11.7 g/dL.
+- Imaging: Primary tumor with nodal and bone metastases.
+
+5. TREATMENT HISTORY
+- Previous: No prior systemic therapy for metastatic disease.
+- Plan: Initiate first-line dual immunotherapy with Nivolumab and Ipilimumab for metastatic NSCLC.

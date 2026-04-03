@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Lily Evans
+- Age: 5 months
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: N/A (Infant)
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- History of prematurity.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Born at 32 weeks gestation.
+- Resides in a household with school-aged siblings (increased exposure risk).
+- History of mild respiratory distress syndrome at birth, currently resolved.
+- Normal weight gain for age.
+
+4. LABORATORY RESULTS
+- Baseline growth parameters: Appropriate for corrected age.
+- Viral panel: Negative.
+- Renal function: Normal for age.
+
+5. TREATMENT HISTORY
+- Plan: Initiate seasonal RSV prophylaxis with monthly Palivizumab (Synagis) injections throughout the RSV season.

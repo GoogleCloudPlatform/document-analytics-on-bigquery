@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Peter Parker
+- Age: 28 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Photographer
+- Location: USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Moderate-to-Severe Ulcerative Colitis (UC).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Daily bloody stools (6-8 bowel movements/day).
+- Severe urgency and moderate abdominal cramping.
+- Mayo score: 8.
+- BMI: 24.5 kg/m².
+
+4. LABORATORY RESULTS
+- CRP: Elevated (15 mg/L).
+- Fecal Calprotectin: 850 µg/g.
+- Hemoglobin: 12.2 g/dL.
+- Ozanimod-naïve status confirmed.
+
+5. TREATMENT HISTORY
+- Previous: Failed 5-ASA therapy and a course of oral corticosteroids.
+- Plan: Initiate Ozanimod (Zeposia) therapy for the management of moderate-to-severe Ulcerative Colitis and evaluation of quality of life.

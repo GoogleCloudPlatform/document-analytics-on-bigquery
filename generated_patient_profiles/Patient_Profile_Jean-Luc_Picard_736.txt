@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Jean-Luc Picard
+- Age: 67 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Post-radical cystectomy status.
+- High risk of recurrence.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Recovering from major surgery.
+- Stable performance status (ECOG 1).
+- No current evidence of distant metastatic disease.
+
+4. LABORATORY RESULTS
+- Pathology: Invasive urothelial carcinoma (pT3).
+- Renal function: Creatinine 1.1 mg/dL.
+- LFTs: Within normal limits.
+- PD-L1: Known status.
+
+5. TREATMENT HISTORY
+- Previous: Radical cystectomy.
+- Plan: Initiate adjuvant Nivolumab (Opdivo) therapy to improve disease-free survival in a real-world observational setting.

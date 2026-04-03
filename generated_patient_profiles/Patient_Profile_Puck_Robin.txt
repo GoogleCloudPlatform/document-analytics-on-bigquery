@@ -1,0 +1,34 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Puck Robin
+Age: 48
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Performer
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Metastatic Gastric Cancer.
+Status: Histologically confirmed metastatic solid tumor. Has received or been intolerant to all available treatments known to confer clinical benefit (including fluoropyrimidine and platinum-based chemotherapy).
+Comorbidities: None. No history of second malignancy within 2 years. No history of autoimmune disease or ILD.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 1.
+Symptoms: Upper abdominal discomfort, early satiety. Stable weight (loss < 10% over 2 months).
+Physical Examination: No active CNS metastases. No clinically relevant ascites. Normal neurological exam. Stable vital signs.
+Measurable Disease: Gastric body lesion 2.5 cm, liver lesion 1.2 cm.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 10.8 g/dL
+- ANC: 3.2 x 10^9/L
+- Platelets: 180 x 10^9/L
+Chemistry:
+- ALT: 32 U/L
+- AST: 30 U/L
+- Total Bilirubin: 0.9 mg/dL
+- Creatinine: 1.0 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Enroll in a Phase 1 open-label, multicenter study (NCT05853367) to receive MK-0472. Administer MK-0472 orally at the assigned dose. Monitor for dose-limiting toxicities (DLTs), pharmacokinetics, and objective response. Follow protocol requirements for biopsy collection and contraception. Avoid prohibited medications including PPIs and H2 blockers.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: ZOFIA NOWAKOWSKA
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 29 years
+- Sex: Female
+- Place of Residency: Poland
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate Systemic Lupus Erythematosus (SLE)
+- Involvement: Skin involvement and fatigue.
+- Symptoms: Malar rash and joint discomfort.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Facial rash and systemic fatigue.
+- Performance Status: ECOG 0.
+- Physical Status: Stable disease activity.
+
+4. LABORATORY RESULTS
+- SLEDAI-2K Score: 12.
+- Immunology: Positive anti-dsDNA.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Conventional immunosuppressants.
+- Current Plan: Initiating therapy with Anifrolumab.
+- Monitoring: Routine practice evaluation of disease activity change.

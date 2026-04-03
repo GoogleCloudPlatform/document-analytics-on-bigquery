@@ -1,0 +1,24 @@
+PATIENT PROFILE: LIU JING
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 70 years
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-risk MDS (China)
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: ESA-naive, lower-risk MDS patient in China receiving Luspatercept in an observational treatment study.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: IPSS-R low risk; starting Luspatercept to achieve transfusion independence.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Lower-risk MDS (China).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Hemoglobin 7.8 g/dL; Serum Erythropoietin (sEPO) 350 U/L. Bone Marrow: >15% ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: IPSS-R low risk; starting Luspatercept to achieve transfusion independence.

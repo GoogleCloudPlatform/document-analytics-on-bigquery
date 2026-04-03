@@ -1,0 +1,29 @@
+PATIENT PROFILE: SARAH THOMPSON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 38 years
+- Sex: Female
+- Place of Residency: United Kingdom
+- Employment Status: Active (Supports health status assessment)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Migraine
+- Diagnosis Duration: 5 years (Diagnosed by a neurologist).
+- Clinical Status: High-frequency headache days; diagnosis confirmed per ICHD criteria.
+- Comorbidities: No other specified headache disorders (e.g., cluster headache) or significant psychiatric/neurological conditions.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Average of 18 headache days per month, with 10–12 severe migraine attacks characterized by throbbing headache, photophobia, phonophobia, and nausea.
+- Functional Status: Significantly impacted by attack frequency and severity.
+- Performance Status: Ambulatory; able to manage activities of daily living with intermittent limitations.
+- Pregnancy Status: Not pregnant.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Within normal limits for age.
+- Hepatic and Renal Function: Normal (AST/ALT, Bilirubin, and Creatinine within acceptable limits).
+- Cardiovascular Status: No significant cardiac abnormalities at baseline.
+- Allergy Status: No known clinically significant hypersensitivity to study drug components.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Stable on Topiramate (100 mg daily) as a migraine preventive for the past 6 months. History of various prior acute treatments with insufficient response.
+- Current Plan: Currently prescribed Rimegepant (75 mg) for the acute treatment of migraine attacks (initiated 3 months ago). Experience with Rimegepant demonstrates regular use for multiple attacks per month. No prior participation in other migraine clinical trials. Decision for therapy made independently of study participation. Dosing and usage per established UK clinical practice. Not taking strong CYP3A4 inhibitors or inducers.

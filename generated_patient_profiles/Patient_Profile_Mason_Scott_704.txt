@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Mason Scott
+- Age: 10 months
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: N/A (Infant)
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Cystic Fibrosis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Frequent respiratory tract infections.
+- Normal growth velocity on pancreatic enzyme replacement.
+- History of prolonged recovery from viral illnesses.
+
+4. LABORATORY RESULTS
+- Sweat Chloride Test: Positive (Consistent with Cystic Fibrosis).
+- FEV1: Within normal limits for age (by infant PFTs).
+- Sputum Culture: Normal flora.
+
+5. TREATMENT HISTORY
+- Previous: Pancreatic enzyme replacement and chest physiotherapy.
+- Plan: Initiate seasonal RSV prophylaxis with monthly Palivizumab (Synagis) injections to prevent severe lower respiratory tract disease.

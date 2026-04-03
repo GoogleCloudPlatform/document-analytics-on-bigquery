@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Ororo Munroe
+Age: 60
+Sex: Female
+Residency: Cairo, Egypt
+Occupation: Environmental Scientist
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Diagnosis: Moderate-to-Severe Chronic Obstructive Pulmonary Disease (COPD)
+Duration: 6 years
+Comorbidities: History of heavy smoking (quit 5 years ago)
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Chronic productive cough, exertional dyspnea (breathlessness), frequent winter exacerbations.
+Physical Status: CAT Score: 22. FEV1 45% predicted.
+Weight: 68 kg.
+
+4. LABORATORY RESULTS
+Oxygen Saturation: 94% on room air.
+Blood Eosinophil Count: 250 cells/µL.
+Chest X-ray: Hyperinflation consistent with COPD.
+EKG: Normal Sinus Rhythm.
+
+5. TREATMENT HISTORY
+Previous Treatments: Managed with dual LABA/LAMA therapy for 2 years with persistent symptoms and two exacerbations in the last 12 months.
+Plan: Switch to triple therapy with BGF (Budesonide/Glycopyrronium/Formoterol) as part of routine care.

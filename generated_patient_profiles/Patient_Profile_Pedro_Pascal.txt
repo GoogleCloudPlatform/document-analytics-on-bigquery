@@ -1,0 +1,24 @@
+PATIENT PROFILE: PEDRO PASCAL
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic COPD
+- Secondary Condition: None documented
+- Other Relevant History: Routine care patient treated with triple therapy for symptomatic COPD management.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: CAT score 21; recently switched to BGF triple therapy for better symptom control.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Symptomatic COPD.
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Symptomatic COPD
+- Current Plan: CAT score 21; recently switched to BGF triple therapy for better symptom control.

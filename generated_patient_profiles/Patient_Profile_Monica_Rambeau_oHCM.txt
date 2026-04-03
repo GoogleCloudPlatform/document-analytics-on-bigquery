@@ -1,0 +1,27 @@
+PATIENT PROFILE: MONICA RAMBEAU
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 39 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Cardiac Anatomy: Left ventricular wall thickness of 20 mm.
+- Disease Status: Symptomatic with palpitations.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Exercise intolerance and recurrent palpitations.
+- Performance Status: NYHA Class II.
+- Physical Status: Documented high LVOT gradient.
+
+4. LABORATORY RESULTS
+- Echocardiography: LVOT gradient 65 mmHg.
+- Cardiac Function: Normal LVEF.
+- Cardiac Imaging: 20 mm septal thickness.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blockers with inadequate symptom control.
+- Current Plan: Initiating Mavacamten therapy.
+- Monitoring: Enrollment in the real-world longitudinal outcomes registry.

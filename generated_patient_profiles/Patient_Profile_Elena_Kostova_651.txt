@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Elena Kostova
+- Age: 52 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Bulgaria
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- HER2-Positive Advanced Breast Cancer.
+- Metastatic disease with asymptomatic brain metastases.
+- Postmenopausal status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Stable performance status.
+- No symptomatic neurological deficits.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- HER2 Status (IHC): 3+ (Positive).
+- Hormone Receptor Status: Known.
+- Hepatic and Renal Function: Within normal limits.
+- Hemoglobin: 11.8 g/dL.
+
+5. TREATMENT HISTORY
+- Previous: Failed first-line therapy with Trastuzumab and Pertuzumab.
+- Plan: Initiate Trastuzumab Emtansine (T-DM1) as second-line therapy for advanced HER2+ breast cancer.

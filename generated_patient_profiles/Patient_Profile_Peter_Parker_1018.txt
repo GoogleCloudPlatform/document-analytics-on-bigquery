@@ -1,0 +1,38 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Peter Parker
+Age: 36
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Photographer
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Moderate-to-Severe Ulcerative Colitis (UC).
+Status: Confirmed diagnosis of UC for 5 years. Currently experiencing a flare despite standard care.
+Requirement: Physician decided to initiate treatment with Tofacitinib (Xeljanz) as per SmPC.
+Comorbidities: None. No history of serious or active infections (TB negative). No severe hepatic impairment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 0.
+Symptoms: Daily bloody stools (6 per day), fecal urgency, moderate abdominal pain.
+Physical Examination: Mild abdominal tenderness. Normal vital signs. No signs of infection.
+Partial Mayo Score: 8.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 12.8 g/dL (> 9.0 requirement)
+- ANC: 3.5 x 10^3/mm3 (> 1.0 requirement)
+- ALC: 1.2 x 10^3/mm3 (> 0.5 requirement)
+- Platelets: 210 x 10^3/mm3
+Chemistry:
+- CRP: 18 mg/L (Elevated)
+- ALT: 22 U/L
+- AST: 20 U/L
+- Bilirubin: 0.7 mg/dL
+- Creatinine: 0.9 mg/dL
+Infectious Disease:
+- QuantiFERON-TB: Negative
+- HIV/HBsAg/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with Tofacitinib (Xeljanz) 10 mg BID for induction, followed by 5 mg or 10 mg BID for maintenance, as part of a real-life observational study (TOFAst, NCT04424303). Monitor for clinical benefit (PRO2 score <= 1) and symptomatic remission at 1 and 2 years. Undergo regular safety monitoring for infections and laboratory changes. Provide informed consent.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: ISABELLA CONTI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Female
+- Place of Residency: Italy
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: KRAS G12C-Mutated Metastatic Colorectal Cancer
+- Molecular Marker: Confirmed KRAS G12C mutation via NGS.
+- Disease Status: Progressed on prior chemotherapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Altered bowel habits and abdominal pain.
+- Performance Status: ECOG 1.
+- Physical Status: Seeking targeted therapy options.
+
+4. LABORATORY RESULTS
+- Molecular Testing: KRAS G12C positive.
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Previously treated with fluoropyrimidine-based chemotherapy.
+- Current Plan: Initiating treatment with Adagrasib through an expanded access program.
+- Monitoring: Longitudinal assessment of clinical response.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: ROBERT DOWNEY
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 59 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Adjuvant Esophageal Cancer (GEJ Cancer)
+- Disease Status: Residual disease detected post-surgery.
+- Histology: Squamous cell or adenocarcinoma.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Post-surgical recovery; stable nutrition.
+- Performance Status: ECOG 1.
+- Physical Status: Completed definitive surgery and chemoradiotherapy.
+
+4. LABORATORY RESULTS
+- Pathology: Residual disease confirmed in resected specimen.
+- Hematologic Function: Adequate for adjuvant therapy.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Completed esophagectomy and neoadjuvant chemoradiotherapy.
+- Current Plan: Initiating adjuvant therapy with Nivolumab.
+- Monitoring: Retrospective evaluation of recurrence-free survival.

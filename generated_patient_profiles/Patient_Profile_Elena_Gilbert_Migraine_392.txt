@@ -1,0 +1,27 @@
+PATIENT PROFILE: ELENA GILBERT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 29 years
+- Sex: Female
+- Place of Residency: USA
+- Pregnancy Status: Currently pregnant (G1P0)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Episodic Migraine
+- Symptoms: Recurrent headache attacks.
+- History: Migraine diagnosed prior to pregnancy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Throbbing headaches with sensitivity to light and sound.
+- Performance Status: Stable.
+- Physical Status: Exposed to Rimegepant during first trimester.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Pregnancy Test: Positive.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: PRN acute migraine medications.
+- Current Plan: Monitoring pregnancy safety outcomes following Rimegepant exposure.
+- Monitoring: Retrospective safety cohort participation.

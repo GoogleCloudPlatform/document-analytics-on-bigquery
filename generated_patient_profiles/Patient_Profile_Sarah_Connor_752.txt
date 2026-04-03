@@ -1,0 +1,24 @@
+PATIENT PROFILE: SARAH CONNOR
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 38 years
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Secondary Condition: [None or Hypertension as appropriate]
+- Other Relevant History: Real-world patient with symptomatic PNH seeking longer-acting complement inhibition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: LDH levels are 3.5x normal; flow cytometry confirmed 40% PNH clone size; transitioning to Ravulizumab.. Patient reports dark urine and extreme fatigue.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.8x Upper Limit of Normal (ULN); Hemoglobin 8.2 g/dL; Flow cytometry confirms 42% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard care as per clinical guidelines]
+- Current Plan: LDH levels are 3.5x normal; flow cytometry confirmed 40% PNH clone size; transitioning to Ravulizumab.

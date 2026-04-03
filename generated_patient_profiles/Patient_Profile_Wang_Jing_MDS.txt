@@ -1,0 +1,27 @@
+PATIENT PROFILE: WANG JING
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 70 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-risk Myelodysplastic Syndromes (MDS)
+- Phenotype: Ring sideroblasts present (>15%).
+- Status: ESA-naive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue and chronic anemia symptoms.
+- Performance Status: ECOG 1.
+- Physical Status: Symptomatic anemia.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Low hemoglobin.
+- EPO Level: Serum erythropoietin < 200 U/L.
+- Bone Marrow: Confirmed MDS with ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: ESA-naive.
+- Current Plan: Initiating treatment with Luspatercept.
+- Monitoring: Observational treatment study participation in China.

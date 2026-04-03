@@ -1,0 +1,29 @@
+PATIENT PROFILE: EVELYN REED
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: Oregon, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: ALK-positive Advanced Non-Small Cell Lung Cancer (NSCLC)
+- Histology: Adenocarcinoma
+- Current Stage: Stage IVA (Metastatic)
+- Molecular Markers: ALK gene rearrangement (confirmed via FISH).
+- Comorbidities: Stable brain metastases.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mild persistent cough and localized chest pressure.
+- Performance Status: ECOG 1 (Ambulatory and capable of light work).
+- Physical Status: Neurologically stable despite CNS involvement.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate (ANC: 3.1 x 10^9/L, Platelets: 220 x 10^9/L, Hemoglobin: 12.0 g/dL).
+- Liver Function: Normal.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for advanced/metastatic disease.
+- Current Plan: Initiating first-line targeted therapy with Alectinib.
+- Monitoring: Close clinical monitoring including periodic brain imaging for CNS disease stability.

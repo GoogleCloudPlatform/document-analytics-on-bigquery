@@ -1,0 +1,27 @@
+PATIENT PROFILE: CLAIRE FRASER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Female
+- Place of Residency: UK
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Migraine
+- Frequency: 15+ headache days per month.
+- Comorbidities: None.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Frequent severe headache attacks with nausea.
+- Performance Status: Active.
+- Physical Status: Requires consistent acute relief.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Cardiac Function: Normal.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Various acute and preventive treatments.
+- Current Plan: Using Rimegepant for acute treatment of attacks.
+- Monitoring: 12-week daily survey for consistency of response.

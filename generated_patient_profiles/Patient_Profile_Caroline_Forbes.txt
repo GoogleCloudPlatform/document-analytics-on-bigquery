@@ -1,0 +1,24 @@
+PATIENT PROFILE: CAROLINE FORBES
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 32 years
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hypertrophic Cardiomyopathy in Pregnancy
+- Secondary Condition: None documented
+- Other Relevant History: Woman of childbearing potential with HCM enrolled in a pregnancy safety monitoring registry.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Starting a surveillance program to monitor potential drug exposure and maternal health throughout pregnancy.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Hypertrophic Cardiomyopathy in Pregnancy.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Hypertrophic Cardiomyopathy in Pregnancy
+- Current Plan: Starting a surveillance program to monitor potential drug exposure and maternal health throughout pregnancy.

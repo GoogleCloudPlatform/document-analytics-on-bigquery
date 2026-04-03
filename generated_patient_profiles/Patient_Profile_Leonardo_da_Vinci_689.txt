@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Leonardo da Vinci
+- Age: 78 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Geographic Atrophy (GA) secondary to Age-Related Macular Degeneration (AMD).
+- Advanced bilateral disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Progressive loss of central vision.
+- Large scotomas in the visual field.
+- Difficulty reading and recognizing faces.
+
+4. LABORATORY RESULTS
+- OCT (Retina): Confirmed bilateral areas of geographic atrophy involving the fovea.
+- Fundus Autofluorescence (FAF): Sharp borders of hypoautofluorescence consistent with GA.
+- Renal and Hepatic function: Stable.
+
+5. TREATMENT HISTORY
+- Previous: Dietary supplements (AREDS2 formula).
+- Plan: Initiate treatment with Pegcetacoplan (Syfovre) to slow the progression of geographic atrophy.

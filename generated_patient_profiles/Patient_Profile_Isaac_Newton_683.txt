@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Isaac Newton
+- Age: 75 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Mild Cognitive Impairment (MCI) due to Alzheimer's Disease.
+- Early-stage neuroinflammation.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Progressive memory loss and word-finding difficulties.
+- MMSE Score: 24/30.
+- Independent in activities of daily living with minimal assistance.
+
+4. LABORATORY RESULTS
+- PET Scan: Evidence of amyloid deposition.
+- MRI: Mild hippocampal atrophy.
+- Inflammatory Markers (Baseline): CRP mildly elevated (3.2 mg/L).
+- Renal and Hepatic function: Adequate.
+
+5. TREATMENT HISTORY
+- Previous: Donepezil 10 mg daily.
+- Plan: Initiate treatment with Canakinumab to evaluate its impact on neuroinflammation and cognitive decline.

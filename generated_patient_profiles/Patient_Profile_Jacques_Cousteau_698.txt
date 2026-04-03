@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Jacques Cousteau
+- Age: 74 years
+- Sex: Male
+- Race/Ethnicity: Japanese
+- Occupation: Retired
+- Location: Japan
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Life-threatening Bacterial Sepsis.
+- Severe Kidney Dysfunction (Renal Impairment).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- High-grade fever, chills, and hypotension.
+- Tachypnea and altered mental status.
+- Oliguria.
+- Physical Status: Acutely ill, hospitalized.
+
+4. LABORATORY RESULTS
+- Creatinine Clearance (eGFR): 25 mL/min.
+- Blood Cultures: Positive for Gram-negative organisms.
+- WBC: 18.5 x 10^9/L.
+- Lactate: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Initial fluid resuscitation.
+- Plan: Initiate Ceftazidime-Avibactam (Zavicefta) therapy with renal dose adjustment for the treatment of sepsis.

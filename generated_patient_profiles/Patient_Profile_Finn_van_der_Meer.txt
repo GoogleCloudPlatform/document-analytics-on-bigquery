@@ -1,0 +1,27 @@
+PATIENT PROFILE: FINN VAN DER MEER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 14 years
+- Sex: Male
+- Place of Residency: Netherlands
+- Status: Pediatric
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Pediatric Melanoma
+- Disease Status: Metastatic disease.
+- History: Failure of initial surgical resection.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Localized lesions and nodal involvement.
+- Performance Status: Active for age.
+- Physical Status: Metastatic disease status.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Pathology: Histologically confirmed melanoma.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Surgical resection.
+- Current Plan: Initiating systemic therapy with Ipilimumab.
+- Monitoring: Dutch Melanoma Treatment Registry participation.

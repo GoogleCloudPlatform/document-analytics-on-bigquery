@@ -1,28 +1,24 @@
 PATIENT PROFILE: SARAH MILLER
 
 1. DEMOGRAPHIC INFORMATION
-- Age: 42 years
+- Age: 36 years
 - Sex: Female
-- Place of Residency: Not specified (assumed to be in a region where Ozanimod is available and studied).
-- Employment Status: Not specified.
+- Place of Residency: United States
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Ulcerative Colitis (UC)
-- Diagnosis Date: 8 years prior
-- Disease Severity: Moderate-to-severe flare.
-- Comorbidities: None specified.
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Ozanimod-naive patient with moderate-to-severe UC in a prospective non-interventional study.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: 6-8 bloody bowel movements per day, urgency, moderate abdominal pain.
-- Performance Status: Impaired during flare, affecting daily activities.
-- Other: Ozanimod-naïve, no stoma, no plans for surgical intervention or hospitalization due to UC.
+- Symptoms: Mayo score of 8; starting Ozanimod (Zeposia) after failing multiple 5-ASA therapies.. Mayo score of 8.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Ulcerative Colitis (UC).
 
 4. LABORATORY RESULTS
-- Endoscopic findings: Consistent with moderate-to-severe UC.
-- Inflammatory markers: Likely elevated (e.g., CRP, fecal calprotectin) during flare.
-- Complete Blood Count (CBC): May show mild anemia due to blood loss.
-- Other Lab Results: Assumed within normal limits for study eligibility, no known contraindications to Ozanimod.
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: Tried and failed mesalamine and a short course of corticosteroids.
-- Current Plan: Physician has determined suitability for Ozanimod therapy.
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Mayo score of 8; starting Ozanimod (Zeposia) after failing multiple 5-ASA therapies.

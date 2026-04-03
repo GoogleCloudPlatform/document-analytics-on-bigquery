@@ -1,0 +1,27 @@
+PATIENT PROFILE: ABDULLAH AL-FAHAD
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 28 years
+- Sex: Male
+- Place of Residency: Saudi Arabia
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia
+- Disease Status: Chronic transfusion requirement.
+- Comorbidities: Iron overload.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue and symptoms related to iron overload.
+- Performance Status: Stable.
+- Physical Status: Requires transfusions every 3 weeks.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Chronic anemia.
+- Iron Overload: Serum ferritin 1800 ng/mL.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Lifelong transfusions and chelation.
+- Current Plan: Initiating Luspatercept to stabilize hemoglobin levels.
+- Monitoring: Real-world treatment observation in the Middle East.

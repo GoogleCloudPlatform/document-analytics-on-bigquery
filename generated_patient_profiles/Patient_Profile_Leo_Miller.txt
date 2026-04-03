@@ -1,0 +1,27 @@
+PATIENT PROFILE: LEO MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 10 months
+- Sex: Male
+- Place of Residency: USA
+- Status: Infant
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Comorbidities: Hemodynamically significant congenital heart disease (CHD).
+- Surgical History: Scheduled for cardiac surgery involving cardiopulmonary bypass.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mild cyanosis and exertional fatigue during feeding.
+- Performance Status: Dependent on caregivers.
+- Physical Status: Stable hemodynamics; awaiting corrective cardiac surgery.
+
+4. LABORATORY RESULTS
+- Cardiac Function: Documented CHD with left-to-right shunt.
+- Hematologic Function: Normal for age.
+- Oxygen Saturation: 94% on room air.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard cardiac medications.
+- Current Plan: Scheduled for seasonal RSV prophylaxis with Palivizumab post-surgery.
+- Monitoring: Close monitoring by pediatric cardiology and infectious disease specialists.

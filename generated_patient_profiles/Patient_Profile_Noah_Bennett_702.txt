@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Noah Bennett
+- Age: 8 months
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: N/A (Infant)
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Congenital Heart Disease (CHD), hemodynamically significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Scheduled for corrective cardiac surgery post-RSV season.
+- Clinically stable cardiac status on current medications.
+- No history of RSV-related hospitalization.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirmed hemodynamically significant CHD.
+- Oxygen saturation: 94%.
+- Renal and Hepatic function: Normal for age.
+
+5. TREATMENT HISTORY
+- Previous: Conservative management of CHD.
+- Plan: Initiate passive immunization with seasonal Palivizumab (Synagis) monthly injections to prevent severe RSV complications.

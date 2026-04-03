@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Wade Wilson
+Age: 48
+Sex: Male
+Residency: Marseille, France
+Occupation: Contract Security
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Diagnosis: Muscle Invasive Urothelial Carcinoma (MIUC)
+Duration: 1 year
+Comorbidities: None
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Post-operative recovery from radical cystectomy.
+Physical Status: Status post-radical resection of bladder tumor. High risk of recurrence. ECOG Performance Status 0.
+Weight: 82 kg.
+
+4. LABORATORY RESULTS
+PD-L1 Expression: 5% (Positive)
+Pathology: pT3N0M0 (Stage III)
+Hemoglobin: 13.2 g/dL
+Creatinine Clearance: 65 mL/min
+No other primary cancer diagnosis in the last 5 years.
+
+5. TREATMENT HISTORY
+Previous Treatments: Radical cystectomy performed 8 weeks ago. Ineligible for cisplatin-based adjuvant chemotherapy.
+Plan: Initiate adjuvant therapy with Nivolumab as part of routine clinical care.

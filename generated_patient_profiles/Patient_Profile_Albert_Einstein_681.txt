@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Albert Einstein
+- Age: 36 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Relapsing-Remitting Multiple Sclerosis (RRMS).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- History of two clinical relapses within the last 12 months.
+- Occasional paresthesia and visual blurring during relapses.
+- EDSS score: 2.0.
+- Generally healthy otherwise.
+
+4. LABORATORY RESULTS
+- MRI (Brain): Multiple gadolinium-enhancing T2 lesions.
+- LFTs: Within normal limits.
+- Hematology: Stable.
+- CSF: Positive for oligoclonal bands.
+
+5. TREATMENT HISTORY
+- Previous: Symptomatic treatment for acute flares.
+- Plan: Initiate Ozanimod (Zeposia) as first-line oral high-efficacy disease-modifying therapy.

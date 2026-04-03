@@ -1,0 +1,27 @@
+PATIENT PROFILE: AHMED MANSOUR
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 28 years
+- Sex: Male
+- Place of Residency: Cairo, Egypt
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia (TDT)
+- Disease Status: Chronic transfusion dependency.
+- Iron Overload: High liver iron concentration.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue and symptoms related to chronic anemia.
+- Performance Status: Stable.
+- Physical Status: Requires 2 units of packed red cells every 2 weeks.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Low pre-transfusion hemoglobin.
+- Iron Overload: Elevated serum ferritin.
+- Hepatic Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Lifelong transfusions and chelation therapy.
+- Current Plan: Initiating treatment with Luspatercept.
+- Monitoring: Real-world assessment of transfusion reduction and hemoglobin stability.

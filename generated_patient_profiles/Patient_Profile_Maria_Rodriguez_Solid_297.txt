@@ -1,0 +1,27 @@
+PATIENT PROFILE: MARIA RODRIGUEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 63 years
+- Sex: Female
+- Place of Residency: California, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Solid Malignancy (Metastatic Colorectal Cancer)
+- Current Status: Metastatic disease progressed after exhausting multiple lines of systemic therapy.
+- Medical History: No significant cardiac history or active infections (Hepatitis/HIV).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Moderate fatigue and mild abdominal pain.
+- Performance Status: ECOG 1.
+- Physical Status: No history of arrhythmia; mean resting QTcF 420 ms; able to swallow oral medications without difficulty.
+
+4. LABORATORY RESULTS
+- Hematology: Adequate bone marrow function; no evidence of severe pancytopenia.
+- Organ Function: Adequate hepatic and renal function tests.
+- Life Expectancy: Estimated at well over 12 weeks.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Exhausted standard-of-care options. All prior treatment toxicities resolved to Grade ≤1. Not currently on rosuvastatin or calcium channel blockers.
+- Current Plan: Initiating therapy with Saruparib within a clinical modular pharmacology study.
+- Monitoring: Regular ECG monitoring and safety blood work to ensure eligibility for subsequent study periods.

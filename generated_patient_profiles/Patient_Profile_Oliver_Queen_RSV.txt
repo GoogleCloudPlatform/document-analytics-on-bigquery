@@ -1,0 +1,27 @@
+PATIENT PROFILE: OLIVER QUEEN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 5 months
+- Sex: Male
+- Place of Residency: USA
+- Status: Infant
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High risk for severe RSV infection.
+- Gestational History: Born at 32 weeks gestation.
+- Comorbidities: Chronic lung disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Currently stable.
+- Performance Status: Dependent on caregivers.
+- Physical Status: At high risk for respiratory complications.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Respiratory: Evidence of underlying lung disease.
+- Growth: Tracking appropriately for age.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard neonatal care.
+- Current Plan: Initiating monthly Palivizumab injections during peak RSV season.
+- Monitoring: Real-world surveillance for severe RSV infection.

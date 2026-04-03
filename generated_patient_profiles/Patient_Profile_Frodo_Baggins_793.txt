@@ -1,0 +1,24 @@
+PATIENT PROFILE: FRODO BAGGINS
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 66 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: COPD BGF Routine Care
+- Secondary Condition: [None or Hypertension as appropriate]
+- Other Relevant History: Patient with symptomatic COPD starting fixed-dose triple therapy in routine practice.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Switching to triple therapy (BGF) for symptom management.. CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 42% of predicted value; FEV1/FVC ratio 0.65.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard care as per clinical guidelines]
+- Current Plan: Switching to triple therapy (BGF) for symptom management.

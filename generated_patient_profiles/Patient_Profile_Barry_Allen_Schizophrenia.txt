@@ -1,0 +1,27 @@
+PATIENT PROFILE: BARRY ALLEN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 28 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia
+- Disease Status: Persistent symptoms.
+- History: Failed multiple atypical antipsychotics.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Auditory hallucinations and disorganized thinking.
+- Performance Status: Stable.
+- Physical Status: Seeking better symptom control with fewer side effects.
+
+4. LABORATORY RESULTS
+- Metabolism: Normal glucose and lipids.
+- Hematologic Function: Normal.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Trials of multiple second-generation antipsychotics.
+- Current Plan: Prescribed KarXT (xanomeline and trospium chloride).
+- Monitoring: Evaluation of treatment preference and symptom control.

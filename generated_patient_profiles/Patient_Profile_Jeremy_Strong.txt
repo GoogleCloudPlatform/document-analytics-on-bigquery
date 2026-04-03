@@ -1,0 +1,24 @@
+PATIENT PROFILE: JEREMY STRONG
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 45 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Secondary Condition: None documented
+- Other Relevant History: Real-world patient transitioning to a longer-acting C5 inhibitor for clinical stability.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: LDH spikes above ULN; transitioning to Ravulizumab for more consistent inhibition.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.5x Upper Limit of Normal (ULN); Hemoglobin 8.5 g/dL; Flow cytometry confirms 45% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Current Plan: LDH spikes above ULN; transitioning to Ravulizumab for more consistent inhibition.

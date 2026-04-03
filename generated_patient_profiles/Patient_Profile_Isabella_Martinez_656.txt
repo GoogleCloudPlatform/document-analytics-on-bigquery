@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Isabella Martinez
+- Age: 55 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Mexico
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Relapsed/Refractory Diffuse Large B-Cell Lymphoma (DLBCL).
+- CD20+ disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Progressive lymphadenopathy.
+- Systemic fatigue and night sweats.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed CD20+ DLBCL.
+- Hemoglobin: 10.5 g/dL.
+- LFTs: Normal.
+- LDH: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Failed R-CHOP and second-line salvage chemotherapy.
+- Plan: Initiate Zilovertamab Vedotin in combination with Rituximab and GemOx (Gemcitabine/Oxaliplatin).

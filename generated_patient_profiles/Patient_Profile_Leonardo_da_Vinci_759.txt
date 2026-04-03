@@ -1,0 +1,24 @@
+PATIENT PROFILE: LEONARDO DA VINCI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 63 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC)
+- Secondary Condition: [Inferred, e.g., None or Hypertension]
+- Other Relevant History: Post-surgical MIUC patient receiving adjuvant immunotherapy to improve disease-free survival.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: High risk of recurrence; pathologic stage pT3N0; initiating adjuvant Nivolumab.. Post-radical cystectomy for pT3N0 bladder cancer.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: PD-L1 positive (CPS >= 1). No evidence of distant metastasis on imaging.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard of Care as per context]
+- Current Plan: High risk of recurrence; pathologic stage pT3N0; initiating adjuvant Nivolumab.

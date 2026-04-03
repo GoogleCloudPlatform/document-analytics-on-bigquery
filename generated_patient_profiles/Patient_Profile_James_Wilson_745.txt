@@ -1,0 +1,24 @@
+PATIENT PROFILE: JAMES WILSON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Non-Small Cell Lung Cancer (NSCLC)
+- Secondary Condition: [None or Hypertension as appropriate]
+- Other Relevant History: First-line metastatic NSCLC patient with low PD-L1 expression being followed for long-term safety outcomes.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: PD-L1 expression is <1%; starting first-line Nivolumab combined with chemotherapy.. Metastatic disease confirmed via PET/CT.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Tumor Markers: PD-L1 expression < 1% (TPS 0%). Molecular Testing: Wild type for EGFR, ALK, and ROS1 mutations.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard care as per clinical guidelines]
+- Current Plan: PD-L1 expression is <1%; starting first-line Nivolumab combined with chemotherapy.

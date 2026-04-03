@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Linda Thompson
+- Age: 38 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Severe Systemic Lupus Erythematosus (SLE).
+- Multiple joint involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Severe articular pain and morning stiffness.
+- Generalized malaise.
+- BMI: 25.0 kg/m².
+
+4. LABORATORY RESULTS
+- SLEDAI-2K score: 14.
+- Anti-dsDNA: Positive.
+- ANA: Positive (1:640).
+- Complement C3/C4: Low.
+
+5. TREATMENT HISTORY
+- Previous: Failed prior biologic therapy (e.g., Belimumab).
+- Plan: Initiate Anifrolumab (Saphnelo) for the management of moderate-to-severe SLE in a real-world clinical practice setting.

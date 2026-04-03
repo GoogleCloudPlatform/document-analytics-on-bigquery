@@ -1,0 +1,27 @@
+PATIENT PROFILE: JAN KOWALSKI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 38 years
+- Sex: Male
+- Place of Residency: Poland
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Status: Complement-inhibitor naive.
+- Disease Type: Classic PNH.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue and symptoms of hemolysis.
+- Performance Status: ECOG 0.
+- Physical Status: Stable.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Hemoglobin 10.2 g/dL.
+- Flow Cytometry: Confirmed PNH clone.
+- LDH Level: Elevated.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for complement inhibitors.
+- Current Plan: Initiating treatment with Ravulizumab within the NDP.
+- Monitoring: Routine clinical practice monitoring for response.

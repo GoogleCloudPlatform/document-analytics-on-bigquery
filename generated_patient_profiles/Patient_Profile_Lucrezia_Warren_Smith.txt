@@ -1,0 +1,36 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Lucrezia Warren Smith
+Age: 29
+Gender: Female
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Milliner
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Healthy Volunteer. Participant of non-childbearing potential (PONCBP) due to documented bilateral salpingectomy. In good health with no history of significant acute or chronic medical illness. No history of opportunistic infections or serious local/systemic infections within 3 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Overall Status: Healthy.
+Height: 168 cm
+Weight: 85 kg (Within 75 to 100 kg range)
+BMI: 30.1 kg/m2
+Vital Signs:
+- BP: 116/74 mmHg
+- HR: 72 bpm
+Physical Examination: Normal. No clinically significant findings.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 12.8 g/dL
+- WBC: 5.5 x 10^3/µL
+- Platelets: 240 x 10^3/µL
+Chemistry:
+- ALT: 18 U/L
+- AST: 16 U/L
+- Creatinine: 0.7 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+Pregnancy Test: Negative.
+
+5. TREATMENT HISTORY
+Plan: Enroll in a Phase 1 formulation comparison study (NCT06930664) of Sotatercept (MK-7962). Receive a single dose of Sotatercept administered either as a liquid formulation in an autoinjector or as a lyophilized formulation. Undergo serial PK blood sampling and safety assessments to compare the two formulations.

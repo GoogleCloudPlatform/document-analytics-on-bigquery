@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Robert Miller
+- Age: 74 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Lower-Risk Myelodysplastic Syndromes (MDS).
+- Refractory Thrombocytopenia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Frequent bruising and petechiae.
+- Occasional mucosal bleeding (epistaxis).
+- Platelet transfusion dependence.
+
+4. LABORATORY RESULTS
+- Platelet Count: Consistently < 20,000/µL.
+- Hemoglobin: 9.5 g/dL.
+- Bone Marrow: Confirmed MDS with dysplasia, < 5% blasts.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care and weekly platelet transfusions.
+- Plan: Initiate Eltrombopag (Promacta) for the management of refractory thrombocytopenia and to achieve platelet transfusion independence.

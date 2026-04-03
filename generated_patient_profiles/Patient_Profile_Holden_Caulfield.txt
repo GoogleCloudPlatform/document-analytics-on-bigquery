@@ -1,0 +1,24 @@
+PATIENT PROFILE: HOLDEN CAULFIELD
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 17 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unresectable Melanoma
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Adolescent patient candidate for neoadjuvant IO combination therapy in advanced melanoma.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: High tumor burden; initiating combination immunotherapy with Nivolumab and Relatlimab.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Unresectable Melanoma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: High tumor burden; initiating combination immunotherapy with Nivolumab and Relatlimab.

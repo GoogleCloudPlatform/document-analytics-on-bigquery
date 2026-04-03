@@ -1,0 +1,27 @@
+PATIENT PROFILE: DIANA PRINCE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 65 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Breast Cancer
+- Subtype: HR+/HER2- (Hormone Receptor positive, HER2 negative)
+- Current Stage: Stage IV.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Localized pain and fatigue.
+- Performance Status: ECOG 1.
+- Physical Status: Postmenopausal.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Pathology: Confirmed Stage IV HR+/HER2- MBC.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Hormone therapy naive for metastatic stage.
+- Current Plan: Initiating first-line therapy with Palbociclib and Fulvestrant.
+- Monitoring: Outcome analysis via real-world clinical data.

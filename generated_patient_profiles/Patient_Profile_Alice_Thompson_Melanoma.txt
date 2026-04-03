@@ -1,0 +1,27 @@
+PATIENT PROFILE: ALICE THOMPSON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 55 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Melanoma
+- Current Stage: Metastatic.
+- Molecular Markers: BRAF wild-type status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Localized discomfort and weight loss.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for combination immunotherapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Molecular Testing: BRAF mutation-negative.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for advanced disease.
+- Current Plan: Initiating combination immunotherapy with Nivolumab and Relatlimab.
+- Monitoring: Outcomes tracking via real-world database analysis.

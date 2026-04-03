@@ -1,0 +1,27 @@
+PATIENT PROFILE: ROBERT CLARK
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 59 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active (Former smoker)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Histology: Stage IV disease.
+- PD-L1 Expression: Negative.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dyspnea and systemic fatigue.
+- Performance Status: ECOG 1.
+- Physical Status: Heavy smoking history.
+
+4. LABORATORY RESULTS
+- PD-L1 Status: Negative.
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for metastatic disease.
+- Current Plan: Initiating first-line dual-IO (Nivo+Ipi) combined with chemotherapy.
+- Monitoring: Real-world effectiveness monitoring.

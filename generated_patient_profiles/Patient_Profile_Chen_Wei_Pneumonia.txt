@@ -1,0 +1,27 @@
+PATIENT PROFILE: CHEN WEI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: Active (Hospitalized)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Ventilator-Associated Pneumonia (VAP)
+- Disease Status: Serious respiratory infection.
+- Comorbidities: Respiratory failure requiring mechanical ventilation.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fever, purulent secretions, and declining oxygenation.
+- Performance Status: Bedbound (Hospitalized).
+- Physical Status: Critically ill.
+
+4. LABORATORY RESULTS
+- Infectious Markers: Elevated WBC and CRP.
+- Imaging: New lung infiltrates on chest X-ray.
+- Cultures: Positive for Gram-negative pathogens.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Empirical antibiotic therapy.
+- Current Plan: Initiating treatment with Ceftazidime-Avibactam (CAZ-AVI).
+- Monitoring: Clinical and microbiological assessment of response.

@@ -1,0 +1,38 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Li Na
+Age: 52
+Gender: Female
+Race: Asian
+Ethnicity: Chinese
+Occupation: Office Administrator
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: ALK-Positive Non-Small Cell Lung Cancer (NSCLC).
+Status: Post-complete surgical resection of a Stage IIB lung adenocarcinoma (UICC/AJCC 8th ed).
+Molecular Status: ALK positive confirmed by FISH testing.
+Requirement: Initiated Alectinib monotherapy as adjuvant therapy for resected ALK-positive NSCLC within 28 days of first dose.
+Comorbidities: None. No prior systemic therapy (ALK-TKIs or chemotherapy). Not participating in interventional studies.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 0.
+Symptoms: Asymptomatic post-surgery. Recovering well from lobectomy.
+Physical Examination: Well-healing surgical scar on the right chest. Normal breath sounds. Stable vital signs.
+Smoking Status: Non-smoker.
+Weight: 62 kg.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 12.5 g/dL
+- WBC: 5.5 x 10^3/µL
+- Platelets: 210 x 10^9/L
+Chemistry:
+- ALT: 22 U/L
+- AST: 20 U/L
+- Total Bilirubin: 0.7 mg/dL
+- Creatinine: 0.8 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+Pregnancy Test: Negative.
+
+5. TREATMENT HISTORY
+Plan: Initiate adjuvant treatment with Alectinib (Alecensa) 600 mg BID orally as part of a multicenter, prospective cohort study in China (NCT06862869). Monitor real-world disease-free survival (rwDFS) and duration of therapy. Undergo regular clinical assessments and laboratory tests according to standard practice. Maintain records of Eastern Cooperative Oncology Group performance status (ECOG PS) over time. Provide signed informed consent.

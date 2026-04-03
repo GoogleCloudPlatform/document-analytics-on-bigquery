@@ -1,0 +1,27 @@
+PATIENT PROFILE: MARIA ROSSI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 31 years
+- Sex: Female
+- Place of Residency: Italy
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Systemic Lupus Erythematosus (SLE)
+- Involvement: Active skin and joint manifestations.
+- Immunology: Anti-dsDNA positive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Malar rash, polyarthritis, and systemic fatigue.
+- Performance Status: Active disease despite treatment.
+- Physical Status: SLEDAI-2K score of 14.
+
+4. LABORATORY RESULTS
+- Immunology: Positive anti-dsDNA and low complement levels.
+- Hematologic Function: Mild anemia.
+- Renal Function: Stable.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to Methotrexate.
+- Current Plan: Initiating treatment with Anifrolumab.
+- Monitoring: Tracking clinical outcomes and SLEDAI-2K changes.

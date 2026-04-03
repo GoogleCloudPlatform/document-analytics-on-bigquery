@@ -1,0 +1,28 @@
+PATIENT PROFILE: SARAH MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 32 years
+- Sex: Female
+- Place of Residency: North Carolina, USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Healthy Participant (Overweight)
+- BMI: 28.5 kg/m²
+- Weight: 75 kg
+- Medical History: Healthy adult; no history of cardiovascular, gastrointestinal, or renal disease; non-smoker.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Asymptomatic.
+- Performance Status: Fully active.
+- Physical Status: Vital signs and 12-lead ECG are within normal limits; non-lactating; uses copper IUD for contraception.
+
+4. LABORATORY RESULTS
+- Hematology/Chemistry: All screening laboratory values within normal limits.
+- Infectious Disease: Negative for HBsAg, HBcAb, and HIV.
+- Pregnancy Test: Negative at screening and admission.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Not currently using statins or estrogen-containing products.
+- Current Plan: Enrollment in a clinical research study for healthy overweight individuals.
+- Monitoring: Continuous monitoring of safety markers and tolerability.

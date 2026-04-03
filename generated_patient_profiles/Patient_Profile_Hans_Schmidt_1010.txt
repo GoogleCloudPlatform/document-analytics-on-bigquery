@@ -1,0 +1,37 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Hans Schmidt
+Age: 45
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Mechanic
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Moderate-to-Severe Atopic Dermatitis (AD).
+Status: Chronic AD confirmed by dermatologist. Eligible for Abrocitinib according to marketing approval in Germany.
+Requirement: Initiating Abrocitinib as a first-line oral advanced systemic therapy.
+Comorbidities: None. No contraindications to Abrocitinib. Not participating in other clinical studies assessing medicinal treatments.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 0.
+Symptoms: Chronic itching, redness, and irritation of the skin affecting quality of life.
+Physical Examination: Extensive skin lesions on extremities and torso.
+Investigator's Global Assessment (IGA): 3 (Moderate).
+EASI Score: 18.
+BSA Affected: 15%.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 14.5 g/dL
+- WBC: 6.8 x 10^3/µL
+- Platelets: 210 x 10^3/µL
+Chemistry:
+- ALT: 25 U/L
+- AST: 22 U/L
+- Total Bilirubin: 0.8 mg/dL
+- Creatinine: 1.0 mg/dL
+Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with Abrocitinib (Cibinqo) tablet once daily as part of an observational cohort study (NCT05689151). May use medicated topical treatments for AD concurrently. Participate in study clinic visits every 4-6 months for 24 months. Monitor for IGA score reduction and EASI-75/90 response rates. Provide signed informed consent.

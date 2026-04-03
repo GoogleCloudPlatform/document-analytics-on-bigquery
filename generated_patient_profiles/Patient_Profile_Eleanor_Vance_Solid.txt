@@ -1,0 +1,26 @@
+PATIENT PROFILE: ELEANOR VANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Female
+- Place of Residency: Pennsylvania, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Solid Malignancy (Metastatic Colorectal Cancer)
+- Current Status: Documented metastatic disease, progressing.
+- Medical History: No history of Hepatitis B/C, HIV, or active tuberculosis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Generalized fatigue; overall medically stable.
+- Performance Status: ECOG 1.
+- Physical Status: No active infections; mean resting QTcF 430 ms; no unresolved toxicities > Grade 1 from prior treatments.
+
+4. LABORATORY RESULTS
+- Hematology/Organ Function: Adequate hepatic, renal, and bone marrow function.
+- Life Expectancy: Estimated at greater than 12 weeks.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Progressed after multiple lines of standard chemotherapy; exhausted standard options.
+- Current Plan: Enrolling in a pharmacology study assessing drug-drug interactions with Saruparib.
+- Monitoring: Intensive PK monitoring and regular clinical assessment for treatment-emergent toxicities.

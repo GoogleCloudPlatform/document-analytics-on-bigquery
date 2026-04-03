@@ -1,0 +1,35 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Paul Krendler
+Age: 48
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Government Official
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Severe Refractory Systemic Sclerosis (SSc).
+Classification: Progressive diffuse cutaneous systemic sclerosis (dcSSc) fulfilling 2013 ACR/EULAR criteria.
+Comorbidities: Progressive Interstitial Lung Disease (ILD). No severe kidney disease or pulmonary arterial hypertension (PAH) requiring active treatment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Rapidly progressive skin thickening (mRSS 28), severe Raynaud's phenomenon, exertional dyspnea due to ILD. Refractory to mycophenolate mofetil and cyclophosphamide.
+Physical Examination: Extensive skin involvement of trunk and proximal limbs. Decreased lung sounds at bases.
+Performance Status: ECOG 1. Ambulatory.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 12.5 g/dL
+- WBC: 5.2 x 10^3/µL
+- Platelets: 210 x 10^3/µL
+Immunology:
+- ANA: Positive (1:640, speckled)
+- Anti-Scl-70: Positive
+- Anti-dsDNA: Negative
+- HIV/HBV/HCV: Negative
+Organ Function:
+- Creatinine: 0.9 mg/dL
+- ALT/AST: Within normal limits
+- Pulmonary Function: FVC 65% predicted, DLCO 55% predicted.
+
+5. TREATMENT HISTORY
+Plan: Enroll in Phase 1 study (NCT07115745) to receive BMS-986515 (Healthy Donor allogeneic CD19-targeted CAR T cells). Undergo lymphodepleting chemotherapy followed by a single IV infusion of BMS-986515. Monitor for Cytokine Release Syndrome (CRS), immune effector cell-associated neurotoxicity syndrome (ICANS), and changes in skin thickening and lung function.

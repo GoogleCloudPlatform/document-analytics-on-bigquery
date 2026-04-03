@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Hal Jordan
+- Age: 55 years
+- Sex: Male
+- Race/Ethnicity: Korean
+- Occupation: Pilot
+- Location: Seoul, South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- EGFR-Mutated Non-Small Cell Lung Cancer (NSCLC).
+- Stage IV disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Mild chest discomfort and dry cough.
+- ECOG Performance Status: 1.
+- Smoking history: Never-smoker.
+
+4. LABORATORY RESULTS
+- NGS (Tumor): Confirmed EGFR exon 19 deletion.
+- ALK, ROS1: Negative.
+- Brain Imaging: No evidence of intracranial disease.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Treatment naïve for metastatic disease.
+- Plan: Initiate first-line targeted therapy with Dacomitinib (Vizimpro) for the management of EGFR-mutated NSCLC.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: CHRISTOPHER CASTILLO
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 54 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: B-cell Non-Hodgkin Lymphoma
+- Secondary Condition: None documented
+- Other Relevant History: Recipient of gene-modified cell therapy with a secondary malignancy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: diagnosed with a secondary skin malignancy; evaluating transgene levels.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for B-cell Non-Hodgkin Lymphoma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for B-cell Non-Hodgkin Lymphoma
+- Current Plan: diagnosed with a secondary skin malignancy; evaluating transgene levels.

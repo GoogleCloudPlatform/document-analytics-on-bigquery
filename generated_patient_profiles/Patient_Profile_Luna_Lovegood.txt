@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Luna Lovegood
+- Age: 24 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Active Systemic Lupus Erythematosus (SLE).
+- Cutaneous and articular involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Active arthritis in small joints.
+- Persistent cutaneous rashes.
+- Systemic fatigue.
+
+4. LABORATORY RESULTS
+- SLEDAI-2K: Elevated disease activity.
+- Anti-dsDNA: Positive.
+- Complement levels: Low.
+- ANA: Positive.
+
+5. TREATMENT HISTORY
+- Previous: Standard therapy (antimalarials, corticosteroids).
+- Plan: Initiate Anifrolumab (Saphnelo) therapy for improved disease management and outcomes tracking.

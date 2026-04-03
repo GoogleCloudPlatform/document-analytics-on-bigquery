@@ -1,0 +1,24 @@
+PATIENT PROFILE: GIDEON AI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 60 years
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: MDS (China)
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: ESA-naive, lower-risk MDS patient in China receiving Luspatercept in a treatment observation study.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: IPSS-R risk low; ring sideroblasts positive; starting Luspatercept.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for MDS (China).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Hemoglobin 7.8 g/dL; Serum Erythropoietin (sEPO) 350 U/L. Bone Marrow: >15% ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: IPSS-R risk low; ring sideroblasts positive; starting Luspatercept.

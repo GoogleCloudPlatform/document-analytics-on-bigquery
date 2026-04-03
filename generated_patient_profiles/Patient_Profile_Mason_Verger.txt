@@ -1,0 +1,39 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Mason Verger
+Age: 50
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Entrepreneur
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Healthy Volunteer. No history of clinically relevant cardiac disease, symptomatic or asymptomatic arrhythmias, presyncope, or syncopal episodes. No acute or chronic medical illnesses.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Overall Status: Healthy.
+Height: 185 cm
+Weight: 90 kg
+BMI: 26.3 kg/m2 (Within 18.0 to 32.0 range)
+Vital Signs:
+- Blood Pressure: 125/78 mmHg
+- Heart Rate: 68 bpm
+- Respiratory Rate: 14 bpm
+Physical Examination: No clinically significant findings. Resting 12-lead ECG is normal with no conduction abnormalities.
+
+4. LABORATORY RESULTS
+Hematology:
+- Hemoglobin: 15.2 g/dL
+- WBC: 7.0 x 10^3/mm3
+- Platelets: 220 x 10^3/mm3
+Chemistry:
+- ALT: 22 U/L
+- AST: 20 U/L
+- Creatinine: 1.0 mg/dL
+- Electrolytes: Normal (K, Mg, Ca)
+Infectious Disease:
+- HBsAg: Negative
+- HIV: Negative
+- HCV: Negative
+
+5. TREATMENT HISTORY
+Plan: Enroll in a Phase 1 Thorough QT/QTc study (NCT06746402). Participate in a 4-period crossover design to evaluate the effects of high-dose BMS-986278 on cardiac repolarization. Receive BMS-986278, placebo, and moxifloxacin (as positive control). Undergo intensive continuous ECG monitoring and PK sampling.

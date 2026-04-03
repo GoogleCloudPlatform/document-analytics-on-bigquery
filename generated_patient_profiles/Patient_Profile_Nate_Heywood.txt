@@ -1,0 +1,24 @@
+PATIENT PROFILE: NATE HEYWOOD
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 41 years
+- Sex: Male
+- Place of Residency: Poland
+- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: PNH (Poland)
+- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
+- Other Relevant History: Polish adult with PNH initiating Ravulizumab within routine clinical practice.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Classic PNH diagnosis; initiating Ravulizumab within the National Drug Program (NDP).
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for PNH (Poland).
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.5x Upper Limit of Normal (ULN); Hemoglobin 8.5 g/dL; Flow cytometry confirms 45% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Current Plan: Classic PNH diagnosis; initiating Ravulizumab within the National Drug Program (NDP).

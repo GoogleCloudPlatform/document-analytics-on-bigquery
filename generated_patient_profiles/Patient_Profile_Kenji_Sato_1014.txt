@@ -1,0 +1,38 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Kenji Sato
+Age: 38
+Gender: Male
+Race: Asian
+Ethnicity: Japanese
+Occupation: Accountant
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Chronic Atopic Dermatitis (AD).
+Status: Moderate-to-severe AD requiring systemic therapy. Chronic history resistant to topical corticosteroids.
+Requirement: Determined to start treatment with Cibinqo (Abrocitinib) according to approved indications in Korea/Japan.
+Comorbidities: None. No active serious systemic infections (TB negative). No severe hepatic impairment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Performance Status: ECOG 0.
+Symptoms: Intense itching, red rash on neck, face, and flexural areas.
+Physical Examination: Extensive erythematous patches with lichenification and excoriations.
+IGA Score: 3.
+EASI Score: 22.
+Peak Pruritus NRS: 7.
+
+4. LABORATORY RESULTS
+Hematology:
+- Platelet Count: 210 x 10^3/mm3 (> 150 requirement)
+- ANC: 3.5 x 10^3/mm3 (> 1.0 requirement)
+- ALC: 1.8 x 10^3/mm3 (> 0.5 requirement)
+- Hemoglobin: 14.8 g/dL (> 8.0 requirement)
+Chemistry:
+- ALT: 28 U/L
+- AST: 25 U/L
+- Bilirubin: 0.9 mg/dL
+- Creatinine: 1.0 mg/dL
+Renal:
+- No hereditary problems of galactose intolerance or lactase deficiency.
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with Abrocitinib (Cibinqo) 100 mg or 200 mg tablet once daily as part of a post-marketing surveillance study (NCT05391061). Monitor for adverse events, ADRs, and unexpected events over one year. Evaluate clinical response using IGA clear/almost clear criteria and EASI-75 response. Maintain records of patient experience and treatment effectiveness in routine practice.

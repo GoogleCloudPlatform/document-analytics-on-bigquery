@@ -1,0 +1,24 @@
+PATIENT PROFILE: SOFIA MORETTI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 38 years
+- Sex: Female
+- Place of Residency: affecting her ability to perform daily chores
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE)
+- Secondary Condition: None documented
+- Other Relevant History: Adult patient with moderate-to-severe SLE in a real-world setting initiating Anifrolumab for outcome monitoring.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: SLEDAI-2K score of 14; failing methotrexate; starting biologic intervention for systemic control.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Systemic Lupus Erythematosus (SLE).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-dsDNA antibodies; low C3 and C4 complement levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Systemic Lupus Erythematosus (SLE)
+- Current Plan: SLEDAI-2K score of 14; failing methotrexate; starting biologic intervention for systemic control.

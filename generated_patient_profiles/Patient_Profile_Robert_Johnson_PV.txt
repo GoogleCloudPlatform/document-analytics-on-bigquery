@@ -1,0 +1,32 @@
+PATIENT PROFILE: ROBERT JOHNSON
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Retired (Supports functional status assessment)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Polycythemia Vera (PV)
+- Diagnosis Detail: Confirmed diagnosis according to World Health Organization (WHO) criteria.
+- Clinical Status: Symptomatic disease requiring second-line intervention.
+- Performance Status: ECOG 1 (Restricted in physically strenuous activity but ambulatory).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Moderate fatigue and persistent pruritus (common in PV); no active infections (bacterial, fungal, or viral).
+- Cardiovascular Status: No history of severe uncontrolled hypertension.
+- General Health: No history of progressive multifocal leuko-encephalopathy (PML).
+- Physical Findings: Spleen may be palpable due to myeloproliferative nature of the disease.
+
+4. LABORATORY RESULTS
+- Hematologic Function:
+  - Peripheral Blood Blast Count: 0% at screening.
+  - Hemoglobin: Monitored for evidence of erythrocytosis.
+  - Platelets/ANC: Adequate baseline function.
+- Renal Function: Normal (Serum Creatinine: 1.1 mg/dL; estimated CrCl: 75 mL/min).
+- Liver Function: Within acceptable limits.
+- Viral Screening: Negative for HBsAg, HCV, and HIV.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Documented resistance and intolerance to Hydroxyurea (HU) due to severe mucocutaneous side effects. Subsequently discontinued Interferon-alpha due to severe flu-like symptoms.
+- Current Plan: Initiating therapy with Ruxolitinib as part of a Managed Access Program (MAP). All adverse drug reactions from prior therapies have resolved. Patients will be monitored for clinical response and potential hematologic changes. No known hypersensitivity to Ruxolitinib.

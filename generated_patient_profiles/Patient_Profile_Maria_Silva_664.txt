@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Maria Silva
+- Age: 30 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Brazil
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Alpha (α)-Thalassemia.
+- Hemoglobin H disease.
+- Symptomatic Anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Chronic fatigue and palpitations.
+- Clinically significant splenomegaly.
+- Pale conjunctiva.
+
+4. LABORATORY RESULTS
+- Hemoglobin: 8.8 g/dL.
+- MCV: Low.
+- Bilirubin: Mildly elevated.
+- Reticulocyte Count: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Folic acid supplementation and supportive care.
+- Plan: Initiate Luspatercept (Reblozyl) to improve hemoglobin levels and reduce anemia-related symptoms.

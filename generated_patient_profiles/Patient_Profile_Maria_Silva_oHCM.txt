@@ -1,0 +1,27 @@
+PATIENT PROFILE: MARIA SILVA
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 29 years
+- Sex: Female
+- Place of Residency: Brazil
+- Status: Postpartum (6 months), currently breastfeeding
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Disease Status: Stable.
+- Involvement: Cardiac muscle hypertrophy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Occasional palpitations and mild exertional dyspnea.
+- Performance Status: NYHA Class II.
+- Physical Status: Breastfeeding infant.
+
+4. LABORATORY RESULTS
+- Echocardiography: Documented septal thickness and LVOT gradient.
+- Cardiac Function: Preserved ejection fraction.
+- Hematologic Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blockers previously used.
+- Current Plan: Continuing therapy with Mavacamten while breastfeeding.
+- Monitoring: Safety surveillance program for maternal and infant health.

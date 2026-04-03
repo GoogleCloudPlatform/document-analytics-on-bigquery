@@ -1,0 +1,25 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Gamora Zen
+- Age: 55 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Metastatic Non-Small Cell Lung Cancer (NSCLC).
+- KRAS G12C-mutated disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent cough.
+- Exertional dyspnea.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- NGS (Tumor): Confirmed KRAS G12C mutation.
+- PD-L1 expression: Known.
+- Hepatic and Renal Function: Adequate.
+
+5. TREATMENT HISTORY
+- Previous: Progressed on standard platinum-based chemotherapy and immunotherapy.
+- Plan: Initiate targeted therapy with Adagrasib (Krazati) through an expanded access program for KRAS G12C mutated advanced tumors.

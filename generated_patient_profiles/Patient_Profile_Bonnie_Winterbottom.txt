@@ -1,0 +1,24 @@
+PATIENT PROFILE: BONNIE WINTERBOTTOM
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 52 years
+- Sex: Female
+- Place of Residency: US
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Breast Cancer
+- Secondary Condition: None documented
+- Other Relevant History: MBC patient initiating first-line CDK4/6 inhibitor therapy in the US.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Initiating first-line Palbociclib and hormonal therapy.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Metastatic Breast Cancer.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Metastatic Breast Cancer
+- Current Plan: Initiating first-line Palbociclib and hormonal therapy.

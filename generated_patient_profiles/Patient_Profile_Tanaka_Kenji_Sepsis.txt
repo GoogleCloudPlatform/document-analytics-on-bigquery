@@ -1,0 +1,27 @@
+PATIENT PROFILE: TANAKA KENJI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 79 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Sepsis
+- Subtype: Secondary to urinary tract infection.
+- Comorbidities: Impaired renal function (eGFR 35).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fever, hypotension, and generalized weakness.
+- Performance Status: Hospitalized.
+- Physical Status: Critically ill.
+
+4. LABORATORY RESULTS
+- Renal Function: eGFR 35 mL/min/1.73m².
+- Infectious Markers: Elevated CRP and WBC.
+- Cultures: Positive for bacterial pathogens.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Emergency stabilization.
+- Current Plan: Initiating treatment with Zavicefta (Ceftazidime-Avibactam).
+- Monitoring: Post-marketing surveillance for safety in renal impairment.

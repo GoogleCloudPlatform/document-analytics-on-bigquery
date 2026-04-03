@@ -1,0 +1,27 @@
+PATIENT PROFILE: VICTOR CREED
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 50 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: KRAS G12C-Mutated Metastatic NSCLC
+- Molecular Marker: KRAS G12C mutation confirmed via NGS.
+- Disease Status: Progressed after chemotherapy and immunotherapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough and fatigue.
+- Performance Status: ECOG 1.
+- Physical Status: Ineligible for ongoing interventional trials.
+
+4. LABORATORY RESULTS
+- Molecular Testing: Positive for KRAS G12C.
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Previously treated with chemotherapy and immunotherapy.
+- Current Plan: Seeking access to Adagrasib via expanded access program.
+- Monitoring: Assessment of radiographic tumor response.

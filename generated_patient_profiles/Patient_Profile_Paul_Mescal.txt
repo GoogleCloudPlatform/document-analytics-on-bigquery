@@ -1,0 +1,24 @@
+PATIENT PROFILE: PAUL MESCAL
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 30 years
+- Sex: Male
+- Place of Residency: Unknown
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic NSCLC (PD-L1 <1%)
+- Secondary Condition: None documented
+- Other Relevant History: Part of the long-term safety and efficacy cohort for PD-L1 negative lung cancer.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: PD-L1 expression 0%; starting first-line dual immunotherapy to assess long-term response.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Metastatic NSCLC (PD-L1 <1%).
+
+4. LABORATORY RESULTS
+- Tumor Markers: PD-L1 expression < 1% (TPS 0%) or as per protocol. Molecular Testing: Wild type for EGFR, ALK, and ROS1 mutations (unless specified otherwise).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Metastatic NSCLC (PD-L1 <1%)
+- Current Plan: PD-L1 expression 0%; starting first-line dual immunotherapy to assess long-term response.

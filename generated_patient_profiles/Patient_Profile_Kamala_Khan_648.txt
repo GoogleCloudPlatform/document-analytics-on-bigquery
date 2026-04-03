@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Kamala Khan
+- Age: 70 years
+- Sex: Female
+- Race/Ethnicity: Chinese
+- Occupation: Retired
+- Location: China
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Lower-Risk Myelodysplastic Syndromes (MDS).
+- Symptomatic Anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Chronic fatigue and shortness of breath.
+- Requires regular monitoring for anemia symptoms.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Hemoglobin: 8.3 g/dL.
+- Bone Marrow: Confirmed MDS with Low-risk IPSS-R.
+- Serum Erythropoietin: 280 U/L.
+- Hematology: Mild neutropenia.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care and observation.
+- Plan: Initiate Luspatercept (Reblozyl) therapy for the management of anemia and reduction of healthcare resource utilization.

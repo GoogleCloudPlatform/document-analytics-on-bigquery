@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Arthur Finch
+- Age: 72 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Retired (Former Coal Miner)
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- History of heavy tobacco use (long-term smoker).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Frequent morning cough and breathlessness.
+- CAT (COPD Assessment Test) score: 24.
+- Smoking status: Former smoker (50 pack-years).
+- Physical Status: Ambulatory with limitations.
+
+4. LABORATORY RESULTS
+- FEV1: < 50% of predicted value.
+- FEV1/FVC: < 0.70.
+- Oxygen Saturation: 92% on room air.
+- Hematology: Stable.
+
+5. TREATMENT HISTORY
+- Previous: Failed dual maintenance therapy (LAMA/LABA).
+- Plan: Switch to BGF (Budesonide/Glycopyrronium/Formoterol) triple therapy for improved symptomatic management of COPD.

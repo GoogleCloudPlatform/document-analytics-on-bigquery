@@ -1,0 +1,27 @@
+PATIENT PROFILE: ARTHUR WRIGHT
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 73 years
+- Sex: Male
+- Place of Residency: UK
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
+- Risk Category: Low-to-intermediate risk.
+- Disease Status: Transfusion-dependent anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic fatigue, weakness, and dizziness.
+- Performance Status: ECOG 1.
+- Physical Status: Symptomatic despite standard care.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Low hemoglobin levels.
+- EPO Level: Serum erythropoietin 350 U/L.
+- Bone Marrow: Confirmed MDS.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed response to ESAs.
+- Current Plan: Initiating treatment with Luspatercept.
+- Monitoring: Retrospective medical record review for transfusion independence.

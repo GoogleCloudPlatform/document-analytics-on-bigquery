@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: John Watson
+- Age: 45 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Medical Doctor (UK)
+- Location: London, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- NYHA Functional Class II symptoms.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Exertion-induced shortness of breath and chest discomfort.
+- Occasional dizziness during physical activity.
+- Normal blood pressure: 120/80 mmHg.
+- BMI: 26.0 kg/m².
+
+4. LABORATORY RESULTS
+- Peak resting LVOT gradient: 62 mmHg.
+- Echocardiogram: Significant septal hypertrophy (Interventricular septum: 19 mm).
+- Left Ventricular Ejection Fraction (LVEF): 65%.
+- NT-proBNP: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Beta-blockers (Metoprolol) at optimized doses.
+- Current: Continued symptoms despite standard medical therapy.
+- Plan: Initiate Mavacamten (Camzyos) for reduction of LVOT gradient and symptom improvement.

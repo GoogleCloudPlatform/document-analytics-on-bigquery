@@ -3,23 +3,26 @@ PATIENT PROFILE: LUCAS VAN DER VELDE
 1. DEMOGRAPHIC INFORMATION
 - Age: 15 years
 - Sex: Male
-- Place of Residency: The Netherlands
-- School Status: Attending secondary school.
+- Place of Residency: Utrecht, Netherlands
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Melanoma
-- Diagnosis: Histologically confirmed metastatic melanoma.
-- Disease Status: Completed ipilimumab treatment for advanced disease.
+- Histology: Confirmed via tissue biopsy.
+- Current Stage: Advanced (Metastatic) disease.
+- Registry: Identified in the Dutch Melanoma Treatment Registry (DMTR).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified at current follow-up, but historically associated with metastatic melanoma (e.g., lymphadenopathy, skin lesions, fatigue).
-- Performance Status: Assumed good, in long-term follow-up.
+- Symptoms: Localized skin lesions and regional lymphadenopathy.
+- Performance Status: ECOG 0 (Fully active, able to carry on all pre-disease performance without restriction).
+- Physical Status: General health is stable for his age group; no other significant medical conditions.
 
 4. LABORATORY RESULTS
-- Histopathology: Confirmed melanoma.
-- Molecular Markers: Not specified, but assumed consistent with treatment rationale.
-- Other Lab Results: Assumed within normal limits for long-term follow-up.
+- Hematologic Function: Within normal limits for pediatric range.
+- Liver Function: Normal.
+- Renal Function: Normal.
 
 5. TREATMENT HISTORY
-- Prior Therapy: Monotherapy ipilimumab for advanced metastatic melanoma.
-- Current Status: In long-term follow-up after completing ipilimumab treatment.
+- Prior Therapy: Treatment-naive for advanced melanoma prior to first dose of immunotherapy. No participation in other clinical trials within 4 weeks of treatment initiation.
+- Current Plan: Completed monotherapy with Ipilimumab for advanced melanoma.
+- Monitoring: Currently in long-term follow-up for assessment of long-term survival and potential late-onset effects.

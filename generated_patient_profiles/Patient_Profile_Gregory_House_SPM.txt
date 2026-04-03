@@ -1,0 +1,27 @@
+PATIENT PROFILE: GREGORY HOUSE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 52 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Secondary Primary Malignancy (Squamous Cell Carcinoma)
+- History: Treated for B-cell lymphoma 3 years ago.
+- Cell Therapy History: Recipient of CAR-T cell therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: New localized skin lesion (unrelated to original lymphoma).
+- Performance Status: ECOG 0.
+- Physical Status: Systemically well.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed Squamous Cell Carcinoma.
+- Hematologic Function: Stable following CAR-T recovery.
+- Genetic Testing: Required for transgene assay.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Completed CAR-T cell therapy for lymphoma.
+- Current Plan: Diagnostic genetic testing of the new tumor to rule out insertional mutagenesis.
+- Monitoring: Longitudinal surveillance for secondary malignancies post-cell therapy.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: CHEN WEI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 64 years
+- Sex: Male
+- Place of Residency: Taiwan
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed Multiple Myeloma
+- Disease Status: Relapsed after two prior lines of therapy.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bone pain and fatigue.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for combination chemotherapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate (ANC > 1.5 x 10^9/L, Platelets > 100 x 10^9/L).
+- Renal Function: Serum creatinine within acceptable range.
+- Paraprotein: Rising M-protein levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Includes a proteasome inhibitor and an immunomodulatory agent.
+- Current Plan: Initiating treatment with Elotuzumab in combination with Lenalidomide and Dexamethasone.
+- Monitoring: Monitoring for safety, tolerability, and response markers.

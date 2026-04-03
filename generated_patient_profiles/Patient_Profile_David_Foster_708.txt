@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: David Foster
+- Age: 50 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Associated Aplastic Anemia.
+- Chronic Anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Severe fatigue and pallor.
+- Exertional shortness of breath.
+- Requires occasional red blood cell transfusions.
+
+4. LABORATORY RESULTS
+- Flow Cytometry: Presence of PNH clone.
+- Hemoglobin: 8.2 g/dL.
+- Reticulocyte Count: Inappropriately low for degree of anemia (Aplastic component).
+- LDH: 550 U/L.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care and blood transfusions.
+- Plan: Initiate Ravulizumab (Ultomiris) for the management of PNH-associated anemia and evaluation of real-world outcomes.

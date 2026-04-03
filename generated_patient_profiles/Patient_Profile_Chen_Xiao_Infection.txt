@@ -1,0 +1,27 @@
+PATIENT PROFILE: CHEN XIAO
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 60 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: Hospitalized
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Serious Bacterial Infection
+- Subtype: Complicated intra-abdominal infection (cIAI).
+- Pathogen: Carbapenem-resistant Enterobacteriaceae.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fever, abdominal pain, and leukocytosis.
+- Performance Status: Hospitalized.
+- Physical Status: Serious infection status.
+
+4. LABORATORY RESULTS
+- Infectious Markers: Elevated WBC and CRP.
+- Cultures: Positive for multidrug-resistant bacteria.
+- Imaging: Documented intra-abdominal infection.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Initial empirical therapy.
+- Current Plan: Initiating treatment with CAZ-AVI (Ceftazidime-Avibactam).
+- Monitoring: Assessment of clinical and microbiological resolution.

@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Susan Clark
+- Age: 29 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- History of PNH-related Deep Vein Thrombosis (DVT).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Persistent fatigue.
+- History of abdominal and extremity pain related to prior thrombosis.
+- Currently anticoagulated.
+
+4. LABORATORY RESULTS
+- LDH: Elevated (High levels > 1.5x normal).
+- Flow Cytometry: Confirmed PNH clone.
+- Hemoglobin: 10.8 g/dL.
+- Coagulation Profile: Stable on anticoagulation.
+
+5. TREATMENT HISTORY
+- Previous: Anticoagulants and supportive therapy.
+- Plan: Initiate Ravulizumab (Ultomiris) therapy to reduce hemolysis and decrease the risk of further thromboembolic events.

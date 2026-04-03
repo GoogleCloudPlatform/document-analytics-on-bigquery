@@ -1,0 +1,27 @@
+PATIENT PROFILE: BRUCE WAYNE
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 40 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia
+- Disease Status: Treatment-resistant symptoms.
+- History: Chronic schizophrenia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Auditory hallucinations and social withdrawal.
+- Performance Status: Stable.
+- Physical Status: Seeking better tolerability profile.
+
+4. LABORATORY RESULTS
+- Metabolism: Stable glucose and lipids.
+- Hematologic Function: Normal.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Various standard antipsychotics.
+- Current Plan: Transitioning to KarXT (xanomeline-trospium).
+- Monitoring: Treatment satisfaction registry participation.

@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Ravi Kumar
+- Age: 10 years
+- Sex: Male
+- Race/Ethnicity: Indian
+- Occupation: Student
+- Location: Mumbai, India
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Pediatric Growth Hormone Deficiency (pGHD).
+- Growth failure and short stature.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Height velocity: 3 cm/year.
+- Significantly below average height for age.
+- Normal physical appearance other than stature.
+
+4. LABORATORY RESULTS
+- Peak GH (provocative testing): < 10 ng/mL.
+- IGF-1: Low.
+- Thyroid function: Normal.
+- Bone age: Delayed by 1.5 years.
+
+5. TREATMENT HISTORY
+- Previous: GH treatment naïve.
+- Plan: Initiate once-weekly Somatrogon (Ngenla) for the management of pediatric growth hormone deficiency to improve growth velocity and height.

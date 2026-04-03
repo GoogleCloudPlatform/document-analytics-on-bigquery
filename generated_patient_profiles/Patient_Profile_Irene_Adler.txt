@@ -1,0 +1,28 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Irene Adler
+- Age: 34 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Chronic Intravascular Hemolysis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Significant fatigue and generalized weakness.
+- Occasional abdominal pain and dark-colored urine in the mornings (hemoglobinuria).
+- No history of major thrombotic events.
+- Physical Exam: Mild scleral icterus.
+
+4. LABORATORY RESULTS
+- Flow Cytometry: 45% PNH clone size (Type III cells).
+- LDH: 750 U/L (3x Upper Limit of Normal).
+- Hemoglobin: 9.8 g/dL.
+- Reticulocyte count: Elevated.
+- Bilirubin (Indirect): Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care and folic acid supplementation.
+- Plan: Initiate Ravulizumab (Ultomiris) for long-term complement inhibition and management of hemolysis.

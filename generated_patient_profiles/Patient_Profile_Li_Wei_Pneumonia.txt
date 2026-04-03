@@ -1,0 +1,30 @@
+PATIENT PROFILE: LI WEI
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 68 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: Retired (Currently hospitalized)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hospital-Acquired Pneumonia (HAP)
+- Diagnosis Detail: Developed severe respiratory symptoms during hospitalization for a different primary condition.
+- Clinical Status: Symptomatic; characterized by fever, productive cough, and new pulmonary infiltrates.
+- Severity: Significant enough to require intravenous antibiotic therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent fever, productive cough, and shortness of breath (dyspnea).
+- Physical Status: Acutely ill, but stable for medical intervention.
+- Performance Status: Restricted to hospital bed/unit due to illness and IV therapy.
+- General Health: No participation in other clinical trials for HAP.
+
+4. LABORATORY RESULTS
+- Imaging: Chest X-ray or CT scan shows new or progressive pulmonary infiltrates consistent with HAP.
+- Hematologic Function: Leukocytosis (Elevated white blood cell count).
+- Microbiology: Sputum or blood cultures obtained for pathogen identification.
+- Renal Function: Normal or mildly impaired (CrCl monitored for antibiotic dosing).
+- Oxygenation: Reduced PaO2 or SpO2 consistent with pulmonary infection.
+
+5. TREATMENT HISTORY
+- Prior Therapy: No prior exposure to Ceftazidime-Avibactam (CAZ-AVI).
+- Current Plan: Initiated at least one dose of Ceftazidime-Avibactam intravenously for treatment of Hospital-Acquired Pneumonia. Therapy is ongoing with plans for clinical follow-up for outcomes up to 60 days post-discharge. Signed informed consent provided for clinical usage study. Decision to initiate therapy made independently of study participation.

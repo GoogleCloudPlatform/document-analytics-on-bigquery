@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Neville Longbottom
+- Age: 32 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- NYHA Class II.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Exertional dyspnea.
+- Fatigue during physical activities.
+- BMI: 25.5 kg/m².
+
+4. LABORATORY RESULTS
+- Peak resting LVOT gradient: 52 mmHg.
+- Echocardiogram: Wall thickness 18mm.
+- LVEF: 66%.
+- NT-proBNP: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Beta-blockers.
+- Plan: Initiate Mavacamten (Camzyos) for symptomatic management of obstructive HCM.

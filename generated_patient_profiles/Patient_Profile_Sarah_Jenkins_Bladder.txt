@@ -1,0 +1,28 @@
+PATIENT PROFILE: SARAH JENKINS
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 65 years
+- Sex: Female
+- Place of Residency: Massachusetts, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Bladder Cancer (Urothelial Carcinoma)
+- Current Status: Metastatic disease.
+- Molecular Markers: Deleterious BRCA1 mutation (confirmed via genomic sequencing).
+- Medical History: No history of MDS or AML.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: General fatigue and localized pelvic discomfort.
+- Performance Status: WHO 0 (Fully active, able to carry on all pre-disease activities).
+- Physical Status: No blood transfusions in the past 120 days; no abnormalities on cardiac evaluation (normal QTc, LVEF).
+
+4. LABORATORY RESULTS
+- Hematology: Hemoglobin 12.8 g/dL (Adequate for PARP inhibitor initiation); ANC and Platelets within normal limits.
+- Organ Function: Liver and renal function tests within normal limits.
+- Imaging: Measurable metastatic lymph node (1.8 cm) at baseline.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Received adjuvant cisplatin-based chemotherapy 8 months ago with subsequent disease progression. Completed prior chemotherapy > 4 weeks ago.
+- Current Plan: Initiating second-line systemic therapy with a PARP inhibitor targeted to BRCA1 mutation.
+- Monitoring: Regular hematologic monitoring and serial imaging of metastatic lesions.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: STEVE MARTIN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 80 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: gMG treatment outcome
+- Secondary Condition: None documented
+- Other Relevant History: Geriatric patient with symptomatic gMG evaluating the real-world safety and outcomes of Ravulizumab.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: MG-ADL score of 11; anti-AChR antibody positive; starting Ravulizumab.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for gMG treatment outcome.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for gMG treatment outcome
+- Current Plan: MG-ADL score of 11; anti-AChR antibody positive; starting Ravulizumab.

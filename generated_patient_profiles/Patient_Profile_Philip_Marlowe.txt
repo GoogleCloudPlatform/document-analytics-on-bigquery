@@ -1,0 +1,27 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Philip Marlowe
+- Age: 60 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Private Investigator (California)
+- Location: Los Angeles, CA, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- History of significant tobacco exposure.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Daily shortness of breath, particularly with activity.
+- Persistent chronic cough.
+- CAT (COPD Assessment Test) score: 21.
+- Smoking status: Former smoker.
+
+4. LABORATORY RESULTS
+- FEV1: 55% of predicted value.
+- FEV1/FVC: 0.65 post-bronchodilator.
+- Oxygen Saturation: 93% on room air.
+- ECG: Normal sinus rhythm.
+
+5. TREATMENT HISTORY
+- Previous: Dual bronchodilator therapy (LABA/LAMA).
+- Plan: Switch to BGF (Budesonide/Glycopyrronium/Formoterol) triple therapy for improved symptom control and management of daily dyspnea.

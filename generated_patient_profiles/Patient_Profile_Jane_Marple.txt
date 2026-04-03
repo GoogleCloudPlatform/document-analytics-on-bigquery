@@ -1,0 +1,29 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Jane Marple
+- Age: 75 years
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+- Location: St. Mary Mead, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Post-radical cystectomy status.
+- High risk of recurrence.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Currently recovering from radical surgical resection.
+- No evidence of distant metastatic disease on baseline staging.
+- ECOG Performance Status: 1.
+- Generally stable clinical condition post-surgery.
+
+4. LABORATORY RESULTS
+- Pathology: pT3aN0M0 urothelial carcinoma with negative surgical margins.
+- PD-L1 expression: Confirmed present (CPS >= 1).
+- Creatinine Clearance: 55 mL/min.
+- Hemoglobin: 11.5 g/dL.
+- LFTs: Within normal limits.
+
+5. TREATMENT HISTORY
+- Previous: Radical cystectomy and pelvic lymph node dissection.
+- Plan: Initiate adjuvant Nivolumab (Opdivo) therapy to reduce the risk of disease recurrence.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: KENJI YAMAMOTO
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 70 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC)
+- Surgical Status: Post-radical cystectomy.
+- PD-L1 Expression: Positive (CPS ≥ 1).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Post-surgical recovery.
+- Performance Status: ECOG 1.
+- Physical Status: High risk of recurrence.
+
+4. LABORATORY RESULTS
+- Pathology: Histologically confirmed invasive bladder cancer.
+- Biomarker Testing: PD-L1 positive.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Completed radical surgery.
+- Current Plan: Initiating adjuvant Nivolumab therapy.
+- Monitoring: Prospective observation for disease-free survival.

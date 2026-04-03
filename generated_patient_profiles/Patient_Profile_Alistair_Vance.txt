@@ -1,0 +1,37 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Alistair Vance
+Age: 48
+Gender: Male
+Race: Caucasian
+Ethnicity: Non-Hispanic
+Occupation: Office Manager
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Condition: Severe Eosinophilic Asthma.
+Status: Long-standing history of uncontrolled asthma despite high-intensity standard of care. Frequent reliance on oral corticosteroids (OCS).
+Requirement: Treatment at a specialized asthma center.
+Comorbidities: None. No history of biologic drug use for asthma in a clinical trial within the last 52 weeks.
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Frequent wheezing, nocturnal awakenings (> 2 times/week), exertional dyspnea.
+Height: 175 cm
+Weight: 82 kg
+BMI: 26.8 kg/m2
+Physical Examination: Bilateral expiratory wheezes on auscultation. Stable vital signs.
+Life Expectancy: > 1 year.
+
+4. LABORATORY RESULTS
+Hematology:
+- Blood Eosinophil Count: 450 cells/µL (Requirement: > 300 cells/µL)
+- WBC: 7.2 x 10^3/µL
+- Hemoglobin: 14.2 g/dL
+Chemistry:
+- ALT: 22 U/L
+- AST: 20 U/L
+- Creatinine: 0.9 mg/dL
+Lung Function:
+- FEV1: 65% predicted
+- FEV1/FVC ratio: 0.68
+
+5. TREATMENT HISTORY
+Plan: Initiate treatment with Tezepelumab (Tezspire) as part of a real-world retrospective medical chart review (NCT06455462). Administer Tezepelumab 210 mg SC every 4 weeks. Continue existing maintenance therapy (high-dose ICS/LABA). Monitor annualized exacerbation rate and symptom control via asthma control questionnaires. Undergo retrospective data abstraction for 52 weeks post-index date.

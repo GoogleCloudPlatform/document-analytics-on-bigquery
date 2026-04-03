@@ -1,0 +1,27 @@
+PATIENT PROFILE: TYLER DURDEN
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 16 years
+- Sex: Male
+- Place of Residency: USA
+- Status: Adolescent
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Eosinophilic Asthma
+- Comorbidities: Family history of early-onset hypertension.
+- Disease Status: Persistent symptoms despite high-dose maintenance.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Recurrent wheezing and chest tightness during physical activity.
+- Performance Status: Active student.
+- Cardiac Health: High-risk profile for cardiovascular monitoring due to family history.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Blood eosinophil count > 300 cells/µL.
+- Pulmonary Function: FEV1 70% predicted.
+- Cardiovascular: Normal baseline ECG.
+
+5. TREATMENT HISTORY
+- Prior Therapy: High-dose ICS and LABA.
+- Current Plan: Initiating treatment with Tezepelumab as an add-on therapy.
+- Monitoring: Enrolled in long-term safety registry for cardiovascular events monitoring.

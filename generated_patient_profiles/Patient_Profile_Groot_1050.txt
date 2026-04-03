@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+Name: Groot
+Age: 65
+Sex: Male
+Residency: London, UK
+Occupation: Landscaper (Retired)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+Diagnosis: Severe Eosinophilic Asthma
+Duration: 15 years
+Comorbidities: Chronic Rhinosinusitis
+
+3. SYMPTOMS & PHYSICAL STATUS
+Symptoms: Frequent wheezing, nocturnal awakenings due to shortness of breath, chest tightness.
+Physical Status: Adult patient. Uncontrolled symptoms despite high-intensity standard of care.
+Weight: 88 kg.
+
+4. LABORATORY RESULTS
+Blood Eosinophil Count: 420 cells/µL.
+FeNO: 45 ppb.
+FEV1: 1.8 L (55% predicted).
+No biologic drug use for asthma in the 52 weeks prior to initiation.
+
+5. TREATMENT HISTORY
+Previous Treatments: Long-term use of high-dose inhaled corticosteroids (ICS) and long-acting beta-agonists (LABA). Frequent use of oral corticosteroid bursts for exacerbations.
+Plan: Initiate therapy with Tezepelumab as an add-on treatment in a specialized center.

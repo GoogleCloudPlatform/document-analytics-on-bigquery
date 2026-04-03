@@ -1,0 +1,24 @@
+PATIENT PROFILE: IRENE ADLER
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 30 years
+- Sex: Female
+- Place of Residency: Unknown
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Active SLE Surveillance
+- Secondary Condition: [None or Hypertension as appropriate]
+- Other Relevant History: Assessment of real-world clinical and patient-reported outcomes in SLE.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: SLEDAI-2K of 12; starting Anifrolumab; monitoring for steroid-sparing effects.. SLEDAI-2K score of 13. Active joint inflammation and malar rash.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-dsDNA antibodies; low C3 and C4 complement levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: [Standard care as per clinical guidelines]
+- Current Plan: SLEDAI-2K of 12; starting Anifrolumab; monitoring for steroid-sparing effects.

@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Phoebe Caulfield
+- Age: 11 months
+- Sex: Female
+- Race/Ethnicity: Not specified
+- Occupation: N/A (Infant)
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Congenital Heart Disease (CHD), hemodynamically significant.
+- High risk for severe Respiratory Syncytial Virus (RSV) infection.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Stable cardiovascular status awaiting corrective surgery.
+- No active respiratory infections.
+- Normal growth and development for age, considering cardiac status.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirmed congenital heart defect with hemodynamic significance.
+- Oxygen saturation: 94% on room air.
+- Hematology: Stable hemoglobin and hematocrit.
+- Viral Panel: Negative for RSV and other respiratory viruses at baseline.
+
+5. TREATMENT HISTORY
+- Scheduled for corrective cardiac surgery in the upcoming winter months.
+- Plan: Initiate seasonal RSV prophylaxis with Palivizumab (Synagis) monthly injections throughout the RSV season.

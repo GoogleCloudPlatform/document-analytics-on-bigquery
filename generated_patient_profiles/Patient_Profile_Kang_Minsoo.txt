@@ -1,0 +1,27 @@
+PATIENT PROFILE: KANG MIN-SOO
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 63 years
+- Sex: Male
+- Place of Residency: South Korea
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Molecular Marker: EGFR Exon 19 deletion.
+- Current Stage: Stage IV.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Cough and shortness of breath.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for oral targeted therapy.
+
+4. LABORATORY RESULTS
+- Molecular Testing: Confirmed EGFR Exon 19 deletion.
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for the metastatic setting.
+- Current Plan: Initiating first-line treatment with Dacomitinib (Vizimpro).
+- Monitoring: Korean post-marketing surveillance for lung neoplasms.

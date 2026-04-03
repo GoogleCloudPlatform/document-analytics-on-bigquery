@@ -1,0 +1,26 @@
+1. DEMOGRAPHIC INFORMATION
+- Name: Erik Lehnsherr
+- Age: 60 years
+- Sex: Male
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+- Location: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Chronic Intravascular Hemolysis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Significant fatigue and exertion-based weakness.
+- History of dark-colored urine episodes.
+- No history of major thromboembolism.
+
+4. LABORATORY RESULTS
+- Flow Cytometry: PNH clone detected (Large population).
+- LDH: 780 U/L (3x normal).
+- Hemoglobin: 10.1 g/dL.
+- Reticulocyte Count: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care and supplements.
+- Plan: Initiate Ravulizumab (Ultomiris) for sustained complement inhibition and stabilization of hemoglobin levels.
