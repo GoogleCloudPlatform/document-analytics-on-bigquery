@@ -12,7 +12,7 @@ PATIENT PROFILE: SAM WILSON
 - Other Relevant History: PASS study focusing on long-term cardiovascular safety in real-world Tezspire users.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting Tezepelumab; participating in cardiac safety monitoring registry.. History of eosinophilic asthma with comorbid cardiovascular risk.
+- Symptoms: Starting Tezepelumab; participating in cardiac safety monitoring registry. History of eosinophilic asthma with comorbid cardiovascular risk.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

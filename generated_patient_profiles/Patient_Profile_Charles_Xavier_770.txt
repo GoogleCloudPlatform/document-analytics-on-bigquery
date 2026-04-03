@@ -12,7 +12,7 @@ PATIENT PROFILE: CHARLES XAVIER
 - Other Relevant History: PASS study participant monitoring cardiovascular outcomes in Tezspire users.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: On Tezepelumab; requires prospective surveillance for MACE risk.. History of severe eosinophilic asthma with comorbid cardiovascular risk factors.
+- Symptoms: On Tezepelumab; requires prospective surveillance for MACE risk. History of severe eosinophilic asthma with comorbid cardiovascular risk factors.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

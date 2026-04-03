@@ -12,7 +12,7 @@ PATIENT PROFILE: GANDALF GREY
 - Other Relevant History: Geriatric oHCM patient managed with targeted myosin inhibition in the US.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exertional chest pain; LVOT gradient 50 mmHg; starting Mavacamten.. NYHA Functional Class III symptoms including exertional dyspnea.
+- Symptoms: Exertional chest pain; LVOT gradient 50 mmHg; starting Mavacamten. NYHA Functional Class III symptoms including exertional dyspnea.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

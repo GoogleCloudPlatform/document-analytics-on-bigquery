@@ -12,7 +12,7 @@ PATIENT PROFILE: SAM SPADE
 - Other Relevant History: Symptomatic COPD patient requiring triple therapy escalation in a routine setting.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: FEV1 is 45%; CAT score 20; starting BGF fixed-dose combination.. CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
+- Symptoms: FEV1 is 45%; CAT score 20; starting BGF fixed-dose combination. CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

@@ -12,7 +12,7 @@ PATIENT PROFILE: HARRISON WRIGHT
 - Other Relevant History: Adult with schizophrenia initiating KarXT therapy in the US.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Prescribed KarXT; monitoring treatment preference and satisfaction.. PANSS total score indicates moderate to severe symptoms.
+- Symptoms: Prescribed KarXT; monitoring treatment preference and satisfaction. PANSS total score indicates moderate to severe symptoms.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Schizophrenia.
 

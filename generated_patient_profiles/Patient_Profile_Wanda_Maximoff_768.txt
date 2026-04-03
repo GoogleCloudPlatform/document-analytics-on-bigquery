@@ -12,7 +12,7 @@ PATIENT PROFILE: WANDA MAXIMOFF
 - Other Relevant History: Evaluation of Anifrolumab effectiveness on non-organ-specific SLE symptoms in routine care.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: SLEDAI-2K of 11; initiating Anifrolumab to improve patient-reported quality of life.. SLEDAI-2K score of 13. Active joint inflammation and malar rash.
+- Symptoms: SLEDAI-2K of 11; initiating Anifrolumab to improve patient-reported quality of life. SLEDAI-2K score of 13. Active joint inflammation and malar rash.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

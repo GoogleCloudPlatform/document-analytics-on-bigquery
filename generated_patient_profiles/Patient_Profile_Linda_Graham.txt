@@ -12,7 +12,7 @@ PATIENT PROFILE: LINDA GRAHAM
 - Other Relevant History: Adult patient in the US receiving Mavacamten to manage symptomatic obstructive HCM.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LVEF is 60%; resting gradient of 40 mmHg; initiating Mavacamten therapy.. NYHA Functional Class III symptoms including exertional dyspnea.
+- Symptoms: LVEF is 60%; resting gradient of 40 mmHg; initiating Mavacamten therapy. NYHA Functional Class III symptoms including exertional dyspnea.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

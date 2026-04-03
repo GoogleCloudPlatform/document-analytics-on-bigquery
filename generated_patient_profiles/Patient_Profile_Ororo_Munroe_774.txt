@@ -12,7 +12,7 @@ PATIENT PROFILE: ORORO MUNROE
 - Other Relevant History: Real-world evaluation of fixed-dose triple therapy in chronic bronchitis-predominant COPD.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: CAT score 23; multiple exacerbations despite LAMA; transitioning to BGF.. CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
+- Symptoms: CAT score 23; multiple exacerbations despite LAMA; transitioning to BGF. CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

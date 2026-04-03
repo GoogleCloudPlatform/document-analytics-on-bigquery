@@ -12,7 +12,7 @@ PATIENT PROFILE: BOROMIR DENETHOR
 - Other Relevant History: Patient with multiple cardiovascular risk factors in the Tezspire PASS cohort.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: On Tezepelumab; monitored for cardiovascular safety outcomes.. History of eosinophilic asthma with comorbid cardiovascular risk.
+- Symptoms: On Tezepelumab; monitored for cardiovascular safety outcomes. History of eosinophilic asthma with comorbid cardiovascular risk.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

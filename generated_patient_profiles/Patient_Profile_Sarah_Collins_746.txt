@@ -12,7 +12,7 @@ PATIENT PROFILE: SARAH COLLINS
 - Other Relevant History: Adult patient with metastatic NSCLC and PD-L1 <1% monitoring survival and safety results.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating dual immunotherapy with Nivolumab and Ipilimumab in a real-world clinical setting.. Metastatic disease confirmed via PET/CT.
+- Symptoms: Initiating dual immunotherapy with Nivolumab and Ipilimumab in a real-world clinical setting. Metastatic disease confirmed via PET/CT.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

@@ -12,7 +12,7 @@ PATIENT PROFILE: ANNA KARENINA
 - Other Relevant History: Initiating Anifrolumab in a real-world setting to observe long-term clinical outcomes in SLE.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: High disease activity despite glucocorticoid use; initiating Anifrolumab.. SLEDAI-2K score of 12.
+- Symptoms: High disease activity despite glucocorticoid use; initiating Anifrolumab. SLEDAI-2K score of 12.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Systemic Lupus Erythematosus (SLE).
 

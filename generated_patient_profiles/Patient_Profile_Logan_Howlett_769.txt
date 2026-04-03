@@ -12,7 +12,7 @@ PATIENT PROFILE: LOGAN HOWLETT
 - Other Relevant History: Real-world assessment of Nivolumab in muscle-invasive urothelial carcinoma management.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Previous BCG treatment failed; initiating Nivolumab in a neoadjuvant or adjuvant setting.. Post-radical cystectomy for pT3N0 bladder cancer.
+- Symptoms: Previous BCG treatment failed; initiating Nivolumab in a neoadjuvant or adjuvant setting. Post-radical cystectomy for pT3N0 bladder cancer.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

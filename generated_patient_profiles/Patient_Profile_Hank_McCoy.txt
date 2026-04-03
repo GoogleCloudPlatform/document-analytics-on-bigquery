@@ -12,7 +12,7 @@ PATIENT PROFILE: HANK MCCOY
 - Other Relevant History: Standard RSV prophylaxis for preterm infants according to pediatric guidelines.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Residing in a high-incidence urban area; requiring seasonal Palivizumab injections.. Preterm infant at high risk for severe RSV.
+- Symptoms: Residing in a high-incidence urban area; requiring seasonal Palivizumab injections. Preterm infant at high risk for severe RSV.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

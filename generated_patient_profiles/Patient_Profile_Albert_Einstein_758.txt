@@ -12,7 +12,7 @@ PATIENT PROFILE: ALBERT EINSTEIN
 - Other Relevant History: US-based patient with symptomatic oHCM initiating Mavacamten as part of standard care.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Echo shows a resting LVOT gradient of 55 mmHg; starting Mavacamten for gradient reduction.. NYHA Functional Class III symptoms including exertional dyspnea.
+- Symptoms: Echo shows a resting LVOT gradient of 55 mmHg; starting Mavacamten for gradient reduction. NYHA Functional Class III symptoms including exertional dyspnea.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

@@ -12,7 +12,7 @@ PATIENT PROFILE: HANS CASTORP
 - Other Relevant History: Patient requiring escalation to triple therapy for COPD exacerbation prevention in routine care.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: CAT score of 22; failing dual LABA/LAMA therapy; switching to BGF triple therapy.. CAT score of 22; mMRC score of 3.
+- Symptoms: CAT score of 22; failing dual LABA/LAMA therapy; switching to BGF triple therapy. CAT score of 22; mMRC score of 3.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Symptomatic COPD.
 

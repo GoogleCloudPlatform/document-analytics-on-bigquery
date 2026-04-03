@@ -12,7 +12,7 @@ PATIENT PROFILE: SHAWNEE BEAR
 - Other Relevant History: Real-world symptomatic oHCM patient initiating Mavacamten in a US-based utilization study.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Peak LVOT gradient is 55 mmHg; seeking an oral alternative to beta-blockers which caused excessive fatigue.. NYHA Functional Class II or III.
+- Symptoms: Peak LVOT gradient is 55 mmHg; seeking an oral alternative to beta-blockers which caused excessive fatigue. NYHA Functional Class II or III.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

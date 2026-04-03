@@ -12,7 +12,7 @@ PATIENT PROFILE: SANDRINE CASTILLO
 - Other Relevant History: European patient with symptomatic oHCM starting Mavacamten.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: initiating Mavacamten in a multi-national registry.. NYHA Functional Class II or III.
+- Symptoms: initiating Mavacamten in a multi-national registry. NYHA Functional Class II or III.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Symptomatic oHCM.
 

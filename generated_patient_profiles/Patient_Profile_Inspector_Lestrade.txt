@@ -12,7 +12,7 @@ PATIENT PROFILE: INSPECTOR LESTRADE
 - Other Relevant History: Real-world data study for immunotherapy combination in advanced skin cancer.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Treated with Nivo/Rela; tracking long-term survival and adverse events.. Stage IV metastatic melanoma, BRAF wild-type.
+- Symptoms: Treated with Nivo/Rela; tracking long-term survival and adverse events. Stage IV metastatic melanoma, BRAF wild-type.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

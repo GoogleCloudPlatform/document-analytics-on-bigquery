@@ -12,7 +12,7 @@ PATIENT PROFILE: FLORENCE PUGH
 - Other Relevant History: Adult SLE patient initiating biologic therapy for disease control in a routine clinical practice.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: SLEDAI score of 13; failed to respond to mycophenolate mofetil; initiating Anifrolumab.. SLEDAI-2K score of 12.
+- Symptoms: SLEDAI score of 13; failed to respond to mycophenolate mofetil; initiating Anifrolumab. SLEDAI-2K score of 12.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Moderate-to-Severe SLE.
 

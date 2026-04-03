@@ -12,7 +12,7 @@ PATIENT PROFILE: FRIDA KAHLO
 - Other Relevant History: Advanced melanoma patient participating in a real-world assessment of Nivolumab-based regimens.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating first-line combination therapy with Nivolumab and Relatlimab.. Stage IV metastatic melanoma, BRAF wild-type.
+- Symptoms: Initiating first-line combination therapy with Nivolumab and Relatlimab. Stage IV metastatic melanoma, BRAF wild-type.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

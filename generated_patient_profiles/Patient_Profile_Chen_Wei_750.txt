@@ -12,7 +12,7 @@ PATIENT PROFILE: CHEN WEI
 - Other Relevant History: Adult TDT patient in Taiwan receiving Luspatercept in a real-world clinical effectiveness study.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting Luspatercept to reduce the transfusion burden and improve iron overload management.. Regular transfusion schedule every 3 weeks.
+- Symptoms: Starting Luspatercept to reduce the transfusion burden and improve iron overload management. Regular transfusion schedule every 3 weeks.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

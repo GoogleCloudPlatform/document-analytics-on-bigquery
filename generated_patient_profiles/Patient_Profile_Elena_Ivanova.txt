@@ -12,7 +12,7 @@ PATIENT PROFILE: ELENA IVANOVA
 - Other Relevant History: Russian patient with symptomatic oHCM initiating Mavacamten in a multi-national prospective registry.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LVOT gradient of 60 mmHg; starting Mavacamten as part of a global registry.. NYHA Functional Class II or III.
+- Symptoms: LVOT gradient of 60 mmHg; starting Mavacamten as part of a global registry. NYHA Functional Class II or III.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Symptomatic Obstructive HCM.
 

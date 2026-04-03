@@ -12,7 +12,7 @@ PATIENT PROFILE: MYCROFT HOLMES
 - Other Relevant History: Pooled analysis of BGF effectiveness across multiple real-world COPD centers.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Using BGF triple therapy; data included in global routine care study.. Severe uncontrolled eosinophilic asthma.
+- Symptoms: Using BGF triple therapy; data included in global routine care study. Severe uncontrolled eosinophilic asthma.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

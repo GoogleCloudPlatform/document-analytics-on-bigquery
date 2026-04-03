@@ -12,7 +12,7 @@ PATIENT PROFILE: LEONARDO DA VINCI
 - Other Relevant History: Post-surgical MIUC patient receiving adjuvant immunotherapy to improve disease-free survival.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: High risk of recurrence; pathologic stage pT3N0; initiating adjuvant Nivolumab.. Post-radical cystectomy for pT3N0 bladder cancer.
+- Symptoms: High risk of recurrence; pathologic stage pT3N0; initiating adjuvant Nivolumab. Post-radical cystectomy for pT3N0 bladder cancer.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

@@ -12,7 +12,7 @@ PATIENT PROFILE: DIANA PRINCE
 - Other Relevant History: Real-world SLE patient transitioning to biologic therapy for better disease control.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: High titers of anti-dsDNA; failing corticosteroids; initiating Anifrolumab.. SLEDAI-2K score of 13. Active joint inflammation and malar rash.
+- Symptoms: High titers of anti-dsDNA; failing corticosteroids; initiating Anifrolumab. SLEDAI-2K score of 13. Active joint inflammation and malar rash.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

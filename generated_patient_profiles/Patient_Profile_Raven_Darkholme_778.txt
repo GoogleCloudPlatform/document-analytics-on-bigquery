@@ -12,7 +12,7 @@ PATIENT PROFILE: RAVEN DARKHOLME
 - Other Relevant History: Real-world clinical assessment of Anifrolumab in refractory cutaneous lupus.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Failed mycophenolate mofetil; starting Anifrolumab for skin and systemic control.. SLEDAI-2K score of 13. Active joint inflammation and malar rash.
+- Symptoms: Failed mycophenolate mofetil; starting Anifrolumab for skin and systemic control. SLEDAI-2K score of 13. Active joint inflammation and malar rash.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

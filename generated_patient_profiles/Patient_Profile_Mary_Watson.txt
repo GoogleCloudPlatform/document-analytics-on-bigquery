@@ -12,7 +12,7 @@ PATIENT PROFILE: MARY WATSON
 - Other Relevant History: Transition to long-acting C5 inhibitor to maintain clinical stability.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LDH spikes between doses of prior therapy; switching to Ravulizumab for stable inhibition.. Patient reports dark urine and extreme fatigue.
+- Symptoms: LDH spikes between doses of prior therapy; switching to Ravulizumab for stable inhibition. Patient reports dark urine and extreme fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

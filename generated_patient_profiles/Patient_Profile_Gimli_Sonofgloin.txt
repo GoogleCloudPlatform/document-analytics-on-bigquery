@@ -12,7 +12,7 @@ PATIENT PROFILE: GIMLI SONOFGLOIN
 - Other Relevant History: Real-world patient evaluating Ravulizumab for symptom control and hemoglobin stability.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LDH remains high on standard care; starting Ravulizumab.. Patient reports dark urine and extreme fatigue.
+- Symptoms: LDH remains high on standard care; starting Ravulizumab. Patient reports dark urine and extreme fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

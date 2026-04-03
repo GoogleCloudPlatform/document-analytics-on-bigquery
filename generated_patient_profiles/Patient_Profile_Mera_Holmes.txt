@@ -12,7 +12,7 @@ PATIENT PROFILE: MERA HOLMES
 - Other Relevant History: Plaque psoriasis patient in Germany initiating Deucravacitinib in a real-world effectiveness study.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Failed phototherapy and topical treatments; initiating Deucravacitinib.. PASI score of 18; sPGA score of 3 (moderate).
+- Symptoms: Failed phototherapy and topical treatments; initiating Deucravacitinib. PASI score of 18; sPGA score of 3 (moderate).
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Plaque Psoriasis.
 

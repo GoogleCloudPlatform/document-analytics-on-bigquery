@@ -12,7 +12,7 @@ PATIENT PROFILE: HAL JORDAN
 - Other Relevant History: Patient requiring escalation to triple therapy for symptomatic relief and exacerbation prevention.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Two hospitalizations in the last year; mMRC score 3; switching to BGF triple therapy.. CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
+- Symptoms: Two hospitalizations in the last year; mMRC score 3; switching to BGF triple therapy. CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

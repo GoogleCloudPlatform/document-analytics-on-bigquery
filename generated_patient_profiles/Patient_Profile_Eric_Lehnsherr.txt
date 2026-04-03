@@ -12,7 +12,7 @@ PATIENT PROFILE: ERIC LEHNSHERR
 - Other Relevant History: Management of PNH-related complications and prevention of breakthrough hemolysis.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Currently on anticoagulants; LDH is 2.5x ULN; starting Ravulizumab.. Patient reports dark urine and extreme fatigue.
+- Symptoms: Currently on anticoagulants; LDH is 2.5x ULN; starting Ravulizumab. Patient reports dark urine and extreme fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

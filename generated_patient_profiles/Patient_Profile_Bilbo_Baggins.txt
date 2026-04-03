@@ -12,7 +12,7 @@ PATIENT PROFILE: BILBO BAGGINS
 - Other Relevant History: Preterm birth < 35 weeks gestation qualifying for RSV prevention.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Enrolled for seasonal palivizumab administration.. Preterm infant at high risk for severe RSV.
+- Symptoms: Enrolled for seasonal palivizumab administration. Preterm infant at high risk for severe RSV.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

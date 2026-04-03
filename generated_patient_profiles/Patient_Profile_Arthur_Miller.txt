@@ -12,7 +12,7 @@ PATIENT PROFILE: ARTHUR MILLER
 - Other Relevant History: US-based patient with symptomatic oHCM initiating Mavacamten as part of a real-world utilization study.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Peak LVOT gradient of 65 mmHg; starting Mavacamten for gradient reduction and symptom improvement.. NYHA Functional Class III symptoms including exertional dyspnea.
+- Symptoms: Peak LVOT gradient of 65 mmHg; starting Mavacamten for gradient reduction and symptom improvement. NYHA Functional Class III symptoms including exertional dyspnea.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

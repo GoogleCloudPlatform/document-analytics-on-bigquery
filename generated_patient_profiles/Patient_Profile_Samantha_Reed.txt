@@ -12,7 +12,7 @@ PATIENT PROFILE: SAMANTHA REED
 - Other Relevant History: US-based patient with symptomatic oHCM starting Mavacamten as part of a real-world utilization study.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LVOT gradient of 55 mmHg; initiating Mavacamten for gradient reduction and symptom improvement.. NYHA Functional Class II or III.
+- Symptoms: LVOT gradient of 55 mmHg; initiating Mavacamten for gradient reduction and symptom improvement. NYHA Functional Class II or III.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

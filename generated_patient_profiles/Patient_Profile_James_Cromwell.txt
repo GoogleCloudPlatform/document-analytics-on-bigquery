@@ -12,7 +12,7 @@ PATIENT PROFILE: JAMES CROMWELL
 - Other Relevant History: Routine care COPD patient initiating BGF for symptom and exacerbation control.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Switching to BGF triple therapy for better exacerbation management.. CAT score of 22; mMRC score of 3.
+- Symptoms: Switching to BGF triple therapy for better exacerbation management. CAT score of 22; mMRC score of 3.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for COPD BGF Pooled Analysis.
 

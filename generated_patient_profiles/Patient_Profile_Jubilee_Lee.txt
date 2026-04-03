@@ -12,7 +12,7 @@ PATIENT PROFILE: JUBILEE LEE
 - Other Relevant History: High-risk pediatric patient with underlying pulmonary pathology needing RSV prevention.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Requires specialized monitoring and Palivizumab prophylaxis during second RSV season.. Preterm infant at high risk for severe RSV.
+- Symptoms: Requires specialized monitoring and Palivizumab prophylaxis during second RSV season. Preterm infant at high risk for severe RSV.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

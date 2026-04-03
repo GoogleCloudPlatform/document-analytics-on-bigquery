@@ -12,7 +12,7 @@ PATIENT PROFILE: WADE WILSON
 - Other Relevant History: Patient with a KRAS G12C mutated advanced solid tumor eligible for expanded access to adagrasib.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Progressed on prior platinum chemotherapy; seeking targeted therapy through expanded access.. Metastatic tumor with confirmed KRAS G12C mutation.
+- Symptoms: Progressed on prior platinum chemotherapy; seeking targeted therapy through expanded access. Metastatic tumor with confirmed KRAS G12C mutation.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

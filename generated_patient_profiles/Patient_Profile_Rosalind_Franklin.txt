@@ -12,7 +12,7 @@ PATIENT PROFILE: ROSALIND FRANKLIN
 - Other Relevant History: Fits the profile for a pooled analysis of real-world treatment patterns in severe asthma.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Blood eosinophil count > 300 cells/µL; recently started Tezepelumab.. Severe uncontrolled eosinophilic asthma.
+- Symptoms: Blood eosinophil count > 300 cells/µL; recently started Tezepelumab. Severe uncontrolled eosinophilic asthma.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

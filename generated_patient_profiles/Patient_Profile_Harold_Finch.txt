@@ -12,7 +12,7 @@ PATIENT PROFILE: HAROLD FINCH
 - Other Relevant History: US-based patient with symptomatic oHCM initiating Mavacamten as part of a real-world utilization study.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Peak LVOT gradient of 65 mmHg; starting targeted myosin inhibition to avoid invasive septal reduction.. NYHA Functional Class II or III.
+- Symptoms: Peak LVOT gradient of 65 mmHg; starting targeted myosin inhibition to avoid invasive septal reduction. NYHA Functional Class II or III.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

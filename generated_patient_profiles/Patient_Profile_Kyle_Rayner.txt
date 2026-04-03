@@ -12,7 +12,7 @@ PATIENT PROFILE: KYLE RAYNER
 - Other Relevant History: Ozanimod-naive patient with moderate-to-severe UC in a prospective non-interventional study.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Mayo score of 8; initiating Ozanimod (Zeposia) after failing 5-ASA and corticosteroids.. Mayo score of 8.
+- Symptoms: Mayo score of 8; initiating Ozanimod (Zeposia) after failing 5-ASA and corticosteroids. Mayo score of 8.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Ulcerative Colitis (UC).
 

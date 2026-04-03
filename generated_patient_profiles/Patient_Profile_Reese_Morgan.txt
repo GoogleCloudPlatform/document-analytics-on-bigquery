@@ -12,7 +12,7 @@ PATIENT PROFILE: REESE MORGAN
 - Other Relevant History: Adult patient in the US receiving Mavacamten for the management of symptomatic obstructive HCM.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LVEF is 60%; resting LVOT gradient of 40 mmHg; initiating specific myosin therapy.. NYHA Functional Class II or III.
+- Symptoms: LVEF is 60%; resting LVOT gradient of 40 mmHg; initiating specific myosin therapy. NYHA Functional Class II or III.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

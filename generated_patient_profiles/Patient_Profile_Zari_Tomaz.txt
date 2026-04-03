@@ -12,7 +12,7 @@ PATIENT PROFILE: ZARI TOMAZ
 - Other Relevant History: Adult gMG patient in Poland initiating Ravulizumab in routine clinical practice.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting Ravulizumab; meningococcal vaccination completed; monitoring MG-ADL score.. MG-ADL score of 11.
+- Symptoms: Starting Ravulizumab; meningococcal vaccination completed; monitoring MG-ADL score. MG-ADL score of 11.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for gMG (Poland).
 

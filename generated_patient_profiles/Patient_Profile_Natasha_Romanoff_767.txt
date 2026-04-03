@@ -12,7 +12,7 @@ PATIENT PROFILE: NATASHA ROMANOFF
 - Other Relevant History: Monitoring long-term survival in advanced melanoma patients treated with combination IO.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: PD-L1 positive; starting dual immunotherapy with Nivolumab and Relatlimab.. Stage IV metastatic melanoma, BRAF wild-type.
+- Symptoms: PD-L1 positive; starting dual immunotherapy with Nivolumab and Relatlimab. Stage IV metastatic melanoma, BRAF wild-type.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

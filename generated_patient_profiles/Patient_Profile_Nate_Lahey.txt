@@ -12,7 +12,7 @@ PATIENT PROFILE: NATE LAHEY
 - Other Relevant History: Real-world patient with oHCM treated with Mavacamten at UPenn.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: symptomatic oHCM; Echo shows 18mm wall thickness; on Mavacamten.. NYHA Functional Class II or III.
+- Symptoms: symptomatic oHCM; Echo shows 18mm wall thickness; on Mavacamten. NYHA Functional Class II or III.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

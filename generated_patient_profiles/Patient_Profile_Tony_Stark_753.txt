@@ -12,7 +12,7 @@ PATIENT PROFILE: TONY STARK
 - Other Relevant History: Active user of Tezepelumab in a routine setting with pre-existing cardiovascular risk factors (hypertension).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Currently prescribed Tezepelumab; enrolled in safety monitoring for Major Adverse Cardiovascular Events (MACE).. History of severe eosinophilic asthma with comorbid cardiovascular risk factors.
+- Symptoms: Currently prescribed Tezepelumab; enrolled in safety monitoring for Major Adverse Cardiovascular Events (MACE). History of severe eosinophilic asthma with comorbid cardiovascular risk factors.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

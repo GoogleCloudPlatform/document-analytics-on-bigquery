@@ -12,7 +12,7 @@ PATIENT PROFILE: DAISY BUCHANAN
 - Other Relevant History: Real-world patient initiating Ravulizumab to assess functional improvement and safety in gMG.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: MG-ADL score of 10; seeking to start Ravulizumab for symptom stabilization.. MG-ADL score of 11.
+- Symptoms: MG-ADL score of 10; seeking to start Ravulizumab for symptom stabilization. MG-ADL score of 11.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
 

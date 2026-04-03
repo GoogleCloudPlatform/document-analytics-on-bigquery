@@ -12,7 +12,7 @@ PATIENT PROFILE: HARRISON WELLS
 - Other Relevant History: Ozanimod-naive patient with moderate-to-severe UC in a prospective non-interventional study.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Mayo score of 7; starting Ozanimod (Zeposia) as the next advanced therapy.. Mayo score of 8.
+- Symptoms: Mayo score of 7; starting Ozanimod (Zeposia) as the next advanced therapy. Mayo score of 8.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Ulcerative Colitis.
 

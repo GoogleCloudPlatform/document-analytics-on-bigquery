@@ -12,7 +12,7 @@ PATIENT PROFILE: WATSON JAMES
 - Other Relevant History: Real-world longitudinal assessment of Mavacamten effectiveness and safety.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Gradient 60 mmHg; Echo monitoring required; on Mavacamten.. NYHA Functional Class III symptoms including exertional dyspnea.
+- Symptoms: Gradient 60 mmHg; Echo monitoring required; on Mavacamten. NYHA Functional Class III symptoms including exertional dyspnea.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 

@@ -12,7 +12,7 @@ PATIENT PROFILE: MATEO RICCI
 - Other Relevant History: Symptomatic oHCM patient initiating Mavacamten as part of a real-world treatment assessment.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Echocardiogram shows a peak LVOT gradient of 52 mmHg; NYHA Class II symptoms; initiating Mavacamten.. NYHA Functional Class II or III.
+- Symptoms: Echocardiogram shows a peak LVOT gradient of 52 mmHg; NYHA Class II symptoms; initiating Mavacamten. NYHA Functional Class II or III.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

@@ -12,7 +12,7 @@ PATIENT PROFILE: MATTHEW MACFADYEN
 - Other Relevant History: Enrollment in the real-world longitudinal outcomes registry for Mavacamten.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LVOT gradient 65 mmHg; starting Mavacamten; participating in the longitudinal outcomes registry.. NYHA Functional Class II or III.
+- Symptoms: LVOT gradient 65 mmHg; starting Mavacamten; participating in the longitudinal outcomes registry. NYHA Functional Class II or III.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Symptomatic oHCM (Registry).
 

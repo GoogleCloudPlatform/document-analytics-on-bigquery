@@ -12,7 +12,7 @@ PATIENT PROFILE: JULIANNA VARGA
 - Other Relevant History: Routine care patient treated with BGF triple therapy for symptomatic COPD management in a real-world pooled analysis.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: CAT score of 20; currently on dual maintenance therapy; FEV1 < 50% predicted; switching to triple therapy (BGF).. CAT score of 22; mMRC score of 3.
+- Symptoms: CAT score of 20; currently on dual maintenance therapy; FEV1 < 50% predicted; switching to triple therapy (BGF). CAT score of 22; mMRC score of 3.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Chronic Obstructive Pulmonary Disease (COPD).
 

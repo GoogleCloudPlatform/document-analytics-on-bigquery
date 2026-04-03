@@ -12,7 +12,7 @@ PATIENT PROFILE: MATEO SILVA
 - Other Relevant History: Real-world patient with SLE transitioning to Anifrolumab to assess improvements in patient-reported outcomes.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Quality of life scores are significantly below average; anti-dsDNA titers are highly elevated; starting biologic therapy.. SLEDAI-2K score of 12.
+- Symptoms: Quality of life scores are significantly below average; anti-dsDNA titers are highly elevated; starting biologic therapy. SLEDAI-2K score of 12.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Systemic Lupus Erythematosus (SLE).
 
