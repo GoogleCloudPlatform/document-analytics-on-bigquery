@@ -1,0 +1,27 @@
+PATIENT PROFILE: CHEN-HSIN Y.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 24 years
+- Sex: Male
+- Place of Residency: Taipei, Taiwan
+- Employment Status: Student.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Beta-Thalassemia Major
+- Disease Severity: Transfusion-dependent since childhood.
+- Complication: Iron overload secondary to chronic transfusions.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic fatigue and jaundice. Symptoms are generally well-managed with current treatment.
+- Performance Status: ECOG 0 (Fully active, able to carry on all pre-disease performance without restriction).
+- Growth and Development: Normal, despite chronic illness.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Baseline hemoglobin level around 7-8 g/dL, requiring regular transfusions to maintain a level above 9 g/dL.
+- Iron Studies: High serum ferritin and transferrin saturation, indicative of iron overload.
+- Liver Function: Mildly elevated liver enzymes due to iron deposition.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Lifelong history of regular packed red blood cell (RBC) transfusions (every 3-4 weeks). On iron chelation therapy to manage iron overload.
+- Current Plan: Recently started Luspatercept injections to improve erythropoiesis, with the goal of reducing the frequency of blood transfusions.
+- Rationale: Patient is an adult with transfusion-dependent β-Thalassemia Major residing in Taiwan and is being treated with Luspatercept in a real-world clinical setting, which aligns with the objectives of trial NCT06596642.

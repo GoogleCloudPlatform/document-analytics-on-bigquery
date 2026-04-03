@@ -1,0 +1,27 @@
+PATIENT PROFILE: HANS G.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 34 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+- Employment Status: Full-time employment.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Disease History: Diagnosed 2 years ago.
+- Relapse History: Experienced two confirmed relapses in the past 12 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: During relapses, experiences sensory disturbances (numbness and tingling in the legs) and fatigue. Residual fatigue between relapses.
+- Performance Status: EDSS score of 2.0. Minimal disability, does not interfere with daily activities.
+- MRI Findings: Brain MRI shows multiple T2 lesions consistent with MS, with one new gadolinium-enhancing lesion on the most recent scan.
+
+4. LABORATORY RESULTS
+- Cerebrospinal Fluid (CSF): Oligoclonal bands present.
+- Vitamin D Level: Low, supplementation initiated.
+- Blood Work: No significant abnormalities.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Was treated with interferon-beta for 18 months, but experienced breakthrough disease activity (relapses and new MRI lesions).
+- Current Plan: Recently switched to Ozanimod (Zeposia®), an oral S1P receptor modulator, for better disease control.
+- Rationale: This patient is a German resident with RRMS who has switched to Ozanimod in a real-world setting after an inadequate response to a first-line injectable therapy. This aligns with the NCT05335031 study, which is assessing the quality of life in patients treated with Ozanimod in Germany.

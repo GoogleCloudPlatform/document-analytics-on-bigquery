@@ -1,0 +1,24 @@
+PATIENT PROFILE: KATHERINE P.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 42 years
+- Sex: Female
+- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Menopausal Status: Pre-menopausal.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hormone Receptor-Positive (HR+), HER2-Negative (HER2-) Early Breast Cancer (EBC).
+- Risk Category: High risk of recurrence due to lymph node involvement (Node-positive).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Post-Surgical Status: Recently completed definitive surgery (e.g., lumpectomy or mastectomy).
+- Performance Status: ECOG 0 (Fully active, no performance restrictions).
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed HR+/HER2- invasive ductal carcinoma.
+- Nodal Status: Positive axillary lymph nodes on surgical pathology.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has completed surgery. May have also received (neo)adjuvant chemotherapy.
+- Current Plan: Starting adjuvant endocrine therapy with an Aromatase Inhibitor in combination with Ribociclib (Kisqali), a CDK4/6 inhibitor, to reduce the risk of recurrence.
+- Rationale: This patient's high-risk, pre-menopausal EBC status makes her a candidate for the NCT06830720 study, which is evaluating the addition of Ribociclib to standard endocrine therapy in the adjuvant setting.

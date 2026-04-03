@@ -1,0 +1,27 @@
+PATIENT PROFILE: WEI Z.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 70 years
+- Sex: Female
+- Place of Residency: Shanghai, China
+- Employment Status: Retired.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS) with Ring Sideroblasts (MDS-RS)
+- Disease Severity: Anemia with hemoglobin levels consistently below 9.0 g/dL.
+- Transfusion Status: Requires intermittent red blood cell transfusions.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Experiences significant fatigue, dizziness, and pallor.
+- Performance Status: ECOG 1 (Symptomatic, but ambulatory and able to perform light activities).
+- Comorbidities: Well-controlled hypertension.
+
+4. LABORATORY RESULTS
+- Bone Marrow Analysis: Confirmed diagnosis of MDS with >15% ring sideroblasts.
+- Hemoglobin: Persistently low, requiring transfusions.
+- ESA Status: Considered to have an inadequate response to or is not a candidate for erythropoiesis-stimulating agents.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has received supportive care, including blood transfusions.
+- Current Plan: Initiating treatment with Luspatercept infusions to address the anemia and reduce transfusion needs.
+- Rationale: As a resident of China with transfusion-dependent, lower-risk MDS-RS, her treatment with Luspatercept in a routine clinical setting aligns with the goals of the NCT07073690 observational study.

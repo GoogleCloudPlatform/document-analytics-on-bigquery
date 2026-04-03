@@ -1,0 +1,27 @@
+PATIENT PROFILE: MARTHA S.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 74 years
+- Sex: Female
+- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Employment Status: Retired.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
+- Subtype: IPSS-R Very Low risk with ring sideroblasts.
+- Key Feature: Transfusion-dependent anemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic fatigue, shortness of breath on exertion, pale skin.
+- Performance Status: ECOG 1 (Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature).
+- Transfusion Need: Requires 2 units of packed red blood cells (RBCs) every 6 weeks to maintain hemoglobin levels.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Hemoglobin consistently below 9.0 g/dL prior to transfusions. Presence of ring sideroblasts on bone marrow aspirate.
+- Serum Ferritin: Elevated due to iron overload from multiple transfusions.
+- Erythropoietin Level: Normal or elevated, consistent with ESA failure.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Previously treated with Erythropoiesis-Stimulating Agents (ESAs) with an inadequate response.
+- Current Plan: Initiated treatment with Luspatercept to improve erythropoiesis and reduce transfusion dependence.
+- Rationale: The patient fits the profile for the NCT07075406 trial, which is observing real-world outcomes for lower-risk MDS patients who are transfusion-dependent and being treated with Luspatercept.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: SARAH L.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 58 years
+- Sex: Female
+- Place of Residency: [To be inferred or randomized, e.g., United States]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Esophageal / Gastroesophageal Junction (GEJ) Cancer.
+- Post-Surgical Status: Underwent surgical resection after neoadjuvant chemoradiotherapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Pathological Response: Pathology report from the resected tumor showed residual disease, indicating a less than complete response to neoadjuvant therapy.
+- Performance Status: ECOG 1, recovering from surgery.
+
+4. LABORATORY RESULTS
+- Histology: Adenocarcinoma of the GEJ.
+- Staging: Clinical stage prior to neoadjuvant therapy was T3 N1 M0.
+
+5. TREATMENT HISTORY
+- Neoadjuvant Therapy: Received standard chemoradiotherapy.
+- Adjuvant Therapy: Due to the residual disease found at surgery, she is a candidate for adjuvant Nivolumab.
+- Rationale: Her clinical history meets the criteria for the retrospective study NCT06499298, which evaluates the outcomes of patients who received adjuvant Nivolumab in this setting.

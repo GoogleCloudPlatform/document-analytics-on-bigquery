@@ -1,0 +1,24 @@
+PATIENT PROFILE: CHLOE J.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 35 years
+- Sex: Female
+- Place of Residency: [To be inferred or randomized, e.g., United States or Europe]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Ulcerative Colitis (UC).
+- Disease Activity: Moderate, with a Mayo score of 7.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Experiences frequent diarrhea, abdominal cramping, and rectal bleeding.
+- Endoscopy Findings: Colonoscopy shows inflammation and ulceration in the rectum and sigmoid colon.
+- Quality of Life: Her symptoms significantly impact her daily life and work.
+
+4. LABORATORY RESULTS
+- Inflammatory Markers: Elevated fecal calprotectin and C-reactive protein (CRP).
+- Anemia: Mild anemia due to chronic blood loss.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has been treated with oral and rectal mesalamine (a 5-ASA agent) with an inadequate clinical response.
+- Current Plan: Starting treatment with Ozanimod (Zeposia), an oral S1P receptor modulator.
+- Rationale: A patient with moderately active UC who has failed conventional therapy and is starting Ozanimod is a perfect fit for study NCT05382715, which assesses the real-world utilization, effectiveness, and quality of life outcomes of this therapy.

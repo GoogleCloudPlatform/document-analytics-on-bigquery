@@ -1,0 +1,23 @@
+PATIENT PROFILE: FATIMA H.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 31 years
+- Sex: Female
+- Place of Residency: Dubai, United Arab Emirates
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent β-Thalassemia.
+- Disease Complications: Iron overload affecting the liver and heart.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Anemia Symptoms: Chronic fatigue, pallor, and reduced exercise tolerance.
+- Transfusion Requirement: Requires packed red blood cell transfusions every 3 weeks.
+
+4. LABORATORY RESULTS
+- Hemoglobin: Pre-transfusion hemoglobin is typically 7.0-8.0 g/dL.
+- Iron Overload: Serum ferritin levels are significantly elevated.
+
+5. TREATMENT HISTORY
+- Standard Care: Has been on a program of regular blood transfusions and iron chelation therapy.
+- New Therapy: Recently initiated Luspatercept to improve erythropoiesis and reduce the need for transfusions.
+- Rationale: An adult with β-thalassemia in the Middle East starting Luspatercept makes her eligible for the real-world evidence study NCT07215975, which is assessing outcomes in this region.

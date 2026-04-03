@@ -1,0 +1,24 @@
+PATIENT PROFILE: ELENA M.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 62 years
+- Sex: Female
+- Place of Residency: [To be inferred or randomized, e.g., United States or Europe]
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Symptoms: Persistent exertional dyspnea (shortness of breath on effort).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- LVOT Gradient: Post-exercise LVOT gradient > 50 mmHg.
+- Heart Failure Class: NYHA Class II.
+- Performance Status: Limitation of strenuous physical activity.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirms diagnosis of oHCM with dynamic obstruction.
+- EKG: Shows left ventricular hypertrophy.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has been treated with beta-blockers without adequate symptom relief.
+- Current Plan: Starting treatment with Mavacamten (Camzyos) to reduce the LVOT gradient and improve symptoms.
+- Rationale: This patient is a typical adult with confirmed symptomatic oHCM who is starting Mavacamten, making her suitable for an observational study like NCT07168655 that tracks real-world use of the drug.

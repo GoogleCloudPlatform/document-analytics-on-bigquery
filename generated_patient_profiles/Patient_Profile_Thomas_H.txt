@@ -1,0 +1,26 @@
+PATIENT PROFILE: THOMAS H.
+
+1. DEMOGRAPHIC INFORMATION
+- Age: 59 years
+- Sex: Male
+- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Smoking History: History of heavy tobacco and alcohol use.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Recurrent Squamous Cell Carcinoma of the Head and Neck (SCCHN).
+- Disease Progression: Disease progression during or after platinum-based chemotherapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Localized pain and difficulty swallowing due to tumor recurrence.
+- Performance Status: ECOG 1 (Ambulatory and able to perform light work).
+- Previous Treatment Toxicity: Peripheral neuropathy from prior platinum therapy.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed recurrent SCCHN.
+- PD-L1 Status: Assessed.
+- Blood Work: Routine blood work within acceptable limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Received standard first-line platinum-based chemotherapy (e.g., cisplatin or carboplatin with 5-fluorouracil) but experienced disease progression.
+- Current Plan: Starting Nivolumab monotherapy, an anti-PD-1 immune checkpoint inhibitor.
+- Rationale: This patient meets the criteria for platinum-refractory recurrent SCCHN, making him eligible for the NCT04050761 study, which evaluates Nivolumab in this patient population.
