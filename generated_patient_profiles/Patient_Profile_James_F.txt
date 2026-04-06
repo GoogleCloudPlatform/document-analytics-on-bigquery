@@ -1,16 +1,18 @@
 PATIENT PROFILE: JAMES F.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JAMES F.
 - Age: 63 years
 - Sex: Male
 - Place of Residency: Toronto, Canada
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Biomarker: PD-L1 < 1%.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Cough and dyspnea.
+- Symptoms: Pericardial effusion, tumor nodules, pleural effusion.
 - Performance Status: ECOG 1.
 
 4. LABORATORY RESULTS

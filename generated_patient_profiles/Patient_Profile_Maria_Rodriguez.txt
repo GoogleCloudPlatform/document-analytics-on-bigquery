@@ -1,6 +1,7 @@
 PATIENT PROFILE: MARIA RODRIGUEZ
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARIA RODRIGUEZ
 - Age: 42 years
 - Sex: Female
 - Place of Residency: United States
@@ -9,11 +10,12 @@ PATIENT PROFILE: MARIA RODRIGUEZ
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Schizophrenia
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: 15 years prior
 - Disease Status: Confirmed diagnosis.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but indicative of schizophrenia (e.g., hallucinations, delusions, disorganized thought, negative symptoms).
+- Symptoms: Disorganized thinking, retreat from reality, hallucinations.
 - Performance Status: Assumed capable of participating in treatment and providing informed consent.
 - Other: No recent history of participating in interventional studies.
 

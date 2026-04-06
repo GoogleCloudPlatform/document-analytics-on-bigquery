@@ -1,17 +1,21 @@
+PATIENT PROFILE: SEVERUS SNAPE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Severus Snape
 - Age: 55 years
 - Sex: Male
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Professor
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Eosinophilic Asthma.
+- Primary Disorder: Severe Eosinophilic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Cardiovascular risk factors (Hyperlipidemia).
 - Increased risk for MACE monitoring.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Frequent night-time awakenings due to asthma symptoms.
 - Wheezing and exertional dyspnea despite high-dose ICS.
 - Cardiovascular: Clinically stable, monitored for palpitations.

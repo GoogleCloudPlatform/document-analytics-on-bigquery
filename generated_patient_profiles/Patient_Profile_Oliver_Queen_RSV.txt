@@ -1,6 +1,7 @@
 PATIENT PROFILE: OLIVER QUEEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: OLIVER QUEEN
 - Age: 5 months
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: OLIVER QUEEN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High risk for severe RSV infection.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Gestational History: Born at 32 weeks gestation.
 - Comorbidities: Chronic lung disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Currently stable.
+- Symptoms: Decrease in appetite, fever.
 - Performance Status: Dependent on caregivers.
 - Physical Status: At high risk for respiratory complications.
 

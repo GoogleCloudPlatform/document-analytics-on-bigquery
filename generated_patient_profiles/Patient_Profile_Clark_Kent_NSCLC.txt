@@ -1,6 +1,7 @@
 PATIENT PROFILE: CLARK KENT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CLARK KENT
 - Age: 58 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: CLARK KENT
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Stage IV disease.
 - PD-L1 Expression: 0%.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Dyspnea and systemic fatigue.
+- Symptoms: Pleural nodules, pericardial effusion.
 - Performance Status: ECOG 1.
 - Physical Status: Fit for combination chemotherapy/immunotherapy.
 

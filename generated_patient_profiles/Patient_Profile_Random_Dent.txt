@@ -1,18 +1,19 @@
 PATIENT PROFILE: RANDOM DENT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: RANDOM DENT
 - Age: 48 years
 - Sex: Male
 - Place of Residency: France
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC)
-- Secondary Condition: None documented
 - Other Relevant History: High-risk post-surgical MIUC patient receiving adjuvant immunotherapy in a routine care observational study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Pathology shows pT3 disease with high risk of recurrence; starting adjuvant Nivolumab.
+- Symptoms: Blood in urine, painful urination, frequent urination, back pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Muscle Invasive Urothelial Carcinoma (MIUC).
 

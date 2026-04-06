@@ -1,6 +1,7 @@
 PATIENT PROFILE: HENRY FORD
 
 1. DEMOGRAPHIC INFORMATION
+- Name: HENRY FORD
 - Age: 65 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: HENRY FORD
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Unresectable Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Stage: Stage III (Locally advanced).
 - Molecular Markers: High tumor mutational burden (TMB).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Large, palpable primary skin lesion and regional lymphadenopathy.
+- Symptoms: Mucous membrane lesion, skin lesion.
 - Performance Status: ECOG 1.
 - Physical Status: Candidate for neoadjuvant therapy prior to planned surgery.
 

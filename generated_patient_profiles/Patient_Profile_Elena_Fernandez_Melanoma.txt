@@ -1,6 +1,7 @@
 PATIENT PROFILE: ELENA FERNANDEZ
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELENA FERNANDEZ
 - Age: 52 years
 - Sex: Female
 - Place of Residency: Spain
@@ -8,11 +9,12 @@ PATIENT PROFILE: ELENA FERNANDEZ
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Unresectable Stage III Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Molecular Marker: Confirmed BRAF V600E mutation.
 - Disease Status: Locally advanced resectable disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Palpable skin lesion and localized discomfort.
+- Symptoms: Skin lesion, eye lesion, mucous membrane lesion.
 - Performance Status: ECOG 0.
 - Physical Status: Scheduled for neoadjuvant therapy.
 

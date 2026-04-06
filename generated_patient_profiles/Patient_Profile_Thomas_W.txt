@@ -1,16 +1,18 @@
 PATIENT PROFILE: THOMAS W.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: THOMAS W.
 - Age: 50 years
 - Sex: Male
 - Place of Residency: Hamburg, Germany
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Plaque Psoriasis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Severity: Moderate-to-severe, with a PASI score of 15.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Itchy, red plaques on trunk and limbs.
+- Symptoms: Erythematous skin, skin lesions, scaling patches, dry skin.
 - Quality of Life: Significantly impacted.
 
 4. LABORATORY RESULTS

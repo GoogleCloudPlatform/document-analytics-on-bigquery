@@ -1,18 +1,19 @@
 PATIENT PROFILE: TOM HARDY
 
 1. DEMOGRAPHIC INFORMATION
+- Name: TOM HARDY
 - Age: 44 years
 - Sex: Male
 - Place of Residency: and fainting during heavy training sessions
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic Obstructive HCM
-- Secondary Condition: None documented
 - Other Relevant History: Symptomatic oHCM patient needing targeted therapy to manage left ventricular obstruction.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LVOT gradient 58 mmHg; Echo shows septal hypertrophy; initiating Mavacamten. NYHA Functional Class II or III.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Symptomatic Obstructive HCM.
 

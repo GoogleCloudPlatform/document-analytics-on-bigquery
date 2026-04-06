@@ -1,18 +1,19 @@
 PATIENT PROFILE: FORD PREFECT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FORD PREFECT
 - Age: 69 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Berlin, Germany
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
-- Secondary Condition: None documented
 - Other Relevant History: Transfusion-dependent MDS patient qualifying for Luspatercept to achieve transfusion independence.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: IPSS-R score is 'Low'; serum erythropoietin > 300 U/L; non-responsive to initial ESA therapy.
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Lower-Risk Myelodysplastic Syndromes (MDS).
 

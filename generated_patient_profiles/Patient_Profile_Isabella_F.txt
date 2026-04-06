@@ -1,16 +1,18 @@
 PATIENT PROFILE: ISABELLA F.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ISABELLA F.
 - Age: 34 years
 - Sex: Female
 - Place of Residency: Rome, Italy
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Ulcerative Colitis (UC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Treatment History: Inadequate response to thiopurines.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Frequent bloody diarrhea and urgency.
+- Symptoms: Lesion on the skin, inflammatory lesion.
 - Mayo Score: Elevated.
 
 4. LABORATORY RESULTS

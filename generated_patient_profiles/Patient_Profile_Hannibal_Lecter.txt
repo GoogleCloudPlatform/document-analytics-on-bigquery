@@ -1,26 +1,29 @@
+PATIENT PROFILE: HANNIBAL LECTER
+
 1. DEMOGRAPHIC INFORMATION
-Name: Hannibal Lecter
-Age: 65
-Gender: Male
-Ethnicity: Not specified
-Performance Status: Not specified
+- Name: Hannibal Lecter
+- Age: 65
+- Sex: Male
+- Place of Residency: Toronto, Canada
+- Ethnicity: Not specified
+- Performance Status: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Acute Myeloid Leukemia (AML) with Moderate Hepatic Impairment
-History: Diagnosed with AML according to WHO 2016 classification. No history of inflammatory bowel disease, celiac disease, or major gastrointestinal surgery (gastrectomy, gastric bypass).
-Comorbidities: Moderate hepatic dysfunction (Child-Pugh B). Stable renal function without dialysis for at least 2 months.
+- Primary Disorder: Acute Myeloid Leukemia (AML) with Moderate Hepatic Impairment
+- Other Relevant History: Diagnosed with AML according to WHO 2016 classification. No history of inflammatory bowel disease, celiac disease, or major gastrointestinal surgery (gastrectomy, gastric bypass).
+- Comorbidities: Moderate hepatic dysfunction (Child-Pugh B). Stable renal function without dialysis for at least 2 months.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Mild icterus and abdominal discomfort due to hepatic impairment; fatigue associated with AML.
-Physical Status: Life expectancy estimated at ≥ 3 months. No persistent non-hematologic toxicities from prior therapies (all recovered to < Grade 2). No unstable neurologic, cardiac, or respiratory conditions.
+- Symptoms: Uncontrolled proliferation.
+- Physical Status: Life expectancy estimated at ≥ 3 months. No persistent non-hematologic toxicities from prior therapies (all recovered to < Grade 2). No unstable neurologic, cardiac, or respiratory conditions.
 
 4. LABORATORY RESULTS
-Liver Function: Moderate hepatic impairment (Child-Pugh Score: 8).
-Renal Function: Stable; serum creatinine within acceptable limits for a non-dialysis patient.
-Hematology: Profile consistent with AML.
+- Liver Function: Moderate hepatic impairment (Child-Pugh Score: 8).
+- Renal Function: Stable; serum creatinine within acceptable limits for a non-dialysis patient.
+- Hematology: Profile consistent with AML.
 
 5. TREATMENT HISTORY
-Prior Therapies:
+- Prior Therapies:
 - Induction chemotherapy for AML completed more than 5 weeks ago.
 - No radiotherapy within the last 2 weeks.
-Treatment Plan: Participate in a Phase 1 study to evaluate the pharmacokinetics, safety, and tolerability of CC-486 (Onureg) in the context of moderate hepatic impairment.
+- Treatment Plan: Participate in a Phase 1 study to evaluate the pharmacokinetics, safety, and tolerability of CC-486 (Onureg) in the context of moderate hepatic impairment.

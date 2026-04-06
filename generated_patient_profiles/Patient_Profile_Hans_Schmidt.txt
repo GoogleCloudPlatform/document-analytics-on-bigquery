@@ -1,18 +1,19 @@
 PATIENT PROFILE: HANS SCHMIDT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: HANS SCHMIDT
 - Age: 38 years
 - Sex: Male
 - Place of Residency: Germany
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
-- Secondary Condition: None documented
 - Other Relevant History: Participant in the German real-world study investigating the quality of life and effectiveness of Ozanimod.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: MRI shows multiple T2 lesions; seeking a high-efficacy oral disease-modifying therapy.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Relapsing-Remitting Multiple Sclerosis (RRMS).
 

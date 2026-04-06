@@ -1,6 +1,7 @@
 PATIENT PROFILE: FIONA GALLAGHER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FIONA GALLAGHER
 - Age: 26 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: FIONA GALLAGHER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Atopic Dermatitis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Severity: Severe eczema flares.
 - Comorbidities: Asthma.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Intense pruritus, erythema, and skin thickening.
+- Symptoms: Inflammation of the skin.
 - Performance Status: Stable.
 - Physical Status: Managing severe flares during pregnancy.
 

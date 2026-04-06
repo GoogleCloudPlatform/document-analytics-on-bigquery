@@ -1,6 +1,7 @@
 PATIENT PROFILE: PETER DAVIES
 
 1. DEMOGRAPHIC INFORMATION
+- Name: PETER DAVIES
 - Age: 38 years
 - Sex: Male
 - Place of Residency: Not specified.
@@ -8,11 +9,12 @@ PATIENT PROFILE: PETER DAVIES
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: 8 years prior
 - Disease Status: Active, with recurrent relapses.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but history of recurrent relapses. EDSS score of 3.0.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Performance Status: Moderate disability.
 
 4. LABORATORY RESULTS

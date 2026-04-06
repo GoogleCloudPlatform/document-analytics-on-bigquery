@@ -1,36 +1,40 @@
+PATIENT PROFILE: TITANIA QUEEN
+
 1. DEMOGRAPHIC INFORMATION
-Name: Titania Queen
-Age: 55
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Philanthropist
+- Name: Titania Queen
+- Age: 55
+- Sex: Female
+- Place of Residency: London, UK
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Philanthropist
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic Ovarian Cancer.
-Status: Histologically confirmed ovarian cancer, advanced and metastatic. Has not responded to conventional therapy (carboplatin/paclitaxel).
-Comorbidities: None. Recovered from toxicities of prior therapy (Grade <= 1). No history of significant cardiovascular disease or ILD.
+- Primary Disorder: Metastatic Ovarian Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Histologically confirmed ovarian cancer, advanced and metastatic. Has not responded to conventional therapy (carboplatin/paclitaxel).
+- Comorbidities: None. Recovered from toxicities of prior therapy (Grade <= 1). No history of significant cardiovascular disease or ILD.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Persistent abdominal bloating, mild pelvic pain.
-Physical Examination: No clinically active CNS metastases. No active infection. Life expectancy > 3 months. Stable vital signs.
-Measurable Disease: Omental mass 3.2 cm, pelvic lymph node 1.5 cm (RECIST 1.1).
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1.
+- Physical Examination: No clinically active CNS metastases. No active infection. Life expectancy > 3 months. Stable vital signs.
+- Measurable Disease: Omental mass 3.2 cm, pelvic lymph node 1.5 cm (RECIST 1.1).
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 11.2 g/dL
 - ANC: 3.5 x 10^9/L
 - Platelets: 195 x 10^9/L
-Chemistry:
+- Chemistry:
 - ALT: 28 U/L
 - AST: 25 U/L
 - Total Bilirubin: 0.8 mg/dL
 - Creatinine: 0.9 mg/dL
 - CA-125: 150 U/mL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
-Pregnancy Test: Negative.
+- Pregnancy Test: Negative.
 
 5. TREATMENT HISTORY
-Plan: Initiate combination therapy with MK-6837 and Pembrolizumab as part of a Phase 1 study (NCT06460961). Administer MK-6837 at the assigned dose and Pembrolizumab 200 mg IV every 3 weeks. Monitor for dose-limiting toxicities (DLTs), PK parameters, and antitumor response via RECIST 1.1. Follow contraception requirements for 120 days after the last dose.
+- Plan: Initiate combination therapy with MK-6837 and Pembrolizumab as part of a Phase 1 study (NCT06460961). Administer MK-6837 at the assigned dose and Pembrolizumab 200 mg IV every 3 weeks. Monitor for dose-limiting toxicities (DLTs), PK parameters, and antitumor response via RECIST 1.1. Follow contraception requirements for 120 days after the last dose.

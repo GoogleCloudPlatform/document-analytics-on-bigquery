@@ -1,16 +1,20 @@
+PATIENT PROFILE: ARTHUR HASTINGS
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Arthur Hastings
 - Age: 58 years
 - Sex: Male
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Retired (Former military)
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Metastatic Non-Small Cell Lung Cancer (NSCLC), adenocarcinoma histology.
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC), adenocarcinoma histology.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - PD-L1 negative status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pleural nodules, pericardial effusion, distant metastasis.
 - Chronic cough and occasional hemoptysis.
 - Generalized fatigue and unintentional weight loss (5 kg in 3 months).
 - ECOG Performance Status: 1.

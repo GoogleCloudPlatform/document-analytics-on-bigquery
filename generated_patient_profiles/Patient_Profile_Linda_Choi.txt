@@ -1,16 +1,20 @@
+PATIENT PROFILE: LINDA CHOI
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Linda Choi
 - Age: 58 years
 - Sex: Female
+- Place of Residency: Tokyo, Japan
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- HER2-Positive Non-Small Cell Lung Cancer (NSCLC).
+- Primary Disorder: HER2-Positive Non-Small Cell Lung Cancer (NSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Metastatic non-squamous histology.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Coughing up blood, persistent cough, chest pain, shortness of breath.
 - Persistent dry cough.
 - Exertional shortness of breath.
 - ECOG Performance Status: 1.

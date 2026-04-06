@@ -1,18 +1,19 @@
 PATIENT PROFILE: FLORENCE PUGH
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FLORENCE PUGH
 - Age: 28 years
 - Sex: Female
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe SLE
-- Secondary Condition: None documented
 - Other Relevant History: Adult SLE patient initiating biologic therapy for disease control in a routine clinical practice.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: SLEDAI score of 13; failed to respond to mycophenolate mofetil; initiating Anifrolumab. SLEDAI-2K score of 12.
+- Symptoms: Fatigue, rash, fever, joint pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Moderate-to-Severe SLE.
 

@@ -1,6 +1,7 @@
 PATIENT PROFILE: OLIVER TWIST
 
 1. DEMOGRAPHIC INFORMATION
+- Name: OLIVER TWIST
 - Age: 7 months
 - Sex: Male
 - Place of Residency: a rural setting
@@ -8,11 +9,11 @@ PATIENT PROFILE: OLIVER TWIST
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk of Severe RSV
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: Meets the clinical criteria for high-risk RSV prophylaxis due to preterm birth and chronic lung disease.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: History of bronchopulmonary dysplasia; requires seasonal prophylaxis with Palivizumab. Preterm infant at high risk for severe RSV.
+- Symptoms: Runny nose, wheezing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: OLIVER TWIST
 - Clinical Status: Stable but requires seasonal passive immunization.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: History of bronchopulmonary dysplasia; requires seasonal prophylaxis with Palivizumab.

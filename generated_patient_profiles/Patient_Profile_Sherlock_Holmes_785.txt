@@ -1,6 +1,7 @@
 PATIENT PROFILE: SHERLOCK HOLMES
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SHERLOCK HOLMES
 - Age: 40 years
 - Sex: Male
 - Place of Residency: UK
@@ -8,11 +9,11 @@ PATIENT PROFILE: SHERLOCK HOLMES
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Asthma medical chart review
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: Retrospective data collection for real-world severe asthma treatment patterns.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Clinical records being reviewed for Tezepelumab effectiveness. Severe uncontrolled eosinophilic asthma.
+- Symptoms: Difficulty breathing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: SHERLOCK HOLMES
 - Clinical Markers: Blood eosinophil count > 300 cells/µL. Documented history of frequent asthma flares.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: Clinical records being reviewed for Tezepelumab effectiveness.

@@ -1,18 +1,19 @@
 PATIENT PROFILE: JAMES NOVAK
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JAMES NOVAK
 - Age: 50 years
 - Sex: Male
 - Place of Residency: UK
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Asthma
-- Secondary Condition: None documented
 - Other Relevant History: Adult with severe asthma treated with Tezepelumab in the UK.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating Tezepelumab in routine care; records being reviewed retrospectively.
+- Symptoms: Difficulty breathing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Severe Asthma.
 

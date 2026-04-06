@@ -1,6 +1,7 @@
 PATIENT PROFILE: THOMAS SCHMIDT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: THOMAS SCHMIDT
 - Age: 39 years
 - Sex: Male
 - Place of Residency: Austria
@@ -8,11 +9,12 @@ PATIENT PROFILE: THOMAS SCHMIDT
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Status: Recently diagnosed with active disease.
 - Imaging: Multiple MRI-detected lesions.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Episodic sensory loss and motor weakness.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Performance Status: EDSS score recorded.
 - Physical Status: Stable for oral DMT initiation.
 

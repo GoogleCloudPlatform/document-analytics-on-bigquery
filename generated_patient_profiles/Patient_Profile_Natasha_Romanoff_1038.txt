@@ -1,27 +1,30 @@
+PATIENT PROFILE: NATASHA ROMANOFF
+
 1. DEMOGRAPHIC INFORMATION
-Name: Natasha Romanoff
-Age: 30
-Sex: Female
-Residency: Dubai, UAE
-Occupation: Logistics Coordinator
+- Name: Natasha Romanoff
+- Age: 30
+- Sex: Female
+- Place of Residency: Dubai, UAE
+- Occupation: Logistics Coordinator
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Diagnosis: Transfusion-Dependent Beta-Thalassemia (TDT)
-Duration: Lifetime (Diagnosed at birth)
-Comorbidities: Iron Overload
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia (TDT)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Duration: Lifetime (Diagnosed at birth)
+- Comorbidities: Iron Overload
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Chronic fatigue, pallor, mild jaundice.
-Physical Status: Requires regular red blood cell transfusions.
-Weight: 58 kg.
+- Symptoms: Anemia.
+- Physical Status: Requires regular red blood cell transfusions.
+- Weight: 58 kg.
 
 4. LABORATORY RESULTS
-Pre-transfusion Hemoglobin: 6.8 g/dL
-Serum Ferritin: 2100 ng/mL
-Liver Iron Concentration: 8 mg/g dry weight
-Liver Function Tests: Mildly elevated (ALT 55 U/L)
-Renal Function: Normal.
+- Pre-transfusion Hemoglobin: 6.8 g/dL
+- Serum Ferritin: 2100 ng/mL
+- Liver Iron Concentration: 8 mg/g dry weight
+- Liver Function Tests: Mildly elevated (ALT 55 U/L)
+- Renal Function: Normal.
 
 5. TREATMENT HISTORY
-Previous Treatments: Regular RBC transfusions every 3 weeks. Chronic iron chelation therapy with Deferasirox.
-Plan: Initiate and continue treatment with Luspatercept (Reblozyl) to reduce transfusion burden.
+- Previous Treatments: Regular RBC transfusions every 3 weeks. Chronic iron chelation therapy with Deferasirox.
+- Plan: Initiate and continue treatment with Luspatercept (Reblozyl) to reduce transfusion burden.

@@ -1,18 +1,19 @@
 PATIENT PROFILE: SAMWISE GAMGEE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SAMWISE GAMGEE
 - Age: 52 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+- Place of Residency: Toronto, Canada
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: MIUC Nivolumab Study
-- Secondary Condition: [Inferred, e.g., None or Hypertension]
 - Other Relevant History: Routine post-surgical treatment for invasive bladder cancer with Nivolumab.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: High-risk margins; initiating adjuvant IO. Post-radical cystectomy for pT3N0 bladder cancer.
+- Symptoms: Back pain, frequent urination.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: SAMWISE GAMGEE
 - Clinical Markers: PD-L1 positive (CPS >= 1). No evidence of distant metastasis on imaging.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard of Care as per context]
+- Prior Therapy: Standard of Care as per context
 - Current Plan: High-risk margins; initiating adjuvant IO.

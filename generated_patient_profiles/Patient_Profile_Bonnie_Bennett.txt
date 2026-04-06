@@ -1,18 +1,19 @@
 PATIENT PROFILE: BONNIE BENNETT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BONNIE BENNETT
 - Age: 29 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Toronto, Canada
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Hypertrophic Cardiomyopathy in Pregnancy
-- Secondary Condition: None documented
 - Other Relevant History: Postpartum woman with HCM participating in the Mavacamten surveillance program for breastfeeding safety.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Breastfeeding infant; requires monitoring for any potential medication transfer during lactation.
+- Symptoms: Aortic stenosis, right ventricular hypertrophy, reduced left ventricular volume, cardiac muscle disease.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Hypertrophic Cardiomyopathy in Pregnancy.
 

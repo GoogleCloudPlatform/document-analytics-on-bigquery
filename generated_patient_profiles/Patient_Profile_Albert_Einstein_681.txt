@@ -1,15 +1,19 @@
+PATIENT PROFILE: ALBERT EINSTEIN
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Albert Einstein
 - Age: 36 years
 - Sex: Male
+- Place of Residency: Germany
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Germany
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - History of two clinical relapses within the last 12 months.
 - Occasional paresthesia and visual blurring during relapses.
 - EDSS score: 2.0.

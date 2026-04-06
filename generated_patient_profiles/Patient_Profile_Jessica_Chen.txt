@@ -1,6 +1,7 @@
 PATIENT PROFILE: JESSICA CHEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JESSICA CHEN
 - Age: 33 years
 - Sex: Female
 - Place of Residency: Not specified.
@@ -8,11 +9,12 @@ PATIENT PROFILE: JESSICA CHEN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: 5 years prior
 - Disease Status: Active, with several relapses.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but history of several relapses. EDSS score of 3.0.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Performance Status: Moderate disability.
 
 4. LABORATORY RESULTS

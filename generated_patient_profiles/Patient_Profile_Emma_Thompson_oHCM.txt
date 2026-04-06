@@ -1,6 +1,7 @@
 PATIENT PROFILE: EMMA THOMPSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: EMMA THOMPSON
 - Age: 33 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,11 @@ PATIENT PROFILE: EMMA THOMPSON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Documented oHCM.
 - Risk Profile: Requires fetal safety monitoring.
-- History: Documented oHCM.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exertional dyspnea; stable at baseline.
+- Symptoms: Left ventricular hypertrophy, hypertension.
 - Performance Status: NYHA Class II.
 - Physical Status: Exposed to Mavacamten prior to pregnancy confirmation.
 

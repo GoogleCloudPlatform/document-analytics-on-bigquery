@@ -1,16 +1,18 @@
 PATIENT PROFILE: DAVID H.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: DAVID H.
 - Age: 38 years
 - Sex: Male
 - Place of Residency: Denver, CO, USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Acute Migraine.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Frequency: Frequent migraine days.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Severe headaches.
+- Symptoms: Symptoms.
 - Impact: Affects daily life.
 
 4. LABORATORY RESULTS

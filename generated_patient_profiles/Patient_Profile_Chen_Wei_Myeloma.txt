@@ -1,6 +1,7 @@
 PATIENT PROFILE: CHEN WEI
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CHEN WEI
 - Age: 64 years
 - Sex: Male
 - Place of Residency: Taiwan
@@ -8,11 +9,12 @@ PATIENT PROFILE: CHEN WEI
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsed Multiple Myeloma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Relapsed after two prior lines of therapy.
 - Comorbidities: None significant.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Bone pain and fatigue.
+- Symptoms: Bone pain, hypercalcemia, skeletal destruction, anemia.
 - Performance Status: ECOG 1.
 - Physical Status: Fit for combination chemotherapy.
 

@@ -1,18 +1,19 @@
 PATIENT PROFILE: ARTHUR PENDRAGON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR PENDRAGON
 - Age: 52 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
-- Secondary Condition: None documented
 - Other Relevant History: Adult patient with gMG initiating Ravulizumab to monitor real-world functional status and safety.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: MG-ADL score of 10; previously on pyridostigmine and low-dose steroids with suboptimal response.
+- Symptoms: Ocular muscle weakness, diplopia, bulbar muscle weakness.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
 

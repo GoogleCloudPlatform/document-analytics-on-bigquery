@@ -1,18 +1,19 @@
 PATIENT PROFILE: EMMA STONE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: EMMA STONE
 - Age: 34 years
 - Sex: Female
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
-- Secondary Condition: None documented
 - Other Relevant History: Transitioning to a longer-acting C5 inhibitor within a real-world treatment outcome study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LDH is 2.8x normal; starting Ravulizumab for a less frequent dosing schedule and better clinical stability.
+- Symptoms: Fatigue, shortness of breath, abdominal pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
 

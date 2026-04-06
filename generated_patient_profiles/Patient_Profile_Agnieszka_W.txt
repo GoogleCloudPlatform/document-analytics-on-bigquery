@@ -1,6 +1,7 @@
 PATIENT PROFILE: AGNIESZKA W.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: AGNIESZKA W.
 - Age: 27 years
 - Sex: Female
 - Place of Residency: Krakow, Poland
@@ -8,10 +9,11 @@ PATIENT PROFILE: AGNIESZKA W.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Activity: High, with evidence of ongoing intravascular hemolysis.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Experiences fatigue, dysphagia, and abdominal pain. Has a history of a deep vein thrombosis.
+- Symptoms: Dark-colored urine (hemoglobinuria), abdominal pain, shortness of breath, fatigue.
 - Performance Status: Generally well, but symptoms can be debilitating during periods of increased hemolysis.
 - Transfusion History: Has required occasional blood transfusions.
 

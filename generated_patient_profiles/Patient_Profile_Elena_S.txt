@@ -1,16 +1,18 @@
 PATIENT PROFILE: ELENA S.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELENA S.
 - Age: 33 years
 - Sex: Female
 - Place of Residency: Moscow, Russia
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Severity: Moderate-to-severe.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Active skin and joint disease.
+- Symptoms: Kidney problems, heart problems.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

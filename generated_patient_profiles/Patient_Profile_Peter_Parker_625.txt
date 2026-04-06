@@ -1,15 +1,19 @@
+PATIENT PROFILE: PETER PARKER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Peter Parker
 - Age: 28 years
 - Sex: Male
+- Place of Residency: USA
 - Race/Ethnicity: Not specified
 - Occupation: Photographer
-- Location: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Moderate-to-Severe Ulcerative Colitis (UC).
+- Primary Disorder: Moderate-to-Severe Ulcerative Colitis (UC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Lesion on the skin, lesion on an internal mucous surface.
 - Daily bloody stools (6-8 bowel movements/day).
 - Severe urgency and moderate abdominal cramping.
 - Mayo score: 8.

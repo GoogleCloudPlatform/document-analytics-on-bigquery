@@ -1,16 +1,20 @@
+PATIENT PROFILE: ELEANOR RIGBY
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Eleanor Rigby
 - Age: 75 years
 - Sex: Female
+- Place of Residency: Paris, France
 - Race/Ethnicity: Not specified
 - Occupation: Retired
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- wild-type Transthyretin Amyloid Cardiomyopathy (ATTR-CM).
+- Primary Disorder: wild-type Transthyretin Amyloid Cardiomyopathy (ATTR-CM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Heart failure with preserved ejection fraction (HFpEF).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Shortness of breath on exertion.
 - Fluid retention (peripheral edema).
 - NYHA Class II.

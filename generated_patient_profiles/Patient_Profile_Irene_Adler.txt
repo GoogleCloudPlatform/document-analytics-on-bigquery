@@ -1,16 +1,20 @@
+PATIENT PROFILE: IRENE ADLER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Irene Adler
 - Age: 34 years
 - Sex: Female
+- Place of Residency: Tokyo, Japan
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Chronic Intravascular Hemolysis.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dark-colored urine (hemoglobinuria), fatigue.
 - Significant fatigue and generalized weakness.
 - Occasional abdominal pain and dark-colored urine in the mornings (hemoglobinuria).
 - No history of major thrombotic events.

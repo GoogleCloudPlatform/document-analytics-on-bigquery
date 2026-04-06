@@ -1,17 +1,21 @@
+PATIENT PROFILE: JANE MARPLE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Jane Marple
 - Age: 75 years
 - Sex: Female
+- Place of Residency: St. Mary Mead, UK
 - Race/Ethnicity: Not specified
 - Occupation: Retired
-- Location: St. Mary Mead, UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Post-radical cystectomy status.
 - High risk of recurrence.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Frequent urination, painful urination, blood in urine, back pain.
 - Currently recovering from radical surgical resection.
 - No evidence of distant metastatic disease on baseline staging.
 - ECOG Performance Status: 1.

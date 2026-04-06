@@ -1,18 +1,19 @@
 PATIENT PROFILE: OLIVER QUEEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: OLIVER QUEEN
 - Age: 50 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Place of Residency: London, UK
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: HR+/HER2- Early Breast Cancer
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: High-risk early breast cancer patient initiating adjuvant Ribociclib combination therapy.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting adjuvant Ribociclib plus Letrozole as part of routine care.
+- Symptoms: Breast pain, nipple discharge, skin dimpling, breast lump.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for HR+/HER2- Early Breast Cancer.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: OLIVER QUEEN
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Starting adjuvant Ribociclib plus Letrozole as part of routine care.

@@ -1,18 +1,19 @@
 PATIENT PROFILE: MATTHEW MACFADYEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MATTHEW MACFADYEN
 - Age: 50 years
 - Sex: Male
 - Place of Residency: Europe
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic oHCM (Registry)
-- Secondary Condition: None documented
 - Other Relevant History: Enrollment in the real-world longitudinal outcomes registry for Mavacamten.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LVOT gradient 65 mmHg; starting Mavacamten; participating in the longitudinal outcomes registry. NYHA Functional Class II or III.
+- Symptoms: Chest pain, fainting (syncope), palpitations.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Symptomatic oHCM (Registry).
 

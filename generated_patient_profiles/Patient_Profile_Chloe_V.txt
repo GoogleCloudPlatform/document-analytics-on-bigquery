@@ -1,16 +1,18 @@
 PATIENT PROFILE: CHLOE V.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CHLOE V.
 - Age: 35 years
 - Sex: Female
 - Place of Residency: Brussels, Belgium
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Crohn's Disease.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Treatment History: Has failed therapy with Adalimumab (an anti-TNF biologic).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Active symptoms including abdominal pain and diarrhea.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Endoscopy: Shows active inflammation in the colon.
 
 4. LABORATORY RESULTS

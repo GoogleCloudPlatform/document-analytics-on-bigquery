@@ -1,6 +1,7 @@
 PATIENT PROFILE: LINDA MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LINDA MILLER
 - Age: 55 years
 - Sex: Female
 - Place of Residency: Not specified.
@@ -8,11 +9,12 @@ PATIENT PROFILE: LINDA MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Ulcerative Colitis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: 10 years prior
 - Disease Status: Currently well-controlled on ozanimod therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but historically indicative of moderate-to-severe UC. Currently well-controlled implies reduced or absent symptoms.
+- Symptoms: Lesion on an internal mucous surface, suppurating lesion, lesion on the skin.
 - Performance Status: Assumed good, enabling daily activities.
 
 4. LABORATORY RESULTS

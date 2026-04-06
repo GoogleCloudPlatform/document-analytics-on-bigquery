@@ -1,38 +1,42 @@
+PATIENT PROFILE: PHILOSTRATE MASTER
+
 1. DEMOGRAPHIC INFORMATION
-Name: Philostrate Master
-Age: 14
-Gender: Male
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Student
+- Name: Philostrate Master
+- Age: 14
+- Sex: Male
+- Place of Residency: Toronto, Canada
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Juvenile Psoriatic Arthritis (JPsA).
-Status: Confirmed diagnosis according to modified ILAR criteria for > 6 months.
-Disease Activity: Active JPsA with 5 active joints (swollen and tender).
-Treatment History: Inadequate response to NSAIDs (naproxen) and DMARDs (methotrexate) for > 2 months. Currently on stable dose of methotrexate 15 mg/m2 weekly.
-Comorbidities: None. No history of inflammatory bowel disease or uveitis. No active infection.
+- Primary Disorder: Juvenile Psoriatic Arthritis (JPsA).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Confirmed diagnosis according to modified ILAR criteria for > 6 months.
+- Disease Activity: Active JPsA with 5 active joints (swollen and tender).
+- Treatment History: Inadequate response to NSAIDs (naproxen) and DMARDs (methotrexate) for > 2 months. Currently on stable dose of methotrexate 15 mg/m2 weekly.
+- Comorbidities: None. No history of inflammatory bowel disease or uveitis. No active infection.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Persistent joint swelling and pain, limited range of motion in knees and wrists. Skin psoriasis on elbows.
-Height: 160 cm
-Weight: 55 kg (Within >= 10 kg range)
-Vital Signs:
+- Symptoms: Inflammation of joints.
+- Height: 160 cm
+- Weight: 55 kg (Within >= 10 kg range)
+- Vital Signs:
 - BP: 110/70 mmHg
 - HR: 76 bpm
-Physical Examination: Swelling and tenderness noted in 5 joints. No systemic JIA features.
+- Physical Examination: Swelling and tenderness noted in 5 joints. No systemic JIA features.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 12.8 g/dL
 - WBC: 6.5 x 10^3/µL
-Chemistry:
+- Chemistry:
 - ALT: 22 U/L
 - AST: 20 U/L
 - Creatinine: 0.7 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
 - QuantiFERON-TB: Negative
 
 5. TREATMENT HISTORY
-Plan: Enroll in a multicenter, open-label study (NCT06751238) to evaluate the pharmacokinetics, safety, and tolerability of intravenous Secukinumab. Receive multiple infusions of Secukinumab as per weight-based dosing. Continue stable methotrexate therapy. Monitor for joint response using MG-ADL or applicable JPsA scales and conduct PK sampling. Undergo long-term safety follow-up for up to 6 years.
+- Plan: Enroll in a multicenter, open-label study (NCT06751238) to evaluate the pharmacokinetics, safety, and tolerability of intravenous Secukinumab. Receive multiple infusions of Secukinumab as per weight-based dosing. Continue stable methotrexate therapy. Monitor for joint response using MG-ADL or applicable JPsA scales and conduct PK sampling. Undergo long-term safety follow-up for up to 6 years.

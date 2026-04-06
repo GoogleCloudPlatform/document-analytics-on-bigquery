@@ -1,6 +1,7 @@
 PATIENT PROFILE: CHOI SEUNG-HYUN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CHOI SEUNG-HYUN
 - Age: 40 years
 - Sex: Male
 - Place of Residency: Seoul, South Korea
@@ -8,11 +9,12 @@ PATIENT PROFILE: CHOI SEUNG-HYUN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: COVID-19 Vaccination (Booster)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Status: Scheduled for booster dose.
 - Comorbidities: None.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Healthy at baseline.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: Fully active.
 - Physical Status: No history of hypersensitivity to vaccine components.
 

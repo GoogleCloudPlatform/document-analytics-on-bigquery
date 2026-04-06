@@ -1,16 +1,20 @@
+PATIENT PROFILE: LI NA
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Li Na
 - Age: 52 years
 - Sex: Female
+- Place of Residency: China
 - Race/Ethnicity: Chinese
 - Occupation: Not specified
-- Location: China
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- ALK-Positive Non-Small Cell Lung Cancer (NSCLC), early-stage.
+- Primary Disorder: ALK-Positive Non-Small Cell Lung Cancer (NSCLC), early-stage.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Post-surgical resection status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest pain, persistent cough, shortness of breath.
 - Currently asymptomatic post-complete surgical resection.
 - ECOG Performance Status: 0.
 - Smoking Status: Never-smoker.

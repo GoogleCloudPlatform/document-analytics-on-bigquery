@@ -1,17 +1,21 @@
+PATIENT PROFILE: SOFIA ROSSI
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Sofia Rossi
 - Age: 38 years
 - Sex: Female
+- Place of Residency: Italy
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Italy
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Metastatic Triple-Negative Breast Cancer (TNBC).
+- Primary Disorder: Metastatic Triple-Negative Breast Cancer (TNBC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Stage IV disease.
 - PD-L1 positive status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Breast lump, nipple discharge.
 - High tumor burden with associated pain.
 - Fatigue and weight loss.
 - ECOG Performance Status: 1.

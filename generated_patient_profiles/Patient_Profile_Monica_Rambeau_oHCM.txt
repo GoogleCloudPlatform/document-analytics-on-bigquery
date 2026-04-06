@@ -1,6 +1,7 @@
 PATIENT PROFILE: MONICA RAMBEAU
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MONICA RAMBEAU
 - Age: 39 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: MONICA RAMBEAU
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Cardiac Anatomy: Left ventricular wall thickness of 20 mm.
 - Disease Status: Symptomatic with palpitations.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exercise intolerance and recurrent palpitations.
+- Symptoms: Reduced left ventricular volume, aortic stenosis.
 - Performance Status: NYHA Class II.
 - Physical Status: Documented high LVOT gradient.
 

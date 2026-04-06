@@ -1,16 +1,20 @@
+PATIENT PROFILE: NEIL ARMSTRONG
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Neil Armstrong
 - Age: 45 years
 - Sex: Male
+- Place of Residency: USA
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - NYHA Class II heart failure symptoms.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hypertension, cardiac muscle disease, reduced left ventricular volume.
 - Exercise-induced chest pain and palpitations.
 - History of exertional syncope.
 - BMI: 25.5 kg/m².

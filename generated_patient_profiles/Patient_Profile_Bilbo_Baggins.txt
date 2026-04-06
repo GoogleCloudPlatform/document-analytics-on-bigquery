@@ -1,18 +1,19 @@
 PATIENT PROFILE: BILBO BAGGINS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BILBO BAGGINS
 - Age: 4 months
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+- Place of Residency: Sydney, Australia
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: RSV Prophylaxis
-- Secondary Condition: [Inferred, e.g., None or Hypertension]
 - Other Relevant History: Preterm birth < 35 weeks gestation qualifying for RSV prevention.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Enrolled for seasonal palivizumab administration. Preterm infant at high risk for severe RSV.
+- Symptoms: Runny nose, sneezing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: BILBO BAGGINS
 - Clinical Status: Stable but requires seasonal passive immunization.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard of Care as per context]
+- Prior Therapy: Standard of Care as per context
 - Current Plan: Enrolled for seasonal palivizumab administration.

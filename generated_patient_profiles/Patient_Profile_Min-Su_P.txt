@@ -1,16 +1,18 @@
 PATIENT PROFILE: MIN-SU P.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MIN-SU P.
 - Age: 69 years
 - Sex: Male
 - Place of Residency: Busan, South Korea
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsed/Refractory Multiple Myeloma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Treatment History: Exposed to IMiD, PI, and anti-CD38.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Bone pain, fatigue.
+- Symptoms: Osteolytic lesions, skeletal destruction, serum monoclonal protein, hypercalcemia.
 - Performance Status: ECOG 2.
 
 4. LABORATORY RESULTS

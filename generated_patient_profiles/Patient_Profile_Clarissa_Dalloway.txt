@@ -1,36 +1,41 @@
+PATIENT PROFILE: CLARISSA DALLOWAY
+
 1. DEMOGRAPHIC INFORMATION
-Name: Clarissa Dalloway
-Age: 72
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Socialite
+- Name: Clarissa Dalloway
+- Age: 72
+- Sex: Female
+- Place of Residency: Paris, France
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Socialite
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic Castration-Resistant Prostate Cancer (mCRPC). (Note: Patient name used for a male-indicated study per user summary).
-Comorbidities: End-Stage Renal Disease (ESRD) on stable outpatient high-flux hemodialysis (3 times weekly for 4 hours per session). Chronic kidney failure for > 1 year. No history of adrenal insufficiency, hepatic impairment, or significant hypotension.
+- Primary Disorder: Metastatic Castration-Resistant Prostate Cancer (mCRPC). (Note: Patient name used for a male-indicated study per user summary).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Comorbidities: End-Stage Renal Disease (ESRD) on stable outpatient high-flux hemodialysis (3 times weekly for 4 hours per session). Chronic kidney failure for > 1 year. No history of adrenal insufficiency, hepatic impairment, or significant hypotension.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Overall Status: Frail but stable on dialysis.
-BMI: 24.5 kg/m2 (Within 18.0 to 42.0 range).
-Smoking Status: Moderate smoker (8 cigarettes per day).
-Cardiac Status: No history of arrhythmia, AV block, or syncopal events. No known family history of inherited arrhythmia syndromes.
-Vascular Access: Well-maintained complication-free arteriovenous fistula in left arm.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Overall Status: Frail but stable on dialysis.
+- BMI: 24.5 kg/m2 (Within 18.0 to 42.0 range).
+- Smoking Status: Moderate smoker (8 cigarettes per day).
+- Cardiac Status: No history of arrhythmia, AV block, or syncopal events. No known family history of inherited arrhythmia syndromes.
+- Vascular Access: Well-maintained complication-free arteriovenous fistula in left arm.
 
 4. LABORATORY RESULTS
-Renal Function:
+- Renal Function:
 - eGFR: < 15 mL/min/1.73m2 (ESRD)
 - Serum Creatinine: 6.5 mg/dL (Pre-dialysis)
-Hematology:
+- Hematology:
 - Hemoglobin: 10.5 g/dL
 - WBC: 5.2 x 10^3/µL
 - Platelets: 180 x 10^3/µL
-Chemistry:
+- Chemistry:
 - ALT: 20 U/L
 - AST: 18 U/L
 - Bilirubin: 0.8 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBsAg/HCV: Negative
 
 5. TREATMENT HISTORY
-Plan: Enroll in a Phase 1 open-label, single-dose PK study (NCT06814132) to evaluate the effect of MK-5684 in participants with ESRD. Administer a single dose of MK-5684. Perform intensive PK sampling before, during, and after hemodialysis session to determine dialysis clearance. Monitor for adverse events and dialysis stability.
+- Plan: Enroll in a Phase 1 open-label, single-dose PK study (NCT06814132) to evaluate the effect of MK-5684 in participants with ESRD. Administer a single dose of MK-5684. Perform intensive PK sampling before, during, and after hemodialysis session to determine dialysis clearance. Monitor for adverse events and dialysis stability.

@@ -1,6 +1,7 @@
 PATIENT PROFILE: HSIEH WEN-TING
 
 1. DEMOGRAPHIC INFORMATION
+- Name: HSIEH WEN-TING
 - Age: 26 years
 - Sex: Female
 - Place of Residency: Taiwan
@@ -8,11 +9,12 @@ PATIENT PROFILE: HSIEH WEN-TING
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Transfusion-Dependent β-Thalassemia Major
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Life-long transfusion requirement.
 - Transfusion Burden: 28 units in the last 24 weeks.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue and symptoms related to iron overload.
+- Symptoms: Anemia.
 - Performance Status: Stable.
 - Physical Status: Requires regular infusions.
 

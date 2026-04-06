@@ -1,6 +1,7 @@
 PATIENT PROFILE: ELLEN RIPLEY
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELLEN RIPLEY
 - Age: 62 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: ELLEN RIPLEY
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Breast Cancer
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Stage: Stage IV.
 - Disease Status: Advanced disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue and localized bone pain.
+- Symptoms: Skin dimpling, breast lump, nipple discharge, breast pain.
 - Performance Status: ECOG 1.
 - Physical Status: Stable.
 

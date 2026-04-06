@@ -1,18 +1,19 @@
 PATIENT PROFILE: ORM MARIUS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ORM MARIUS
 - Age: 27 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Alopecia Areata
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: US adult with severe AA initiating Ritlecitinib in a retrospective real-world utilization study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: SALT score of 100; initiating Ritlecitinib (Litfulo) for hair regrowth. SALT (Severity of Alopecia Tool) score of 95 (consistent with severe AA).
+- Symptoms: Absence of hair.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Severe Alopecia Areata.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: ORM MARIUS
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: SALT score of 100; initiating Ritlecitinib (Litfulo) for hair regrowth.

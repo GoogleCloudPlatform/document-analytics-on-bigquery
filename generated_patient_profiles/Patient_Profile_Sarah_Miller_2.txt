@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH MILLER
 - Age: 58 years
 - Sex: Female
 - Place of Residency: Not specified (assumed US).
@@ -8,11 +9,12 @@ PATIENT PROFILE: SARAH MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: HR+/HER2- Metastatic Breast Cancer (MBC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: April 2019
 - Disease Status: Currently stable on treatment.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, assumed stable on current therapy.
+- Symptoms: Nipple discharge, skin dimpling, breast pain.
 - Performance Status: Assumed good, allowing for ongoing systemic therapy.
 
 4. LABORATORY RESULTS

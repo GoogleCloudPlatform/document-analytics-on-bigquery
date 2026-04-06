@@ -1,6 +1,7 @@
 PATIENT PROFILE: DIEGO RAMIREZ
 
 1. DEMOGRAPHIC INFORMATION
+- Name: DIEGO RAMIREZ
 - Age: 57 years
 - Sex: Male
 - Place of Residency: Mexico
@@ -8,11 +9,12 @@ PATIENT PROFILE: DIEGO RAMIREZ
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Resectable Stage IIIA NSCLC
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Lung adenocarcinoma.
 - Molecular Markers: ALK and EGFR negative.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent cough and chest tightness.
+- Symptoms: Chest pain, coughing up blood, shortness of breath, persistent cough.
 - Performance Status: ECOG 1.
 - Physical Status: Scheduled for neoadjuvant treatment.
 

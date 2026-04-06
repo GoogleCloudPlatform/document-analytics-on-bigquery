@@ -1,17 +1,19 @@
 PATIENT PROFILE: KLAUS S.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KLAUS S.
 - Age: 44 years
 - Sex: Male
 - Place of Residency: Munich, Germany
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Plaque Psoriasis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Extent: Affects approximately 20% of his body surface area.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dry skin, scaling patches.
 - PASI Score: Psoriasis Area and Severity Index (PASI) score of 18, indicating severe disease.
-- Symptoms: Large, red, scaly plaques on his trunk, arms, and legs, causing significant itching and discomfort.
 - Quality of Life: Reports a significant impact on his quality of life, including social activities.
 
 4. LABORATORY RESULTS

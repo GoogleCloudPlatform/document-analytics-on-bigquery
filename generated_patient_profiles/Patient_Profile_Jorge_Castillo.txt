@@ -1,18 +1,19 @@
 PATIENT PROFILE: JORGE CASTILLO
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JORGE CASTILLO
 - Age: 55 years
 - Sex: Male
 - Place of Residency: Argentina
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Resectable NSCLC
-- Secondary Condition: None documented
 - Other Relevant History: Adult with resectable NSCLC receiving neoadjuvant combination therapy in Argentina.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: initiating neoadjuvant Nivolumab plus chemotherapy.
+- Symptoms: Persistent cough, coughing up blood.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Resectable NSCLC.
 

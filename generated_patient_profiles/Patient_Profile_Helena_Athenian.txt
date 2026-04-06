@@ -1,38 +1,43 @@
+PATIENT PROFILE: HELENA ATHENIAN
+
 1. DEMOGRAPHIC INFORMATION
-Name: Helena Athenian
-Age: 29
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Model
+- Name: Helena Athenian
+- Age: 29
+- Sex: Female
+- Place of Residency: New York, USA
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Model
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Healthy Volunteer. Continuous non-smoker for > 3 months. No history of cancer or significant medical illnesses. No history of anemia within 5 years. No history of metabolic acidosis.
+- Primary Disorder: Healthy Volunteer. Continuous non-smoker for > 3 months. No history of cancer or significant medical illnesses. No history of anemia within 5 years. No history of metabolic acidosis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Overall Status: Healthy.
-Height: 172 cm
-Weight: 68 kg
-BMI: 23.0 kg/m2 (Within 18.0 to 42.0 range)
-Vital Signs:
+- Symptoms: Palpitations of the heart, fatigability, lethargy, soft systolic murmurs.
+- Overall Status: Healthy.
+- Height: 172 cm
+- Weight: 68 kg
+- BMI: 23.0 kg/m2 (Within 18.0 to 42.0 range)
+- Vital Signs:
 - BP: 115/72 mmHg
 - HR: 70 bpm
 - Pulse Oximetry: 98% at rest
-Physical Examination: Normal. Able to swallow multiple tablets.
+- Physical Examination: Normal. Able to swallow multiple tablets.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 13.2 g/dL (Within normal limits)
 - WBC: 5.8 x 10^3/µL
-Chemistry:
+- Chemistry:
 - ALT: 18 U/L
 - AST: 16 U/L
 - Bilirubin: 0.6 mg/dL
 - Creatinine: 0.8 mg/dL
-Genotyping: Known CYP2C19 extensive metabolizer.
-Infectious Disease:
+- Genotyping: Known CYP2C19 extensive metabolizer.
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
-Pregnancy Test: Negative.
+- Pregnancy Test: Negative.
 
 5. TREATMENT HISTORY
-Plan: Enroll in a Phase 1 open-label study (NCT07121959) to characterize the effects of Belzutifan on the pharmacokinetics of Metformin. Participate in two periods: Period 1 (Metformin alone) and Period 2 (Metformin with Belzutifan). Administer Metformin and Belzutifan orally as per protocol. Undergo intensive PK sampling of blood and urine. Monitor for safety and adverse events.
+- Plan: Enroll in a Phase 1 open-label study (NCT07121959) to characterize the effects of Belzutifan on the pharmacokinetics of Metformin. Participate in two periods: Period 1 (Metformin alone) and Period 2 (Metformin with Belzutifan). Administer Metformin and Belzutifan orally as per protocol. Undergo intensive PK sampling of blood and urine. Monitor for safety and adverse events.

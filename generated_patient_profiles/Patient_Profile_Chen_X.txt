@@ -1,6 +1,7 @@
 PATIENT PROFILE: CHEN X.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CHEN X.
 - Age: 66 years
 - Sex: Male
 - Place of Residency: Guangzhou, China
@@ -8,10 +9,11 @@ PATIENT PROFILE: CHEN X.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Exacerbation History: History of two or more moderate exacerbations in the past year.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic cough, sputum production, and dyspnea.
+- Symptoms: Chronic cough, shortness of breath.
 - Lung Function: FEV1 is less than 80% of predicted.
 
 4. LABORATORY RESULTS

@@ -1,18 +1,19 @@
 PATIENT PROFILE: ELLEN RIPLEY
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELLEN RIPLEY
 - Age: 66 years
 - Sex: Female
 - Place of Residency: an urban area
-- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD)
-- Secondary Condition: [Inferred, e.g., None or Hypertension]
 - Other Relevant History: Routine care patient treated with BGF triple therapy for symptomatic management of moderate-to-severe COPD.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: CAT score of 21; FEV1 < 50% predicted; switching from dual to triple therapy (BGF). CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
+- Symptoms: Shortness of breath, wheezing, chronic cough.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: ELLEN RIPLEY
 - Respiratory Function: FEV1 42% of predicted value; FEV1/FVC ratio 0.65.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard of Care as per context]
+- Prior Therapy: Standard of Care as per context
 - Current Plan: CAT score of 21; FEV1 < 50% predicted; switching from dual to triple therapy (BGF).

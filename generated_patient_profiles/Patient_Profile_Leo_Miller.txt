@@ -1,6 +1,7 @@
 PATIENT PROFILE: LEO MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LEO MILLER
 - Age: 10 months
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: LEO MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Comorbidities: Hemodynamically significant congenital heart disease (CHD).
 - Surgical History: Scheduled for cardiac surgery involving cardiopulmonary bypass.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Mild cyanosis and exertional fatigue during feeding.
+- Symptoms: Respiratory infection.
 - Performance Status: Dependent on caregivers.
 - Physical Status: Stable hemodynamics; awaiting corrective cardiac surgery.
 

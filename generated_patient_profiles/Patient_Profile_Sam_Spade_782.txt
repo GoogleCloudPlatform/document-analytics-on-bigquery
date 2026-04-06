@@ -1,18 +1,19 @@
 PATIENT PROFILE: SAM SPADE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SAM SPADE
 - Age: 72 years
 - Sex: Male
-- Place of Residency: Unknown
+- Place of Residency: Toronto, Canada
 - Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: COPD routine care
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: Symptomatic COPD patient requiring triple therapy escalation in a routine setting.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: FEV1 is 45%; CAT score 20; starting BGF fixed-dose combination. CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
+- Symptoms: Wheezing, shortness of breath, chronic cough, chest tightness.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: SAM SPADE
 - Respiratory Function: FEV1 42% of predicted value; FEV1/FVC ratio 0.65.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: FEV1 is 45%; CAT score 20; starting BGF fixed-dose combination.

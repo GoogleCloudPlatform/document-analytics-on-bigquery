@@ -1,6 +1,7 @@
 PATIENT PROFILE: LINDA CHEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LINDA CHEN
 - Age: 58 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: LINDA CHEN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: KRAS G12C-Mutated Metastatic Colorectal Cancer
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Molecular Marker: Confirmed KRAS G12C mutation via NGS.
 - Disease Status: Advanced/Metastatic disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Altered bowel habits and generalized abdominal discomfort.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 1.
 - Physical Status: Exhausted standard chemotherapy options.
 

@@ -1,18 +1,19 @@
 PATIENT PROFILE: SILAS VANCE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SILAS VANCE
 - Age: 10 months
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: London, UK
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk of Severe RSV
-- Secondary Condition: None documented
 - Other Relevant History: High-risk infant with underlying pulmonary pathology meeting the criteria for seasonal RSV prevention.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Still requiring supplemental oxygen at home; history of three prior admissions for respiratory exacerbations.
+- Symptoms: Coughing, decrease in appetite.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
 

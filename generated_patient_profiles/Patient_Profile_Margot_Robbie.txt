@@ -1,18 +1,19 @@
 PATIENT PROFILE: MARGOT ROBBIE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARGOT ROBBIE
 - Age: 35 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: London, UK
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Melanoma
-- Secondary Condition: None documented
 - Other Relevant History: Advanced melanoma patient initiating combination IO in a real-world database analysis of outcomes.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: BRAF wild-type; starting Nivolumab + Relatlimab combination; baseline data collected for survival registry.
+- Symptoms: Mucous membrane lesion, change in mole, pigmented lesion.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Advanced Melanoma.
 

@@ -1,18 +1,19 @@
 PATIENT PROFILE: BONNIE WINTERBOTTOM
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BONNIE WINTERBOTTOM
 - Age: 52 years
 - Sex: Female
 - Place of Residency: US
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Breast Cancer
-- Secondary Condition: None documented
 - Other Relevant History: MBC patient initiating first-line CDK4/6 inhibitor therapy in the US.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating first-line Palbociclib and hormonal therapy.
+- Symptoms: Skin dimpling, breast pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Metastatic Breast Cancer.
 

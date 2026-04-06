@@ -1,16 +1,20 @@
+PATIENT PROFILE: MARY JANE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Mary Jane
 - Age: 41 years
 - Sex: Female
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Persistent Asthma.
+- Primary Disorder: Severe Persistent Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Fixed airflow obstruction.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Significant exertional dyspnea.
 - CAT (Asthma control related) score: 26.
 - Persistent cough.

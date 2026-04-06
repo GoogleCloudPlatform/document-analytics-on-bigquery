@@ -1,6 +1,7 @@
 PATIENT PROFILE: BRUCE WAYNE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BRUCE WAYNE
 - Age: 40 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,11 @@ PATIENT PROFILE: BRUCE WAYNE
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Schizophrenia
+- Other Relevant History: Chronic schizophrenia.
 - Disease Status: Treatment-resistant symptoms.
-- History: Chronic schizophrenia.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Auditory hallucinations and social withdrawal.
+- Symptoms: Hallucinations, disorganized thinking, delusions, retreat from reality.
 - Performance Status: Stable.
 - Physical Status: Seeking better tolerability profile.
 

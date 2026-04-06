@@ -1,6 +1,7 @@
 PATIENT PROFILE: ELENA GILBERT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELENA GILBERT
 - Age: 29 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,11 @@ PATIENT PROFILE: ELENA GILBERT
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Episodic Migraine
+- Other Relevant History: Migraine diagnosed prior to pregnancy.
 - Symptoms: Recurrent headache attacks.
-- History: Migraine diagnosed prior to pregnancy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Throbbing headaches with sensitivity to light and sound.
+- Symptoms: Sound sensitivity, nausea, light sensitivity.
 - Performance Status: Stable.
 - Physical Status: Exposed to Rimegepant during first trimester.
 

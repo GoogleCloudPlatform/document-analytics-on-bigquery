@@ -1,6 +1,7 @@
 PATIENT PROFILE: ROBERT T.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ROBERT T.
 - Age: 52 years
 - Sex: Male
 - Place of Residency: Warsaw, Poland
@@ -8,13 +9,14 @@ PATIENT PROFILE: ROBERT T.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Cutaneous Melanoma (Superficial Spreading)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Stage: Clinical Stage IIIB (cT3b N1a M0) — local primary tumor with involvement of one regional lymph node; no evidence of distant metastasis.
 - Molecular Marker: BRAF V600 Mutation-Negative (Wild-type) confirmed via tissue biopsy.
 - LDH Level: Normal
 - Resectability: Evaluated by a surgical oncologist and deemed a candidate for complete surgical resection following neoadjuvant therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Palpable, non-tender mass in the right axillary region; localized skin lesion on the upper back (primary site). 
+- Symptoms: Skin lesion, eye lesion, pigmented lesion, change in mole.
 - Performance Status: ECOG 0 (Fully active, able to carry on all pre-disease performance without restriction).
 - Cardiac Health: No history of congestive heart failure or myocardial infarction; baseline EKG shows normal sinus rhythm.
 - Autoimmune History: No history of active autoimmune disease requiring systemic steroids.

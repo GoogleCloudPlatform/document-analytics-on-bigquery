@@ -1,6 +1,7 @@
 PATIENT PROFILE: GABRIELLE DUBOIS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: GABRIELLE DUBOIS
 - Age: 64 years
 - Sex: Female
 - Place of Residency: France
@@ -8,11 +9,12 @@ PATIENT PROFILE: GABRIELLE DUBOIS
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Recurrent Head and Neck Squamous Cell Carcinoma (SCCHN)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Subtype: Oral cavity cancer.
 - Disease Status: Recurrent disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Localized pain and difficulty with speech.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 1.
 - Physical Status: Progressed after radiation and cisplatin.
 

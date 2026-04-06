@@ -1,6 +1,7 @@
 PATIENT PROFILE: JOHNATHAN MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JOHNATHAN MILLER
 - Age: 68 years
 - Sex: Male
 - Place of Residency: Ohio, USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: JOHNATHAN MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Muscle Invasive Bladder Cancer (Urothelial Carcinoma)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Status: Metastatic disease with target liver lesion (2.5 cm).
 - Medical History: No history of autoimmune disease, ILD, or significant cardiac events.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Mild abdominal discomfort and fatigue.
+- Symptoms: Painful urination, frequent urination, back pain, blood in urine.
 - Performance Status: WHO 1 (Ambulatory and capable of light activities).
 - Physical Status: No active infections; no spinal cord compression or brain metastases; baseline LVEF 62%.
 

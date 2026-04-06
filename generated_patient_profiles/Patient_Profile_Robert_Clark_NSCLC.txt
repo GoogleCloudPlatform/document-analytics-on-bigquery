@@ -1,6 +1,7 @@
 PATIENT PROFILE: ROBERT CLARK
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ROBERT CLARK
 - Age: 59 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: ROBERT CLARK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Stage IV disease.
 - PD-L1 Expression: Negative.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Dyspnea and systemic fatigue.
+- Symptoms: Pericardial effusion, distant metastasis, pleural effusion, pleural nodules.
 - Performance Status: ECOG 1.
 - Physical Status: Heavy smoking history.
 

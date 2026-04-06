@@ -1,16 +1,18 @@
 PATIENT PROFILE: CARLOS S.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CARLOS S.
 - Age: 33 years
 - Sex: Male
 - Place of Residency: Santiago, Chile
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Goal: Improve quality of life.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Relapse-related neurological symptoms.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

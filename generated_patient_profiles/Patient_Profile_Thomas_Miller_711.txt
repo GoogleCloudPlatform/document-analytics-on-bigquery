@@ -1,17 +1,21 @@
+PATIENT PROFILE: THOMAS MILLER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Thomas Miller
 - Age: 58 years
 - Sex: Male
+- Place of Residency: Berlin, Germany
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Eosinophilic Asthma (15-year history).
+- Primary Disorder: Severe Eosinophilic Asthma (15-year history).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Controlled Hypertension.
 - Increased risk for Major Adverse Cardiovascular Events (MACE).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Uncontrolled asthma symptoms despite optimized therapy.
 - Frequent wheezing and shortness of breath.
 - Blood pressure: 138/88 mmHg.

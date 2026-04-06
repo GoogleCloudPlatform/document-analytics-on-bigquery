@@ -1,16 +1,20 @@
+PATIENT PROFILE: HOPE VAN DYNE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Hope van Dyne
 - Age: 45 years
 - Sex: Female
+- Place of Residency: USA
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Advanced Metastatic Melanoma.
+- Primary Disorder: Advanced Metastatic Melanoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - BRAF wild-type.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Change in mole, mucous membrane lesion, pigmented lesion, eye lesion.
 - Metastatic lesions present in the liver and lungs.
 - ECOG Performance Status: 1.
 - No history of symptomatic brain metastases.

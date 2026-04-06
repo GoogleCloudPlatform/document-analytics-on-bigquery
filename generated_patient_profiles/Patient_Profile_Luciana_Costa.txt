@@ -1,6 +1,7 @@
 PATIENT PROFILE: LUCIANA COSTA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LUCIANA COSTA
 - Age: 44 years
 - Sex: Female
 - Place of Residency: Brazil
@@ -8,11 +9,12 @@ PATIENT PROFILE: LUCIANA COSTA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Resectable Stage III Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Histologically confirmed melanoma.
 - Nodal Status: Clinically palpable lymph nodes.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Palpable lymphadenopathy and localized skin lesion.
+- Symptoms: Eye lesion, pigmented lesion, change in mole, skin lesion.
 - Performance Status: ECOG 0.
 - Physical Status: Scheduled for definitive surgical resection.
 

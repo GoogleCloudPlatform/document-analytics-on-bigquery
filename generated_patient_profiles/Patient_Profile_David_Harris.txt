@@ -1,18 +1,19 @@
 PATIENT PROFILE: DAVID HARRIS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: DAVID HARRIS
 - Age: 55 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Patient with symptomatic oHCM treated with Mavacamten at a single specialized US medical center.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LVOT gradient > 50 mmHg; starting Mavacamten at a specialized US center. NYHA Functional Class II or III.
+- Symptoms: Aortic stenosis, heart septum involvement, hypertension.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: DAVID HARRIS
 - Cardiac Imaging: Echocardiogram shows interventricular thickness of 18 mm and peak resting LVOT gradient of 60 mmHg. Preserved LVEF (62%).
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: LVOT gradient > 50 mmHg; starting Mavacamten at a specialized US center.

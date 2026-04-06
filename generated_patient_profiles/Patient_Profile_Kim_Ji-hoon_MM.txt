@@ -1,6 +1,7 @@
 PATIENT PROFILE: KIM JI-HOON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KIM JI-HOON
 - Age: 68 years
 - Sex: Male
 - Place of Residency: Seoul, South Korea
@@ -8,12 +9,13 @@ PATIENT PROFILE: KIM JI-HOON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsed and Refractory Multiple Myeloma (RRMM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Duration: 5 years
 - Clinical Status: Progressed after several lines of advanced therapy.
 - Performance Status: Functional; ECOG 0–2 (Able to provide informed consent).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Symptoms consistent with multiple myeloma progression, including fatigue and potentially bone pain.
+- Symptoms: Osteolytic lesions, skeletal destruction, anemia.
 - Physical Status: Generally stable but requires advanced systemic intervention due to relapsed disease.
 - General Health: No history of significant hypersensitivity to monoclonal antibodies.
 - Clinical State: Currently stable enough for monotherapy initiation.

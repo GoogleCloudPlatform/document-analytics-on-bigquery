@@ -1,18 +1,19 @@
 PATIENT PROFILE: GABRIEL MADDOX
 
 1. DEMOGRAPHIC INFORMATION
+- Name: GABRIEL MADDOX
 - Age: 24 years
 - Sex: Male
 - Place of Residency: Poland
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Systemic Lupus Erythematosus (SLE)
-- Secondary Condition: None documented
 - Other Relevant History: Adult SLE patient in Poland initiating Anifrolumab in routine care.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: SLEDAI score of 12; initiating Anifrolumab within the NDP. SLEDAI-2K score of 12.
+- Symptoms: Heart problems, lung problems, joint problems.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Systemic Lupus Erythematosus (SLE).
 

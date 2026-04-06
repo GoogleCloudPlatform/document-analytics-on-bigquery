@@ -1,18 +1,19 @@
 PATIENT PROFILE: KILLER FROST
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KILLER FROST
 - Age: 32 years
 - Sex: Female
 - Place of Residency: the US
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Migraine in Pregnancy (Safety)
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Pregnant woman with migraine exposed to Rimegepant participating in an observational safety study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Monitoring maternal health and fetal outcome through a prospective safety registry.
+- Symptoms: Throbbing or pulsating pain, sound sensitivity.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Migraine in Pregnancy (Safety).
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: KILLER FROST
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Monitoring maternal health and fetal outcome through a prospective safety registry.

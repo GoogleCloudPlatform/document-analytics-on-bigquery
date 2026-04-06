@@ -1,18 +1,19 @@
 PATIENT PROFILE: BRUCE BANNER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BRUCE BANNER
 - Age: 48 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Place of Residency: Sydney, Australia
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Asthma with Cardiovascular Risk
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Real-world Tezepelumab user with cardiovascular history participating in a safety surveillance study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating Tezepelumab; monitored for Major Adverse Cardiovascular Events (MACE) due to cardiovascular history.
+- Symptoms: Difficulty breathing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Severe Asthma with Cardiovascular Risk.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: BRUCE BANNER
 - Clinical Markers: Blood eosinophil count 450 cells/µL. Cardiac Markers: Troponin I within normal limits; stable ECG.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Initiating Tezepelumab; monitored for Major Adverse Cardiovascular Events (MACE) due to cardiovascular history.

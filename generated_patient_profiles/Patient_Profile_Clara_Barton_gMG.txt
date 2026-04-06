@@ -1,6 +1,7 @@
 PATIENT PROFILE: CLARA BARTON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CLARA BARTON
 - Age: 42 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: CLARA BARTON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Serology: Anti-AChR antibody-positive.
 - Disease Status: Symptomatic generalized weakness.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Ptosis, diplopia (double vision), and proximal muscle fatigue.
+- Symptoms: Bulbar muscle weakness, ptosis, proximal limb muscle weakness.
 - Performance Status: MG-ADL score of 10.
 - Physical Status: Bulbar symptoms present but stable.
 

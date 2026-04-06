@@ -1,18 +1,19 @@
 PATIENT PROFILE: VICTOR STONE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: VICTOR STONE
 - Age: 55 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Place of Residency: Sydney, Australia
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: KRAS G12C-Mutated Solid Tumors
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Patient with KRAS G12C mutated advanced tumor receiving Adagrasib through an Expanded Access program.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Progressed on prior fluoropyrimidine-based therapy; starting Adagrasib.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for KRAS G12C-Mutated Solid Tumors.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: VICTOR STONE
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Progressed on prior fluoropyrimidine-based therapy; starting Adagrasib.

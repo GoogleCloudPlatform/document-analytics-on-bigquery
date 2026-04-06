@@ -1,35 +1,39 @@
+PATIENT PROFILE: ALICE THOMPSON
+
 1. DEMOGRAPHIC INFORMATION
-Name: Alice Thompson
-Age: 78
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Retired Librarian
+- Name: Alice Thompson
+- Age: 78
+- Sex: Female
+- Place of Residency: New York, USA
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Retired Librarian
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Neovascular Age-related Macular Degeneration (nAMD).
-Status: Active nAMD in the right eye. Sudden onset of vision distortion and decline in visual acuity.
-Requirement: Newly initiating treatment with Faricimab (Vabysmo).
-Comorbidities: None. No active ocular inflammation or infection. No non-ocular sight-threatening disease (e.g., stroke). No history of hypersensitivity to Vabysmo.
+- Primary Disorder: Neovascular Age-related Macular Degeneration (nAMD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Active nAMD in the right eye. Sudden onset of vision distortion and decline in visual acuity.
+- Requirement: Newly initiating treatment with Faricimab (Vabysmo).
+- Comorbidities: None. No active ocular inflammation or infection. No non-ocular sight-threatening disease (e.g., stroke). No history of hypersensitivity to Vabysmo.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Overall Status: Good for age.
-Symptoms: Metamorphopsia (distortion) and central scotoma in the right eye.
-Physical Examination: Dilated fundus exam reveals subretinal hemorrhage and fluid in the macula of the right eye. No signs of infection.
-Visual Acuity: 20/100 (Right eye), 20/30 (Left eye).
-Ophthalmic findings: Intraretinal and subretinal fluid confirmed by OCT.
+- Symptoms: Loss of vision.
+- Overall Status: Good for age.
+- Physical Examination: Dilated fundus exam reveals subretinal hemorrhage and fluid in the macula of the right eye. No signs of infection.
+- Visual Acuity: 20/100 (Right eye), 20/30 (Left eye).
+- Ophthalmic findings: Intraretinal and subretinal fluid confirmed by OCT.
 
 4. LABORATORY RESULTS
-Ophthalmic Tests:
+- Ophthalmic Tests:
 - Optical Coherence Tomography (OCT): Central Subfield Thickness (CST) 450 µm in the right eye.
 - Fluorescein Angiography: Confirmed choroidal neovascularization (CNV).
-Hematology:
+- Hematology:
 - WBC: 6.2 x 10^3/µL
 - Hemoglobin: 12.5 g/dL
-Chemistry:
+- Chemistry:
 - ALT: 22 U/L
 - AST: 20 U/L
 - Creatinine: 0.9 mg/dL
 
 5. TREATMENT HISTORY
-Plan: Initiate treatment with Faricimab (Vabysmo) 6 mg via intravitreal injection in the right eye as part of a real-world longitudinal data collection study (FaReal, NCT06680817). Follow a loading phase of 4 monthly injections followed by a treat-and-extend regimen. Monitor changes in visual acuity and central subfield thickness over 2 years. Undergo regular follow-up visits every 4-12 weeks. Provide signed informed consent.
+- Plan: Initiate treatment with Faricimab (Vabysmo) 6 mg via intravitreal injection in the right eye as part of a real-world longitudinal data collection study (FaReal, NCT06680817). Follow a loading phase of 4 monthly injections followed by a treat-and-extend regimen. Monitor changes in visual acuity and central subfield thickness over 2 years. Undergo regular follow-up visits every 4-12 weeks. Provide signed informed consent.

@@ -1,6 +1,7 @@
 PATIENT PROFILE: HELGA SCHMIDT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: HELGA SCHMIDT
 - Age: 51 years
 - Sex: Female
 - Place of Residency: Austria
@@ -8,11 +9,12 @@ PATIENT PROFILE: HELGA SCHMIDT
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Early Breast Cancer
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Subtype: HR+/HER2- (Hormone Receptor positive, HER2 negative)
 - Risk Profile: High risk of recurrence following surgery.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Post-surgical recovery.
+- Symptoms: Nipple discharge, skin dimpling, breast lump, breast pain.
 - Performance Status: ECOG 0.
 - Physical Status: Fit for adjuvant chemotherapy/biotherapy.
 

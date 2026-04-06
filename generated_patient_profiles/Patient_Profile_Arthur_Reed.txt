@@ -1,18 +1,19 @@
 PATIENT PROFILE: ARTHUR REED
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR REED
 - Age: 8 months
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: London, UK
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk of Severe RSV
-- Secondary Condition: None documented
 - Other Relevant History: Pediatric patient with chronic lung disease (Cystic Fibrosis) qualifying for severe RSV protection.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Documented failure to thrive; history of prolonged viral recovery; requires severe lower respiratory tract disease prevention.
+- Symptoms: Decrease in appetite, coughing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
 

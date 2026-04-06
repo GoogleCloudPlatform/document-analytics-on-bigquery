@@ -1,6 +1,7 @@
 PATIENT PROFILE: AHMED MANSOUR
 
 1. DEMOGRAPHIC INFORMATION
+- Name: AHMED MANSOUR
 - Age: 28 years
 - Sex: Male
 - Place of Residency: Cairo, Egypt
@@ -8,11 +9,12 @@ PATIENT PROFILE: AHMED MANSOUR
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Transfusion-Dependent Beta-Thalassemia (TDT)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Chronic transfusion dependency.
 - Iron Overload: High liver iron concentration.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue and symptoms related to chronic anemia.
+- Symptoms: Anemia.
 - Performance Status: Stable.
 - Physical Status: Requires 2 units of packed red cells every 2 weeks.
 

@@ -1,18 +1,19 @@
 PATIENT PROFILE: STEVE ROGERS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: STEVE ROGERS
 - Age: 10 months
 - Sex: Male
-- Place of Residency: Unknown
+- Place of Residency: Sydney, Australia
 - Employment Status: N/A (Infant)
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk of Severe RSV
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: Pediatric patient with congenital heart disease meeting high-risk RSV criteria.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Scheduled for corrective surgery; requires prophylactic passive immunization. Preterm infant at high risk for severe RSV.
+- Symptoms: Sneezing, decrease in appetite, runny nose, wheezing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: STEVE ROGERS
 - Clinical Status: Stable but requires seasonal passive immunization.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: Scheduled for corrective surgery; requires prophylactic passive immunization.

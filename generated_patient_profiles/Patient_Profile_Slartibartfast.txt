@@ -1,18 +1,19 @@
 PATIENT PROFILE: SLARTIBARTFAST
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SLARTIBARTFAST
 - Age: 70 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Sydney, Australia
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Unresectable Stage III Melanoma
-- Secondary Condition: None documented
 - Other Relevant History: Meets criteria for dual immunotherapy in advanced melanoma to monitor real-world survival outcomes.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: BRAF wild-type; starting first-line combination immunotherapy with Nivolumab and Relatlimab.
+- Symptoms: Skin lesion, pigmented lesion, eye lesion, change in mole.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Unresectable Stage III Melanoma.
 

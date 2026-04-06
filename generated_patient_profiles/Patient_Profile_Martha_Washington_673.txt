@@ -1,16 +1,20 @@
+PATIENT PROFILE: MARTHA WASHINGTON
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Martha Washington
 - Age: 55 years
 - Sex: Female
+- Place of Residency: Sydney, Australia
 - Race/Ethnicity: Not specified
 - Occupation: Retired
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Refractory Rheumatoid Arthritis (RA).
+- Primary Disorder: Refractory Rheumatoid Arthritis (RA).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - High disease activity.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Polyarthritis, articular surface inflammation, inflammation.
 - Severe joint pain and swelling in multiple joints.
 - Prolonged morning stiffness.
 - DAS28-CRP: 5.5.

@@ -1,6 +1,7 @@
 PATIENT PROFILE: ZHAO YANG
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ZHAO YANG
 - Age: 70 years
 - Sex: Male
 - Place of Residency: Shanghai, China
@@ -8,11 +9,12 @@ PATIENT PROFILE: ZHAO YANG
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-risk Myelodysplastic Syndromes (MDS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Refractory anemia.
 - Phenotype: Transfusion-dependent.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic fatigue and exertional dyspnea.
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
 - Performance Status: ECOG 1.
 - Physical Status: Requires 4 units of blood per month.
 

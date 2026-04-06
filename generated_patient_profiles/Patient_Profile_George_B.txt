@@ -1,17 +1,19 @@
 PATIENT PROFILE: GEORGE B.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: GEORGE B.
 - Age: 60 years
 - Sex: Male
 - Place of Residency: London, UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Melanoma (Stage IV).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Biomarker: BRAF wild-type.
 - Disease Site: Metastatic disease in the lungs.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Mild cough and fatigue.
+- Symptoms: Pigmented lesion, skin lesion, mucous membrane lesion.
 - Performance Status: ECOG 1.
 
 4. LABORATORY RESULTS

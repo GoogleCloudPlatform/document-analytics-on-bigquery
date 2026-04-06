@@ -1,16 +1,20 @@
+PATIENT PROFILE: LUCAS VAN DER BERG
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Lucas van der Berg
 - Age: 12 years
 - Sex: Male
+- Place of Residency: Netherlands
 - Race/Ethnicity: Not specified
 - Occupation: Student
-- Location: Netherlands
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Von Willebrand Disease (VWD), Type 3.
+- Primary Disorder: Von Willebrand Disease (VWD), Type 3.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of severe mucosal hemorrhage.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Prolonged bleeding time, deficiency of factor viii, impaired platelet adhesion.
 - Life-long history of severe nosebleeds and gastrointestinal bleeding.
 - Recurrent joint bleeds causing chronic hemarthrosis.
 - Active lifestyle within limitations of disease.

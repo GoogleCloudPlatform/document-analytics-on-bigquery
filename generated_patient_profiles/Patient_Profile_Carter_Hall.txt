@@ -1,18 +1,19 @@
 PATIENT PROFILE: CARTER HALL
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CARTER HALL
 - Age: 35 years
 - Sex: Male
 - Place of Residency: Middle East
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Transfusion-Dependent Beta-Thalassemia (Middle East)
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Adult TDT patient in the Middle East initiating Luspatercept in a real-world treatment observation study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating Luspatercept to reduce transfusion burden and improve hemoglobin stability.
+- Symptoms: Anemia.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Transfusion-Dependent Beta-Thalassemia (Middle East).
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: CARTER HALL
 - Clinical Markers: Pre-transfusion Hemoglobin 6.8 g/dL; Serum Ferritin 1850 ng/mL.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Initiating Luspatercept to reduce transfusion burden and improve hemoglobin stability.

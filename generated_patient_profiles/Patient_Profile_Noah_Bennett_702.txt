@@ -1,16 +1,20 @@
+PATIENT PROFILE: NOAH BENNETT
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Noah Bennett
 - Age: 8 months
 - Sex: Male
+- Place of Residency: Toronto, Canada
 - Race/Ethnicity: Not specified
 - Occupation: N/A (Infant)
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Primary Disorder: High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Congenital Heart Disease (CHD), hemodynamically significant.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Respiratory infection.
 - Scheduled for corrective cardiac surgery post-RSV season.
 - Clinically stable cardiac status on current medications.
 - No history of RSV-related hospitalization.

@@ -1,6 +1,7 @@
 PATIENT PROFILE: LEE JI-EUN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LEE JI-EUN
 - Age: 63 years
 - Sex: Female
 - Place of Residency: South Korea
@@ -8,11 +9,12 @@ PATIENT PROFILE: LEE JI-EUN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsed Multiple Myeloma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Refractory to lenalidomide and bortezomib.
 - Comorbidities: None significant.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Bone pain and fatigue.
+- Symptoms: Hypercalcemia, anemia, bone pain.
 - Performance Status: ECOG 1.
 - Physical Status: Fit for advanced systemic therapy.
 

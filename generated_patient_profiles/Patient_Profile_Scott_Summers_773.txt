@@ -1,18 +1,19 @@
 PATIENT PROFILE: SCOTT SUMMERS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SCOTT SUMMERS
 - Age: 42 years
 - Sex: Male
-- Place of Residency: Unknown
+- Place of Residency: Paris, France
 - Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Stage III Melanoma
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: Assessment of pathologic response to combination IO in the neoadjuvant melanoma setting.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Scheduled for surgery; starting neoadjuvant Nivolumab + Relatlimab. Stage IV metastatic melanoma, BRAF wild-type.
+- Symptoms: Eye lesion, skin lesion, mucous membrane lesion.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: SCOTT SUMMERS
 - Clinical Markers: Biopsy confirmed melanoma; LDH within normal range.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: Scheduled for surgery; starting neoadjuvant Nivolumab + Relatlimab.

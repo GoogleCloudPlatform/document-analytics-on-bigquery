@@ -1,16 +1,20 @@
+PATIENT PROFILE: BELLATRIX LESTRANGE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Bellatrix Lestrange
 - Age: 48 years
 - Sex: Female
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Generalized Myasthenia Gravis (gMG).
+- Primary Disorder: Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Anti-AChR antibody-positive.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigable weakness, respiratory muscle weakness, diplopia.
 - Muscle fatigue worsening throughout the day.
 - Occasional diplopia and ptosis.
 - MG-ADL score: 12.

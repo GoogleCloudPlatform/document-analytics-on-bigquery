@@ -1,16 +1,20 @@
+PATIENT PROFILE: MICHAEL RYAN
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Michael Ryan
 - Age: 61 years
 - Sex: Male
+- Place of Residency: London, UK
 - Race/Ethnicity: Not specified
 - Occupation: Retired
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Chronic Renal Insufficiency.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, fatigue.
 - Morning hemoglobinuria (dark urine).
 - Significant fatigue.
 - ECOG Performance Status: 1.

@@ -1,18 +1,19 @@
 PATIENT PROFILE: HANK MCCOY
 
 1. DEMOGRAPHIC INFORMATION
+- Name: HANK MCCOY
 - Age: 6 months
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+- Place of Residency: Toronto, Canada
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: RSV Risk in Preterm Infant
-- Secondary Condition: [Inferred, e.g., None or Hypertension]
 - Other Relevant History: Standard RSV prophylaxis for preterm infants according to pediatric guidelines.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Residing in a high-incidence urban area; requiring seasonal Palivizumab injections. Preterm infant at high risk for severe RSV.
+- Symptoms: Coughing, wheezing, fever, runny nose.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: HANK MCCOY
 - Clinical Status: Stable but requires seasonal passive immunization.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard of Care as per context]
+- Prior Therapy: Standard of Care as per context
 - Current Plan: Residing in a high-incidence urban area; requiring seasonal Palivizumab injections.

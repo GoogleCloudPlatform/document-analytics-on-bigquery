@@ -1,17 +1,21 @@
+PATIENT PROFILE: RICK BLAINE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Rick Blaine
 - Age: 52 years
 - Sex: Male
+- Place of Residency: Morocco
 - Race/Ethnicity: Not specified
 - Occupation: Business Owner (Casablanca)
-- Location: Morocco
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Eosinophilic Asthma.
+- Primary Disorder: Severe Eosinophilic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of minor cardiac arrhythmias.
 - Increased risk for Major Adverse Cardiovascular Events (MACE).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Frequent asthma exacerbations requiring systemic corticosteroids.
 - Persistent wheezing and nocturnal dyspnea.
 - Cardiovascular: Occasional palpitations, currently stable.

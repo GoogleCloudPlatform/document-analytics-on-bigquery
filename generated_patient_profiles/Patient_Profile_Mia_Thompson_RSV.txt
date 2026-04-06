@@ -1,6 +1,7 @@
 PATIENT PROFILE: MIA THOMPSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MIA THOMPSON
 - Age: 4 months
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: MIA THOMPSON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High risk for severe RSV infection.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Gestational History: Born at 34 weeks gestation.
 - Comorbidities: None.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Currently asymptomatic.
+- Symptoms: Fever, coughing, wheezing, sneezing.
 - Performance Status: Dependent on caregivers.
 - Physical Status: High risk for lower respiratory tract disease during winter months.
 

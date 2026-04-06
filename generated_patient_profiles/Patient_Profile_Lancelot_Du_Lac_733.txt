@@ -1,16 +1,20 @@
+PATIENT PROFILE: LANCELOT DU LAC
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Lancelot Du Lac
 - Age: 60 years
 - Sex: Male
+- Place of Residency: Berlin, Germany
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Long-standing Generalized Myasthenia Gravis (gMG).
+- Primary Disorder: Long-standing Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of Myasthenic Crisis.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigable weakness, cranial muscle weakness, bulbar muscle weakness.
 - Persistent limb weakness.
 - Generalized fatigue.
 - Stable respiratory status currently.

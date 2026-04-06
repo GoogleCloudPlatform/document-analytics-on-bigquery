@@ -1,16 +1,20 @@
+PATIENT PROFILE: SIRIUS BLACK
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Sirius Black
 - Age: 54 years
 - Sex: Male
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Metastatic Non-Small Cell Lung Cancer (NSCLC), Stage IV.
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC), Stage IV.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - PD-L1 negative status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Distant metastasis, tumor nodules, pleural effusion, pleural nodules.
 - Persistent cough and chest pain.
 - Generalized fatigue.
 - ECOG Performance Status: 1.

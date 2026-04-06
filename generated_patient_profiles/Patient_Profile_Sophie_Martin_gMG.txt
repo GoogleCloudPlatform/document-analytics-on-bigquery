@@ -1,6 +1,7 @@
 PATIENT PROFILE: SOPHIE MARTIN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SOPHIE MARTIN
 - Age: 48 years
 - Sex: Female
 - Place of Residency: France
@@ -8,11 +9,12 @@ PATIENT PROFILE: SOPHIE MARTIN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Serology: Anti-AChR antibody-positive.
 - Status: Complement-inhibitor naive.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Significant ptosis, limb weakness, and muscle fatigue.
+- Symptoms: Respiratory muscle weakness, ocular muscle weakness.
 - Performance Status: MG-ADL score of 12.
 - Physical Status: Symptomatic despite conventional therapy.
 

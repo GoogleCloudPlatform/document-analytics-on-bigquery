@@ -1,6 +1,7 @@
 PATIENT PROFILE: FELICITY JONES
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FELICITY JONES
 - Age: 31 years
 - Sex: Female
 - Place of Residency: UK
@@ -8,11 +9,12 @@ PATIENT PROFILE: FELICITY JONES
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate Atopic Dermatitis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: Chronic skin itching and inflammation.
 - Comorbidities: None.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Localized eczema flares.
+- Symptoms: Inflammation of the skin.
 - Performance Status: Stable.
 - Physical Status: Managing symptoms during late pregnancy.
 

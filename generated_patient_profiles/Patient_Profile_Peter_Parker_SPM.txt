@@ -1,6 +1,7 @@
 PATIENT PROFILE: PETER PARKER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: PETER PARKER
 - Age: 54 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: PETER PARKER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Secondary Primary Malignancy (Squamous Cell Lung Cancer)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Medical History: Previously treated for B-cell Non-Hodgkin Lymphoma.
 - Cell Therapy History: Recipient of CAR-T cell therapy (Abecma).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: New onset persistent cough.
+- Symptoms: Shortness of breath, persistent cough, coughing up blood.
 - Performance Status: ECOG 0.
 - Physical Status: Lymphoma in remission.
 

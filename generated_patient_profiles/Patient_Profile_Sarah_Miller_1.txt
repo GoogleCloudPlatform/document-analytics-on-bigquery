@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH MILLER
 - Age: 62 years
 - Sex: Female
 - Place of Residency: Not specified (Caucasian, likely US given trial context).
@@ -8,12 +9,13 @@ PATIENT PROFILE: SARAH MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: May 2020
 - Stage: Stage IV squamous NSCLC
 - Molecular Markers: Tumor PD-L1 expression <1%. Wild type for EGFR, ALK, and ROS1 genetic mutations.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but generally indicative of advanced lung cancer (e.g., cough, dyspnea, fatigue, weight loss).
+- Symptoms: Tumor nodules, pleural nodules.
 - Performance Status: Assumed good, consistent with eligibility for systemic therapy.
 - General Health: No prior systemic therapy for metastatic NSCLC.
 

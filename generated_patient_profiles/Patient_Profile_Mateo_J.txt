@@ -1,16 +1,18 @@
 PATIENT PROFILE: MATEO J.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MATEO J.
 - Age: 10 years
 - Sex: Male
 - Place of Residency: Bogotá, Colombia
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate Atopic Dermatitis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Prior Treatment: Failed topical steroids.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Itchy, inflamed skin.
+- Symptoms: Inflammation of the skin.
 - EASI Score: High.
 
 4. LABORATORY RESULTS

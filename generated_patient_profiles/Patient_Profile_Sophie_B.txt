@@ -1,16 +1,18 @@
 PATIENT PROFILE: SOPHIE B.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SOPHIE B.
 - Age: 14 years
 - Sex: Female
 - Place of Residency: Amsterdam, Netherlands
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Melanoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Stage: Stage III (locoregionally advanced) or Stage IV (metastatic).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Presence of enlarged lymph nodes or distant metastases.
+- Symptoms: Skin lesion, mucous membrane lesion, change in mole, pigmented lesion.
 - Performance Status: ECOG 0 or 1, depending on disease burden.
 - Diagnosis: Confirmed by biopsy.
 

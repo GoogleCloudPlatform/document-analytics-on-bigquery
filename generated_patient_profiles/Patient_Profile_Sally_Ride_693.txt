@@ -1,16 +1,20 @@
+PATIENT PROFILE: SALLY RIDE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Sally Ride
 - Age: 32 years
 - Sex: Female
+- Place of Residency: Tokyo, Japan
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Postpartum status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Aortic stenosis, heart septum involvement, left ventricular hypertrophy, cardiac muscle disease.
 - Exertional shortness of breath and fatigue.
 - Chest discomfort with activity.
 - Currently breastfeeding her infant.

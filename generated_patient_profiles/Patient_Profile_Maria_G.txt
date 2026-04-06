@@ -1,17 +1,19 @@
 PATIENT PROFILE: MARIA G.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARIA G.
 - Age: 29 years
 - Sex: Female
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: Munich, Germany
 - Pregnancy Status: 14 weeks pregnant.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Atopic Dermatitis (Eczema).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Pregnancy: Currently in the second trimester.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic, itchy, and inflamed skin lesions.
+- Symptoms: Inflammation of the skin.
 - Disease Control: Her eczema is being managed with Abrocitinib (CIBINQO), a JAK1 inhibitor.
 - Pregnancy Health: Routine prenatal care is ongoing.
 

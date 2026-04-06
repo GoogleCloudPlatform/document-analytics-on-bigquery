@@ -1,6 +1,7 @@
 PATIENT PROFILE: TYLER DURDEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: TYLER DURDEN
 - Age: 16 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: TYLER DURDEN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Eosinophilic Asthma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Comorbidities: Family history of early-onset hypertension.
 - Disease Status: Persistent symptoms despite high-dose maintenance.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Recurrent wheezing and chest tightness during physical activity.
+- Symptoms: Difficulty breathing.
 - Performance Status: Active student.
 - Cardiac Health: High-risk profile for cardiovascular monitoring due to family history.
 

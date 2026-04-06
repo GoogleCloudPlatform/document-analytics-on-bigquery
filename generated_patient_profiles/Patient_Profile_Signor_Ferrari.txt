@@ -1,16 +1,20 @@
+PATIENT PROFILE: SIGNOR FERRARI
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Signor Ferrari
 - Age: 68 years
 - Sex: Male
+- Place of Residency: Sydney, Australia
 - Race/Ethnicity: Not specified
 - Occupation: Business Owner
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Intravascular Hemolysis.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dark-colored urine (hemoglobinuria), abdominal pain.
 - Chronic fatigue and dyspnea.
 - History of dark urine episodes.
 - No current acute thrombosis.

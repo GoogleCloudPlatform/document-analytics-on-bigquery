@@ -1,18 +1,19 @@
 PATIENT PROFILE: MARY JANE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARY JANE
 - Age: 59 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Tokyo, Japan
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
-- Secondary Condition: None documented
 - Other Relevant History: Metastatic NSCLC patient with PD-L1 < 1% participating in a long-term outcomes and safety registry.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating first-line dual immunotherapy to assess long-term safety and treatment durability.
+- Symptoms: Tumor nodules, pericardial effusion, pleural effusion.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Metastatic Non-Small Cell Lung Cancer (NSCLC).
 

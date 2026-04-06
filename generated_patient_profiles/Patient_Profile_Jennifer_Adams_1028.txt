@@ -1,36 +1,40 @@
+PATIENT PROFILE: JENNIFER ADAMS
+
 1. DEMOGRAPHIC INFORMATION
-Name: Jennifer Adams
-Age: 65
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Retired Teacher
+- Name: Jennifer Adams
+- Age: 65
+- Sex: Female
+- Place of Residency: Toronto, Canada
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Retired Teacher
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Retinal Vein Occlusion (RVO) with Macular Edema.
-Status: Sudden, painless loss of vision in the left eye. Diagnosis of central retinal vein occlusion (CRVO) confirmed by fundus examination.
-Requirement: Newly initiating treatment with Faricimab (Vabysmo).
-Comorbidities: Controlled hypertension. No active ocular inflammation or infection. No concomitant participation in investigational ophthalmology trials.
+- Primary Disorder: Retinal Vein Occlusion (RVO) with Macular Edema.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Sudden, painless loss of vision in the left eye. Diagnosis of central retinal vein occlusion (CRVO) confirmed by fundus examination.
+- Requirement: Newly initiating treatment with Faricimab (Vabysmo).
+- Comorbidities: Controlled hypertension. No active ocular inflammation or infection. No concomitant participation in investigational ophthalmology trials.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Overall Status: Stable.
-Symptoms: Central scotoma and significant blurry vision in the left eye.
-Physical Examination: Dilated fundus exam reveals widespread retinal hemorrhages and macular edema in the left eye. No signs of infection.
-Visual Acuity: 20/200 (Left eye), 20/25 (Right eye).
-Baseline CST: 420 µm (Left eye).
+- Symptoms: Abnormal accumulation of fluid.
+- Overall Status: Stable.
+- Physical Examination: Dilated fundus exam reveals widespread retinal hemorrhages and macular edema in the left eye. No signs of infection.
+- Visual Acuity: 20/200 (Left eye), 20/25 (Right eye).
+- Baseline CST: 420 µm (Left eye).
 
 4. LABORATORY RESULTS
-Ophthalmic Tests:
+- Ophthalmic Tests:
 - Optical Coherence Tomography (OCT): Central Subfield Thickness (CST) 420 µm in the left eye.
 - Visual Acuity (VA): 20/200 baseline recorded at the index visit.
-Hematology:
+- Hematology:
 - Hemoglobin: 13.2 g/dL
 - WBC: 6.5 x 10^3/µL
-Chemistry:
+- Chemistry:
 - ALT: 20 U/L
 - AST: 18 U/L
 - Creatinine: 0.9 mg/dL
 - Blood Pressure: 135/82 mmHg (Controlled)
 
 5. TREATMENT HISTORY
-Plan: Initiate treatment with Faricimab (Vabysmo) 6 mg via intravitreal injection in the left eye as part of the VOYAGER study (NCT05476926). Treatment decisions determined by the investigator in routine clinical practice. Monitor long-term effectiveness, safety, and treatment patterns over 2 years. Evaluate factors driving treatment decisions and healthcare resource utilization. Provide signed informed consent.
+- Plan: Initiate treatment with Faricimab (Vabysmo) 6 mg via intravitreal injection in the left eye as part of the VOYAGER study (NCT05476926). Treatment decisions determined by the investigator in routine clinical practice. Monitor long-term effectiveness, safety, and treatment patterns over 2 years. Evaluate factors driving treatment decisions and healthcare resource utilization. Provide signed informed consent.

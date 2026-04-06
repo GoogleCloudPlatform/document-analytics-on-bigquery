@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH MILLER
 - Age: 32 years
 - Sex: Female
 - Place of Residency: North Carolina, USA
@@ -8,12 +9,13 @@ PATIENT PROFILE: SARAH MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Healthy Participant (Overweight)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - BMI: 28.5 kg/m²
 - Weight: 75 kg
 - Medical History: Healthy adult; no history of cardiovascular, gastrointestinal, or renal disease; non-smoker.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Asymptomatic.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: Fully active.
 - Physical Status: Vital signs and 12-lead ECG are within normal limits; non-lactating; uses copper IUD for contraception.
 

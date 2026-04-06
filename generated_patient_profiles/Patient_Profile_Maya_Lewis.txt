@@ -1,18 +1,19 @@
 PATIENT PROFILE: MAYA LEWIS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MAYA LEWIS
 - Age: 44 years
 - Sex: Female
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Alopecia Areata
-- Secondary Condition: None documented
 - Other Relevant History: Adult with severe AA initiating Ritlecitinib in a real-world population.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: SALT score of 95; starting Ritlecitinib in the US.
+- Symptoms: Absence of hair.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Severe Alopecia Areata.
 

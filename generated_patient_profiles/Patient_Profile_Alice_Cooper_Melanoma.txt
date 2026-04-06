@@ -1,6 +1,7 @@
 PATIENT PROFILE: ALICE COOPER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ALICE COOPER
 - Age: 58 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: ALICE COOPER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Stage: Stage IV.
 - Molecular Marker: BRAF wild-type.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue and localized metastatic discomfort.
+- Symptoms: Pigmented lesion, change in mole.
 - Performance Status: ECOG 1.
 - Physical Status: Fit for first-line combination IO.
 

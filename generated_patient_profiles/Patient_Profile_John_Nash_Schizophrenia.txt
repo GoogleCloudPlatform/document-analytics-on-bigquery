@@ -1,6 +1,7 @@
 PATIENT PROFILE: JOHN NASH
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JOHN NASH
 - Age: 40 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: JOHN NASH
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Schizophrenia
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: History of auditory hallucinations.
 - Disease Status: Chronic symptoms with poor response to typical antipsychotics.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Auditory hallucinations and social withdrawal.
+- Symptoms: Retreat from reality, hallucinations.
 - Performance Status: Stable.
 - Physical Status: Experiencing metabolic side effects from current medications.
 

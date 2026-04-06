@@ -1,6 +1,7 @@
 PATIENT PROFILE: MAREK ZIELINSKI
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MAREK ZIELINSKI
 - Age: 52 years
 - Sex: Male
 - Place of Residency: Poland
@@ -8,11 +9,12 @@ PATIENT PROFILE: MAREK ZIELINSKI
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Serology: Anti-AChR antibody-positive.
 - Status: Complement-inhibitor naive.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Generalized muscle weakness and difficulty swallowing (dysphagia).
+- Symptoms: Cranial muscle weakness, asymmetric ophthalmoplegia.
 - Performance Status: MG-ADL score of 11.
 - Physical Status: Bulbar involvement present.
 

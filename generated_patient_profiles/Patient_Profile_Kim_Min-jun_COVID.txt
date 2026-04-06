@@ -1,6 +1,7 @@
 PATIENT PROFILE: KIM MIN-JUN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KIM MIN-JUN
 - Age: 35 years
 - Sex: Male
 - Place of Residency: South Korea
@@ -8,12 +9,14 @@ PATIENT PROFILE: KIM MIN-JUN
 - Nationality: Korean
 
 2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unknown Medical Condition
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Primary Condition: Eligible for COVID-19 Vaccination.
 - Clinical Status: Generally healthy; no active infectious processes at the time of vaccination.
 - Comorbidities: None identified. No history of significant allergic reactions to prior vaccines.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Asymptomatic at baseline.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: Fully active; able to carry on all pre-vaccination activities without restriction.
 - Physical Status: Normal vital signs; no evidence of acute illness or fever.
 - Hypersensitivity Status: No known history of hypersensitivity to vaccine components (e.g., polyethylene glycol).

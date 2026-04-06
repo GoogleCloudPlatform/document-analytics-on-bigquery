@@ -1,35 +1,39 @@
+PATIENT PROFILE: PETER QUINCE
+
 1. DEMOGRAPHIC INFORMATION
-Name: Peter Quince
-Age: 54
-Gender: Male
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Director
+- Name: Peter Quince
+- Age: 54
+- Sex: Male
+- Place of Residency: Sydney, Australia
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Director
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic Triple-Negative Breast Cancer (TNBC).
-Status: Locally recurrent, inoperable, metastatic disease. Previously treated with systemic chemotherapy (anthracycline/taxane) but not with immune checkpoint inhibitors (PD-1/PD-L1).
-Molecular Status: PD-L1 status known.
-Comorbidities: None. Normal organ function. No active autoimmune disease or history of ILD.
+- Primary Disorder: Metastatic Triple-Negative Breast Cancer (TNBC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Locally recurrent, inoperable, metastatic disease. Previously treated with systemic chemotherapy (anthracycline/taxane) but not with immune checkpoint inhibitors (PD-1/PD-L1).
+- Molecular Status: PD-L1 status known.
+- Comorbidities: None. Normal organ function. No active autoimmune disease or history of ILD.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Exertional fatigue, dull ache in chest wall.
-Physical Examination: No clinically active CNS metastases. No symptomatic ascites or pleural effusion. Stable vital signs.
-Measurable Disease: 2.5 cm metastatic lesion in the lung (RECIST 1.1). Baseline tumor sample provided.
+- Symptoms: Skin dimpling, breast lump, nipple discharge, breast pain.
+- Performance Status: ECOG 1.
+- Physical Examination: No clinically active CNS metastases. No symptomatic ascites or pleural effusion. Stable vital signs.
+- Measurable Disease: 2.5 cm metastatic lesion in the lung (RECIST 1.1). Baseline tumor sample provided.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 11.5 g/dL
 - ANC: 3.8 x 10^9/L
 - Platelets: 210 x 10^9/L
-Chemistry:
+- Chemistry:
 - ALT: 28 U/L
 - AST: 25 U/L
 - Total Bilirubin: 0.8 mg/dL
 - Creatinine: 0.9 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
 
 5. TREATMENT HISTORY
-Plan: Initiate combination therapy with Boserolimab (MK-5890) and Pembrolizumab as part of a Phase 1 study (NCT03396445). Administer Boserolimab and Pembrolizumab IV every 3 weeks. Monitor for dose-limiting toxicities (DLTs) and antitumor response via RECIST 1.1. Follow contraception requirements for 120 days after the last dose.
+- Plan: Initiate combination therapy with Boserolimab (MK-5890) and Pembrolizumab as part of a Phase 1 study (NCT03396445). Administer Boserolimab and Pembrolizumab IV every 3 weeks. Monitor for dose-limiting toxicities (DLTs) and antitumor response via RECIST 1.1. Follow contraception requirements for 120 days after the last dose.

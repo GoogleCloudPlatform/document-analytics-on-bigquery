@@ -1,18 +1,19 @@
 PATIENT PROFILE: ALEXANDER SKARSGARD
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ALEXANDER SKARSGARD
 - Age: 47 years
 - Sex: Male
 - Place of Residency: China
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Adjuvant MIUC
-- Secondary Condition: None documented
 - Other Relevant History: High-risk post-surgical MIUC patient receiving adjuvant Nivolumab in a routine care setting.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: High risk for recurrence; starting adjuvant Nivolumab.
+- Symptoms: Painful urination, frequent urination, blood in urine, back pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Adjuvant MIUC.
 

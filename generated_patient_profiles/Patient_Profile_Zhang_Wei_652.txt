@@ -1,17 +1,21 @@
+PATIENT PROFILE: ZHANG WEI
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Zhang Wei
 - Age: 45 years
 - Sex: Female
+- Place of Residency: China
 - Race/Ethnicity: Chinese
 - Occupation: Not specified
-- Location: China
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Early-Stage HR+/HER2- Breast Cancer.
+- Primary Disorder: Early-Stage HR+/HER2- Breast Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - PIK3CA-mutant disease.
 - Post-surgical status (lumpectomy).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Breast lump, skin dimpling, nipple discharge.
 - Currently asymptomatic post-lumpectomy.
 - High risk of recurrence based on genomic score.
 - ECOG Performance Status: 0.

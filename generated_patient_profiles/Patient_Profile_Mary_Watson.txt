@@ -1,18 +1,19 @@
 PATIENT PROFILE: MARY WATSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARY WATSON
 - Age: 34 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+- Place of Residency: London, UK
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: PNH Breakthrough Hemolysis
-- Secondary Condition: [Inferred, e.g., None or Hypertension]
 - Other Relevant History: Transition to long-acting C5 inhibitor to maintain clinical stability.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LDH spikes between doses of prior therapy; switching to Ravulizumab for stable inhibition. Patient reports dark urine and extreme fatigue.
+- Symptoms: Dark-colored urine (hemoglobinuria), abdominal pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: MARY WATSON
 - Clinical Markers: LDH level 2.8x Upper Limit of Normal (ULN); Hemoglobin 8.2 g/dL; Flow cytometry confirms 42% PNH clone size in granulocytes.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard of Care as per context]
+- Prior Therapy: Standard of Care as per context
 - Current Plan: LDH spikes between doses of prior therapy; switching to Ravulizumab for stable inhibition.

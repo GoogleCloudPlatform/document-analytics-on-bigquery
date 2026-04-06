@@ -1,18 +1,19 @@
 PATIENT PROFILE: ANNA KOWALSKA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ANNA KOWALSKA
 - Age: 32 years
 - Sex: Female
 - Place of Residency: Poland
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe SLE (Poland)
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Adult SLE patient in Poland initiating Anifrolumab within routine clinical practice.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting Anifrolumab after failure of standard therapy including hydroxychloroquine and azathioprine. SLEDAI-2K score of 12.
+- Symptoms: Joint pain, fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Moderate-to-Severe SLE (Poland).
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: ANNA KOWALSKA
 - Clinical Markers: Positive for anti-dsDNA antibodies; low C3 and C4 complement levels.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Starting Anifrolumab after failure of standard therapy including hydroxychloroquine and azathioprine.

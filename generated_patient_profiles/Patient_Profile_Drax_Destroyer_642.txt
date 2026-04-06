@@ -1,16 +1,20 @@
+PATIENT PROFILE: DRAX DESTROYER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Drax Destroyer
 - Age: 32 years
 - Sex: Male
+- Place of Residency: Taiwan
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Taiwan
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Transfusion-Dependent Beta-Thalassemia Major.
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia Major.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Chronic Anemia.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anemia.
 - Generalized fatigue and limited exercise tolerance.
 - Requires regular blood transfusions to maintain hemoglobin levels.
 - Physical Status: Stable but chronically ill.

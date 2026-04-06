@@ -1,17 +1,21 @@
+PATIENT PROFILE: ROCKET RACCOON
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Rocket Raccoon
 - Age: 50 years
 - Sex: Male
+- Place of Residency: London, UK
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Eosinophilic Asthma.
+- Primary Disorder: Severe Eosinophilic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Controlled Hypertension.
 - Increased risk for Major Adverse Cardiovascular Events (MACE).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Persistent wheezing and cough despite high-dose ICS/LABA.
 - Multiple exacerbations in the last year.
 - Blood pressure: 135/85 mmHg (controlled).

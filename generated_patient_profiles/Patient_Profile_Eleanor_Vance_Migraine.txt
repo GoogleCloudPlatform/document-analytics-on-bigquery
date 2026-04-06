@@ -1,6 +1,7 @@
 PATIENT PROFILE: ELEANOR VANCE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELEANOR VANCE
 - Age: 32 years
 - Sex: Female
 - Place of Residency: Illinois, USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: ELEANOR VANCE
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Migraine
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: Prior to the estimated Last Menstrual Period (LMP) for the current pregnancy.
 - Healthcare Status: Continuous enrollment in a health care plan (medical and pharmacy benefits) for at least 6 months before LMP.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Recurrent severe headache attacks associated with nausea and photophobia.
+- Symptoms: Throbbing or pulsating pain, nausea.
 - Performance Status: ECOG 0 (Fully active).
 - Physical Status: No record of exposure to ditans or CGRP monoclonal antibodies during the current pregnancy.
 

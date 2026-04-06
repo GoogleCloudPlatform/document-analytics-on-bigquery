@@ -1,16 +1,18 @@
 PATIENT PROFILE: MARCUS V.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARCUS V.
 - Age: 66 years
 - Sex: Male
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: Melbourne, Australia
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Polycythemia Vera (PV).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Treatment History: Inadequate response or intolerance to hydroxyurea.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent symptoms including pruritus (itching), fatigue, and symptomatic splenomegaly.
+- Symptoms: Leukocytosis, extramedullary hematopoiesis.
 - Hematocrit Level: Hematocrit remains above 45% despite phlebotomy.
 
 4. LABORATORY RESULTS

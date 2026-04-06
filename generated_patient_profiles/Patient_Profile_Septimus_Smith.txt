@@ -1,36 +1,40 @@
+PATIENT PROFILE: SEPTIMUS SMITH
+
 1. DEMOGRAPHIC INFORMATION
-Name: Septimus Smith
-Age: 12
-Gender: Male
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Student
+- Name: Septimus Smith
+- Age: 12
+- Sex: Male
+- Place of Residency: London, UK
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Pediatric Kidney Transplant recipient (Status: 6 weeks post-transplant).
-Status: CMV D+/R- (Donor positive, Recipient negative serostatus).
-Requirement: Cytomegalovirus (CMV) Prophylaxis.
-Comorbidities: No CMV disease. Stable kidney function post-transplant. No history of Child-Pugh B or C hepatic insufficiency.
+- Primary Disorder: Pediatric Kidney Transplant recipient (Status: 6 weeks post-transplant).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: CMV D+/R- (Donor positive, Recipient negative serostatus).
+- Requirement: Cytomegalovirus (CMV) Prophylaxis.
+- Comorbidities: No CMV disease. Stable kidney function post-transplant. No history of Child-Pugh B or C hepatic insufficiency.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Clinically stable. No symptoms of CMV infection.
-Weight: 35 kg (Meets >= 2.5 and < 40 kg requirement).
-Status: Not on dialysis. No uncontrolled infection. Not requiring mechanical ventilation. Hemodynamically stable.
-Ability: Able to take oral tablets.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Weight: 35 kg (Meets >= 2.5 and < 40 kg requirement).
+- Status: Not on dialysis. No uncontrolled infection. Not requiring mechanical ventilation. Hemodynamically stable.
+- Ability: Able to take oral tablets.
 
 4. LABORATORY RESULTS
-Virology:
+- Virology:
 - CMV DNA: Undetectable (tested 5 days prior).
-Renal Function:
+- Renal Function:
 - Creatinine: 0.8 mg/dL (Stable for age)
 - eGFR: 75 mL/min/1.73m2
-Chemistry:
+- Chemistry:
 - ALT: 22 U/L
 - AST: 20 U/L
 - Total Bilirubin: 0.6 mg/dL
-Hematology:
+- Hematology:
 - WBC: 6.2 x 10^3/µL
 - Hemoglobin: 11.5 g/dL
 
 5. TREATMENT HISTORY
-Plan: Initiate CMV prophylaxis with Letermovir (MK-8228) as part of a Phase 1 open-label study (NCT07199465). Letermovir 480 mg (or adjusted dose based on weight/protocol) orally once daily. Monitor for letermovir pharmacokinetics and safety. Conduct regular CMV DNA surveillance to ensure continued undetectable status.
+- Plan: Initiate CMV prophylaxis with Letermovir (MK-8228) as part of a Phase 1 open-label study (NCT07199465). Letermovir 480 mg (or adjusted dose based on weight/protocol) orally once daily. Monitor for letermovir pharmacokinetics and safety. Conduct regular CMV DNA surveillance to ensure continued undetectable status.

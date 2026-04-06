@@ -1,18 +1,19 @@
 PATIENT PROFILE: SAM WILSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SAM WILSON
 - Age: 47 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+- Place of Residency: Berlin, Germany
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Asthma Surveillance
-- Secondary Condition: [Inferred, e.g., None or Hypertension]
 - Other Relevant History: PASS study focusing on long-term cardiovascular safety in real-world Tezspire users.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting Tezepelumab; participating in cardiac safety monitoring registry. History of eosinophilic asthma with comorbid cardiovascular risk.
+- Symptoms: Difficulty breathing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: SAM WILSON
 - Clinical Markers: Blood eosinophil count 480 cells/µL. Cardiac Markers: Troponin I within normal limits; baseline ECG show stable rhythm.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard of Care as per context]
+- Prior Therapy: Standard of Care as per context
 - Current Plan: Starting Tezepelumab; participating in cardiac safety monitoring registry.

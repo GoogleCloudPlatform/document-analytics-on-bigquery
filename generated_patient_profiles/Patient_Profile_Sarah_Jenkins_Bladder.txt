@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH JENKINS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH JENKINS
 - Age: 65 years
 - Sex: Female
 - Place of Residency: Massachusetts, USA
@@ -8,12 +9,13 @@ PATIENT PROFILE: SARAH JENKINS
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Muscle Invasive Bladder Cancer (Urothelial Carcinoma)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Status: Metastatic disease.
 - Molecular Markers: Deleterious BRCA1 mutation (confirmed via genomic sequencing).
 - Medical History: No history of MDS or AML.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: General fatigue and localized pelvic discomfort.
+- Symptoms: Blood in urine, back pain, painful urination, frequent urination.
 - Performance Status: WHO 0 (Fully active, able to carry on all pre-disease activities).
 - Physical Status: No blood transfusions in the past 120 days; no abnormalities on cardiac evaluation (normal QTc, LVEF).
 

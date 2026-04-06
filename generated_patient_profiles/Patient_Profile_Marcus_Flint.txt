@@ -1,18 +1,19 @@
 PATIENT PROFILE: MARCUS FLINT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARCUS FLINT
 - Age: 61 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
-- Secondary Condition: None documented
 - Other Relevant History: Adult patient with symptomatic PNH and renal concerns participating in a real-life treatment outcome study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Serum creatinine is borderline high; needs a stable therapy that maintains consistent C5 blockade to prevent further renal damage.
+- Symptoms: Dark-colored urine (hemoglobinuria), abdominal pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
 

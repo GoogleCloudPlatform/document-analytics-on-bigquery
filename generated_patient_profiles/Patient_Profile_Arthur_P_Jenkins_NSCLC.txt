@@ -1,6 +1,7 @@
 PATIENT PROFILE: ARTHUR P. JENKINS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR P. JENKINS
 - Age: 62 years
 - Sex: Male
 - Place of Residency: Kentucky, USA
@@ -8,13 +9,14 @@ PATIENT PROFILE: ARTHUR P. JENKINS
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Histologically confirmed Stage IV NSCLC.
 - Current Stage: Stage IV (Metastatic)
 - Molecular Markers: Negative for EGFR mutations and ALK fusions.
 - PD-L1 Expression: TPS 35%
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue and shortness of breath with moderate exertion.
+- Symptoms: Pleural effusion, pleural nodules.
 - Performance Status: ECOG 1 (Ambulatory).
 - Physical Status: No history of autoimmune disorders or primary immunodeficiency; no untreated CNS metastases.
 

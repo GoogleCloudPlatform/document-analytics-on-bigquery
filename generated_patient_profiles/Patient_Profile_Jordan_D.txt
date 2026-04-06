@@ -1,16 +1,18 @@
 PATIENT PROFILE: JORDAN D.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JORDAN D.
 - Age: 19 years
 - Sex: Male
 - Place of Residency: United States
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Alopecia Areata (AA).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Extent: Greater than 50% scalp hair loss.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Extensive, patchy hair loss on the scalp.
+- Symptoms: Absence of hair.
 - Psychological Impact: The hair loss is causing significant emotional distress.
 - Prior Treatment Response: No significant regrowth after treatment with topical and intralesional corticosteroids.
 

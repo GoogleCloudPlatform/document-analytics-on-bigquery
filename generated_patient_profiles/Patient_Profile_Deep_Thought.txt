@@ -1,18 +1,19 @@
 PATIENT PROFILE: DEEP THOUGHT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: DEEP THOUGHT
 - Age: 45 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
-- Secondary Condition: None documented
 - Other Relevant History: Adult with symptomatic PNH seeking stable hemoglobin and reduced breakthrough hemolysis on Ravulizumab.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LDH levels are 3x the upper limit of normal; flow cytometry shows a 50% PNH clone size; starting Ravulizumab.
+- Symptoms: Abdominal pain, dark-colored urine (hemoglobinuria), shortness of breath, fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
 

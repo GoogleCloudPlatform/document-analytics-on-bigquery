@@ -1,18 +1,19 @@
 PATIENT PROFILE: JEREMY STRONG
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JEREMY STRONG
 - Age: 45 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
-- Secondary Condition: None documented
 - Other Relevant History: Real-world patient transitioning to a longer-acting C5 inhibitor for clinical stability.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LDH spikes above ULN; transitioning to Ravulizumab for more consistent inhibition.
+- Symptoms: Dark-colored urine (hemoglobinuria), abdominal pain, shortness of breath.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
 

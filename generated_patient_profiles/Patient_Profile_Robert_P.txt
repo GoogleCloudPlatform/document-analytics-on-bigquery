@@ -1,6 +1,7 @@
 PATIENT PROFILE: ROBERT P.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ROBERT P.
 - Age: 59 years
 - Sex: Male
 - Place of Residency: Miami, FL, USA
@@ -8,10 +9,11 @@ PATIENT PROFILE: ROBERT P.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Eosinophilic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Eosinophil Count: 450 cells/μL.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Frequent exacerbations.
+- Symptoms: Difficulty breathing.
 - Performance Status: Limited.
 
 4. LABORATORY RESULTS

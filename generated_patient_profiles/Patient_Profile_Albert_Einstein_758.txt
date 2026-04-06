@@ -1,18 +1,19 @@
 PATIENT PROFILE: ALBERT EINSTEIN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ALBERT EINSTEIN
 - Age: 68 years
 - Sex: Male
-- Place of Residency: Unknown
+- Place of Residency: Toronto, Canada
 - Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: US-based patient with symptomatic oHCM initiating Mavacamten as part of standard care.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Echo shows a resting LVOT gradient of 55 mmHg; starting Mavacamten for gradient reduction. NYHA Functional Class III symptoms including exertional dyspnea.
+- Symptoms: Left ventricular hypertrophy, right ventricular hypertrophy.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: ALBERT EINSTEIN
 - Cardiac Imaging: Echocardiogram shows interventricular thickness of 19 mm and peak resting LVOT gradient of 65 mmHg. Preserved LVEF (60%).
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: Echo shows a resting LVOT gradient of 55 mmHg; starting Mavacamten for gradient reduction.

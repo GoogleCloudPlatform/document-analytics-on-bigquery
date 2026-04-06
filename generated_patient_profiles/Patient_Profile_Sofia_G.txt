@@ -1,17 +1,19 @@
 PATIENT PROFILE: SOFIA G.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SOFIA G.
 - Age: 9 years
 - Sex: Female
 - Place of Residency: Rio de Janeiro, Brazil
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Atopic Dermatitis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - EASI Score: 26.
 - Prior Treatment: Inadequate response to topical therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Severe eczema.
+- Symptoms: Inflammation of the skin.
 - Impact: Affects quality of life.
 
 4. LABORATORY RESULTS

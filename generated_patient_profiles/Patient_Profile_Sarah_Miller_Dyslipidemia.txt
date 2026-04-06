@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH MILLER
 - Age: 45 years
 - Sex: Female
 - Place of Residency: Texas, USA
@@ -8,12 +9,13 @@ PATIENT PROFILE: SARAH MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Dyslipidemia
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - BMI: 24.5 kg/m²
 - Weight: 65 kg
 - Medical History: Healthy postmenopausal female; no chronic cardiovascular, hepatic, or renal diseases.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Asymptomatic.
+- Symptoms: Low hdl cholesterol, elevated ldl cholesterol, high triglycerides.
 - Performance Status: Fully active and fit.
 - Physical Status: No recent surgeries or illnesses within the past 4 weeks; no known drug allergies.
 

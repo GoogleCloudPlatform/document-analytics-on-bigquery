@@ -1,6 +1,7 @@
 PATIENT PROFILE: EMMA W.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: EMMA W.
 - Age: 6 months
 - Sex: Female
 - Place of Residency: UK
@@ -8,10 +9,11 @@ PATIENT PROFILE: EMMA W.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk for RSV.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Risk Factor: Prematurity.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: None.
+- Symptoms: Fever, sneezing, wheezing.
 - Health Status: High-risk infant.
 
 4. LABORATORY RESULTS

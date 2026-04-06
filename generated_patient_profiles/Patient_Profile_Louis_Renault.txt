@@ -1,16 +1,20 @@
+PATIENT PROFILE: LOUIS RENAULT
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Louis Renault
 - Age: 53 years
 - Sex: Male
+- Place of Residency: Casablanca, Morocco
 - Race/Ethnicity: Not specified
 - Occupation: Prefect of Police
-- Location: Casablanca, Morocco
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Generalized Myasthenia Gravis (gMG).
+- Primary Disorder: Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Anti-AChR antibody-positive.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Diplopia, fatigable weakness, cranial muscle weakness.
 - Generalized muscle fatigue, worsening as the day progresses.
 - Occasional diplopia.
 - MG-ADL score: 11.

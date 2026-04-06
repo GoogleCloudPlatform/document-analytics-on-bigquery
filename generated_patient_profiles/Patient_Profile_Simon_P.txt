@@ -1,6 +1,7 @@
 PATIENT PROFILE: SIMON P.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SIMON P.
 - Age: 7 months
 - Sex: Male
 - Place of Residency: UK
@@ -8,10 +9,11 @@ PATIENT PROFILE: SIMON P.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk for RSV.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Risk Factors: Prematurity and CLD.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: None.
+- Symptoms: Decrease in appetite, coughing, fever.
 - Health Status: High-risk infant.
 
 4. LABORATORY RESULTS

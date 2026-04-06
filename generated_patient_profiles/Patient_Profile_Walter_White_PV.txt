@@ -1,6 +1,7 @@
 PATIENT PROFILE: WALTER WHITE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: WALTER WHITE
 - Age: 56 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: WALTER WHITE
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Polycythemia Vera (PV)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Comorbidities: History of blood clots.
 - Disease Status: Elevated hematocrit levels.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Severe itching (pruritus), fatigue, and headaches.
+- Symptoms: Leukocytosis, myelofibrosis, splenomegaly, increased total blood volume.
 - Performance Status: ECOG 1.
 - Physical Status: Requiring frequent phlebotomies.
 

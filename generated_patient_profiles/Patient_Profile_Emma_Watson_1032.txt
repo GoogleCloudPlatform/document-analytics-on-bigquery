@@ -1,30 +1,33 @@
+PATIENT PROFILE: EMMA WATSON
+
 1. DEMOGRAPHIC INFORMATION
-Name: Emma Watson
-Age: 28
-Sex: Female
-Residency: London, UK
-Occupation: Graduate Student
+- Name: Emma Watson
+- Age: 28
+- Sex: Female
+- Place of Residency: London, UK
+- Occupation: Graduate Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Diagnosis: Healthy Volunteer (Living with Obesity)
-Duration: N/A
-Comorbidities: None
+- Primary Disorder: Healthy Volunteer (Living with Obesity)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Duration: N/A
+- Comorbidities: None
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Generally healthy, no acute symptoms.
-Physical Status: BMI 32.1 kg/m2, weight 88 kg, height 165 cm. Normal vital signs.
-Lifestyle: Non-smoker, no history of alcohol or drug abuse. Heterosexually active.
+- Symptoms: Excess body fat.
+- Physical Status: BMI 32.1 kg/m2, weight 88 kg, height 165 cm. Normal vital signs.
+- Lifestyle: Non-smoker, no history of alcohol or drug abuse. Heterosexually active.
 
 4. LABORATORY RESULTS
-Pregnancy Test: Negative
-HbA1c: 5.2%
-Blood Pressure: 118/76 mmHg
-Complete Blood Count: Within normal limits
-Comprehensive Metabolic Panel: Within normal limits
-Urinalysis: Normal
-HBsAg: Negative
-HIV: Negative
+- Pregnancy Test: Negative
+- HbA1c: 5.2%
+- Blood Pressure: 118/76 mmHg
+- Complete Blood Count: Within normal limits
+- Comprehensive Metabolic Panel: Within normal limits
+- Urinalysis: Normal
+- HBsAg: Negative
+- HIV: Negative
 
 5. TREATMENT HISTORY
-Previous Treatments: None. Currently using a non-hormonal method of contraception (copper IUD).
-Plan: Participate in a drug-drug interaction study to evaluate the effect of a new metabolic drug on oral contraceptive hormone levels.
+- Previous Treatments: None. Currently using a non-hormonal method of contraception (copper IUD).
+- Plan: Participate in a drug-drug interaction study to evaluate the effect of a new metabolic drug on oral contraceptive hormone levels.

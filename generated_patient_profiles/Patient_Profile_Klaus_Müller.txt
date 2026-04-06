@@ -1,6 +1,7 @@
 PATIENT PROFILE: KLAUS MÜLLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KLAUS MÜLLER
 - Age: 55 years
 - Sex: Male
 - Place of Residency: Germany
@@ -8,12 +9,13 @@ PATIENT PROFILE: KLAUS MÜLLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Moderate-to-Severe Plaque Psoriasis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Onset: 20 years prior
 - Disease Severity: PASI score of 18, sPGA of 3 (moderate).
 - Impact: Significantly impacted quality of life and daily activities.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Erythematous, scaly plaques covering various body areas (e.g., scalp, elbows, knees, lower back). Pruritus present.
+- Symptoms: Erythematous skin, skin lesions, scaling patches.
 - Performance Status: Able to maintain regular activities, but with discomfort and self-consciousness due to skin condition.
 - Comorbidities: None specified, assumed otherwise healthy.
 

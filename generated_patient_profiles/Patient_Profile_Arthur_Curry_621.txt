@@ -1,17 +1,21 @@
+PATIENT PROFILE: ARTHUR CURRY
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Arthur Curry
 - Age: 65 years
 - Sex: Male
+- Place of Residency: USA
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Advanced Solid Malignancy (Metastatic).
+- Primary Disorder: Advanced Solid Malignancy (Metastatic).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Type 2 Diabetes Mellitus.
 - Hypertension.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Stable metastatic disease.
 - Controlled hypertension and blood glucose.
 - ECOG Performance Status: 1.

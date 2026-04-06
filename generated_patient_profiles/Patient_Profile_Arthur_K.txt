@@ -1,18 +1,20 @@
 PATIENT PROFILE: ARTHUR K.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR K.
 - Age: 45 years
 - Sex: Male
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: New York, USA
 - Employment Status: Active. Supports ECOG 2 status due to moderate disability.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Serology: Anti-Acetylcholine Receptor (AChR) antibody-positive.
 - Disease Severity: Significant muscle weakness affecting daily activities.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Ptosis (drooping eyelids), diplopia (double vision), dysphagia (difficulty swallowing), dysarthria (slurred speech), and limb weakness, particularly exacerbated with sustained activity.
+- Symptoms: Asymmetric ophthalmoplegia, fatigable weakness, weakness of eye closure, proximal limb muscle weakness.
 - Performance Status: MG-ADL score of 8, indicating substantial impact on daily living. ECOG 2 (Ambulatory and capable of all selfcare but unable to carry out any work activities; up and about >50% of waking hours).
 - Respiratory Function: Monitoring for respiratory compromise, but currently stable.
 

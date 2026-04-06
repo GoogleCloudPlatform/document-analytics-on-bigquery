@@ -1,18 +1,19 @@
 PATIENT PROFILE: ELIAS THORNE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELIAS THORNE
 - Age: 45 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
-- Secondary Condition: None documented
 - Other Relevant History: Real-world patient with symptomatic oHCM participating in a treatment registry for Mavacamten.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating myosin modulation to improve exercise capacity and overall quality of life. NYHA Functional Class II or III.
+- Symptoms: Left ventricular hypertrophy, reduced left ventricular volume.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

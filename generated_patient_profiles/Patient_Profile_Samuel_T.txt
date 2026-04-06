@@ -1,17 +1,18 @@
 PATIENT PROFILE: SAMUEL T.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SAMUEL T.
 - Age: 45 years
 - Sex: Male
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: Manchester, UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Complicated Urinary Tract Infection (cUTI).
-- History: History of recurrent UTIs, suggesting an underlying urological issue.
+- Other Relevant History: History of recurrent UTIs, suggesting an underlying urological issue.
 - Microbiology: Urine culture positive for a Carbapenem-Resistant Enterobacteriaceae (CRE).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fever, chills, flank pain, and dysuria.
+- Symptoms: Inflammatory responses, bacteriuria, pyuria.
 - Hospitalization: Hospitalized for intravenous antibiotic therapy.
 
 4. LABORATORY RESULTS

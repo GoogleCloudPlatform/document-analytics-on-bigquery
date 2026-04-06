@@ -1,16 +1,18 @@
 PATIENT PROFILE: KAREEM H.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KAREEM H.
 - Age: 65 years
 - Sex: Male
 - Place of Residency: Cairo, Egypt
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Myelodysplastic Syndromes with Ring Sideroblasts (MDS-RS) with Anemia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Status: Transfusion-dependent.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue.
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
 - Performance Status: ECOG 1.
 
 4. LABORATORY RESULTS

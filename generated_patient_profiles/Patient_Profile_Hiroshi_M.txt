@@ -1,16 +1,18 @@
 PATIENT PROFILE: HIROSHI M.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: HIROSHI M.
 - Age: 44 years
 - Sex: Male
 - Place of Residency: Kyoto, Japan
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Activity: High LDH levels (>1.5x ULN).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Hemolysis-related symptoms.
+- Symptoms: Shortness of breath, dark-colored urine (hemoglobinuria), abdominal pain.
 - Treatment History: Previously on Eculizumab.
 
 4. LABORATORY RESULTS

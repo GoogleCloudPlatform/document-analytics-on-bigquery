@@ -1,19 +1,20 @@
 PATIENT PROFILE: LIAM B.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LIAM B.
 - Age: 6 months
 - Sex: Male
-- Place of Residency: [To be inferred or randomized, e.g., Philadelphia, PA, USA based on common birthplaces/locations for studies involving high-risk infants in the US]
+- Place of Residency: Munich, Germany
 - Employment Status: Not applicable (infant)
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Lung Disease of Prematurity
+- Other Relevant History: No known congenital heart disease or significant immunodeficiency.
 - Secondary Condition: High Risk of Severe Respiratory Syncytial Virus (RSV) Infection
 - Gestational Age at Birth: 30 weeks (premature)
-- Other Relevant History: No known congenital heart disease or significant immunodeficiency.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: No current acute respiratory symptoms. Prior history of respiratory distress syndrome at birth.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: Infant. Developmentally appropriate for corrected age, but requires close monitoring due to lung vulnerability.
 - Cardiac Health: Normal cardiac function for age; no signs of pulmonary hypertension.
 - Immunization Status: Up-to-date on routine infant immunizations.

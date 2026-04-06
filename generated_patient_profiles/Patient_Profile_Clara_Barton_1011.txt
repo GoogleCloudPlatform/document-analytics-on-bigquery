@@ -1,37 +1,41 @@
+PATIENT PROFILE: CLARA BARTON
+
 1. DEMOGRAPHIC INFORMATION
-Name: Clara Barton
-Age: 55
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Nurse Practitioner
+- Name: Clara Barton
+- Age: 55
+- Sex: Female
+- Place of Residency: Sydney, Australia
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Nurse Practitioner
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic HER2-Positive Advanced Breast Cancer.
-Status: Diagnosed with HER2+ metastatic breast cancer (mBC) after previous Stage II diagnosis.
-Molecular Status: Confirmed HER2-receptor positivity.
-Treatment History: Progressed after treatment with Trastuzumab Deruxtecan (T-DXd) in the 2L setting. Previously received taxane and trastuzumab.
-Comorbidities: None. No other cancers prior to mBC diagnosis. Not participating in other clinical trials.
+- Primary Disorder: Metastatic HER2-Positive Advanced Breast Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Diagnosed with HER2+ metastatic breast cancer (mBC) after previous Stage II diagnosis.
+- Molecular Status: Confirmed HER2-receptor positivity.
+- Treatment History: Progressed after treatment with Trastuzumab Deruxtecan (T-DXd) in the 2L setting. Previously received taxane and trastuzumab.
+- Comorbidities: None. No other cancers prior to mBC diagnosis. Not participating in other clinical trials.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Mild bone pain, fatigue.
-Physical Examination: Palpable breast mass, stable vital signs. No signs of CNS involvement.
-Life Expectancy: > 6 months.
+- Symptoms: Skin dimpling, breast pain.
+- Performance Status: ECOG 1.
+- Physical Examination: Palpable breast mass, stable vital signs. No signs of CNS involvement.
+- Life Expectancy: > 6 months.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 11.2 g/dL
 - WBC: 5.8 x 10^3/µL
 - Platelets: 190 x 10^9/L
-Chemistry:
+- Chemistry:
 - ALT: 30 U/L
 - AST: 28 U/L
 - Total Bilirubin: 0.9 mg/dL
 - Creatinine: 0.8 mg/dL
-Molecular Testing:
+- Molecular Testing:
 - HER2: 3+ by IHC.
 - ER/PR: Negative.
 
 5. TREATMENT HISTORY
-Plan: Initiate triple therapy with Tucatinib, Trastuzumab, and Capecitabine immediately following T-DXd failure as part of a retrospective database study (NCT06961331). Administer Tucatinib 300 mg BID orally, Trastuzumab 6 mg/kg IV every 3 weeks, and Capecitabine 1000 mg/m2 BID orally (Days 1-14). Monitor time to next treatment (TTNT), time to discontinuation (TTD), and overall survival (OS). Avoid concomitant endocrine therapy.
+- Plan: Initiate triple therapy with Tucatinib, Trastuzumab, and Capecitabine immediately following T-DXd failure as part of a retrospective database study (NCT06961331). Administer Tucatinib 300 mg BID orally, Trastuzumab 6 mg/kg IV every 3 weeks, and Capecitabine 1000 mg/m2 BID orally (Days 1-14). Monitor time to next treatment (TTNT), time to discontinuation (TTD), and overall survival (OS). Avoid concomitant endocrine therapy.

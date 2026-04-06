@@ -1,18 +1,19 @@
 PATIENT PROFILE: SARA LANCE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARA LANCE
 - Age: 35 years
 - Sex: Female
 - Place of Residency: Japan
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Atopic Dermatitis
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Japanese patient with atopic dermatitis initiating Abrocitinib in a long-term safety investigation.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: EASI score of 22; starting Abrocitinib (CIBINQO) for symptom control.
+- Symptoms: Inflammation of the skin.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Moderate-to-Severe Atopic Dermatitis.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: SARA LANCE
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: EASI score of 22; starting Abrocitinib (CIBINQO) for symptom control.

@@ -1,16 +1,18 @@
 PATIENT PROFILE: MICHAEL R.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MICHAEL R.
 - Age: 31 years
 - Sex: Male
 - Place of Residency: Boston, MA, USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Schizophrenia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Goal: Psychosis management.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Positive and negative symptoms of schizophrenia.
+- Symptoms: Delusions, disorganized thinking, hallucinations.
 - Functionality: Impaired.
 
 4. LABORATORY RESULTS

@@ -1,16 +1,20 @@
+PATIENT PROFILE: KAMALA KHAN
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Kamala Khan
 - Age: 70 years
 - Sex: Female
+- Place of Residency: China
 - Race/Ethnicity: Chinese
 - Occupation: Retired
-- Location: China
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Lower-Risk Myelodysplastic Syndromes (MDS).
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptomatic Anemia.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
 - Chronic fatigue and shortness of breath.
 - Requires regular monitoring for anemia symptoms.
 - ECOG Performance Status: 1.

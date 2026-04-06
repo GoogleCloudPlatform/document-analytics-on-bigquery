@@ -1,6 +1,7 @@
 PATIENT PROFILE: LUCAS VAN DER VELDE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LUCAS VAN DER VELDE
 - Age: 15 years
 - Sex: Male
 - Place of Residency: The Netherlands
@@ -8,11 +9,12 @@ PATIENT PROFILE: LUCAS VAN DER VELDE
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis: Histologically confirmed metastatic melanoma.
 - Disease Status: Completed ipilimumab treatment for advanced disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified at current follow-up, but historically associated with metastatic melanoma (e.g., lymphadenopathy, skin lesions, fatigue).
+- Symptoms: Metastasis, lung melanoma, liver melanoma.
 - Performance Status: Assumed good, in long-term follow-up.
 
 4. LABORATORY RESULTS

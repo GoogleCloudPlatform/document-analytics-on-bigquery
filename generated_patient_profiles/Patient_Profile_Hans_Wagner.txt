@@ -1,16 +1,20 @@
+PATIENT PROFILE: HANS WAGNER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Hans Wagner
 - Age: 67 years
 - Sex: Male
+- Place of Residency: London, UK
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Muscle Invasive Bladder Cancer (MIBC).
+- Primary Disorder: Muscle Invasive Bladder Cancer (MIBC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Urothelial carcinoma of the bladder (Stage T2N0M0).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Blood in urine, back pain, frequent urination, painful urination.
 - Intermittent hematuria.
 - Frequency and urgency of urination.
 - ECOG Performance Status: 0.

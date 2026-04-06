@@ -1,16 +1,18 @@
 PATIENT PROFILE: MAREK P.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MAREK P.
 - Age: 52 years
 - Sex: Male
 - Place of Residency: Warsaw, Poland
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High-Risk Resectable Melanoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Stage: Stage III melanoma.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Asymptomatic after diagnosis.
+- Symptoms: Skin lesion, eye lesion, pigmented lesion, change in mole.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

@@ -1,16 +1,20 @@
+PATIENT PROFILE: ERIK LEHNSHERR
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Erik Lehnsherr
 - Age: 60 years
 - Sex: Male
+- Place of Residency: Paris, France
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Chronic Intravascular Hemolysis.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abdominal pain, dark-colored urine (hemoglobinuria), shortness of breath.
 - Significant fatigue and exertion-based weakness.
 - History of dark-colored urine episodes.
 - No history of major thromboembolism.

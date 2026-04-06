@@ -1,18 +1,19 @@
 PATIENT PROFILE: JULIAN BLACKWOOD
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JULIAN BLACKWOOD
 - Age: 42 years
 - Sex: Male
 - Place of Residency: the week prior to dosing
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
-- Secondary Condition: None documented
 - Other Relevant History: Adult with PNH transitioning to Ravulizumab for better clinical stability and reduced dosing frequency in a real-world setting.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: LDH levels are consistently 1.5x the upper limit of normal; seeking a longer-acting complement inhibitor.
+- Symptoms: Dark-colored urine (hemoglobinuria), fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
 

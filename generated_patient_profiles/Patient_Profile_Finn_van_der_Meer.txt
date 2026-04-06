@@ -1,6 +1,7 @@
 PATIENT PROFILE: FINN VAN DER MEER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FINN VAN DER MEER
 - Age: 14 years
 - Sex: Male
 - Place of Residency: Netherlands
@@ -8,11 +9,11 @@ PATIENT PROFILE: FINN VAN DER MEER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Pediatric Melanoma
+- Other Relevant History: Failure of initial surgical resection.
 - Disease Status: Metastatic disease.
-- History: Failure of initial surgical resection.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Localized lesions and nodal involvement.
+- Symptoms: Eye lesion, change in mole.
 - Performance Status: Active for age.
 - Physical Status: Metastatic disease status.
 

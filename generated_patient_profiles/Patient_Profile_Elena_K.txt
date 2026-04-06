@@ -1,16 +1,18 @@
 PATIENT PROFILE: ELENA K.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELENA K.
 - Age: 37 years
 - Sex: Female
 - Place of Residency: Saint Petersburg, Russia
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Antibody Status: Anti-AChR antibody positive.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Significant ocular and bulbar symptoms.
+- Symptoms: Asymmetric ophthalmoplegia, fluctuating ophthalmoplegia, weakness of eye closure.
 - Disease Severity: MG-ADL score of 7.
 
 4. LABORATORY RESULTS

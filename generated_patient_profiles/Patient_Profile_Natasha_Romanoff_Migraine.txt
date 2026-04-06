@@ -1,6 +1,7 @@
 PATIENT PROFILE: NATASHA ROMANOFF
 
 1. DEMOGRAPHIC INFORMATION
+- Name: NATASHA ROMANOFF
 - Age: 35 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: NATASHA ROMANOFF
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Acute Migraine Attacks
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Frequency: 4-5 severe attacks per month.
 - Comorbidities: None.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Severe unilateral headache, photophobia, and nausea.
+- Symptoms: Symptoms.
 - Performance Status: ECOG 0.
 - Physical Status: Requires consistent relief across multiple attacks.
 

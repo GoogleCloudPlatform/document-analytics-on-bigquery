@@ -1,18 +1,19 @@
 PATIENT PROFILE: SHAWNEE BEAR
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SHAWNEE BEAR
 - Age: 38 years
 - Sex: Female
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
-- Secondary Condition: None documented
 - Other Relevant History: Real-world symptomatic oHCM patient initiating Mavacamten in a US-based utilization study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Peak LVOT gradient is 55 mmHg; seeking an oral alternative to beta-blockers which caused excessive fatigue. NYHA Functional Class II or III.
+- Symptoms: Hypertrophic cardiomyopathy, aortic stenosis, right ventricular hypertrophy, heart septum involvement.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

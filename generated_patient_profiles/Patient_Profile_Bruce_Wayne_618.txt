@@ -1,16 +1,20 @@
+PATIENT PROFILE: BRUCE WAYNE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Bruce Wayne
 - Age: 32 years
 - Sex: Male
+- Place of Residency: USA
 - Race/Ethnicity: Not specified
 - Occupation: Business Owner
-- Location: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Alopecia Areata.
+- Primary Disorder: Severe Alopecia Areata.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Alopecia Universalis (total loss of hair on scalp and body).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Absence of hair.
 - Complete loss of hair on the scalp, eyebrows, and eyelashes.
 - Total loss of body hair.
 - SALT score: 100.

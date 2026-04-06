@@ -1,6 +1,7 @@
 PATIENT PROFILE: VICTOR CREED
 
 1. DEMOGRAPHIC INFORMATION
+- Name: VICTOR CREED
 - Age: 50 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: VICTOR CREED
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: KRAS G12C-Mutated Metastatic NSCLC
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Molecular Marker: KRAS G12C mutation confirmed via NGS.
 - Disease Status: Progressed after chemotherapy and immunotherapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic cough and fatigue.
+- Symptoms: Shortness of breath, coughing up blood.
 - Performance Status: ECOG 1.
 - Physical Status: Ineligible for ongoing interventional trials.
 

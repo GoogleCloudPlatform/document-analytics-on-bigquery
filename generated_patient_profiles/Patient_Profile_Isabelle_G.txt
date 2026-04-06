@@ -1,16 +1,18 @@
 PATIENT PROFILE: ISABELLE G.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ISABELLE G.
 - Age: 44 years
 - Sex: Female
 - Place of Residency: Lyon, France
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Pustular Psoriasis (GPP).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Status: Experiencing an acute flare.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Widespread pustules, fever, and malaise.
+- Symptoms: Scaling patches, erythematous skin, skin lesions.
 - Severity: Severe flare requiring hospitalization.
 
 4. LABORATORY RESULTS

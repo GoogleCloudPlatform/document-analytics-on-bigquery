@@ -1,17 +1,19 @@
 PATIENT PROFILE: DAVID R.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: DAVID R.
 - Age: 55 years
 - Sex: Male
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: New York, USA
 - Smoking History: Former smoker.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Stage: Resectable Stage II (T2b N1 M0).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Mild cough. Generally asymptomatic with good functional status.
+- Symptoms: Persistent cough, coughing up blood, chest pain, shortness of breath.
 - Performance Status: ECOG 0 (Fully active, able to carry on all pre-disease performance without restriction).
 - Surgical Candidacy: Deemed fit for lung resection surgery.
 

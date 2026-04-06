@@ -1,16 +1,20 @@
+PATIENT PROFILE: TONY STARK
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Tony Stark
 - Age: 50 years
 - Sex: Male
+- Place of Residency: USA
 - Race/Ethnicity: Not specified
 - Occupation: Engineer/Business Owner
-- Location: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - NYHA Class III symptoms.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Reduced left ventricular volume, cardiac muscle disease.
 - Persistent chest pain during activities.
 - Fainting spells (exertional syncope).
 - Severe exertional dyspnea.

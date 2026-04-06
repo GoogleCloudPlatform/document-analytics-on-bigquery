@@ -1,16 +1,20 @@
+PATIENT PROFILE: RON WEASLEY
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Ron Weasley
 - Age: 38 years
 - Sex: Male
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Unresectable Stage III Cutaneous Melanoma.
+- Primary Disorder: Unresectable Stage III Cutaneous Melanoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - BRAF wild-type.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Change in mole, skin lesion, pigmented lesion.
 - Clinically palpable regional lymph nodes.
 - Unresectable primary lesion on the trunk.
 - ECOG Performance Status: 1.

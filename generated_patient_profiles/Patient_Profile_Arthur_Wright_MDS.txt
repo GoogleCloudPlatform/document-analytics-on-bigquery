@@ -1,6 +1,7 @@
 PATIENT PROFILE: ARTHUR WRIGHT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR WRIGHT
 - Age: 73 years
 - Sex: Male
 - Place of Residency: UK
@@ -8,11 +9,12 @@ PATIENT PROFILE: ARTHUR WRIGHT
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Risk Category: Low-to-intermediate risk.
 - Disease Status: Transfusion-dependent anemia.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic fatigue, weakness, and dizziness.
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
 - Performance Status: ECOG 1.
 - Physical Status: Symptomatic despite standard care.
 

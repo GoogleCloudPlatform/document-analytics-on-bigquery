@@ -1,18 +1,19 @@
 PATIENT PROFILE: ALAN RUCK
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ALAN RUCK
 - Age: 68 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: London, UK
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic NSCLC (PD-L1 <1%)
-- Secondary Condition: None documented
 - Other Relevant History: Candidate for long-term safety and survival study in the first-line dual-IO lung cancer cohort.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: PD-L1 expression 0%; initiating first-line dual-IO therapy.
+- Symptoms: Shortness of breath, persistent cough, chest pain, coughing up blood.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Metastatic NSCLC (PD-L1 <1%).
 

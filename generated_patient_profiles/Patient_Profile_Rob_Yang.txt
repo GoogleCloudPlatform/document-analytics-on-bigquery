@@ -1,18 +1,19 @@
 PATIENT PROFILE: ROB YANG
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ROB YANG
 - Age: 40 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Tokyo, Japan
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-risk MDS Luspatercept
-- Secondary Condition: None documented
 - Other Relevant History: MDS patient starting Luspatercept to reduce blood transfusion frequency.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Transfusion dependent; failing initial ESA treatment; starting Luspatercept.
+- Symptoms: Frequent infections, shortness of breath.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Lower-risk MDS Luspatercept.
 

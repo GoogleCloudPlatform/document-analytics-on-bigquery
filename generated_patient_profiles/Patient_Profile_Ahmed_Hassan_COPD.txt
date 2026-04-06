@@ -1,6 +1,7 @@
 PATIENT PROFILE: AHMED HASSAN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: AHMED HASSAN
 - Age: 64 years
 - Sex: Male
 - Place of Residency: Egypt
@@ -8,11 +9,12 @@ PATIENT PROFILE: AHMED HASSAN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: Frequent cough and exertional dyspnea.
 - Comorbidities: None significant.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Shortness of breath during daily walks and chronic morning cough.
+- Symptoms: Chest tightness, wheezing, shortness of breath, chronic cough.
 - Performance Status: CAT score 23.
 - Physical Status: Moderate-to-severe airflow obstruction.
 

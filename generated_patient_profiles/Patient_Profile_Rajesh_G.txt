@@ -1,17 +1,19 @@
 PATIENT PROFILE: RAJESH G.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: RAJESH G.
 - Age: 62 years
 - Sex: Male
 - Place of Residency: Mumbai, India
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS) with Anemia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Subtype: Ring sideroblast positive.
 - Treatment Status: Refractory to Erythropoiesis-Stimulating Agents (ESAs).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Transfusion-dependent due to chronic anemia.
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
 - Performance Status: ECOG 1.
 
 4. LABORATORY RESULTS

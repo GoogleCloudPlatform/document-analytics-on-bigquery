@@ -1,16 +1,20 @@
+PATIENT PROFILE: CHEN WEI
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Chen Wei
 - Age: 59 years
 - Sex: Male
+- Place of Residency: Shanghai, China
 - Race/Ethnicity: Chinese
 - Occupation: Not specified
-- Location: Shanghai, China
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Diabetic Macular Edema (DME) in the right eye.
+- Primary Disorder: Diabetic Macular Edema (DME) in the right eye.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Type 2 Diabetes Mellitus.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abnormal accumulation of fluid.
 - Blurred central vision in the right eye.
 - Difficulty with reading and near-work activities.
 - General Physical: Stable glycemic control.

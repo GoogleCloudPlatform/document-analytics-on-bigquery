@@ -1,18 +1,19 @@
 PATIENT PROFILE: IRIS WEST
 
 1. DEMOGRAPHIC INFORMATION
+- Name: IRIS WEST
 - Age: 28 years
 - Sex: Female
 - Place of Residency: the UK
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Atopic Dermatitis in Pregnancy
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Pregnant woman with atopic dermatitis participating in a prospective safety surveillance registry.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Monitoring maternal flares and potential infant outcomes post-delivery.
+- Symptoms: Inflammation of the skin.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Atopic Dermatitis in Pregnancy.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: IRIS WEST
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Monitoring maternal flares and potential infant outcomes post-delivery.

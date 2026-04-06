@@ -1,16 +1,18 @@
 PATIENT PROFILE: ISABELLA K.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ISABELLA K.
 - Age: 35 years
 - Sex: Female
 - Place of Residency: Vienna, Austria
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Acute Migraine.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Frequency: 4-6 attacks per month.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Severe, debilitating headaches.
+- Symptoms: Symptoms.
 - Impact: Affects work and social life.
 
 4. LABORATORY RESULTS

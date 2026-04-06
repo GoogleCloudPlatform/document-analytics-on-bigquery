@@ -1,18 +1,19 @@
 PATIENT PROFILE: STEFAN WEBER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: STEFAN WEBER
 - Age: 50 years
 - Sex: Male
 - Place of Residency: Germany
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Plaque Psoriasis
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Plaque psoriasis patient in Germany initiating Deucravacitinib in a real-world effectiveness study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: PASI score of 16; starting Deucravacitinib after inadequate response to topical treatments. PASI score of 18; sPGA score of 3 (moderate).
+- Symptoms: Dry skin, scaling patches.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Moderate-to-Severe Plaque Psoriasis.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: STEFAN WEBER
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: PASI score of 16; starting Deucravacitinib after inadequate response to topical treatments.

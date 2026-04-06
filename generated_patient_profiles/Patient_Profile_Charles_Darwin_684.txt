@@ -1,15 +1,19 @@
+PATIENT PROFILE: CHARLES DARWIN
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Charles Darwin
 - Age: 6 months
 - Sex: Male
+- Place of Residency: Paris, France
 - Race/Ethnicity: Not specified
 - Occupation: N/A (Infant)
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Spinal Muscular Atrophy (SMA), Type 1.
+- Primary Disorder: Spinal Muscular Atrophy (SMA), Type 1.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Muscular weakness, atrophy.
 - Severe hypotonia ("floppy baby").
 - Absence of deep tendon reflexes.
 - Weakness in swallowing and poor head control.

@@ -1,36 +1,40 @@
+PATIENT PROFILE: SARAH JENKINS
+
 1. DEMOGRAPHIC INFORMATION
-Name: Sarah Jenkins
-Age: 27
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Graphic Designer
+- Name: Sarah Jenkins
+- Age: 27
+- Sex: Female
+- Place of Residency: New York, USA
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Graphic Designer
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Severe Alopecia Areata (AA).
-Status: Confirmed diagnosis of severe AA by dermatologist.
-Treatment History: Previously failed to respond to topical immunotherapy and high-potency corticosteroids.
-Comorbidities: None. No history of other types of alopecia. Not currently participating in other interventional studies.
+- Primary Disorder: Severe Alopecia Areata (AA).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Confirmed diagnosis of severe AA by dermatologist.
+- Treatment History: Previously failed to respond to topical immunotherapy and high-potency corticosteroids.
+- Comorbidities: None. No history of other types of alopecia. Not currently participating in other interventional studies.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Nearly total loss of scalp hair and loss of eyebrows. Significant psychological distress related to hair loss.
-Physical Examination: Patchy and confluent hair loss on scalp. No scarring noted.
-SALT Score: 95.
-Clinician Assessment: Severe disease, progressive.
+- Symptoms: Absence of hair.
+- Physical Examination: Patchy and confluent hair loss on scalp. No scarring noted.
+- SALT Score: 95.
+- Clinician Assessment: Severe disease, progressive.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 12.5 g/dL
 - WBC: 6.2 x 10^3/µL
 - Platelets: 240 x 10^3/µL
-Chemistry:
+- Chemistry:
 - ALT: 18 U/L
 - AST: 16 U/L
 - Total Bilirubin: 0.7 mg/dL
 - Creatinine: 0.8 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
-Pregnancy Test: Negative.
+- Pregnancy Test: Negative.
 
 5. TREATMENT HISTORY
-Plan: Initiate treatment with Ritlecitinib (Litfulo) 50 mg orally once daily as part of a real-world experience analysis (SERENATA study, NCT07200128). Participate in regular patient surveys to evaluate satisfaction and treatment experiences. Monitor changes in AA severity and disease activity from baseline to subsequent time points. Undergo periodic clinician assessments of disease stability and hair regrowth.
+- Plan: Initiate treatment with Ritlecitinib (Litfulo) 50 mg orally once daily as part of a real-world experience analysis (SERENATA study, NCT07200128). Participate in regular patient surveys to evaluate satisfaction and treatment experiences. Monitor changes in AA severity and disease activity from baseline to subsequent time points. Undergo periodic clinician assessments of disease stability and hair regrowth.

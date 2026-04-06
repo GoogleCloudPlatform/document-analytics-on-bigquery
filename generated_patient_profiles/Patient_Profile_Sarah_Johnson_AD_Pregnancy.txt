@@ -1,20 +1,22 @@
 PATIENT PROFILE: SARAH JOHNSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH JOHNSON
 - Age: 32 years
 - Sex: Female
-- Pregnancy Status: Currently pregnant (10 weeks gestation; G2P1).
 - Place of Residency: USA
+- Pregnancy Status: Currently pregnant (10 weeks gestation; G2P1).
 - Employment Status: Active (Supports health status assessment)
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Atopic Dermatitis (AD)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Duration: Long-standing history since adolescence.
 - Disease Severity: Moderate-to-severe, requiring systemic therapy for symptom control.
 - Comorbidities: No history of other significant systemic inflammatory or autoimmune disorders.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Recent significant flare-up of atopic dermatitis during early pregnancy, characterized by intense pruritus, erythema, and extensive skin lesions.
+- Symptoms: Inflammation of the skin.
 - Functional Status: Stable at present, following resolution of a significant flare.
 - Performance Status: Ambulatory; able to manage activities of daily living with intermittent limitations during flares.
 - Offspring Status: Currently in first trimester; pregnancy progressing normally.

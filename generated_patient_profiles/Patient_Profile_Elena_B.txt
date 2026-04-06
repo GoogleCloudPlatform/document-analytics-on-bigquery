@@ -1,15 +1,18 @@
 PATIENT PROFILE: ELENA B.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELENA B.
 - Age: 46 years
 - Sex: Female
 - Place of Residency: Milan, Italy
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: HR+/HER2- Early Breast Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Risk: High-risk node-positive EBC.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Breast lump, nipple discharge, breast pain.
 - Status: Post-surgery.
 - Performance Status: Good.
 

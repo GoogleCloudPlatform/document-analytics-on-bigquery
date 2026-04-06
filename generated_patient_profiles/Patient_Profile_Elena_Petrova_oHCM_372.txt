@@ -1,6 +1,7 @@
 PATIENT PROFILE: ELENA PETROVA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELENA PETROVA
 - Age: 43 years
 - Sex: Female
 - Place of Residency: Russia
@@ -8,11 +9,12 @@ PATIENT PROFILE: ELENA PETROVA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Cardiac Anatomy: LV wall thickness 17 mm.
 - Disease Status: Symptomatic heart failure.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Shortness of breath and chest discomfort with exertion.
+- Symptoms: Reduced left ventricular volume, cardiac muscle disease, right ventricular hypertrophy.
 - Performance Status: NYHA Class II.
 - Cardiac Health: Peak LVOT gradient 55 mmHg.
 

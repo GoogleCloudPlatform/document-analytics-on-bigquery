@@ -1,16 +1,18 @@
 PATIENT PROFILE: ISABELLA S.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ISABELLA S.
 - Age: 41 years
 - Sex: Female
 - Place of Residency: Rome, Italy
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Psoriatic Arthritis (PsA).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Activity: Active arthritis in more than 5 joints, as well as significant plaque psoriasis.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Joint pain, stiffness, and swelling in her hands and knees. Psoriatic plaques on her elbows and scalp.
+- Symptoms: Inflammation of joints.
 - Functional Impact: Her symptoms are affecting her ability to perform daily activities.
 
 4. LABORATORY RESULTS

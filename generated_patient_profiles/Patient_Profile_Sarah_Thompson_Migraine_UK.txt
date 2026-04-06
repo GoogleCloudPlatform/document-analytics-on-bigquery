@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH THOMPSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH THOMPSON
 - Age: 38 years
 - Sex: Female
 - Place of Residency: United Kingdom
@@ -8,12 +9,13 @@ PATIENT PROFILE: SARAH THOMPSON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Migraine
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Duration: 5 years (Diagnosed by a neurologist).
 - Clinical Status: High-frequency headache days; diagnosis confirmed per ICHD criteria.
 - Comorbidities: No other specified headache disorders (e.g., cluster headache) or significant psychiatric/neurological conditions.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Average of 18 headache days per month, with 10–12 severe migraine attacks characterized by throbbing headache, photophobia, phonophobia, and nausea.
+- Symptoms: Nausea, light sensitivity.
 - Functional Status: Significantly impacted by attack frequency and severity.
 - Performance Status: Ambulatory; able to manage activities of daily living with intermittent limitations.
 - Pregnancy Status: Not pregnant.

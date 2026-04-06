@@ -1,18 +1,19 @@
 PATIENT PROFILE: PETER FRIEDMAN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: PETER FRIEDMAN
 - Age: 64 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: PNH real-life outcomes
-- Secondary Condition: None documented
 - Other Relevant History: Real-world assessment of Ravulizumab for stabilization of hemoglobin levels.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Flow cytometry confirmed PNH clone; starting Ravulizumab for complement inhibition.
+- Symptoms: Abdominal pain, fatigue, shortness of breath, dark-colored urine (hemoglobinuria).
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for PNH real-life outcomes.
 

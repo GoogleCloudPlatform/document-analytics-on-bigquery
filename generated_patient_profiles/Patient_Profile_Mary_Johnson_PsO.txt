@@ -1,6 +1,7 @@
 PATIENT PROFILE: MARY JOHNSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARY JOHNSON
 - Age: 30 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: MARY JOHNSON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Plaque Psoriasis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Active disease.
 - Risk Profile: Requires pregnancy outcome monitoring.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Active skin plaques and pruritus.
+- Symptoms: Plaques, scaling.
 - Performance Status: Stable.
 - Physical Status: Exposed to Deucravacitinib during early pregnancy.
 

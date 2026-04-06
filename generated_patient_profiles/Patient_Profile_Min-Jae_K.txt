@@ -1,16 +1,18 @@
 PATIENT PROFILE: MIN-JAE K.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MIN-JAE K.
 - Age: 67 years
 - Sex: Male
 - Place of Residency: Seoul, South Korea
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsed/Refractory Multiple Myeloma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Refractory Status: Triple-class refractory.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Bone pain and fatigue.
+- Symptoms: Hypercalcemia, serum monoclonal protein, pathological fractures, osteolytic lesions.
 - Performance Status: ECOG 2.
 
 4. LABORATORY RESULTS

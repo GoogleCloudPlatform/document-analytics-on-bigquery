@@ -1,6 +1,7 @@
 PATIENT PROFILE: THOMAS MÜLLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: THOMAS MÜLLER
 - Age: 60 years
 - Sex: Male
 - Place of Residency: Germany
@@ -8,11 +9,12 @@ PATIENT PROFILE: THOMAS MÜLLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Moderate-to-Severe Plaque Psoriasis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Onset: 25 years prior
 - Disease Severity: PASI score of 22, sPGA of 4 (severe).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Widespread erythematous, scaly plaques. Severe pruritus and discomfort.
+- Symptoms: Erythematous skin, skin lesions, dry skin.
 - Performance Status: Daily activities significantly impacted by skin condition.
 
 4. LABORATORY RESULTS

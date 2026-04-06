@@ -1,36 +1,41 @@
+PATIENT PROFILE: RICHARD DALLOWAY
+
 1. DEMOGRAPHIC INFORMATION
-Name: Richard Dalloway
-Age: 34
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Politician
+- Name: Richard Dalloway
+- Age: 34
+- Sex: Female
+- Place of Residency: Toronto, Canada
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Politician
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Healthy Volunteer. Overtly healthy as determined by medical evaluation. No active clinically significant disorder, condition, infection, or disease. No history of respiratory, gastrointestinal, renal, hepatic, hematological, or cardiovascular diseases.
+- Primary Disorder: Healthy Volunteer. Overtly healthy as determined by medical evaluation. No active clinically significant disorder, condition, infection, or disease. No history of respiratory, gastrointestinal, renal, hepatic, hematological, or cardiovascular diseases.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Overall Status: Healthy.
-Height: 170 cm
-Weight: 65 kg
-BMI: 22.5 kg/m2 (Within 19.0 to 30.0 range)
-Vital Signs:
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Overall Status: Healthy.
+- Height: 170 cm
+- Weight: 65 kg
+- BMI: 22.5 kg/m2 (Within 19.0 to 30.0 range)
+- Vital Signs:
 - BP: 118/74 mmHg
 - HR: 68 bpm
-Physical Examination: No clinically significant abnormalities. Non-smoker for > 6 months. Not a Woman of Childbearing Potential (PONCBP) per study requirement.
+- Physical Examination: No clinically significant abnormalities. Non-smoker for > 6 months. Not a Woman of Childbearing Potential (PONCBP) per study requirement.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 13.5 g/dL
 - WBC: 5.8 x 10^3/µL
 - Platelets: 210 x 10^3/µL
-Chemistry:
+- Chemistry:
 - ALT: 18 U/L
 - AST: 16 U/L
 - Creatinine: 0.8 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBsAg/HCV: Negative
-Pregnancy Test: Negative.
+- Pregnancy Test: Negative.
 
 5. TREATMENT HISTORY
-Plan: Enroll in Phase 1 study (NCT07215806) to evaluate the effect of Evobrutinib on the pharmacokinetics of a combined oral contraceptive (Ethinyl estradiol/Norethisterone). Administer Evobrutinib (M2951) for 14 days (Days 4 to 17) and Combined Oral Contraceptive (COC) on Days 1 and 15. Conduct intensive PK sampling and safety monitoring including hematology assessments.
+- Plan: Enroll in Phase 1 study (NCT07215806) to evaluate the effect of Evobrutinib on the pharmacokinetics of a combined oral contraceptive (Ethinyl estradiol/Norethisterone). Administer Evobrutinib (M2951) for 14 days (Days 4 to 17) and Combined Oral Contraceptive (COC) on Days 1 and 15. Conduct intensive PK sampling and safety monitoring including hematology assessments.

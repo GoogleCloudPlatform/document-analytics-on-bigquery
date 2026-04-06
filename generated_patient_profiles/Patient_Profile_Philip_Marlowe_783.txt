@@ -1,18 +1,19 @@
 PATIENT PROFILE: PHILIP MARLOWE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: PHILIP MARLOWE
 - Age: 65 years
 - Sex: Male
-- Place of Residency: Unknown
+- Place of Residency: Tokyo, Japan
 - Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: MIUC Adjuvant Therapy
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: High-risk post-surgical MIUC patient receiving standard-of-care immunotherapy.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Pathological examination shows positive margins; starting adjuvant Nivolumab. Post-radical cystectomy for pT3N0 bladder cancer.
+- Symptoms: Blood in urine, frequent urination, back pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: PHILIP MARLOWE
 - Clinical Markers: PD-L1 positive (CPS >= 1). No evidence of distant metastasis on imaging.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: Pathological examination shows positive margins; starting adjuvant Nivolumab.

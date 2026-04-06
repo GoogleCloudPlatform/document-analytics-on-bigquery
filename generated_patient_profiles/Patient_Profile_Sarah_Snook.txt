@@ -1,18 +1,19 @@
 PATIENT PROFILE: SARAH SNOOK
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH SNOOK
 - Age: 36 years
 - Sex: Female
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Active SLE with Malar Rash
-- Secondary Condition: None documented
 - Other Relevant History: Real-world SLE patient receiving Anifrolumab to track clinical and patient-reported outcomes.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: SLEDAI-2K of 12; arthritis and skin involvement; starting Anifrolumab.
+- Symptoms: Joint pain, rash, fever, fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Active SLE with Malar Rash.
 

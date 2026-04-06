@@ -1,6 +1,7 @@
 PATIENT PROFILE: ELEANOR VANCE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELEANOR VANCE
 - Age: 62 years
 - Sex: Female
 - Place of Residency: New York, USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: ELEANOR VANCE
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Colorectal Carcinoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Status: Metastatic disease (liver and lung localization), progressing.
 - Medical History: Well-controlled hypertension (managed with lisinopril); no history of Hepatitis B/C or HIV.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: General fatigue and localized discomfort; well-managed.
+- Symptoms: Rectal carcinoma, malignant neoplasm, adenocarcinoma.
 - Performance Status: ECOG 1 (Ambulatory and capable of light work).
 - Physical Status: No symptomatic arrhythmias; mean resting QTcF 435 ms; no gastrointestinal conditions impairing absorption.
 

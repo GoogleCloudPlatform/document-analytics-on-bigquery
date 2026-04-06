@@ -1,6 +1,7 @@
 PATIENT PROFILE: CLAIRE BENNET
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CLAIRE BENNET
 - Age: 35 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: CLAIRE BENNET
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Ulcerative Colitis (UC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Severity: Moderate disease activity.
 - Status: Ozanimod-naive.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Bloody stools and abdominal urgency.
+- Symptoms: Necrosis of tissue, lesion on an internal mucous surface, suppurating lesion, inflammatory lesion.
 - Performance Status: ECOG 0.
 - Disease Activity: Mayo score 7.
 

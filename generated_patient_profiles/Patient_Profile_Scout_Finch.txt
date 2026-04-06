@@ -1,17 +1,21 @@
+PATIENT PROFILE: SCOUT FINCH
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Scout Finch
 - Age: 13 years
 - Sex: Female
+- Place of Residency: Alabama, USA
 - Race/Ethnicity: Not specified
 - Occupation: Student
-- Location: Alabama, USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Eosinophilic Asthma (early-onset).
+- Primary Disorder: Severe Eosinophilic Asthma (early-onset).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Family history of cardiovascular disease.
 - High risk for Major Adverse Cardiovascular Events (MACE) monitoring.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Frequent wheezing and chest tightness despite high-dose maintenance therapy.
 - Nocturnal awakenings due to asthma symptoms.
 - Normal BMI for age.

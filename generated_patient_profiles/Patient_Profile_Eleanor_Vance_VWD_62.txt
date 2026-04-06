@@ -1,6 +1,7 @@
 PATIENT PROFILE: ELEANOR VANCE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELEANOR VANCE
 - Age: 62 years
 - Sex: Female
 - Place of Residency: New Jersey, USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: ELEANOR VANCE
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Von Willebrand Disease (VWD), Type 3
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Status: Confirmed since childhood with extremely low VWF:Ag, VWF:RCo, and FVIII levels.
 - Medical History: No history of GI bleeding within the last 18 months; no angiodysplasia or intracranial hemorrhage.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Generally well-managed with current prophylaxis; history of mucosal and soft tissue bleeding.
+- Symptoms: Prolonged bleeding time, deficiency of factor viii, impaired platelet adhesion.
 - Performance Status: ECOG 0 (Fully active).
 - Physical Status: Stable; no signs of thromboembolic disease or high-risk bleeding conditions.
 

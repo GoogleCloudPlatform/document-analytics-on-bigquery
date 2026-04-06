@@ -1,16 +1,20 @@
+PATIENT PROFILE: JACQUES COUSTEAU
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Jacques Cousteau
 - Age: 74 years
 - Sex: Male
+- Place of Residency: Japan
 - Race/Ethnicity: Japanese
 - Occupation: Retired
-- Location: Japan
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Life-threatening Bacterial Sepsis.
+- Primary Disorder: Life-threatening Bacterial Sepsis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Severe Kidney Dysfunction (Renal Impairment).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Systemic inflammatory response syndrome, organ dysfunction, hypotension.
 - High-grade fever, chills, and hypotension.
 - Tachypnea and altered mental status.
 - Oliguria.

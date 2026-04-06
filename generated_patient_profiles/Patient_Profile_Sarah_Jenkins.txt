@@ -1,18 +1,19 @@
 PATIENT PROFILE: SARAH JENKINS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH JENKINS
 - Age: 29 years
 - Sex: Female
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
-- Secondary Condition: None documented
 - Other Relevant History: Symptomatic PNH patient evaluating the impact of Ravulizumab on daily functional status in routine clinical practice.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Bilirubin and reticulocyte counts are significantly elevated; seeks to improve exercise capacity and reduce hemolytic flares.
+- Symptoms: Abdominal pain, shortness of breath, dark-colored urine (hemoglobinuria), fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
 

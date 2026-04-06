@@ -1,6 +1,7 @@
 PATIENT PROFILE: CHEN WEI
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CHEN WEI
 - Age: 28 years
 - Sex: Male
 - Place of Residency: Taiwan
@@ -8,11 +9,11 @@ PATIENT PROFILE: CHEN WEI
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: β-Thalassemia Major
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: Adult TDT patient in Taiwan receiving Luspatercept in a real-world clinical effectiveness study.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting Luspatercept to reduce the transfusion burden and improve iron overload management. Regular transfusion schedule every 3 weeks.
+- Symptoms: Anemia.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: CHEN WEI
 - Clinical Markers: Pre-transfusion Hemoglobin 6.5 g/dL; Serum Ferritin 1900 ng/mL.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: Starting Luspatercept to reduce the transfusion burden and improve iron overload management.

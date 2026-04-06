@@ -1,6 +1,7 @@
 PATIENT PROFILE: JANE FOSTER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JANE FOSTER
 - Age: 59 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: JANE FOSTER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Cutaneous Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Stage: Stage IV.
 - Metastatic Sites: Skin and subcutaneous tissues.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Localized lesions and systemic fatigue.
+- Symptoms: Change in mole, mucous membrane lesion.
 - Performance Status: ECOG 1.
 - Physical Status: Baseline LDH is elevated.
 

@@ -1,16 +1,20 @@
+PATIENT PROFILE: MORGAN LE FAY
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Morgan Le Fay
 - Age: 39 years
 - Sex: Female
+- Place of Residency: Paris, France
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Early-onset Generalized Myasthenia Gravis (gMG).
+- Primary Disorder: Early-onset Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Refractory symptoms.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Asymmetric ophthalmoplegia, fatigable weakness, skeletal muscle weakness, bulbar muscle weakness.
 - MG-ADL score: 11.
 - Fluctuating muscle weakness, worsening in the evening.
 - Persistent diplopia.

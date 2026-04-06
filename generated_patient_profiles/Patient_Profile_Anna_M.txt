@@ -1,16 +1,18 @@
 PATIENT PROFILE: ANNA M.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ANNA M.
 - Age: 28 years
 - Sex: Female
 - Place of Residency: Warsaw, Poland
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Treatment Status: Treatment-naive for complement inhibitors.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Significant hemolysis-related symptoms.
+- Symptoms: Abdominal pain, shortness of breath, fatigue.
 - Disease Activity: High disease activity with elevated LDH.
 
 4. LABORATORY RESULTS

@@ -1,16 +1,18 @@
 PATIENT PROFILE: MARIE L.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARIE L.
 - Age: 70 years
 - Sex: Female
 - Place of Residency: Paris, France
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: MIUC Post-Radical Cystectomy.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Stage: Pathological pT3 stage.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Post-operative recovery.
+- Symptoms: Back pain, painful urination.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

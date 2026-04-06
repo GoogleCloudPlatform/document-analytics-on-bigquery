@@ -1,15 +1,19 @@
+PATIENT PROFILE: GWEN STACY
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Gwen Stacy
 - Age: 33 years
 - Sex: Female
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Allergic Asthma.
+- Primary Disorder: Severe Allergic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Persistent wheezing and cough.
 - Allergic triggers identified.
 - Daily asthma symptoms despite maintenance therapy.

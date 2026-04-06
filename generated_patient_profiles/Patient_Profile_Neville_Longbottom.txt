@@ -1,16 +1,20 @@
+PATIENT PROFILE: NEVILLE LONGBOTTOM
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Neville Longbottom
 - Age: 32 years
 - Sex: Male
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - NYHA Class II.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Left ventricular hypertrophy, hypertrophic cardiomyopathy, reduced left ventricular volume, heart septum involvement.
 - Exertional dyspnea.
 - Fatigue during physical activities.
 - BMI: 25.5 kg/m².

@@ -1,16 +1,20 @@
+PATIENT PROFILE: NEBULA
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Nebula
 - Age: 36 years
 - Sex: Female
+- Place of Residency: Germany
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Germany
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Newly diagnosed.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Recent history of acute optic neuritis and limb paresthesia.
 - Rapid recovery from relapses with steroid treatment.
 - EDSS: 1.5.

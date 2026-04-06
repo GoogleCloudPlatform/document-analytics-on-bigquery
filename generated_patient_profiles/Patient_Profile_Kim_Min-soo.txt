@@ -1,18 +1,19 @@
 PATIENT PROFILE: KIM MIN-SOO
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KIM MIN-SOO
 - Age: 44 years
 - Sex: Male
 - Place of Residency: South Korea
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: COVID-19 Booster Surveillance
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Subject in Korea receiving a COVID-19 booster participating in post-marketing surveillance.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Participating in a mobile application-based safety monitoring program.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for COVID-19 Booster Surveillance.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: KIM MIN-SOO
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Participating in a mobile application-based safety monitoring program.

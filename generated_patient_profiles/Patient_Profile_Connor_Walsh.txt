@@ -1,18 +1,19 @@
 PATIENT PROFILE: CONNOR WALSH
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CONNOR WALSH
 - Age: 72 years
 - Sex: Male
 - Place of Residency: China
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-risk MDS (China)
-- Secondary Condition: None documented
 - Other Relevant History: Adult with lower-risk MDS initiating Luspatercept in China.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: ESA-naive; low-risk MDS; initiating Luspatercept.
+- Symptoms: Frequent infections, pale skin.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Lower-risk MDS (China).
 

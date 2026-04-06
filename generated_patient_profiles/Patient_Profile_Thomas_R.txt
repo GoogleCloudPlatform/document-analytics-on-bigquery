@@ -1,16 +1,18 @@
 PATIENT PROFILE: THOMAS R.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: THOMAS R.
 - Age: 31 years
 - Sex: Male
 - Place of Residency: Munich, Germany
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Treatment History: Recently switched from first-line therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Relapses with sensory disturbances.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Disease Activity: MRI shows new lesions.
 
 4. LABORATORY RESULTS

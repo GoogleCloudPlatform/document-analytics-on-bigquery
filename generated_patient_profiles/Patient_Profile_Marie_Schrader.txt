@@ -1,18 +1,19 @@
 PATIENT PROFILE: MARIE SCHRADER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARIE SCHRADER
 - Age: 49 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: New York, USA
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
-- Secondary Condition: None documented
 - Other Relevant History: Adult with low-risk MDS receiving luspatercept to monitor real-world safety and efficacy outcomes.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Failing ESAs; requiring 2 units of packed red blood cells every 4 weeks; starting luspatercept.
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Lower-Risk Myelodysplastic Syndromes (MDS).
 

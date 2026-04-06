@@ -1,6 +1,7 @@
 PATIENT PROFILE: GREGORY HOUSE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: GREGORY HOUSE
 - Age: 52 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,11 @@ PATIENT PROFILE: GREGORY HOUSE
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Secondary Primary Malignancy (Squamous Cell Carcinoma)
-- History: Treated for B-cell lymphoma 3 years ago.
+- Other Relevant History: Treated for B-cell lymphoma 3 years ago.
 - Cell Therapy History: Recipient of CAR-T cell therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: New localized skin lesion (unrelated to original lymphoma).
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 0.
 - Physical Status: Systemically well.
 

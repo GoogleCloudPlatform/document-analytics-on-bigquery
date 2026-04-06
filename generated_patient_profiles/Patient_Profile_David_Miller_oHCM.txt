@@ -1,6 +1,7 @@
 PATIENT PROFILE: DAVID MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: DAVID MILLER
 - Age: 42 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: DAVID MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: Shortness of breath during exertion.
 - Cardiac Anatomy: Documented significant septal hypertrophy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exertional dyspnea and lightheadedness.
+- Symptoms: Right ventricular hypertrophy, hypertrophic cardiomyopathy, left ventricular hypertrophy, heart septum involvement.
 - Performance Status: NYHA Class II.
 - Cardiac Health: Peak LVOT gradient 60 mmHg.
 

@@ -1,16 +1,18 @@
 PATIENT PROFILE: CHEN W.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CHEN W.
 - Age: 30 years
 - Sex: Male
 - Place of Residency: Kaohsiung, Taiwan
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: β-Thalassemia Major.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Complication: Iron overload from chronic transfusions.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic anemia.
+- Symptoms: Anemia.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

@@ -1,16 +1,20 @@
+PATIENT PROFILE: HERCULES POIROT
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Hercules Poirot
 - Age: 62 years
 - Sex: Male
+- Place of Residency: Brussels, Belgium
 - Race/Ethnicity: Not specified
 - Occupation: Private Investigator (Belgium)
-- Location: Brussels, Belgium
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Generalized Myasthenia Gravis (gMG).
+- Primary Disorder: Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Anti-AChR antibody-positive.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Asymmetric ophthalmoplegia, facial muscle weakness, bulbar muscle weakness, diplopia.
 - Generalized muscle weakness, particularly in the limbs.
 - Bulbar symptoms, including occasional difficulty swallowing and slurred speech.
 - Ptosis (drooping eyelid) and diplopia (double vision).

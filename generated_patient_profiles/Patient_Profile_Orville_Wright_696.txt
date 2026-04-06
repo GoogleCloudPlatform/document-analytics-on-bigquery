@@ -1,16 +1,20 @@
+PATIENT PROFILE: ORVILLE WRIGHT
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Orville Wright
 - Age: 70 years
 - Sex: Male
+- Place of Residency: Tokyo, Japan
 - Race/Ethnicity: Not specified
 - Occupation: Retired
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Very Severe Chronic Obstructive Pulmonary Disease (COPD).
+- Primary Disorder: Very Severe Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - GOLD Grade 4 disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, chest tightness.
 - Significant airflow limitation and daily dyspnea.
 - Chronic cough and sputum production.
 - Physical Exam: Barrel chest, decreased breath sounds.

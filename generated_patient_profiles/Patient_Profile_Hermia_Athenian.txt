@@ -1,37 +1,41 @@
+PATIENT PROFILE: HERMIA ATHENIAN
+
 1. DEMOGRAPHIC INFORMATION
-Name: Hermia Athenian
-Age: 34
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Florist
+- Name: Hermia Athenian
+- Age: 34
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Florist
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic Triple-Negative Breast Cancer (TNBC).
-Status: Locally recurrent inoperable or metastatic TNBC. Confirmed by biopsy.
-Treatment History: Completed treatment for Stage II breast cancer > 6 months ago. Received prior (neo)adjuvant anthracycline.
-Comorbidities: None. Normal cardiac function. No history of autoimmune disease or ILD.
+- Primary Disorder: Metastatic Triple-Negative Breast Cancer (TNBC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Locally recurrent inoperable or metastatic TNBC. Confirmed by biopsy.
+- Treatment History: Completed treatment for Stage II breast cancer > 6 months ago. Received prior (neo)adjuvant anthracycline.
+- Comorbidities: None. Normal cardiac function. No history of autoimmune disease or ILD.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Dull ache in the left chest, fatigue.
-Physical Examination: No known active CNS metastases. No active infection. Stable vital signs.
-Measurable Disease: Left breast mass 2.2 cm, lung lesion 1.5 cm (RECIST 1.1). Baseline tumor sample provided.
+- Symptoms: Nipple discharge, skin dimpling, breast pain, breast lump.
+- Performance Status: ECOG 1.
+- Physical Examination: No known active CNS metastases. No active infection. Stable vital signs.
+- Measurable Disease: Left breast mass 2.2 cm, lung lesion 1.5 cm (RECIST 1.1). Baseline tumor sample provided.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 11.5 g/dL
 - ANC: 3.8 x 10^9/L
 - Platelets: 210 x 10^9/L
-Chemistry:
+- Chemistry:
 - LDH: 185 U/L (< 2.5x ULN)
 - ALT: 25 U/L
 - AST: 22 U/L
 - Total Bilirubin: 0.7 mg/dL
 - Creatinine: 0.8 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
-Pregnancy Test: Negative.
+- Pregnancy Test: Negative.
 
 5. TREATMENT HISTORY
-Plan: Initiate combination therapy with MK-4830 (ILT4 inhibitor) and Pembrolizumab as part of the Phase 1 Expansion cohort (NCT03564691). Administer MK-4830 and Pembrolizumab IV every 3 weeks. Monitor for dose-limiting toxicities (DLTs) and objective response rate (ORR) via RECIST 1.1. Follow contraception guidance for 180 days after the last dose.
+- Plan: Initiate combination therapy with MK-4830 (ILT4 inhibitor) and Pembrolizumab as part of the Phase 1 Expansion cohort (NCT03564691). Administer MK-4830 and Pembrolizumab IV every 3 weeks. Monitor for dose-limiting toxicities (DLTs) and objective response rate (ORR) via RECIST 1.1. Follow contraception guidance for 180 days after the last dose.

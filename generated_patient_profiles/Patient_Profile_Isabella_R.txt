@@ -1,17 +1,19 @@
 PATIENT PROFILE: ISABELLA R.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ISABELLA R.
 - Age: 31 years
 - Sex: Female
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: Melbourne, Australia
 - Pregnancy Status: 8 weeks pregnant.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Situation: Pregnancy with exposure to Mavacamten.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Prior to pregnancy, experienced mild dyspnea on exertion, managed with Mavacamten. Currently asymptomatic at rest.
+- Symptoms: Right ventricular hypertrophy, heart septum involvement.
 - Performance Status: NYHA Class I while on treatment.
 - Cardiac Status: Diagnosed with oHCM with a resting LVOT gradient of 40 mmHg before treatment. Gradient was reduced with Mavacamten.
 

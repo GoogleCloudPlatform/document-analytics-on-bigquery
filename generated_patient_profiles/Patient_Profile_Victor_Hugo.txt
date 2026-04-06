@@ -1,15 +1,19 @@
+PATIENT PROFILE: VICTOR HUGO
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Victor Hugo
 - Age: 50 years
 - Sex: Male
+- Place of Residency: France
 - Race/Ethnicity: Not specified
 - Occupation: Writer (France)
-- Location: France
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Primary Progressive Multiple Sclerosis (PPMS).
+- Primary Disorder: Primary Progressive Multiple Sclerosis (PPMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Steady worsening of walking ability over the last two years.
 - Progressive lower limb weakness and spasticity.
 - EDSS: 4.5.

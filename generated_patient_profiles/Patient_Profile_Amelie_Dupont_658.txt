@@ -1,17 +1,21 @@
+PATIENT PROFILE: AMÉLIE DUPONT
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Amélie Dupont
 - Age: 64 years
 - Sex: Female
+- Place of Residency: France
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: France
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Endometrial Carcinoma (Stage III).
+- Primary Disorder: Endometrial Carcinoma (Stage III).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Mismatch Repair Proficient (pMMR).
 - HER2-expressing tumor.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Uterine bleeding.
 - Pelvic pain and irregular bleeding.
 - ECOG Performance Status: 1.
 

@@ -1,6 +1,7 @@
 PATIENT PROFILE: BILLY KID
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BILLY KID
 - Age: 12 years
 - Sex: Male
 - Place of Residency: Amsterdam, Netherlands
@@ -8,11 +9,12 @@ PATIENT PROFILE: BILLY KID
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Stage: Stage IV.
 - Histology: Histologically confirmed.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Localized skin lesions and regional lymph node involvement.
+- Symptoms: Lymph node melanoma, liver melanoma, lung melanoma, metastasis.
 - Performance Status: Stable for his age.
 - Physical Status: Rare pediatric melanoma presentation.
 

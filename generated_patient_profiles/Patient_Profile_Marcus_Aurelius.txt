@@ -1,18 +1,19 @@
 PATIENT PROFILE: MARCUS AURELIUS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARCUS AURELIUS
 - Age: 64 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Place of Residency: London, UK
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic NSCLC (PD-L1 <1%)
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Fits the cohort for long-term safety and survival outcomes of dual-IO therapy in PD-L1 negative lung cancer.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: PD-L1 expression is 0%; EGFR/ALK negative; starting first-line therapy with Nivolumab and Ipilimumab.
+- Symptoms: Coughing up blood, persistent cough, shortness of breath, chest pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Metastatic NSCLC (PD-L1 <1%).
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: MARCUS AURELIUS
 - Tumor Markers: PD-L1 expression < 1% (TPS 0%). Molecular Testing: Wild type for EGFR, ALK, and ROS1 mutations.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: PD-L1 expression is 0%; EGFR/ALK negative; starting first-line therapy with Nivolumab and Ipilimumab.

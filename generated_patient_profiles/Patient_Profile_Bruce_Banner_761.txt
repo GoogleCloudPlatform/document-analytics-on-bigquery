@@ -1,18 +1,19 @@
 PATIENT PROFILE: BRUCE BANNER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BRUCE BANNER
 - Age: 49 years
 - Sex: Male
-- Place of Residency: Unknown
+- Place of Residency: London, UK
 - Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: Symptomatic oHCM patient needing targeted therapy to avoid invasive septal reduction surgery.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Genetic testing confirmed MYH7 mutation; septal thickness is 18mm; starting Mavacamten. NYHA Functional Class III symptoms including exertional dyspnea.
+- Symptoms: Right ventricular hypertrophy, left ventricular hypertrophy, aortic stenosis.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: BRUCE BANNER
 - Cardiac Imaging: Echocardiogram shows interventricular thickness of 19 mm and peak resting LVOT gradient of 65 mmHg. Preserved LVEF (60%).
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: Genetic testing confirmed MYH7 mutation; septal thickness is 18mm; starting Mavacamten.

@@ -1,6 +1,7 @@
 PATIENT PROFILE: KENJI TANAKA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KENJI TANAKA
 - Age: 45 years
 - Sex: Male
 - Place of Residency: Japan
@@ -8,12 +9,13 @@ PATIENT PROFILE: KENJI TANAKA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Atopic Dermatitis (AD)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Duration: Long-standing history (Chronic condition).
 - Clinical Presentation: Persistent skin inflammation requiring advanced systemic intervention.
 - Clinical Practice: Managed according to current Japanese medical guidelines.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Intense pruritus (itching), widespread erythema, and lichenification affecting multiple body regions.
+- Symptoms: Inflammation of the skin.
 - Performance Status: Active, but daily activities and sleep quality are impacted by chronic symptoms.
 - Physical Status: Generally healthy aside from dermatological condition; no other significant co-morbidities identified.
 - General Health: No history of severe allergic reactions or anaphylaxis.

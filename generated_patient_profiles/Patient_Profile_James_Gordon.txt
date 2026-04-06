@@ -1,16 +1,20 @@
+PATIENT PROFILE: JAMES GORDON
+
 1. DEMOGRAPHIC INFORMATION
 - Name: James Gordon
 - Age: 60 years
 - Sex: Male
+- Place of Residency: Seoul, South Korea
 - Race/Ethnicity: Korean
 - Occupation: Retired
-- Location: Seoul, South Korea
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- COVID-19 Vaccination (BNT162b2 safety monitoring).
+- Primary Disorder: COVID-19 Vaccination (BNT162b2 safety monitoring).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Generally healthy status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Currently asymptomatic.
 - No history of myocarditis or pericarditis.
 - Physical Status: Stable.

@@ -1,6 +1,7 @@
 PATIENT PROFILE: MONICA GELLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MONICA GELLER
 - Age: 32 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: MONICA GELLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Ulcerative Colitis (UC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease History: 5-year history.
 - Biologic Status: Ozanimod-naive.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Bloody bowel movements, urgency, and abdominal pain.
+- Symptoms: Lesion on the skin, inflammatory lesion, necrosis of tissue.
 - Performance Status: ECOG 0.
 - Disease Activity: Mayo score 8.
 

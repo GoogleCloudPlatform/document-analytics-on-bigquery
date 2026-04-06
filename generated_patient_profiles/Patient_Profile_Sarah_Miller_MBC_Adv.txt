@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH MILLER
 - Age: 58 years
 - Sex: Female
 - Place of Residency: Colorado, USA
@@ -8,12 +9,13 @@ PATIENT PROFILE: SARAH MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Metastatic Breast Cancer
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Subtype: ER+ (Estrogen Receptor positive)
 - Histology: Histologically confirmed advanced disease.
 - Measurable Disease: Lung metastatic lesion identified via CT scan.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exertional fatigue and localized chest discomfort.
+- Symptoms: Breast lump, nipple discharge.
 - Performance Status: ECOG 1 (Ambulatory and capable of light activity).
 - Physical Status: Post-menopausal (non-childbearing potential); no severe cardiac conditions.
 

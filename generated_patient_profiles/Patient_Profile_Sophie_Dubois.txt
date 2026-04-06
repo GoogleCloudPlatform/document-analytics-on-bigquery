@@ -1,16 +1,20 @@
+PATIENT PROFILE: SOPHIE DUBOIS
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Sophie Dubois
 - Age: 78 years
 - Sex: Female
+- Place of Residency: France
 - Race/Ethnicity: Not specified
 - Occupation: Retired
-- Location: France
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Neovascular (Wet) Age-Related Macular Degeneration (nAMD).
+- Primary Disorder: Neovascular (Wet) Age-Related Macular Degeneration (nAMD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Active choroidal neovascularization.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Loss of vision.
 - Sudden onset of distorted vision (metamorphopsia) in the affected eye.
 - Reduced central visual acuity.
 

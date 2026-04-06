@@ -1,6 +1,7 @@
 PATIENT PROFILE: KIM JAE-WOOK
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KIM JAE-WOOK
 - Age: 60 years
 - Sex: Male
 - Place of Residency: South Korea
@@ -8,11 +9,12 @@ PATIENT PROFILE: KIM JAE-WOOK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Molecular Marker: EGFR Exon 19 deletion.
 - Current Stage: Stage IV.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic cough and fatigue.
+- Symptoms: Pericardial effusion, pleural effusion, distant metastasis, pleural nodules.
 - Performance Status: ECOG 1.
 - Physical Status: Fit for oral targeted therapy.
 

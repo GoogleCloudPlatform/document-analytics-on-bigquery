@@ -1,16 +1,20 @@
+PATIENT PROFILE: AMELIA EARHART
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Amelia Earhart
 - Age: 66 years
 - Sex: Female
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Retired (UK)
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of long-term tobacco use.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest tightness, shortness of breath.
 - Daily chronic cough and wheezing.
 - Exertional dyspnea limiting mobility.
 - CAT (COPD Assessment Test) score: 22.

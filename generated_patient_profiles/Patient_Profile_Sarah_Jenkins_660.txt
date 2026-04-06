@@ -1,16 +1,20 @@
+PATIENT PROFILE: SARAH JENKINS
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Sarah Jenkins
 - Age: 58 years
 - Sex: Female
+- Place of Residency: Sydney, Australia
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- High-Grade Serous Ovarian Cancer.
+- Primary Disorder: High-Grade Serous Ovarian Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Platinum-resistant recurrent disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Abdominal bloating and discomfort.
 - Persistent nausea.
 - ECOG Performance Status: 1.

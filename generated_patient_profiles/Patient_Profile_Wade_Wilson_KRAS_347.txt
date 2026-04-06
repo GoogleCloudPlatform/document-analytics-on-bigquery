@@ -1,6 +1,7 @@
 PATIENT PROFILE: WADE WILSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: WADE WILSON
 - Age: 41 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: WADE WILSON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: KRAS G12C Advanced Solid Tumor
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Subtype: Rare abdominal sarcoma.
 - Molecular Marker: Confirmed KRAS G12C mutation.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Abdominal pain and palpable mass.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 1.
 - Physical Status: No standard treatment options remaining.
 

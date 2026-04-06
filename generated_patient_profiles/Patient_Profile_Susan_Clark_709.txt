@@ -1,16 +1,20 @@
+PATIENT PROFILE: SUSAN CLARK
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Susan Clark
 - Age: 29 years
 - Sex: Female
+- Place of Residency: New York, USA
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of PNH-related Deep Vein Thrombosis (DVT).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abdominal pain, shortness of breath, fatigue, dark-colored urine (hemoglobinuria).
 - Persistent fatigue.
 - History of abdominal and extremity pain related to prior thrombosis.
 - Currently anticoagulated.

@@ -1,16 +1,18 @@
 PATIENT PROFILE: SOPHIE M.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SOPHIE M.
 - Age: 29 years
 - Sex: Female
 - Place of Residency: Zurich, Switzerland
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Duration: Diagnosed 3 years ago.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Has experienced relapses with sensory and motor symptoms.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Disease Activity: Has had evidence of disease activity on MRI.
 
 4. LABORATORY RESULTS

@@ -1,18 +1,19 @@
 PATIENT PROFILE: ARAGORN STRIDER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ARAGORN STRIDER
 - Age: 48 years
 - Sex: Male
 - Place of Residency: Brazil
-- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Melanoma Real-world Outcomes
-- Secondary Condition: [Inferred, e.g., None or Hypertension]
 - Other Relevant History: Participation in multi-center observational study for melanoma immunotherapy.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting Nivo/Rela combo; monitoring for response and durability. Stage IV metastatic melanoma, BRAF wild-type.
+- Symptoms: Pigmented lesion, eye lesion.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: ARAGORN STRIDER
 - Clinical Markers: Biopsy confirmed melanoma; LDH within normal range.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard of Care as per context]
+- Prior Therapy: Standard of Care as per context
 - Current Plan: Starting Nivo/Rela combo; monitoring for response and durability.

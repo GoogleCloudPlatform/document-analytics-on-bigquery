@@ -1,18 +1,19 @@
 PATIENT PROFILE: DAVID ROSEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: DAVID ROSEN
 - Age: 50 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Berlin, Germany
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-Risk MDS
-- Secondary Condition: None documented
 - Other Relevant History: Lower-risk MDS patient receiving Luspatercept in a medical record review.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: IPSS-R low risk; starting Luspatercept to reduce transfusion burden.
+- Symptoms: Pale skin, fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Lower-Risk MDS.
 

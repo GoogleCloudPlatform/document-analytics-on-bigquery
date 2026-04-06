@@ -1,6 +1,7 @@
 PATIENT PROFILE: JAKUB WÓJCIK
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JAKUB WÓJCIK
 - Age: 37 years
 - Sex: Male
 - Place of Residency: Poland
@@ -8,11 +9,12 @@ PATIENT PROFILE: JAKUB WÓJCIK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: Hemolysis and fatigue.
 - Clone Size: Confirmed via flow cytometry.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Episodes of hemoglobinuria and chronic fatigue.
+- Symptoms: Abdominal pain, fatigue.
 - Performance Status: ECOG 0.
 - Physical Status: Stable on complement inhibition.
 

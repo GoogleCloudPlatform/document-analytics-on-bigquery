@@ -1,6 +1,7 @@
 PATIENT PROFILE: LI WEI
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LI WEI
 - Age: 63 years
 - Sex: Male
 - Place of Residency: China
@@ -8,11 +9,12 @@ PATIENT PROFILE: LI WEI
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Esophageal Cancer
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Surgical Status: Post-surgical resection of squamous cell tumor.
 - Current Stage: Pathologic Stage III.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Post-surgical recovery.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 1.
 - Physical Status: Stable.
 

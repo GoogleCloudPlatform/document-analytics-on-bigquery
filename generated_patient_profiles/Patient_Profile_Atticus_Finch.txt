@@ -1,17 +1,21 @@
+PATIENT PROFILE: ATTICUS FINCH
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Atticus Finch
 - Age: 68 years
 - Sex: Male
+- Place of Residency: Alabama, USA
 - Race/Ethnicity: Not specified
 - Occupation: Retired (Alabama)
-- Location: Alabama, USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of long-term tobacco use.
 - Frequent exacerbations (at least two per year).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, wheezing, chronic cough, chest tightness.
 - Chronic cough and sputum production.
 - Dyspnea on exertion, limiting daily activities.
 - CAT (COPD Assessment Test) score: 25.

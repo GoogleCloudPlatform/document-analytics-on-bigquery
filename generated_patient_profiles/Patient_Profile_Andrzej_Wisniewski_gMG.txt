@@ -1,6 +1,7 @@
 PATIENT PROFILE: ANDRZEJ WISNIEWSKI
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ANDRZEJ WISNIEWSKI
 - Age: 50 years
 - Sex: Male
 - Place of Residency: Poland
@@ -8,11 +9,12 @@ PATIENT PROFILE: ANDRZEJ WISNIEWSKI
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Serology: Anti-AChR antibody-positive.
 - Comorbidities: None significant.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Muscle weakness and ptosis.
+- Symptoms: Ptosis, external ophthalmoplegia, fatigable weakness, respiratory muscle weakness.
 - Performance Status: MG-ADL score monitored.
 - Physical Status: Fit for complement inhibition.
 

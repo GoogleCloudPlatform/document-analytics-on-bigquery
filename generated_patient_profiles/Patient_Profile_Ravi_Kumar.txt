@@ -1,16 +1,20 @@
+PATIENT PROFILE: RAVI KUMAR
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Ravi Kumar
 - Age: 10 years
 - Sex: Male
+- Place of Residency: Mumbai, India
 - Race/Ethnicity: Indian
 - Occupation: Student
-- Location: Mumbai, India
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Pediatric Growth Hormone Deficiency (pGHD).
+- Primary Disorder: Pediatric Growth Hormone Deficiency (pGHD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Growth failure and short stature.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Height velocity: 3 cm/year.
 - Significantly below average height for age.
 - Normal physical appearance other than stature.

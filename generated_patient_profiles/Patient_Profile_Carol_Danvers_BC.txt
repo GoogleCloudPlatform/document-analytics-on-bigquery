@@ -1,6 +1,7 @@
 PATIENT PROFILE: CAROL DANVERS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CAROL DANVERS
 - Age: 49 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: CAROL DANVERS
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: HER2+ Metastatic Breast Cancer
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Progressed after initial HER2-targeted therapy.
 - Metastatic Sites: Lymph nodes and bone.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exertional fatigue and localized bone pain.
+- Symptoms: Breast lump, nipple discharge.
 - Performance Status: ECOG 1.
 - Physical Status: Fit for triple therapy.
 

@@ -1,16 +1,20 @@
+PATIENT PROFILE: PETER QUILL
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Peter Quill
 - Age: 6 months
 - Sex: Male
+- Place of Residency: Sydney, Australia
 - Race/Ethnicity: Not specified
 - Occupation: N/A (Infant)
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Primary Disorder: High risk for severe Respiratory Syncytial Virus (RSV) infection.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of prematurity.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Respiratory infection.
 - Born at 33 weeks gestation.
 - Currently entering the winter season.
 - Generally healthy but at high risk for lower respiratory tract disease.

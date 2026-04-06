@@ -1,38 +1,42 @@
+PATIENT PROFILE: EGEUS ATHENIAN
+
 1. DEMOGRAPHIC INFORMATION
-Name: Egeus Athenian
-Age: 72
-Gender: Male
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Retired Lawyer
+- Name: Egeus Athenian
+- Age: 72
+- Sex: Male
+- Place of Residency: Toronto, Canada
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Retired Lawyer
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic Neuroendocrine Prostate Cancer (mNEPC).
-Status: Aggressive metastatic prostate cancer with neuroendocrine differentiation confirmed by biopsy (histologically small cell/neuroendocrine cancer).
-Markers: Expression of NEPC markers (chromogranin and synaptophysin) confirmed by IHC.
-Treatment History: Progressed after prior androgen deprivation and chemotherapy. Recovered from toxicities of prior therapy (Grade <= 2).
-Comorbidities: None. Adequate organ function. No history of CNS metastases or symptomatic cord compression.
+- Primary Disorder: Metastatic Neuroendocrine Prostate Cancer (mNEPC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Aggressive metastatic prostate cancer with neuroendocrine differentiation confirmed by biopsy (histologically small cell/neuroendocrine cancer).
+- Markers: Expression of NEPC markers (chromogranin and synaptophysin) confirmed by IHC.
+- Treatment History: Progressed after prior androgen deprivation and chemotherapy. Recovered from toxicities of prior therapy (Grade <= 2).
+- Comorbidities: None. Adequate organ function. No history of CNS metastases or symptomatic cord compression.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Progressive visceral metastases, bone pain, fatigue.
-Physical Examination: Normal neurological exam. No significant ECG abnormalities. Stable vital signs.
-Androgen Status: Castrate level of testosterone.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1.
+- Physical Examination: Normal neurological exam. No significant ECG abnormalities. Stable vital signs.
+- Androgen Status: Castrate level of testosterone.
 
 4. LABORATORY RESULTS
-Endocrine:
+- Endocrine:
 - Serum Testosterone: 10 ng/dL
 - PSA: 5.2 ng/mL (Low PSA despite progression)
 - Chromogranin A: 1200 ng/mL (> 5x ULN)
-Hematology:
+- Hematology:
 - ANC: 3.8 x 10^9/L
 - Platelets: 210 x 10^9/L
 - Hemoglobin: 10.5 g/dL
-Chemistry:
+- Chemistry:
 - ALT: 35 U/L
 - AST: 32 U/L
 - Bilirubin: 0.9 mg/dL
 - Creatinine: 1.1 mg/dL
 
 5. TREATMENT HISTORY
-Plan: Enroll in a Phase 1 exploratory safety and efficacy study (NCT06379217). Undergo screening with three radioligand imaging (RLI) compounds (PSMA, SSTR2, GRPR) to determine the predominantly expressed target. Receive up to 6 cycles of the assigned targeted radioligand therapy (e.g., [177Lu]Lu-PSMA-617) every 6 weeks. Monitor for target expression changes, objective response (ORR), and safety follow-up.
+- Plan: Enroll in a Phase 1 exploratory safety and efficacy study (NCT06379217). Undergo screening with three radioligand imaging (RLI) compounds (PSMA, SSTR2, GRPR) to determine the predominantly expressed target. Receive up to 6 cycles of the assigned targeted radioligand therapy (e.g., [177Lu]Lu-PSMA-617) every 6 weeks. Monitor for target expression changes, objective response (ORR), and safety follow-up.

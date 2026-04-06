@@ -1,15 +1,19 @@
+PATIENT PROFILE: JANE AUSTEN
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Jane Austen
 - Age: 42 years
 - Sex: Female
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Chronic Migraine.
+- Primary Disorder: Chronic Migraine.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Light sensitivity, sound sensitivity, nausea.
 - 18 headache days per month.
 - Severe throbbing unilateral pain with nausea and vomiting.
 - Photophobia and phonophobia.

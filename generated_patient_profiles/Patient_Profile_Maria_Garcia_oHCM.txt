@@ -1,6 +1,7 @@
 PATIENT PROFILE: MARIA GARCIA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARIA GARCIA
 - Age: 50 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: MARIA GARCIA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Cardiac Anatomy: Septal thickness 18 mm.
 - Disease Status: Symptomatic with significant left ventricular outflow tract (LVOT) gradient.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Shortness of breath during light exercise and exertional fatigue.
+- Symptoms: Hypertension, reduced left ventricular volume.
 - Performance Status: NYHA Class II heart failure symptoms.
 - Physical Status: No history of prior septal reduction procedure.
 

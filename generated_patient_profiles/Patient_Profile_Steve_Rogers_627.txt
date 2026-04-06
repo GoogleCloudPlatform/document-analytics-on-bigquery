@@ -1,16 +1,20 @@
+PATIENT PROFILE: STEVE ROGERS
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Steve Rogers
 - Age: 68 years
 - Sex: Male
+- Place of Residency: China
 - Race/Ethnicity: Chinese
 - Occupation: Retired
-- Location: China
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Hospital-Acquired Pneumonia (HAP).
+- Primary Disorder: Hospital-Acquired Pneumonia (HAP).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of recent major abdominal surgery.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Infection, inflammation.
 - New onset of high-grade fever (39.0°C).
 - Productive cough with purulent sputum.
 - Increasing oxygen requirements.

@@ -1,6 +1,7 @@
 PATIENT PROFILE: JEAN-PIERRE L.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JEAN-PIERRE L.
 - Age: 67 years
 - Sex: Male
 - Place of Residency: Lyon, France
@@ -8,11 +9,12 @@ PATIENT PROFILE: JEAN-PIERRE L.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Surgical History: Recently underwent radical cystectomy with pelvic lymph node dissection.
 - Pathological Stage: pT3 N0 M0, indicating a high risk of recurrence.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Recovering from surgery. No evidence of metastatic disease.
+- Symptoms: Back pain, painful urination, frequent urination.
 - Performance Status: ECOG 1 (Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature).
 - Urological Status: Has a urostomy.
 

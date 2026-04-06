@@ -1,16 +1,18 @@
 PATIENT PROFILE: DAVID L.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: DAVID L.
 - Age: 52 years
 - Sex: Male
 - Place of Residency: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Multi-drug resistant Gram-negative infection.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Source: Hospital Acquired Pneumonia (HAP).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fever, cough, and hypoxemia.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Microbiology: Suspected MDR Pseudomonas.
 
 4. LABORATORY RESULTS

@@ -1,15 +1,19 @@
+PATIENT PROFILE: MILES MORALES
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Miles Morales
 - Age: 25 years
 - Sex: Male
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Student
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Early-onset Severe Asthma.
+- Primary Disorder: Early-onset Severe Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Frequent emergency room visits for asthma exacerbations.
 - Daily shortness of breath.
 - Active but limited by respiratory status.

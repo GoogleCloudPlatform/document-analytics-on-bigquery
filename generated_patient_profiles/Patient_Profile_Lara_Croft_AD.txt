@@ -1,6 +1,7 @@
 PATIENT PROFILE: LARA CROFT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LARA CROFT
 - Age: 32 years
 - Sex: Female
 - Place of Residency: UK
@@ -8,11 +9,12 @@ PATIENT PROFILE: LARA CROFT
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Refractory Atopic Dermatitis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Severity: Extensive skin lesions.
 - Disease Status: Inadequate response to prior biologic therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic itching and visible skin inflammation.
+- Symptoms: Inflammation of the skin.
 - Performance Status: ECOG 0.
 - Physical Status: EASI score > 20.
 

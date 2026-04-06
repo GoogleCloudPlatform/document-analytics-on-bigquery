@@ -1,18 +1,19 @@
 PATIENT PROFILE: ROBERT M.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ROBERT M.
 - Age: 62 years
 - Sex: Male
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: Munich, Germany
 - Employment Status: Retired. Supports ECOG 1 status.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Eosinophilic Asthma (20-year history)
-- Secondary Condition: Minor Arrhythmias (recent onset)
 - Other Relevant History: No history of myocardial infarction or severe cardiac events.
+- Secondary Condition: Minor Arrhythmias (recent onset)
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent wheezing, shortness of breath, occasional palpitations.
+- Symptoms: Difficulty breathing.
 - Performance Status: ECOG 1 (Restricted in physically strenuous activity, but ambulatory and able to perform light work).
 - Cardiac Health: History of minor arrhythmias, currently managed. Baseline echocardiogram within normal limits, but requires ongoing cardiovascular monitoring due to medication.
 - Respiratory Function: Impaired FEV1, consistent with severe asthma.

@@ -1,20 +1,22 @@
 PATIENT PROFILE: SARAH CHEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH CHEN
 - Age: 32 years
 - Sex: Female
-- Pregnancy Status: Currently pregnant (Approx. 20 weeks gestation).
 - Place of Residency: USA
+- Pregnancy Status: Currently pregnant (Approx. 20 weeks gestation).
 - Employment Status: Active (Supports health status assessment)
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Migraine (Documented history).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Duration: Confirmed diagnosis prior to her estimated last menstrual period (LMP).
 - Clinical Status: Stable migraine management prior to pregnancy confirmation.
 - Comorbidities: No evidence of other significant systemic or inflammatory disorders.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Episodic migraine attacks prior to pregnancy, characterized by moderate-to-severe headache and typical associated symptoms (nausea, photophobia).
+- Symptoms: Throbbing or pulsating pain, nausea, light sensitivity.
 - Functional Status: Stable during current pregnancy.
 - Performance Status: Ambulatory; able to manage activities of daily living.
 - Healthcare Enrollment: Continuous enrollment in a health care plan with medical and pharmacy benefits for at least 6 months before her estimated LMP and through the postpartum period.

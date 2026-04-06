@@ -1,16 +1,20 @@
+PATIENT PROFILE: RAVEN DARKHOLME
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Raven Darkholme
 - Age: 42 years
 - Sex: Female
+- Place of Residency: Tokyo, Japan
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Generalized Myasthenia Gravis (gMG).
+- Primary Disorder: Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Anti-AChR antibody-positive.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Respiratory muscle weakness, diplopia, bulbar muscle weakness, weakness of eye closure.
 - Muscle weakness and persistent double vision (diplopia).
 - MG-ADL score: 11.
 - Fatigue worsening with activity.

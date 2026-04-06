@@ -1,6 +1,7 @@
 PATIENT PROFILE: EMILY W.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: EMILY W.
 - Age: 7 months
 - Sex: Female
 - Place of Residency: Seattle, WA, USA
@@ -8,9 +9,11 @@ PATIENT PROFILE: EMILY W.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk for Severe RSV.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Comorbidity: Chronic lung disease of prematurity (CLD).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Coughing, runny nose, sneezing, fever.
 - Health Status: Entering first RSV season.
 - Respiratory Status: At risk for severe RSV infection due to CLD.
 

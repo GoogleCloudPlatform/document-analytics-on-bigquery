@@ -1,18 +1,20 @@
 PATIENT PROFILE: SUSAN K.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SUSAN K.
 - Age: 59 years
 - Sex: Female
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: Manchester, UK
 - Smoking History: Never-smoker.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Adenocarcinoma.
 - Biomarkers: PD-L1 expression < 1%. Negative for EGFR, ALK, ROS1, and BRAF mutations.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent cough, dyspnea, and chest pain.
+- Symptoms: Tumor nodules, pleural nodules, distant metastasis, pleural effusion.
 - Performance Status: ECOG 1 (Symptomatic but ambulatory and able to carry out light work).
 - Metastatic Sites: Disease present in the lungs and mediastinal lymph nodes.
 

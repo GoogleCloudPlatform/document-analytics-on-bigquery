@@ -1,18 +1,19 @@
 PATIENT PROFILE: MIA STERLING
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MIA STERLING
 - Age: 3 months
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Toronto, Canada
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk of Severe RSV
-- Secondary Condition: None documented
 - Other Relevant History: Extreme prematurity and multiple-birth environmental risk factors qualifying for palivizumab.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: One sibling recently diagnosed with a mild viral cold; parents are seeking proactive prophylaxis for the remaining infants.
+- Symptoms: Runny nose, fever, wheezing, coughing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
 

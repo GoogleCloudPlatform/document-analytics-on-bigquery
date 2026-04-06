@@ -1,6 +1,7 @@
 PATIENT PROFILE: SATO HIROSHI
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SATO HIROSHI
 - Age: 62 years
 - Sex: Male
 - Place of Residency: Japan
@@ -8,11 +9,12 @@ PATIENT PROFILE: SATO HIROSHI
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Rheumatoid Arthritis (RA)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Biologic-naive with persistent symptoms.
 - Inflammatory Markers: High ESR and CRP.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent joint swelling and morning stiffness.
+- Symptoms: Erosive polyarthritis, articular surface inflammation, symmetric polyarthritis.
 - Performance Status: Moderate activity limitation.
 - Physical Status: Suboptimal response to conventional DMARDs.
 

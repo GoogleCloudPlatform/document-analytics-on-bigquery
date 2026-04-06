@@ -1,18 +1,19 @@
 PATIENT PROFILE: ZARI TOMAZ
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ZARI TOMAZ
 - Age: 35 years
 - Sex: Female
 - Place of Residency: Poland
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: gMG (Poland)
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Adult gMG patient in Poland initiating Ravulizumab in routine clinical practice.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting Ravulizumab; meningococcal vaccination completed; monitoring MG-ADL score. MG-ADL score of 11.
+- Symptoms: Drooping eyelids (ptosis), muscle weakness.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for gMG (Poland).
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: ZARI TOMAZ
 - Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Starting Ravulizumab; meningococcal vaccination completed; monitoring MG-ADL score.

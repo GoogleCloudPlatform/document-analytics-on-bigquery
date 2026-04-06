@@ -1,18 +1,19 @@
 PATIENT PROFILE: JAKE BALLARD
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JAKE BALLARD
 - Age: 40 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
-- Secondary Condition: None documented
 - Other Relevant History: Adult gMG patient initiating Ravulizumab in a real-world setting.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: MG-ADL score of 9; naive to complement inhibitors; starting Ravulizumab.
+- Symptoms: Weakness of eye closure, bulbar muscle weakness.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
 

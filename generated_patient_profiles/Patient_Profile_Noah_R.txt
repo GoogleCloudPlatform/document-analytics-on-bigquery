@@ -1,16 +1,18 @@
 PATIENT PROFILE: NOAH R.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: NOAH R.
 - Age: 69 years
 - Sex: Male
 - Place of Residency: Copenhagen, Denmark
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Kidney Disease (CKD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Comorbidity: Proteinuria and declining eGFR.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Asymptomatic in early stages.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

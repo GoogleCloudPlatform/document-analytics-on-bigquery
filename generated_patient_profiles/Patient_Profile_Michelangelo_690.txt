@@ -1,15 +1,19 @@
+PATIENT PROFILE: MICHELANGELO
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Michelangelo
 - Age: 52 years
 - Sex: Male
+- Place of Residency: France
 - Race/Ethnicity: Not specified
 - Occupation: Artist (France)
-- Location: France
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Primary Progressive Multiple Sclerosis (PPMS).
+- Primary Disorder: Primary Progressive Multiple Sclerosis (PPMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Gradual worsening of lower limb strength and balance over 24 months.
 - Occasional muscle spasms.
 - EDSS score: 4.5.

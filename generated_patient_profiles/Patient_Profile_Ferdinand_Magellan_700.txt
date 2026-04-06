@@ -1,16 +1,20 @@
+PATIENT PROFILE: FERDINAND MAGELLAN
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Ferdinand Magellan
 - Age: 38 years
 - Sex: Male
+- Place of Residency: Sydney, Australia
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Overweight/Obesity.
+- Primary Disorder: Overweight/Obesity.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Otherwise healthy status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Excess body fat.
 - BMI: 28.2 kg/m².
 - Weight: 92 kg.
 - No history of chronic medical conditions.

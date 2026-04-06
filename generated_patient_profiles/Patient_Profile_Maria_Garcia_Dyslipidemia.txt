@@ -1,6 +1,7 @@
 PATIENT PROFILE: MARIA GARCIA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARIA GARCIA
 - Age: 58 years
 - Sex: Female
 - Place of Residency: Arizona, USA
@@ -8,12 +9,13 @@ PATIENT PROFILE: MARIA GARCIA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Dyslipidemia
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - BMI: 26 kg/m²
 - Weight: 68 kg
 - Medical History: Healthy postmenopausal female in good general health.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Asymptomatic.
+- Symptoms: Elevated ldl cholesterol, high triglycerides, low hdl cholesterol, high total cholesterol.
 - Performance Status: Fully active.
 - Physical Status: No history of GI, hepatic, or renal disease; no clinically important illness or trauma in the last 4 weeks.
 

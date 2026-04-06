@@ -1,6 +1,7 @@
 PATIENT PROFILE: ABDULLAH AL-FAHAD
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ABDULLAH AL-FAHAD
 - Age: 28 years
 - Sex: Male
 - Place of Residency: Saudi Arabia
@@ -8,11 +9,12 @@ PATIENT PROFILE: ABDULLAH AL-FAHAD
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Transfusion-Dependent Beta-Thalassemia
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Chronic transfusion requirement.
 - Comorbidities: Iron overload.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue and symptoms related to iron overload.
+- Symptoms: Anemia.
 - Performance Status: Stable.
 - Physical Status: Requires transfusions every 3 weeks.
 

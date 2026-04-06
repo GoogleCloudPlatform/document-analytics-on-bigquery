@@ -1,18 +1,19 @@
 PATIENT PROFILE: STEVE MARTIN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: STEVE MARTIN
 - Age: 80 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: gMG treatment outcome
-- Secondary Condition: None documented
 - Other Relevant History: Geriatric patient with symptomatic gMG evaluating the real-world safety and outcomes of Ravulizumab.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: MG-ADL score of 11; anti-AChR antibody positive; starting Ravulizumab.
+- Symptoms: Double vision (diplopia), muscle weakness.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for gMG treatment outcome.
 

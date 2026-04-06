@@ -1,6 +1,7 @@
 PATIENT PROFILE: ROBERT JOHNSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ROBERT JOHNSON
 - Age: 68 years
 - Sex: Male
 - Place of Residency: Not specified.
@@ -8,10 +9,11 @@ PATIENT PROFILE: ROBERT JOHNSON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Polycythemia Vera (PV)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis: Confirmed based on World Health Organization (WHO) criteria.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: History of intolerance to hydroxyurea (HU) and interferon-alpha. Fully recovered from adverse drug reactions.
+- Symptoms: Leukocytosis, increased red cell mass, thrombocythemia, abnormal proliferation of hematopoietic bone marrow elements.
 - Performance Status: ECOG performance status of 1.
 - General Health: No signs of active uncontrolled infection, no history of progressive multifocal leuko-encephalopathy (PML).
 

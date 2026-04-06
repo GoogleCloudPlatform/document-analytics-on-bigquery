@@ -1,18 +1,19 @@
 PATIENT PROFILE: ASHER MILLSTONE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ASHER MILLSTONE
 - Age: 41 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Sydney, Australia
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: KRAS G12C Advanced Solid Tumor
-- Secondary Condition: None documented
 - Other Relevant History: Patient with previously treated KRAS G12C advanced tumor seeking targeted therapy.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Confirmed KRAS G12C mutation; ineligible for interventional trials; starting Adagrasib.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for KRAS G12C Advanced Solid Tumor.
 

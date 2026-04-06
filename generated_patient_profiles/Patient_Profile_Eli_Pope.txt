@@ -1,18 +1,19 @@
 PATIENT PROFILE: ELI POPE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELI POPE
 - Age: 70 years
 - Sex: Male
 - Place of Residency: France
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC)
-- Secondary Condition: None documented
 - Other Relevant History: Post-surgical MIUC patient receiving adjuvant immunotherapy.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: PD-L1 ≥ 1%; high risk of recurrence; starting adjuvant Nivolumab.
+- Symptoms: Frequent urination, blood in urine, painful urination.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Muscle Invasive Urothelial Carcinoma (MIUC).
 

@@ -1,16 +1,18 @@
 PATIENT PROFILE: LINDA S.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LINDA S.
 - Age: 28 years
 - Sex: Female
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: London, UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Schizophrenia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Status: Experiencing an acute exacerbation of psychosis, requiring intervention.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Positive symptoms including auditory hallucinations and disorganized thoughts. Negative symptoms include social withdrawal and lack of motivation.
+- Symptoms: Disorganized thinking, retreat from reality.
 - Functionality: Her symptoms are currently severe enough to interfere with her ability to work and maintain social relationships.
 
 4. LABORATORY RESULTS

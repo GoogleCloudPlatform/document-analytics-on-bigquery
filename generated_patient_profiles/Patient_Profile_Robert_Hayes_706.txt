@@ -1,16 +1,20 @@
+PATIENT PROFILE: ROBERT HAYES
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Robert Hayes
 - Age: 42 years
 - Sex: Male
+- Place of Residency: Paris, France
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Chronic Intravascular Hemolysis.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue, dark-colored urine (hemoglobinuria), shortness of breath.
 - Significant fatigue and generalized weakness.
 - Occasional dark-colored urine episodes (hemoglobinuria).
 - ECOG Performance Status: 1.

@@ -1,18 +1,19 @@
 PATIENT PROFILE: CARTER SHAW
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CARTER SHAW
 - Age: 55 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
-- Secondary Condition: None documented
 - Other Relevant History: US routine care patient treated with mavacamten for symptomatic obstructive heart disease.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Echo shows significant left ventricular hypertrophy; initiating Mavacamten to reduce outflow tract obstruction. NYHA Functional Class II or III.
+- Symptoms: Cardiac muscle disease, hypertension.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

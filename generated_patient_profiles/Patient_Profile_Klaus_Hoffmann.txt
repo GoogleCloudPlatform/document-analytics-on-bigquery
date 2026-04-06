@@ -1,18 +1,19 @@
 PATIENT PROFILE: KLAUS HOFFMANN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KLAUS HOFFMANN
 - Age: 39 years
 - Sex: Male
 - Place of Residency: Germany
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
-- Secondary Condition: None documented
 - Other Relevant History: Participant in a German non-interventional study for RRMS patients treated with Ozanimod.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting Ozanimod as first-line therapy to evaluate effectiveness in routine clinical care.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Relapsing-Remitting Multiple Sclerosis (RRMS).
 

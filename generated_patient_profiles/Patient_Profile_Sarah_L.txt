@@ -1,15 +1,18 @@
 PATIENT PROFILE: SARAH L.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH L.
 - Age: 58 years
 - Sex: Female
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: Sydney, Australia
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Esophageal / Gastroesophageal Junction (GEJ) Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Post-Surgical Status: Underwent surgical resection after neoadjuvant chemoradiotherapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Pathological Response: Pathology report from the resected tumor showed residual disease, indicating a less than complete response to neoadjuvant therapy.
 - Performance Status: ECOG 1, recovering from surgery.
 

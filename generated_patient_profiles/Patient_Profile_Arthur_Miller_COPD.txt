@@ -1,6 +1,7 @@
 PATIENT PROFILE: ARTHUR MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR MILLER
 - Age: 72 years
 - Sex: Male
 - Place of Residency: UK
@@ -8,11 +9,12 @@ PATIENT PROFILE: ARTHUR MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Smoking History: Long-term heavy smoker.
 - Disease Status: Symptomatic with frequent exacerbations (2 per year).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic cough, sputum production, and significant dyspnea with daily activities.
+- Symptoms: Chest tightness, chronic cough, shortness of breath, wheezing.
 - Performance Status: CAT score 25; mMRC grade 3.
 - Physical Status: Moderate airflow limitation.
 

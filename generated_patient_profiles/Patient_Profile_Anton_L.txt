@@ -1,6 +1,7 @@
 PATIENT PROFILE: ANTON L.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ANTON L.
 - Age: 70 years
 - Sex: Male
 - Place of Residency: Vienna, Austria
@@ -8,10 +9,11 @@ PATIENT PROFILE: ANTON L.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Exacerbation History: History of multiple exacerbations.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic cough and dyspnea.
+- Symptoms: Chronic cough, chest tightness, wheezing, shortness of breath.
 - Lung Function: Reduced FEV1.
 
 4. LABORATORY RESULTS

@@ -1,6 +1,7 @@
 PATIENT PROFILE: BETH HARMON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BETH HARMON
 - Age: 44 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: BETH HARMON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Early Breast Cancer
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Subtype: HR+/HER2- (Hormone Receptor positive, HER2 negative)
 - Risk Profile: High risk (large tumor size, positive nodes).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Post-surgical recovery.
+- Symptoms: Breast pain, breast lump, skin dimpling.
 - Performance Status: ECOG 0.
 - Physical Status: Completed definitive surgery.
 

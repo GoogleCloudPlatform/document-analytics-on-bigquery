@@ -1,35 +1,39 @@
+PATIENT PROFILE: ELENA GARCIA
+
 1. DEMOGRAPHIC INFORMATION
-Name: Elena Garcia
-Age: 29
-Gender: Female
-Race: Caucasian
-Ethnicity: Hispanic
-Occupation: Teacher
+- Name: Elena Garcia
+- Age: 29
+- Sex: Female
+- Place of Residency: London, UK
+- Race: Caucasian
+- Ethnicity: Hispanic
+- Occupation: Teacher
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Chronic Plaque Psoriasis (PsO).
-Pregnancy Status: Currently 14 weeks pregnant (G1P0).
-Exposure: Documented exposure to Deucravacitinib from 5 days prior to conception through the first trimester.
-Requirement: Diagnosed with PsO validated by medical records.
-Comorbidities: None. No exposure to other oral TYK2 inhibitors, JAK inhibitors, methotrexate, or oral retinoids. No known major congenital malformations (MCM) on initial screening.
+- Primary Disorder: Chronic Plaque Psoriasis (PsO).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Pregnancy Status: Currently 14 weeks pregnant (G1P0).
+- Exposure: Documented exposure to Deucravacitinib from 5 days prior to conception through the first trimester.
+- Requirement: Diagnosed with PsO validated by medical records.
+- Comorbidities: None. No exposure to other oral TYK2 inhibitors, JAK inhibitors, methotrexate, or oral retinoids. No known major congenital malformations (MCM) on initial screening.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Overall Status: Clinically stable.
-Symptoms: Psoriatic plaques on elbows and knees, well-managed on current therapy. Normal pregnancy progression.
-Weight: 68 kg
-Physical Examination: Normal prenatal findings. Normal fetal anatomy on 12-week ultrasound.
+- Symptoms: Skin lesions, erythematous skin, scaling patches, dry skin.
+- Overall Status: Clinically stable.
+- Weight: 68 kg
+- Physical Examination: Normal prenatal findings. Normal fetal anatomy on 12-week ultrasound.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 12.2 g/dL
 - WBC: 7.5 x 10^3/µL
-Chemistry:
+- Chemistry:
 - ALT: 18 U/L
 - AST: 16 U/L
 - Total Bilirubin: 0.6 mg/dL
 - Creatinine: 0.7 mg/dL
-Prenatal Screening: Normal. No evidence of MCM.
-Pregnancy Test: Positive (Serum hCG confirmed).
+- Prenatal Screening: Normal. No evidence of MCM.
+- Pregnancy Test: Positive (Serum hCG confirmed).
 
 5. TREATMENT HISTORY
-Plan: Enroll in the Deucravacitinib Pregnancy Exposure Study (NCT07017699) under Cohort 1 (exposed cohort). Participate in regular study interviews throughout pregnancy and 12 months postpartum. Provide authorization for release of medical records. Schedule infant for dysmorphology examination after birth to monitor for major congenital malformations.
+- Plan: Enroll in the Deucravacitinib Pregnancy Exposure Study (NCT07017699) under Cohort 1 (exposed cohort). Participate in regular study interviews throughout pregnancy and 12 months postpartum. Provide authorization for release of medical records. Schedule infant for dysmorphology examination after birth to monitor for major congenital malformations.

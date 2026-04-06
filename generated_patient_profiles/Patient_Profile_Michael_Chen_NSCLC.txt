@@ -1,6 +1,7 @@
 PATIENT PROFILE: MICHAEL CHEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MICHAEL CHEN
 - Age: 62 years
 - Sex: Male
 - Place of Residency: California, USA
@@ -8,13 +9,14 @@ PATIENT PROFILE: MICHAEL CHEN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Histologically confirmed Stage IV NSCLC.
 - Metastatic Sites: Liver and bone.
 - Molecular Markers: Wild-type for EGFR and ALK.
 - PD-L1 Expression: 40%
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue and right upper quadrant discomfort.
+- Symptoms: Tumor nodules, distant metastasis, pleural effusion, pericardial effusion.
 - Performance Status: ECOG 1 (Ambulatory).
 - Physical Status: No untreated CNS metastases; no history of immunodeficiency or autoimmune disorders.
 

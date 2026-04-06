@@ -1,18 +1,19 @@
 PATIENT PROFILE: REBECCA SUTTER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: REBECCA SUTTER
 - Age: 28 years
 - Sex: Female
 - Place of Residency: Poland
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
-- Secondary Condition: None documented
 - Other Relevant History: Adult gMG patient in Poland initiating Ravulizumab.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: MG-ADL score of 11; initiating Ravulizumab within the NDP.
+- Symptoms: Proximal limb muscle weakness, fluctuating ophthalmoplegia, fatigable weakness, ptosis.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
 

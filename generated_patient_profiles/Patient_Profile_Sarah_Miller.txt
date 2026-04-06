@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH MILLER
 - Age: 42 years
 - Sex: Female
 - Place of Residency: Not specified (assumed to be in a region where Ozanimod is available and studied).
@@ -8,12 +9,13 @@ PATIENT PROFILE: SARAH MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Ulcerative Colitis (UC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: 8 years prior
 - Disease Severity: Moderate-to-severe flare.
 - Comorbidities: None specified.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: 6-8 bloody bowel movements per day, urgency, moderate abdominal pain.
+- Symptoms: Inflammatory lesion, lesion on an internal mucous surface.
 - Performance Status: Impaired during flare, affecting daily activities.
 - Other: Ozanimod-naïve, no stoma, no plans for surgical intervention or hospitalization due to UC.
 

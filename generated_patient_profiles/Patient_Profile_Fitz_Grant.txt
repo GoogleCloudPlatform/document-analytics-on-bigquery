@@ -1,18 +1,19 @@
 PATIENT PROFILE: FITZ GRANT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FITZ GRANT
 - Age: 52 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
-- Secondary Condition: None documented
 - Other Relevant History: Symptomatic oHCM patient receiving routine clinical care with Mavacamten in the US.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Echo shows LVOT gradient of 40 mmHg; NYHA Class II; initiating Mavacamten at a high-volume center.
+- Symptoms: Cardiac muscle disease, right ventricular hypertrophy, aortic stenosis, reduced left ventricular volume.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

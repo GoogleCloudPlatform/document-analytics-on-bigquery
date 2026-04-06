@@ -1,17 +1,21 @@
+PATIENT PROFILE: CHRISTOPHER WONG
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Christopher Wong
 - Age: 52 years
 - Sex: Male
+- Place of Residency: London, UK
 - Race/Ethnicity: Not specified
 - Occupation: Professional (Marathon Runner)
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Allergic Asthma.
+- Primary Disorder: Severe Allergic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of intermittent Cardiac Arrhythmias.
 - High risk for MACE monitoring.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Exercise-induced wheezing and cough.
 - History of palpitations.
 - Active lifestyle (marathon runner).

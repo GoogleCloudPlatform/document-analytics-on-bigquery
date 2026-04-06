@@ -1,18 +1,19 @@
 PATIENT PROFILE: FRIDA KAHLO
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FRIDA KAHLO
 - Age: 50 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+- Place of Residency: Sydney, Australia
+- Employment Status: Student
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Unresectable Melanoma
-- Secondary Condition: [Inferred, e.g., None or Hypertension]
 - Other Relevant History: Advanced melanoma patient participating in a real-world assessment of Nivolumab-based regimens.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating first-line combination therapy with Nivolumab and Relatlimab. Stage IV metastatic melanoma, BRAF wild-type.
+- Symptoms: Mucous membrane lesion, eye lesion, skin lesion.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: FRIDA KAHLO
 - Clinical Markers: Biopsy confirmed melanoma; LDH within normal range.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard of Care as per context]
+- Prior Therapy: Standard of Care as per context
 - Current Plan: Initiating first-line combination therapy with Nivolumab and Relatlimab.

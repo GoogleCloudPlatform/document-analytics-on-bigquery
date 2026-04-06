@@ -1,16 +1,18 @@
 PATIENT PROFILE: MATEO L.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MATEO L.
 - Age: 8 years
 - Sex: Male
 - Place of Residency: São Paulo, Brazil
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Atopic Dermatitis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Severity: Eczema Area and Severity Index (EASI) score of 24.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Widespread, intensely itchy, and inflamed skin.
+- Symptoms: Inflammation of the skin.
 - Impact: Sleep disturbance and difficulty concentrating in school due to itching.
 - Prior Treatment: Has failed to achieve adequate control with topical corticosteroids and calcineurin inhibitors.
 

@@ -1,36 +1,40 @@
+PATIENT PROFILE: KILMAN DORIS
+
 1. DEMOGRAPHIC INFORMATION
-Name: Kilman Doris
-Age: 58
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Tutor
+- Name: Kilman Doris
+- Age: 58
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Tutor
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic Non-Small Cell Lung Cancer (NSCLC).
-Mutation: Confirmed KRAS G12C mutation (histologically confirmed).
-Status: Advanced solid tumor, metastatic. Received and progressed on one prior line of systemic therapy (carboplatin/pemetrexed).
-Comorbidities: None. Normal cardiac function. No history of ILD or active autoimmune disease.
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Mutation: Confirmed KRAS G12C mutation (histologically confirmed).
+- Status: Advanced solid tumor, metastatic. Received and progressed on one prior line of systemic therapy (carboplatin/pemetrexed).
+- Comorbidities: None. Normal cardiac function. No history of ILD or active autoimmune disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Chronic cough, occasional shortness of breath.
-Physical Examination: No clinically active CNS metastases. No signs of active infection. Stable vital signs.
-Measurable Disease: Left lower lobe lung mass 3.5 cm, hilar lymph node 1.8 cm (RECIST 1.1).
+- Symptoms: Pleural nodules, pleural effusion, pericardial effusion.
+- Performance Status: ECOG 1.
+- Physical Examination: No clinically active CNS metastases. No signs of active infection. Stable vital signs.
+- Measurable Disease: Left lower lobe lung mass 3.5 cm, hilar lymph node 1.8 cm (RECIST 1.1).
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 11.5 g/dL
 - ANC: 3.1 x 10^9/L
 - Platelets: 190 x 10^9/L
-Chemistry:
+- Chemistry:
 - ALT: 30 U/L
 - AST: 28 U/L
 - Total Bilirubin: 0.9 mg/dL
 - Creatinine: 0.8 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
-Pregnancy Test: Negative.
+- Pregnancy Test: Negative.
 
 5. TREATMENT HISTORY
-Plan: Initiate combination therapy with MK-1084 (KRAS G12C inhibitor), Pembrolizumab, and chemotherapy as part of a Phase 1 study (NCT05067283). Administer MK-1084 orally daily, Pembrolizumab 200 mg IV every 3 weeks, and standard doses of chemotherapy. Monitor for safety, DLTs, and objective response via RECIST 1.1. Provide archival tumor sample for analysis.
+- Plan: Initiate combination therapy with MK-1084 (KRAS G12C inhibitor), Pembrolizumab, and chemotherapy as part of a Phase 1 study (NCT05067283). Administer MK-1084 orally daily, Pembrolizumab 200 mg IV every 3 weeks, and standard doses of chemotherapy. Monitor for safety, DLTs, and objective response via RECIST 1.1. Provide archival tumor sample for analysis.

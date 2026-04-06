@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH WILLIAMS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH WILLIAMS
 - Age: 55 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: SARAH WILLIAMS
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Cardiac Anatomy: Significant septal hypertrophy.
 - Disease Status: Symptomatic.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exertional fatigue and dyspnea.
+- Symptoms: Hypertrophic cardiomyopathy, left ventricular hypertrophy.
 - Performance Status: NYHA Class III.
 - Cardiac Health: LVEF 60%.
 

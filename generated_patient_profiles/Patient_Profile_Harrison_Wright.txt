@@ -1,18 +1,19 @@
 PATIENT PROFILE: HARRISON WRIGHT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: HARRISON WRIGHT
 - Age: 30 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Schizophrenia
-- Secondary Condition: None documented
 - Other Relevant History: Adult with schizophrenia initiating KarXT therapy in the US.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Prescribed KarXT; monitoring treatment preference and satisfaction. PANSS total score indicates moderate to severe symptoms.
+- Symptoms: Hallucinations, delusions, disorganized thinking, retreat from reality.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Schizophrenia.
 

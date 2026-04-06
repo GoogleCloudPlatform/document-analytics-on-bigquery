@@ -1,17 +1,21 @@
+PATIENT PROFILE: MARIA SILVA
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Maria Silva
 - Age: 30 years
 - Sex: Female
+- Place of Residency: Brazil
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Brazil
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Alpha (α)-Thalassemia.
+- Primary Disorder: Alpha (α)-Thalassemia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Hemoglobin H disease.
 - Symptomatic Anemia.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anemia.
 - Chronic fatigue and palpitations.
 - Clinically significant splenomegaly.
 - Pale conjunctiva.

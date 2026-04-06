@@ -1,16 +1,20 @@
+PATIENT PROFILE: LINDA THOMPSON
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Linda Thompson
 - Age: 42 years
 - Sex: Female
+- Place of Residency: Toronto, Canada
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Chronic Immune Thrombocytopenia (ITP).
+- Primary Disorder: Chronic Immune Thrombocytopenia (ITP).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Refractory disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Subnormal level of blood platelets.
 - Persistent bruising and menometrorrhagia.
 - Significant fatigue.
 - Physical Exam: Petechiae present on lower extremities.

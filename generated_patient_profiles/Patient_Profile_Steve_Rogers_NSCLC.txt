@@ -1,6 +1,7 @@
 PATIENT PROFILE: STEVE ROGERS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: STEVE ROGERS
 - Age: 68 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: STEVE ROGERS
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Adenocarcinoma.
 - PD-L1 Expression: 0%.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exertional dyspnea and cough.
+- Symptoms: Pericardial effusion, pleural effusion, distant metastasis, pleural nodules.
 - Performance Status: ECOG 1.
 - Physical Status: Stable for dual immunotherapy.
 

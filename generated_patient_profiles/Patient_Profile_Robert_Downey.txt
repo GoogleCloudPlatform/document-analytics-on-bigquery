@@ -1,18 +1,19 @@
 PATIENT PROFILE: ROBERT DOWNEY
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ROBERT DOWNEY
 - Age: 61 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: New York, USA
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
-- Secondary Condition: None documented
 - Other Relevant History: Part of the long-term first-line treatment pattern study for PD-L1 negative advanced lung cancer.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting first-line dual-IO therapy combined with a limited course of platinum chemotherapy.
+- Symptoms: Tumor nodules, pleural effusion.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Metastatic Non-Small Cell Lung Cancer (NSCLC).
 

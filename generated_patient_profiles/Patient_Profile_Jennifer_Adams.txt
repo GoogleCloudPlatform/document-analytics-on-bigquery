@@ -1,18 +1,19 @@
 PATIENT PROFILE: JENNIFER ADAMS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JENNIFER ADAMS
 - Age: 56 years
 - Sex: Female
 - Place of Residency: United States
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Melanoma
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Advanced melanoma patient initiating Nivo+Rela in a real-world database analysis of outcomes.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting first-line combination therapy with Nivolumab and Relatlimab; data tracked in Flatiron database.
+- Symptoms: Eye lesion, pigmented lesion.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Advanced Melanoma.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: JENNIFER ADAMS
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Starting first-line combination therapy with Nivolumab and Relatlimab; data tracked in Flatiron database.

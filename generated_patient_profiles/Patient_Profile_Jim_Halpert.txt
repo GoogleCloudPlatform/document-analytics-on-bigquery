@@ -1,16 +1,20 @@
+PATIENT PROFILE: JIM HALPERT
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Jim Halpert
 - Age: 32 years
 - Sex: Male
+- Place of Residency: Pennsylvania, USA
 - Race/Ethnicity: Not specified
 - Occupation: Sales (US)
-- Location: Pennsylvania, USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Chronic Schizophrenia.
+- Primary Disorder: Chronic Schizophrenia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of metabolic side effects on typical antipsychotics.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Delusions, hallucinations, retreat from reality.
 - Persistent auditory hallucinations and social withdrawal.
 - Cognitive impairment affecting daily functioning.
 - History of weight gain on prior medications.

@@ -1,6 +1,7 @@
 PATIENT PROFILE: MATT MURDOCK
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MATT MURDOCK
 - Age: 47 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: MATT MURDOCK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Head and Neck Squamous Cell Carcinoma (SCCHN)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Subtype: Oropharyngeal cancer.
 - Disease Status: Recurrent disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Localized pain and difficulty speaking.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 1.
 - Physical Status: Disease progressed after chemotherapy.
 

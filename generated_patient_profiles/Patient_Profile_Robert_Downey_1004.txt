@@ -1,40 +1,44 @@
+PATIENT PROFILE: ROBERT DOWNEY
+
 1. DEMOGRAPHIC INFORMATION
-Name: Robert Downey
-Age: 62
-Gender: Male
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Consultant
+- Name: Robert Downey
+- Age: 62
+- Sex: Male
+- Place of Residency: Paris, France
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Consultant
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic Non-Small Cell Lung Cancer (mNSCLC).
-Status: Stage IV NSCLC, squamous histology. Confirmed by biopsy.
-Molecular Status: Negative for EGFR, ALK, or ROS1 mutations (Wild-type).
-PD-L1 Status: Tumor PD-L1 negative expression (PD-L1 < 1%).
-Treatment History: Treatment-naïve for metastatic NSCLC (no prior systemic therapy).
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (mNSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Stage IV NSCLC, squamous histology. Confirmed by biopsy.
+- Molecular Status: Negative for EGFR, ALK, or ROS1 mutations (Wild-type).
+- PD-L1 Status: Tumor PD-L1 negative expression (PD-L1 < 1%).
+- Treatment History: Treatment-naïve for metastatic NSCLC (no prior systemic therapy).
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Chronic cough, mild weight loss, fatigue.
-Physical Examination: No active CNS metastases. Stable vital signs.
-Life Expectancy: > 6 months.
-Weight: 78 kg.
+- Symptoms: Pericardial effusion, tumor nodules, distant metastasis, pleural effusion.
+- Performance Status: ECOG 1.
+- Physical Examination: No active CNS metastases. Stable vital signs.
+- Life Expectancy: > 6 months.
+- Weight: 78 kg.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 11.2 g/dL
 - ANC: 3.8 x 10^9/L
 - Platelets: 195 x 10^9/L
-Chemistry:
+- Chemistry:
 - ALT: 30 U/L
 - AST: 28 U/L
 - Total Bilirubin: 0.9 mg/dL
 - Creatinine: 1.0 mg/dL
-Molecular Testing:
+- Molecular Testing:
 - EGFR: Wild-type
 - ALK: Negative
 - ROS1: Negative
 - PD-L1: < 1% (Negative)
 
 5. TREATMENT HISTORY
-Plan: Initiate first-line (1L) combination therapy with Nivolumab, Ipilimumab, and 2 cycles of platinum-doublet chemotherapy (NIC) as part of a long-term real-world outcome study (NCT07024862). Complete at least 6 months of follow-up after therapy initiation. Monitor for survival, safety, and durability of response in a routine clinical practice setting.
+- Plan: Initiate first-line (1L) combination therapy with Nivolumab, Ipilimumab, and 2 cycles of platinum-doublet chemotherapy (NIC) as part of a long-term real-world outcome study (NCT07024862). Complete at least 6 months of follow-up after therapy initiation. Monitor for survival, safety, and durability of response in a routine clinical practice setting.

@@ -1,28 +1,31 @@
+PATIENT PROFILE: ARTHUR CURRY
+
 1. DEMOGRAPHIC INFORMATION
-Name: Arthur Curry
-Age: 60
-Sex: Male
-Residency: Maine, USA
-Occupation: Lighthouse Keeper
+- Name: Arthur Curry
+- Age: 60
+- Sex: Male
+- Place of Residency: Maine, USA
+- Occupation: Lighthouse Keeper
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Diagnosis: Polycythemia Vera (PV)
-Duration: 8 years
-Comorbidities: Splenomegaly
+- Primary Disorder: Polycythemia Vera (PV)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Duration: 8 years
+- Comorbidities: Splenomegaly
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Intense pruritus (itching) after showers, fatigue, abdominal fullness due to enlarged spleen.
-Physical Status: ECOG Performance Status 1. Palpable spleen 5 cm below left costal margin.
-Weight: 85 kg.
+- Symptoms: Increased total blood volume, thrombocythemia, myelofibrosis, increased red cell mass.
+- Physical Status: ECOG Performance Status 1. Palpable spleen 5 cm below left costal margin.
+- Weight: 85 kg.
 
 4. LABORATORY RESULTS
-Hematocrit: 52% (despite phlebotomy)
-Hemoglobin: 17.5 g/dL
-White Blood Cell Count: 14.5 x 10^9/L
-Platelets: 480 x 10^9/L
-Peripheral Blood Blast Count: 0%
-Creatinine Clearance: 82 mL/min
+- Hematocrit: 52% (despite phlebotomy)
+- Hemoglobin: 17.5 g/dL
+- White Blood Cell Count: 14.5 x 10^9/L
+- Platelets: 480 x 10^9/L
+- Peripheral Blood Blast Count: 0%
+- Creatinine Clearance: 82 mL/min
 
 5. TREATMENT HISTORY
-Previous Treatments: Treated with Hydroxyurea for 3 years; discontinued due to intolerance (severe skin ulcers). Managed with frequent phlebotomies.
-Plan: Initiate treatment with Ruxolitinib via Managed Access Program.
+- Previous Treatments: Treated with Hydroxyurea for 3 years; discontinued due to intolerance (severe skin ulcers). Managed with frequent phlebotomies.
+- Plan: Initiate treatment with Ruxolitinib via Managed Access Program.

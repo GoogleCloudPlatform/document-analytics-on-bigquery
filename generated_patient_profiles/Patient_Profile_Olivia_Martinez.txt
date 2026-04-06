@@ -1,6 +1,7 @@
 PATIENT PROFILE: OLIVIA MARTINEZ
 
 1. DEMOGRAPHIC INFORMATION
+- Name: OLIVIA MARTINEZ
 - Age: 35 years
 - Sex: Female
 - Place of Residency: Not specified.
@@ -8,11 +9,12 @@ PATIENT PROFILE: OLIVIA MARTINEZ
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: 7 years prior
 - Disease Status: Characterized by relapses and partial recovery.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but generally indicative of RRMS relapses (e.g., sensory disturbances, motor weakness, fatigue, visual problems). Currently stable on ozanimod.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Performance Status: Assumed to be maintained on current therapy.
 
 4. LABORATORY RESULTS

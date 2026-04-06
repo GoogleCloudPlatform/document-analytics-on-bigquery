@@ -1,17 +1,21 @@
+PATIENT PROFILE: HARRY POTTER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Harry Potter
 - Age: 45 years
 - Sex: Male
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Post-surgical resection status.
 - High risk for recurrence.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Back pain, frequent urination, painful urination.
 - Clinically stable following radical resection.
 - No current symptoms of metastatic disease.
 - ECOG Performance Status: 0.

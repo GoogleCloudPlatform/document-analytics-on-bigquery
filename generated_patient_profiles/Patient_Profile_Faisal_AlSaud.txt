@@ -1,6 +1,7 @@
 PATIENT PROFILE: FAISAL AL-SAUD
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FAISAL AL-SAUD
 - Age: 30 years
 - Sex: Male
 - Place of Residency: Saudi Arabia
@@ -8,11 +9,12 @@ PATIENT PROFILE: FAISAL AL-SAUD
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Transfusion-Dependent Beta-Thalassemia (TDT)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Documented TDT since childhood.
 - Comorbidities: None significant.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic fatigue and symptoms of anemia.
+- Symptoms: Anemia.
 - Performance Status: Stable.
 - Physical Status: Requires monthly blood transfusions.
 

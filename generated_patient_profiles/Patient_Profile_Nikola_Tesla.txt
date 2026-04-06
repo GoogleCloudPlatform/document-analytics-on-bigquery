@@ -1,18 +1,19 @@
 PATIENT PROFILE: NIKOLA TESLA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: NIKOLA TESLA
 - Age: 44 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred based on age, e.g., Student/Employed/Retired]
+- Place of Residency: Sydney, Australia
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
-- Secondary Condition: [Inferred, e.g., None or Hypertension]
 - Other Relevant History: Complement-inhibitor naive patient starting Ravulizumab to evaluate real-world functional improvements.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: MG-ADL score of 10; experiencing ptosis and generalized muscle weakness. MG-ADL score of 12. Significant ptosis and muscle fatigue.
+- Symptoms: Facial muscle weakness, proximal limb muscle weakness, ocular muscle weakness.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: NIKOLA TESLA
 - Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard of Care as per context]
+- Prior Therapy: Standard of Care as per context
 - Current Plan: MG-ADL score of 10; experiencing ptosis and generalized muscle weakness.

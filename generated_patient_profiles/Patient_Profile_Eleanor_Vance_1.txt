@@ -1,6 +1,7 @@
 PATIENT PROFILE: ELEANOR VANCE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELEANOR VANCE
 - Age: 62 years
 - Sex: Female
 - Place of Residency: US
@@ -8,11 +9,12 @@ PATIENT PROFILE: ELEANOR VANCE
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: HR+/HER2- Metastatic Breast Cancer (MBC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: March 2020
 - Disease Status: Ongoing treatment for metastatic disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but generally associated with MBC (e.g., pain, fatigue).
+- Symptoms: Breast lump, breast pain.
 - Performance Status: Assumed good, allowing for ongoing systemic therapy.
 
 4. LABORATORY RESULTS

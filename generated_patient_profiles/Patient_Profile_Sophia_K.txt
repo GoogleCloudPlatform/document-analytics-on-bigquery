@@ -1,16 +1,18 @@
 PATIENT PROFILE: SOPHIA K.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SOPHIA K.
 - Age: 32 years
 - Sex: Female
 - Place of Residency: Munich, Germany
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease History: Diagnosed 2 years ago.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Relapses with sensory symptoms.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Disease Activity: Active disease on MRI.
 
 4. LABORATORY RESULTS

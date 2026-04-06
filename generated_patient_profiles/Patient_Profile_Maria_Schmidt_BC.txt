@@ -1,6 +1,7 @@
 PATIENT PROFILE: MARIA SCHMIDT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARIA SCHMIDT
 - Age: 58 years
 - Sex: Female
 - Place of Residency: Germany
@@ -8,12 +9,13 @@ PATIENT PROFILE: MARIA SCHMIDT
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Early Breast Cancer (EBC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Subtype: Hormone Receptor-Positive (HR+), Human Epidermal Growth Factor Receptor 2-Negative (HER2-).
 - Risk Status: High risk of recurrence based on clinical and pathological features (e.g., node-positive or tumor size).
 - Intent: Curative intent following definitive primary therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Post-surgical recovery; currently asymptomatic regarding active disease.
+- Symptoms: Nipple discharge, skin dimpling, breast lump, breast pain.
 - Performance Status: ECOG 0–1 (Fully active or restricted in strenuous activity but ambulatory).
 - General Health: No history of significant cardiovascular or pulmonary disease.
 - Clinical State: Scheduled for initiation of adjuvant systemic therapy.

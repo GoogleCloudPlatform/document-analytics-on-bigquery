@@ -1,6 +1,7 @@
 PATIENT PROFILE: LIAM N.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LIAM N.
 - Age: 8 months
 - Sex: Male
 - Place of Residency: Ireland
@@ -8,9 +9,11 @@ PATIENT PROFILE: LIAM N.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk of Severe RSV infection.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Comorbidities: Hemodynamically significant congenital heart disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Wheezing, sneezing.
 - Current Status: Stable from a cardiac perspective, but at high risk for severe respiratory illness.
 - Cardiac Anomaly: Specifics of the congenital heart defect would be detailed in a real chart, but it is significant enough to warrant RSV prophylaxis.
 

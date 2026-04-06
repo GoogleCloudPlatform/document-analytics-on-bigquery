@@ -1,18 +1,19 @@
 PATIENT PROFILE: TEGAN PRICE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: TEGAN PRICE
 - Age: 40 years
 - Sex: Female
 - Place of Residency: Poland
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
-- Secondary Condition: None documented
 - Other Relevant History: Polish adult with PNH initiating Ravulizumab in routine clinical practice.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: starting Ravulizumab within the Polish National Drug Program.
+- Symptoms: Shortness of breath, fatigue, abdominal pain, dark-colored urine (hemoglobinuria).
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
 

@@ -1,17 +1,21 @@
+PATIENT PROFILE: JEAN-LUC PICARD
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Jean-Luc Picard
 - Age: 67 years
 - Sex: Male
+- Place of Residency: France
 - Race/Ethnicity: Not specified
 - Occupation: Retired
-- Location: France
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Post-radical cystectomy status.
 - High risk of recurrence.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Blood in urine, frequent urination, painful urination.
 - Recovering from major surgery.
 - Stable performance status (ECOG 1).
 - No current evidence of distant metastatic disease.

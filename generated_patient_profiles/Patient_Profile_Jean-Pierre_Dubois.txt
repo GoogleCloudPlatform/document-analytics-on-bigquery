@@ -1,29 +1,33 @@
+PATIENT PROFILE: JEAN-PIERRE DUBOIS
+
 1. DEMOGRAPHIC INFORMATION
-Name: Jean-Pierre Dubois
-Age: 60
-Gender: Male
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Retired Chef
+- Name: Jean-Pierre Dubois
+- Age: 60
+- Sex: Male
+- Place of Residency: New York, USA
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Retired Chef
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Recurrent Squamous Cell Carcinoma of the Head and Neck (SCCHN).
-Status: Histologically confirmed SCCHN. Progressed on or after platinum-based therapy.
-Requirement: Treatment decision to initiate Nivolumab for the first time.
-Comorbidities: None. No prior immunotherapy (anti-PD-1/L1 or anti-CTLA-4). No concurrent interventional clinical trial.
+- Primary Disorder: Recurrent Squamous Cell Carcinoma of the Head and Neck (SCCHN).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Histologically confirmed SCCHN. Progressed on or after platinum-based therapy.
+- Requirement: Treatment decision to initiate Nivolumab for the first time.
+- Comorbidities: None. No prior immunotherapy (anti-PD-1/L1 or anti-CTLA-4). No concurrent interventional clinical trial.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Persistent sore throat, difficulty swallowing solids, hoarseness.
-Physical Examination: Palpable recurrent mass in the oropharynx. No signs of active infection. Stable vital signs.
-Life Expectancy: > 6 months.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1.
+- Physical Examination: Palpable recurrent mass in the oropharynx. No signs of active infection. Stable vital signs.
+- Life Expectancy: > 6 months.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 11.8 g/dL
 - WBC: 5.5 x 10^3/µL
 - Platelets: 185 x 10^9/L
-Chemistry:
+- Chemistry:
 - ALT: 28 U/L
 - AST: 25 U/L
 - Bilirubin: 0.8 mg/dL
@@ -31,4 +35,4 @@ Chemistry:
 - Albumin: 3.5 g/dL
 
 5. TREATMENT HISTORY
-Plan: Initiate second-line Nivolumab monotherapy as part of a prospective non-interventional research study in France (NCT04050761). Administer Nivolumab IV according to the approved label in France. Monitor for overall survival (OS), progression-free survival (PFS), and objective response rate (ORR). Conduct regular clinical assessments every 2-4 weeks.
+- Plan: Initiate second-line Nivolumab monotherapy as part of a prospective non-interventional research study in France (NCT04050761). Administer Nivolumab IV according to the approved label in France. Monitor for overall survival (OS), progression-free survival (PFS), and objective response rate (ORR). Conduct regular clinical assessments every 2-4 weeks.

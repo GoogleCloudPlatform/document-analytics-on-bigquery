@@ -1,6 +1,7 @@
 PATIENT PROFILE: JAN KOWALSKI
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JAN KOWALSKI
 - Age: 38 years
 - Sex: Male
 - Place of Residency: Poland
@@ -8,11 +9,12 @@ PATIENT PROFILE: JAN KOWALSKI
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Status: Complement-inhibitor naive.
 - Disease Type: Classic PNH.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue and symptoms of hemolysis.
+- Symptoms: Abdominal pain, shortness of breath, dark-colored urine (hemoglobinuria), fatigue.
 - Performance Status: ECOG 0.
 - Physical Status: Stable.
 

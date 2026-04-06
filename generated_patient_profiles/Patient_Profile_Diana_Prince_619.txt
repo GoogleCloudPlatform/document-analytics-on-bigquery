@@ -1,16 +1,20 @@
+PATIENT PROFILE: DIANA PRINCE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Diana Prince
 - Age: 29 years
 - Sex: Female
+- Place of Residency: USA
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Chronic Migraine.
+- Primary Disorder: Chronic Migraine.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current pregnancy (8 weeks gestation).
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Light sensitivity, throbbing or pulsating pain, sound sensitivity, nausea.
 - 10 migraine days per month.
 - Throbbing headache, photophobia, and nausea during attacks.
 - Pregnancy: Early first trimester, clinically stable.

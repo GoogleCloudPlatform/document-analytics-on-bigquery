@@ -1,18 +1,19 @@
 PATIENT PROFILE: VICTOR THORNE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: VICTOR THORNE
 - Age: 55 years
 - Sex: Male
 - Place of Residency: thrombosis in the portal vein
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
-- Secondary Condition: None documented
 - Other Relevant History: High-risk PNH patient with a history of thrombosis monitoring treatment outcomes on complement inhibition.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Currently anticoagulated but still experiencing high markers of hemolysis; requires consistent C5 inhibition.
+- Symptoms: Shortness of breath, abdominal pain, fatigue.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
 

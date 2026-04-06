@@ -1,6 +1,7 @@
 PATIENT PROFILE: BARRY ALLEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BARRY ALLEN
 - Age: 28 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,11 @@ PATIENT PROFILE: BARRY ALLEN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Schizophrenia
+- Other Relevant History: Failed multiple atypical antipsychotics.
 - Disease Status: Persistent symptoms.
-- History: Failed multiple atypical antipsychotics.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Auditory hallucinations and disorganized thinking.
+- Symptoms: Retreat from reality, hallucinations, delusions.
 - Performance Status: Stable.
 - Physical Status: Seeking better symptom control with fewer side effects.
 

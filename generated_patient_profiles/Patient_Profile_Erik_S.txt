@@ -1,17 +1,20 @@
 PATIENT PROFILE: ERIK S.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ERIK S.
 - Age: 70 years
 - Sex: Male
 - Place of Residency: Oslo, Norway
 
 2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unknown Medical Condition
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Primary Disorders: CKD with Heart Failure.
 - Renal Function: eGFR 38 mL/min/1.73m².
 - Cardiac Status: HFrEF diagnosed.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Dyspnea on exertion.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - NYHA Class: II.
 
 4. LABORATORY RESULTS

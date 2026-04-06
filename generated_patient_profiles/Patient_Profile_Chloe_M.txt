@@ -1,16 +1,18 @@
 PATIENT PROFILE: CHLOE M.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CHLOE M.
 - Age: 30 years
 - Sex: Female
 - Place of Residency: Manchester, UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Crohn's Disease.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Treatment History: Failed anti-TNF therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Abdominal pain and diarrhea.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Disease Activity: Active inflammation.
 
 4. LABORATORY RESULTS

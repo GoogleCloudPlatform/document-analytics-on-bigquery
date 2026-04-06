@@ -1,6 +1,7 @@
 PATIENT PROFILE: MARIA SILVA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARIA SILVA
 - Age: 29 years
 - Sex: Female
 - Place of Residency: Brazil
@@ -8,11 +9,12 @@ PATIENT PROFILE: MARIA SILVA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Stable.
 - Involvement: Cardiac muscle hypertrophy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Occasional palpitations and mild exertional dyspnea.
+- Symptoms: Cardiac muscle disease, hypertension, heart septum involvement.
 - Performance Status: NYHA Class II.
 - Physical Status: Breastfeeding infant.
 

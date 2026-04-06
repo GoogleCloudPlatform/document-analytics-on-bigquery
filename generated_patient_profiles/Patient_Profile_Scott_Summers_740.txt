@@ -1,16 +1,20 @@
+PATIENT PROFILE: SCOTT SUMMERS
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Scott Summers
 - Age: 55 years
 - Sex: Male
+- Place of Residency: Sydney, Australia
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Advanced Metastatic Melanoma (Stage IV).
+- Primary Disorder: Advanced Metastatic Melanoma (Stage IV).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - PD-L1 positive status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Change in mole, eye lesion, mucous membrane lesion.
 - Stable performance status.
 - Metastatic lesions identified on imaging.
 - No symptomatic brain metastases.

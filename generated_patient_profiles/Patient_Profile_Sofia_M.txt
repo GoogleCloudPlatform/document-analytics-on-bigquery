@@ -1,16 +1,18 @@
 PATIENT PROFILE: SOFIA M.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SOFIA M.
 - Age: 27 years
 - Sex: Female
 - Place of Residency: Rome, Italy
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Status: Active SLE.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Skin and joint involvement.
+- Symptoms: Peripheral blood cell abnormalities, joint problems, kidney problems.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

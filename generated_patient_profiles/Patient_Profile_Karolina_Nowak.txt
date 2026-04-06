@@ -1,6 +1,7 @@
 PATIENT PROFILE: KAROLINA NOWAK
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KAROLINA NOWAK
 - Age: 40 years
 - Sex: Female
 - Place of Residency: Warsaw, Poland
@@ -8,11 +9,12 @@ PATIENT PROFILE: KAROLINA NOWAK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: Recurrent hemoglobinuria and abdominal pain.
 - Clone Size: Confirmed via flow cytometry.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Episodic dark urine, moderate fatigue, and generalized abdominal discomfort.
+- Symptoms: Dark-colored urine (hemoglobinuria), fatigue, abdominal pain.
 - Performance Status: ECOG 0.
 - Physical Status: Newly diagnosed; fit for complement inhibitor therapy.
 

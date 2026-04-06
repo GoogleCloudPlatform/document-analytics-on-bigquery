@@ -1,17 +1,19 @@
 PATIENT PROFILE: JEAN-LUC P.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JEAN-LUC P.
 - Age: 69 years
 - Sex: Male
 - Place of Residency: Paris, France
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Status: Post-radical cystectomy.
 - Risk: High recurrence risk (pT3 stage).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Post-operative recovery.
+- Symptoms: Back pain, painful urination, frequent urination, blood in urine.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

@@ -1,28 +1,31 @@
+PATIENT PROFILE: LOGAN HOWLETT
+
 1. DEMOGRAPHIC INFORMATION
-Name: Logan Howlett
-Age: 62
-Sex: Male
-Residency: Alberta, Canada
-Occupation: Retired
+- Name: Logan Howlett
+- Age: 62
+- Sex: Male
+- Place of Residency: Alberta, Canada
+- Occupation: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Diagnosis: Stage IV Adenocarcinoma of the Lung (Metastatic NSCLC)
-Duration: 4 months
-Comorbidities: History of Smoking (Quit 10 years ago)
+- Primary Disorder: Stage IV Adenocarcinoma of the Lung (Metastatic NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Duration: 4 months
+- Comorbidities: History of Smoking (Quit 10 years ago)
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Chronic cough, weight loss, bone pain in the ribs.
-Physical Status: ECOG Performance Status 1. Advanced disease with liver and bone metastases.
-Weight: 74 kg.
+- Symptoms: Shortness of breath, persistent cough.
+- Physical Status: ECOG Performance Status 1. Advanced disease with liver and bone metastases.
+- Weight: 74 kg.
 
 4. LABORATORY RESULTS
-PD-L1 Expression: 0% (Negative)
-EGFR Status: Wild-type
-ALK Status: Negative
-ROS1 Status: Negative
-Hemoglobin: 11.8 g/dL
-Liver Function Tests: Mildly elevated (AST 48 U/L)
+- PD-L1 Expression: 0% (Negative)
+- EGFR Status: Wild-type
+- ALK Status: Negative
+- ROS1 Status: Negative
+- Hemoglobin: 11.8 g/dL
+- Liver Function Tests: Mildly elevated (AST 48 U/L)
 
 5. TREATMENT HISTORY
-Previous Treatments: None for metastatic disease.
-Plan: Initiate first-line therapy with the NIC regimen (Nivolumab + Ipilimumab + 2 cycles of platinum-doublet chemotherapy).
+- Previous Treatments: None for metastatic disease.
+- Plan: Initiate first-line therapy with the NIC regimen (Nivolumab + Ipilimumab + 2 cycles of platinum-doublet chemotherapy).

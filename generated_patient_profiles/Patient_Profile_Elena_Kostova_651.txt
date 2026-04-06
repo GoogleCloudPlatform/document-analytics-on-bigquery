@@ -1,17 +1,21 @@
+PATIENT PROFILE: ELENA KOSTOVA
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Elena Kostova
 - Age: 52 years
 - Sex: Female
+- Place of Residency: Bulgaria
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Bulgaria
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- HER2-Positive Advanced Breast Cancer.
+- Primary Disorder: HER2-Positive Advanced Breast Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Metastatic disease with asymptomatic brain metastases.
 - Postmenopausal status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Nipple discharge, skin dimpling.
 - Stable performance status.
 - No symptomatic neurological deficits.
 - ECOG Performance Status: 1.

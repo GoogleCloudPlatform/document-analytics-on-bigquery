@@ -1,18 +1,20 @@
 PATIENT PROFILE: SOFIA L.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SOFIA L.
 - Age: 29 years
 - Sex: Female
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: Toronto, Canada
 - Employment Status: Active. Supports ECOG 1 status due to chronic illness.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Systemic Lupus Erythematosus (SLE), moderate-to-severe.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Organ Involvement: Primarily skin (malar rash, photosensitivity) and joints (polyarthritis).
 - Disease Activity: Active disease with persistent symptoms despite prior treatments.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic fatigue, joint pain and swelling (hands, wrists, knees), butterfly rash, sun sensitivity.
+- Symptoms: Peripheral blood cell abnormalities, joint problems.
 - Performance Status: ECOG 1 (Capable of light work, but some physical activity is restricted due to joint pain and fatigue).
 - Autoimmune History: Confirmed SLE diagnosis based on ACR/EULAR classification criteria.
 

@@ -1,16 +1,20 @@
+PATIENT PROFILE: PHILIP MARLOWE
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Philip Marlowe
 - Age: 60 years
 - Sex: Male
+- Place of Residency: Los Angeles, CA, USA
 - Race/Ethnicity: Not specified
 - Occupation: Private Investigator (California)
-- Location: Los Angeles, CA, USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of significant tobacco exposure.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest tightness, wheezing, chronic cough.
 - Daily shortness of breath, particularly with activity.
 - Persistent chronic cough.
 - CAT (COPD Assessment Test) score: 21.

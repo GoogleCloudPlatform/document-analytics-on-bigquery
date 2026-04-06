@@ -1,18 +1,19 @@
 PATIENT PROFILE: BRAM VAN DER LINDEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BRAM VAN DER LINDEN
 - Age: 15 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Place of Residency: New York, USA
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Pediatric Melanoma
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Pediatric patient with advanced melanoma receiving Ipilimumab in the Dutch Melanoma Treatment Registry.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating Ipilimumab therapy as part of a national pediatric oncology program.
+- Symptoms: Skin lesion, eye lesion.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Advanced Pediatric Melanoma.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: BRAM VAN DER LINDEN
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Initiating Ipilimumab therapy as part of a national pediatric oncology program.

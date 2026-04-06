@@ -1,36 +1,40 @@
+PATIENT PROFILE: SALLY SETON
+
 1. DEMOGRAPHIC INFORMATION
-Name: Sally Seton
-Age: 50
-Gender: Female
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Artist
+- Name: Sally Seton
+- Age: 50
+- Sex: Female
+- Place of Residency: London, UK
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Artist
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic Breast Cancer.
-Subtype: Triple Negative Breast Cancer (TNBC).
-Status: Advanced/metastatic solid tumor. Progressed after prior treatment with an anthracycline and taxane.
-Comorbidities: None. Normal cardiac function (LVEF 62%). No history of autoimmune disease or ILD.
+- Primary Disorder: Metastatic Breast Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Subtype: Triple Negative Breast Cancer (TNBC).
+- Status: Advanced/metastatic solid tumor. Progressed after prior treatment with an anthracycline and taxane.
+- Comorbidities: None. Normal cardiac function (LVEF 62%). No history of autoimmune disease or ILD.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Exertional fatigue, dull chest wall pain.
-Physical Examination: No known active CNS metastases. No active infection. Normal breath sounds.
-Measurable Disease: Right breast mass 2.8 cm, axillary lymph node 1.5 cm.
+- Symptoms: Breast pain, breast lump.
+- Performance Status: ECOG 1.
+- Physical Examination: No known active CNS metastases. No active infection. Normal breath sounds.
+- Measurable Disease: Right breast mass 2.8 cm, axillary lymph node 1.5 cm.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 11.2 g/dL
 - ANC: 3.5 x 10^9/L
 - Platelets: 195 x 10^9/L
-Chemistry:
+- Chemistry:
 - ALT: 25 U/L
 - AST: 22 U/L
 - Total Bilirubin: 0.8 mg/dL
 - Creatinine: 0.7 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
-Pregnancy Test: Negative.
+- Pregnancy Test: Negative.
 
 5. TREATMENT HISTORY
-Plan: Enroll in a Phase 1 study (NCT06894771) to receive MK-4700 in combination with Pembrolizumab. Administer MK-4700 orally and Pembrolizumab 200 mg IV every 3 weeks. Monitor for dose-limiting toxicities (DLTs) and antitumor response via RECIST 1.1. Conduct regular PK and PD sampling.
+- Plan: Enroll in a Phase 1 study (NCT06894771) to receive MK-4700 in combination with Pembrolizumab. Administer MK-4700 orally and Pembrolizumab 200 mg IV every 3 weeks. Monitor for dose-limiting toxicities (DLTs) and antitumor response via RECIST 1.1. Conduct regular PK and PD sampling.

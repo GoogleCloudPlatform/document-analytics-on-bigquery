@@ -1,18 +1,19 @@
 PATIENT PROFILE: KATHERINE PIERCE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KATHERINE PIERCE
 - Age: 31 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Toronto, Canada
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Hypertrophic Cardiomyopathy in Pregnancy
-- Secondary Condition: None documented
 - Other Relevant History: Pregnant woman with symptomatic HCM monitored for safety in a dedicated surveillance registry.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Enrolled in a prospective safety study to monitor maternal and infant outcomes.
+- Symptoms: Cardiac muscle disease, hypertension.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Hypertrophic Cardiomyopathy in Pregnancy.
 

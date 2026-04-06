@@ -1,17 +1,21 @@
+PATIENT PROFILE: DAVID FOSTER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: David Foster
 - Age: 50 years
 - Sex: Male
+- Place of Residency: Berlin, Germany
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Associated Aplastic Anemia.
 - Chronic Anemia.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abdominal pain, fatigue.
 - Severe fatigue and pallor.
 - Exertional shortness of breath.
 - Requires occasional red blood cell transfusions.

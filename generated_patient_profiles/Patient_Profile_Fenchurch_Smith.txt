@@ -1,18 +1,19 @@
 PATIENT PROFILE: FENCHURCH SMITH
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FENCHURCH SMITH
 - Age: 59 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Sydney, Australia
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic NSCLC (PD-L1 <1%)
-- Secondary Condition: None documented
 - Other Relevant History: Fits the first-line PD-L1 negative cohort for long-term safety and survival monitoring in metastatic NSCLC.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: PD-L1 expression is 0%; EGFR negative; initiating first-line dual-IO therapy (Nivo + Ipi).
+- Symptoms: Chest pain, persistent cough, shortness of breath.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Metastatic NSCLC (PD-L1 <1%).
 

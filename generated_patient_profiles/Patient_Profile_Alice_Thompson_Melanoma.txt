@@ -1,6 +1,7 @@
 PATIENT PROFILE: ALICE THOMPSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ALICE THOMPSON
 - Age: 55 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: ALICE THOMPSON
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Current Stage: Metastatic.
 - Molecular Markers: BRAF wild-type status.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Localized discomfort and weight loss.
+- Symptoms: Pigmented lesion, mucous membrane lesion.
 - Performance Status: ECOG 1.
 - Physical Status: Fit for combination immunotherapy.
 

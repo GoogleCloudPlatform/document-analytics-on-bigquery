@@ -1,15 +1,19 @@
+PATIENT PROFILE: PETER PARKER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Peter Parker
 - Age: 48 years
 - Sex: Male
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Uncontrolled Severe Eosinophilic Asthma.
+- Primary Disorder: Uncontrolled Severe Eosinophilic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
 - Persistent wheezing and nocturnal awakenings.
 - History of multiple oral corticosteroid bursts in the last 12 months.
 - Exertional dyspnea.

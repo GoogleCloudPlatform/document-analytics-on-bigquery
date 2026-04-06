@@ -1,6 +1,7 @@
 PATIENT PROFILE: LI WEI
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LI WEI
 - Age: 68 years
 - Sex: Male
 - Place of Residency: China
@@ -8,12 +9,13 @@ PATIENT PROFILE: LI WEI
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Hospital-Acquired Pneumonia (HAP)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Detail: Developed severe respiratory symptoms during hospitalization for a different primary condition.
 - Clinical Status: Symptomatic; characterized by fever, productive cough, and new pulmonary infiltrates.
 - Severity: Significant enough to require intravenous antibiotic therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent fever, productive cough, and shortness of breath (dyspnea).
+- Symptoms: Infection, inflammation.
 - Physical Status: Acutely ill, but stable for medical intervention.
 - Performance Status: Restricted to hospital bed/unit due to illness and IV therapy.
 - General Health: No participation in other clinical trials for HAP.

@@ -1,16 +1,20 @@
+PATIENT PROFILE: ISABELLA MARTINEZ
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Isabella Martinez
 - Age: 55 years
 - Sex: Female
+- Place of Residency: Mexico
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Mexico
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Relapsed/Refractory Diffuse Large B-Cell Lymphoma (DLBCL).
+- Primary Disorder: Relapsed/Refractory Diffuse Large B-Cell Lymphoma (DLBCL).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - CD20+ disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Solid tumor.
 - Progressive lymphadenopathy.
 - Systemic fatigue and night sweats.
 - ECOG Performance Status: 1.

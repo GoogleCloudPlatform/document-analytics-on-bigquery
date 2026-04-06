@@ -1,27 +1,30 @@
+PATIENT PROFILE: CLARICE STARLING
+
 1. DEMOGRAPHIC INFORMATION
-Name: Clarice Starling
-Age: 58
-Gender: Female
-Ethnicity: Not specified
-Performance Status: ECOG 1
+- Name: Clarice Starling
+- Age: 58
+- Sex: Female
+- Place of Residency: New York, USA
+- Ethnicity: Not specified
+- Performance Status: ECOG 1
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Relapsed/Refractory Multiple Myeloma (RRMM)
-History: Diagnosed with multiple myeloma; relapsed after three prior lines of therapy, including a proteasome inhibitor and an immunomodulatory agent (IMiD). Confirmed progressive disease within 12 months of the last dose of the previous anti-myeloma regimen.
-Comorbidities: None significant reported; normal organ function.
+- Primary Disorder: Relapsed/Refractory Multiple Myeloma (RRMM)
+- Other Relevant History: Diagnosed with multiple myeloma; relapsed after three prior lines of therapy, including a proteasome inhibitor and an immunomodulatory agent (IMiD). Confirmed progressive disease within 12 months of the last dose of the previous anti-myeloma regimen.
+- Comorbidities: None significant reported; normal organ function.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Reports fatigue and mild bone pain, consistent with relapsed myeloma.
-Physical Status: ECOG performance status of 1. No history or evidence of central nervous system (CNS) involvement of multiple myeloma. No active or history of plasma cell leukemia, Waldenström's macroglobulinemia, POEMS syndrome, or clinically significant amyloidosis. No history of significant CNS pathology such as seizure disorder, stroke, or dementia.
+- Symptoms: Bone pain, anemia, osteolytic lesions, hypercalcemia.
+- Physical Status: ECOG performance status of 1. No history or evidence of central nervous system (CNS) involvement of multiple myeloma. No active or history of plasma cell leukemia, Waldenström's macroglobulinemia, POEMS syndrome, or clinically significant amyloidosis. No history of significant CNS pathology such as seizure disorder, stroke, or dementia.
 
 4. LABORATORY RESULTS
-Hematology: Adequate organ function as per protocol requirements.
-Biomarkers: Confirmed progressive disease following standard of care treatments.
-Organ Function: Normal renal and hepatic function.
+- Hematology: Adequate organ function as per protocol requirements.
+- Biomarkers: Confirmed progressive disease following standard of care treatments.
+- Organ Function: Normal renal and hepatic function.
 
 5. TREATMENT HISTORY
-Prior Therapies:
+- Prior Therapies:
 - Line 1: Proteasome inhibitor-based regimen (e.g., Bortezomib).
 - Line 2: Immunomodulatory agent-based regimen (e.g., Lenalidomide).
 - Line 3: Third-line combination therapy (e.g., Daratumumab-based).
-Treatment Plan: Initiate treatment with BMS-986453 (Dual targeting BCMAxGPRC5D Chimeric Antigen Receptor T Cells) as part of a Phase 1 clinical trial.
+- Treatment Plan: Initiate treatment with BMS-986453 (Dual targeting BCMAxGPRC5D Chimeric Antigen Receptor T Cells) as part of a Phase 1 clinical trial.

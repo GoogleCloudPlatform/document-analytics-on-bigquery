@@ -1,6 +1,7 @@
 PATIENT PROFILE: ZOFIA NOWAKOWSKA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ZOFIA NOWAKOWSKA
 - Age: 29 years
 - Sex: Female
 - Place of Residency: Poland
@@ -8,11 +9,12 @@ PATIENT PROFILE: ZOFIA NOWAKOWSKA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate Systemic Lupus Erythematosus (SLE)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Involvement: Skin involvement and fatigue.
 - Symptoms: Malar rash and joint discomfort.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Facial rash and systemic fatigue.
+- Symptoms: Lung problems, inflammation.
 - Performance Status: ECOG 0.
 - Physical Status: Stable disease activity.
 

@@ -1,6 +1,7 @@
 PATIENT PROFILE: BRUCE WAYNE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BRUCE WAYNE
 - Age: 38 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: BRUCE WAYNE
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Atopic Dermatitis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: Chronic eczema, intense itching, and sleep disruption.
 - Comorbidities: None.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Extensive skin lesions and debilitating pruritus.
+- Symptoms: Inflammation of the skin.
 - Performance Status: ECOG 0.
 - Physical Status: Failed prior biologic therapy.
 

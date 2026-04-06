@@ -1,6 +1,7 @@
 PATIENT PROFILE: WANG JING
 
 1. DEMOGRAPHIC INFORMATION
+- Name: WANG JING
 - Age: 70 years
 - Sex: Male
 - Place of Residency: China
@@ -8,11 +9,12 @@ PATIENT PROFILE: WANG JING
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-risk Myelodysplastic Syndromes (MDS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Phenotype: Ring sideroblasts present (>15%).
 - Status: ESA-naive.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Fatigue and chronic anemia symptoms.
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
 - Performance Status: ECOG 1.
 - Physical Status: Symptomatic anemia.
 

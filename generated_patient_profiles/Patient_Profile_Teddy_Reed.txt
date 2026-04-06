@@ -1,18 +1,19 @@
 PATIENT PROFILE: TEDDY REED
 
 1. DEMOGRAPHIC INFORMATION
+- Name: TEDDY REED
 - Age: 58 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: New York, USA
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Asthma (Cardiovascular PASS)
-- Secondary Condition: None documented
 - Other Relevant History: Severe asthma patient taking Tezepelumab with cardiovascular history.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: On Tezepelumab; monitored for MACE in a safety study.
+- Symptoms: Difficulty breathing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Severe Asthma (Cardiovascular PASS).
 

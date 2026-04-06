@@ -1,18 +1,19 @@
 PATIENT PROFILE: BABY TRILLIAN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BABY TRILLIAN
 - Age: 5 months
 - Sex: Female
 - Place of Residency: a high
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk of Severe RSV
-- Secondary Condition: None documented
 - Other Relevant History: Preterm infant (<35 weeks) qualifying for seasonal Palivizumab prophylaxis according to clinical guidelines.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: History of neonatal respiratory distress; entering her first RSV season; requires passive immunization.
+- Symptoms: Runny nose, coughing.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
 

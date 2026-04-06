@@ -1,38 +1,42 @@
+PATIENT PROFILE: THESEUS DUKE
+
 1. DEMOGRAPHIC INFORMATION
-Name: Theseus Duke
-Age: 68
-Gender: Male
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Governor
+- Name: Theseus Duke
+- Age: 68
+- Sex: Male
+- Place of Residency: Paris, France
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Governor
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Lower-Risk Myelodysplastic Syndrome (MDS).
-Status: IPSS-R Low risk. Bone marrow blasts < 5%.
-Symptoms: Symptomatic anemia with hemoglobin < 10 g/dL. Relapsed after erythropoiesis-stimulating agents (ESAs).
-Comorbidities: None significant. No history of AML, CMML, or other malignancies. No active autoimmune disease.
+- Primary Disorder: Lower-Risk Myelodysplastic Syndrome (MDS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: IPSS-R Low risk. Bone marrow blasts < 5%.
+- Symptoms: Symptomatic anemia with hemoglobin < 10 g/dL. Relapsed after erythropoiesis-stimulating agents (ESAs).
+- Comorbidities: None significant. No history of AML, CMML, or other malignancies. No active autoimmune disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Moderate fatigue, exertional shortness of breath.
-Physical Examination: Pallor. Normal heart and lung sounds. Stable vital signs.
-Ability: Willing and able to undergo serial bone marrow aspirates and biopsies.
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
+- Performance Status: ECOG 1.
+- Physical Examination: Pallor. Normal heart and lung sounds. Stable vital signs.
+- Ability: Willing and able to undergo serial bone marrow aspirates and biopsies.
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 8.8 g/dL
 - ANC: 1.2 x 10^9/L
 - Platelets: 85,000/µL
 - Bone Marrow Blasts: 3%
-Endocrine:
+- Endocrine:
 - Serum Erythropoietin (EPO): 450 U/L
-Chemistry:
+- Chemistry:
 - ALT: 25 U/L
 - AST: 22 U/L
 - Total Bilirubin: 0.9 mg/dL
 - Creatinine: 1.1 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
 
 5. TREATMENT HISTORY
-Plan: Enroll in a Phase 1b multicenter, open-label study (NCT04810611). Receive combination therapy with Canakinumab and standard therapy for anemia management. Monitor for dose-limiting toxicities (DLTs), reduction in red blood cell transfusions, and changes in hemoglobin levels. Continue regular safety assessments and bone marrow monitoring.
+- Plan: Enroll in a Phase 1b multicenter, open-label study (NCT04810611). Receive combination therapy with Canakinumab and standard therapy for anemia management. Monitor for dose-limiting toxicities (DLTs), reduction in red blood cell transfusions, and changes in hemoglobin levels. Continue regular safety assessments and bone marrow monitoring.

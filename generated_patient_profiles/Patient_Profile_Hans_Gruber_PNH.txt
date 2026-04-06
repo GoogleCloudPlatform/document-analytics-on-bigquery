@@ -1,6 +1,7 @@
 PATIENT PROFILE: HANS GRUBER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: HANS GRUBER
 - Age: 45 years
 - Sex: Male
 - Place of Residency: Germany
@@ -8,11 +9,12 @@ PATIENT PROFILE: HANS GRUBER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: Chronic fatigue and evidence of breakthrough hemolysis.
 - Clone Size: Confirmed via flow cytometry.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent fatigue and occasional episodes of hemoglobinuria.
+- Symptoms: Shortness of breath, dark-colored urine (hemoglobinuria).
 - Performance Status: ECOG 0.
 - Physical Status: Suboptimal control on current therapy.
 

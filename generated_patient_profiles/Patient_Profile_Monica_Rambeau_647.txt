@@ -1,16 +1,20 @@
+PATIENT PROFILE: MONICA RAMBEAU
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Monica Rambeau
 - Age: 62 years
 - Sex: Female
+- Place of Residency: Japan
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Japan
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Severe Rheumatoid Arthritis (RA).
+- Primary Disorder: Severe Rheumatoid Arthritis (RA).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Biologic-naive status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Symmetric polyarthritis, inflammation, polyarthritis.
 - Symmetric joint swelling and pain in the hands and wrists.
 - Morning stiffness lasting > 2 hours.
 - High disease activity score (SDAI: 22).

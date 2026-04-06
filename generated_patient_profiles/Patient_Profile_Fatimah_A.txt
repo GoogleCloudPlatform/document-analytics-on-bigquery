@@ -1,16 +1,18 @@
 PATIENT PROFILE: FATIMAH A.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: FATIMAH A.
 - Age: 22 years
 - Sex: Female
 - Place of Residency: Riyadh, Saudi Arabia
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Transfusion-Dependent β-Thalassemia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Complications: Iron overload.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic anemia-related symptoms, including fatigue.
+- Symptoms: Anemia.
 - Transfusion Need: Requires red blood cell transfusions every 2 weeks.
 
 4. LABORATORY RESULTS

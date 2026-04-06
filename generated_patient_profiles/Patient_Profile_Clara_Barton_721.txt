@@ -1,16 +1,20 @@
+PATIENT PROFILE: CLARA BARTON
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Clara Barton
 - Age: 29 years
 - Sex: Female
+- Place of Residency: New York, USA
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Moderate-to-Severe Systemic Lupus Erythematosus (SLE).
+- Primary Disorder: Moderate-to-Severe Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Cutaneous and Articular manifestations.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Inflammation, peripheral blood cell abnormalities, heart problems.
 - Persistent malar rash and discoid lesions.
 - Active joint inflammation and swelling.
 - Systemic fatigue and malaise.

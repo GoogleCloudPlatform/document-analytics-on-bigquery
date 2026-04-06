@@ -1,16 +1,18 @@
 PATIENT PROFILE: WEI-CHEN L.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: WEI-CHEN L.
 - Age: 26 years
 - Sex: Female
 - Place of Residency: Taipei, Taiwan
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Transfusion-Dependent β-Thalassemia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Transfusion Need: Requires 2-3 units of RBCs monthly.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic anemia.
+- Symptoms: Anemia.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

@@ -1,16 +1,18 @@
 PATIENT PROFILE: CARLOS M.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CARLOS M.
 - Age: 62 years
 - Sex: Male
 - Place of Residency: Madrid, Spain
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Biomarker: PD-L1 negative; no EGFR/ALK mutations.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Cough and weight loss.
+- Symptoms: Tumor nodules, pleural effusion, pericardial effusion, distant metastasis.
 - Performance Status: ECOG 1.
 
 4. LABORATORY RESULTS

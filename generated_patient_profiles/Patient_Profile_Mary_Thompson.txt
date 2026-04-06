@@ -1,18 +1,19 @@
 PATIENT PROFILE: MARY THOMPSON
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MARY THOMPSON
 - Age: 65 years
 - Sex: Female
 - Place of Residency: United States
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Breast Cancer
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: US patient with HR+/HER2- MBC initiating Palbociclib combination therapy in the Flatiron analysis.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting first-line treatment with Palbociclib and hormonal therapy.
+- Symptoms: Skin dimpling, nipple discharge, breast pain, breast lump.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Metastatic Breast Cancer.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: MARY THOMPSON
 - Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: Starting first-line treatment with Palbociclib and hormonal therapy.

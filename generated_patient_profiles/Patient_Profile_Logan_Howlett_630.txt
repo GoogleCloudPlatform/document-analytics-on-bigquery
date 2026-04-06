@@ -1,17 +1,21 @@
+PATIENT PROFILE: LOGAN HOWLETT
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Logan Howlett
 - Age: 62 years
 - Sex: Male
+- Place of Residency: New York, USA
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Metastatic Non-Small Cell Lung Cancer (NSCLC), Stage IV.
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC), Stage IV.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Squamous cell histology.
 - PD-L1 negative status.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pleural effusion, distant metastasis, pericardial effusion, pleural nodules.
 - Chronic productive cough.
 - Moderate chest wall pain.
 - ECOG Performance Status: 1.

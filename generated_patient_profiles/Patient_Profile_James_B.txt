@@ -1,15 +1,19 @@
 PATIENT PROFILE: JAMES B.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JAMES B.
 - Age: 42 years
 - Sex: Male
-- Place of Residency: [To be inferred or randomized, e.g., United States]
+- Place of Residency: Tokyo, Japan
 
 2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unknown Medical Condition
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Primary Hematologic Malignancy: Relapsed Non-Hodgkin Lymphoma (NHL).
 - Subsequent Diagnosis: Newly diagnosed, localized squamous cell carcinoma of the skin. This is considered a second primary malignancy.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - NHL Status: Currently in remission after CAR-T therapy.
 - Squamous Cell Carcinoma Status: A small, localized lesion on the forearm, confirmed by biopsy.
 - Performance Status: ECOG 0 (Fully active, no performance restrictions).

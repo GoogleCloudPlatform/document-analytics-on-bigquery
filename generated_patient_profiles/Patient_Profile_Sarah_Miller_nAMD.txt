@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH MILLER
 - Age: 72 years
 - Sex: Female
 - Place of Residency: Florida, USA
@@ -8,12 +9,13 @@ PATIENT PROFILE: SARAH MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Neovascular Age-related Macular Degeneration (nAMD)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Affected Eye: Right eye
 - Diagnosis Status: Confirmed by fundus examination and OCT showing intraretinal and subretinal fluid.
 - Medical History: Controlled hypertension.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Decline in central vision affecting reading and facial recognition; baseline visual acuity 20/80.
+- Symptoms: Loss of vision.
 - Performance Status: Independent in most daily activities.
 - Ocular Health: No active ocular infections or history of significant ocular inflammation.
 

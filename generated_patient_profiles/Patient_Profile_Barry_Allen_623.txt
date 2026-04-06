@@ -1,15 +1,19 @@
+PATIENT PROFILE: BARRY ALLEN
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Barry Allen
 - Age: 30 years
 - Sex: Male
+- Place of Residency: USA
 - Race/Ethnicity: Not specified
 - Occupation: Forensic Scientist
-- Location: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Episodic Migraine.
+- Primary Disorder: Episodic Migraine.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Sound sensitivity, nausea.
 - Experiences 6 severe migraine attacks per month.
 - Typical symptoms: Unilateral throbbing pain, photophobia, and nausea.
 - Normal neurological exam between attacks.

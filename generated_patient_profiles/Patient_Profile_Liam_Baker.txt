@@ -1,6 +1,7 @@
 PATIENT PROFILE: LIAM BAKER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LIAM BAKER
 - Age: 30 years
 - Sex: Male
 - Place of Residency: Not specified.
@@ -8,11 +9,12 @@ PATIENT PROFILE: LIAM BAKER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Ulcerative Colitis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: 5 years prior
 - Disease Status: Currently well-controlled on ozanimod therapy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but historically indicative of moderate-to-severe UC (e.g., frequent bowel movements, abdominal pain, rectal bleeding). Currently well-controlled implies reduced or absent symptoms.
+- Symptoms: Necrosis of tissue, lesion on the skin.
 - Performance Status: Assumed good, enabling daily activities.
 
 4. LABORATORY RESULTS

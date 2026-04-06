@@ -1,6 +1,7 @@
 PATIENT PROFILE: ANYA SHARMA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ANYA SHARMA
 - Age: 32 years
 - Sex: Female
 - Place of Residency: Not specified (assumed North America due to trial details).
@@ -8,11 +9,12 @@ PATIENT PROFILE: ANYA SHARMA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Psoriasis (PsO)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: Since age 25.
 - Disease Status: Well-managed on deucravacitinib.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not currently experiencing severe PsO flares due to effective management.
+- Symptoms: Scaling patches, skin lesions, dry skin.
 - Pregnancy Health: Current pregnancy progressing normally; all prenatal screenings normal. No diagnostic test indicating a major congenital malformation (MCM).
 
 4. LABORATORY RESULTS

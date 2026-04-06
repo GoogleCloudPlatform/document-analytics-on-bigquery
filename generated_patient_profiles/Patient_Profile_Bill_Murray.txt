@@ -1,18 +1,19 @@
 PATIENT PROFILE: BILL MURRAY
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BILL MURRAY
 - Age: 74 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Toronto, Canada
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: MDS Ring Sideroblasts
-- Secondary Condition: None documented
 - Other Relevant History: Transfusion-dependent MDS patient with ring sideroblasts initiating Luspatercept therapy.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Serum EPO > 200 U/L; transfusion-dependent; starting Luspatercept.
+- Symptoms: Shortness of breath, pale skin.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for MDS Ring Sideroblasts.
 

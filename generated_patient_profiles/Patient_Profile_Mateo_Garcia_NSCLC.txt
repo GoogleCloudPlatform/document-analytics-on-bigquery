@@ -1,6 +1,7 @@
 PATIENT PROFILE: MATEO GARCIA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: MATEO GARCIA
 - Age: 55 years
 - Sex: Male
 - Place of Residency: Argentina
@@ -8,11 +9,12 @@ PATIENT PROFILE: MATEO GARCIA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Resectable Stage IIIA NSCLC
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Molecular Markers: EGFR and ALK driver mutations absent.
 - Disease Status: Newly diagnosed.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Cough and mild chest discomfort.
+- Symptoms: Shortness of breath, persistent cough, chest pain.
 - Performance Status: ECOG 1.
 - Physical Status: Scheduled for neoadjuvant therapy.
 

@@ -1,34 +1,38 @@
+PATIENT PROFILE: PETER WALSH
+
 1. DEMOGRAPHIC INFORMATION
-Name: Peter Walsh
-Age: 62
-Gender: Male
-Race: Caucasian
-Ethnicity: Non-Hispanic
-Occupation: Traveler
+- Name: Peter Walsh
+- Age: 62
+- Sex: Male
+- Place of Residency: London, UK
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Traveler
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Condition: Metastatic Colorectal Cancer (mCRC).
-Status: Advanced solid tumor, metastatic. Exhausted multiple prior lines of therapy (including fluoropyrimidine, oxaliplatin, and irinotecan) with no available therapy expected to convey clinical benefit.
-Molecular Status: Microsatellite stable (MSS). PD-1 treatment-naive.
+- Primary Disorder: Metastatic Colorectal Cancer (mCRC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Advanced solid tumor, metastatic. Exhausted multiple prior lines of therapy (including fluoropyrimidine, oxaliplatin, and irinotecan) with no available therapy expected to convey clinical benefit.
+- Molecular Status: Microsatellite stable (MSS). PD-1 treatment-naive.
 
 3. SYMPTOMS & PHYSICAL STATUS
-Performance Status: ECOG 1.
-Symptoms: Intermittent abdominal cramping, fatigue.
-Physical Examination: No active CNS metastases. No history of interstitial lung disease or pneumonitis. No symptomatic ascites.
-Measurable Disease: Liver lesion 2.2 cm, lung lesion 1.5 cm (RECIST 1.1).
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1.
+- Physical Examination: No active CNS metastases. No history of interstitial lung disease or pneumonitis. No symptomatic ascites.
+- Measurable Disease: Liver lesion 2.2 cm, lung lesion 1.5 cm (RECIST 1.1).
 
 4. LABORATORY RESULTS
-Hematology:
+- Hematology:
 - Hemoglobin: 11.8 g/dL
 - ANC: 3.2 x 10^9/L
 - Platelets: 185 x 10^9/L
-Chemistry:
+- Chemistry:
 - ALT: 38 U/L
 - AST: 35 U/L
 - Total Bilirubin: 0.9 mg/dL
 - Creatinine: 1.0 mg/dL
-Infectious Disease:
+- Infectious Disease:
 - HIV/HBV/HCV: Negative
 
 5. TREATMENT HISTORY
-Plan: Initiate combination therapy with Vibostolimab (TIGIT inhibitor) and Pembrolizumab as part of the KEYVIBE-001 study (NCT02964013). Administer Vibostolimab and Pembrolizumab IV every 3 weeks. Monitor for dose-limiting toxicities and antitumor response via RECIST 1.1. Provide archival or new tumor tissue sample for analysis.
+- Plan: Initiate combination therapy with Vibostolimab (TIGIT inhibitor) and Pembrolizumab as part of the KEYVIBE-001 study (NCT02964013). Administer Vibostolimab and Pembrolizumab IV every 3 weeks. Monitor for dose-limiting toxicities and antitumor response via RECIST 1.1. Provide archival or new tumor tissue sample for analysis.

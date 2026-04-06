@@ -1,6 +1,7 @@
 PATIENT PROFILE: INGRID HOFFMANN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: INGRID HOFFMANN
 - Age: 66 years
 - Sex: Female
 - Place of Residency: Germany
@@ -8,11 +9,12 @@ PATIENT PROFILE: INGRID HOFFMANN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate COPD
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: Persistent cough and daily shortness of breath.
 - Comorbidities: None significant.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Daily dyspnea during housework.
+- Symptoms: Shortness of breath, wheezing, chronic cough.
 - Performance Status: CAT score 21.
 - Physical Status: Moderate airflow limitation.
 

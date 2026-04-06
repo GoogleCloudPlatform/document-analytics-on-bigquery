@@ -1,6 +1,7 @@
 PATIENT PROFILE: LEE JI-EUN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LEE JI-EUN
 - Age: 58 years
 - Sex: Female
 - Place of Residency: South Korea
@@ -9,13 +10,14 @@ PATIENT PROFILE: LEE JI-EUN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Clinical Stage: Locally advanced or metastatic disease.
 - Molecular Marker: Epidermal Growth Factor Receptor (EGFR) exon 19 deletion confirmed via tissue biopsy or plasma testing.
 - Diagnosis Detail: Confirmed diagnosis requiring first-line targeted therapy.
 - General Health: No history of galactose intolerance, total lactase deficiency, or glucose-galactose malabsorption.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Symptoms consistent with advanced lung cancer, such as persistent cough, fatigue, or exertional shortness of breath.
+- Symptoms: Coughing up blood, chest pain, persistent cough, shortness of breath.
 - Performance Status: Good (e.g., ECOG 0–1; fully ambulatory and able to perform activities of daily living).
 - Clinical Status: Treatment-naïve for Vizimpro (Dacomitinib).
 - Physical Status: Stable; no history of untreated CNS metastases or severe uncontrolled cardiovascular disease.

@@ -1,18 +1,19 @@
 PATIENT PROFILE: ANNALISE KEATING
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ANNALISE KEATING
 - Age: 55 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Paris, France
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: HR+/HER2- Early Breast Cancer
-- Secondary Condition: None documented
 - Other Relevant History: High-risk early breast cancer patient initiating adjuvant combination therapy.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting adjuvant Ribociclib plus Letrozole.
+- Symptoms: Nipple discharge, skin dimpling.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for HR+/HER2- Early Breast Cancer.
 

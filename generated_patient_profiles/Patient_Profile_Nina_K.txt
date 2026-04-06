@@ -1,16 +1,18 @@
 PATIENT PROFILE: NINA K.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: NINA K.
 - Age: 40 years
 - Sex: Female
 - Place of Residency: Athens, Greece
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Main Symptom: Active SLE skin rash.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Active malar rash and discoid lupus lesions.
+- Symptoms: Peripheral blood cell abnormalities, inflammation.
 - Disease Activity: Moderate-to-severe.
 
 4. LABORATORY RESULTS

@@ -1,18 +1,19 @@
 PATIENT PROFILE: ARTHUR DENT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR DENT
 - Age: 42 years
 - Sex: Male
 - Place of Residency: United States
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
-- Secondary Condition: None documented
 - Other Relevant History: Meets the clinical criteria for symptomatic oHCM requiring targeted myosin inhibition with Mavacamten.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Echocardiogram reveals a peak LVOT gradient of 62 mmHg; NYHA Class II; previously stable on verapamil but symptoms are progressing.
+- Symptoms: Right ventricular hypertrophy, cardiac muscle disease, reduced left ventricular volume, hypertrophic cardiomyopathy.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
 

@@ -1,18 +1,19 @@
 PATIENT PROFILE: LAUREL CASTILLO
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LAUREL CASTILLO
 - Age: 30 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Tokyo, Japan
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Psoriasis (Pregnancy)
-- Secondary Condition: None documented
 - Other Relevant History: Pregnant woman with psoriasis exposed to Deucravacitinib.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exposed to Deucravacitinib; monitoring major congenital malformations. PASI score of 18; sPGA score of 3 (moderate).
+- Symptoms: Skin lesions, erythematous skin.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Psoriasis (Pregnancy).
 

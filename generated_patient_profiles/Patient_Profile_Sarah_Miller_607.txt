@@ -1,16 +1,20 @@
+PATIENT PROFILE: SARAH MILLER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Sarah Miller
 - Age: 22 years
 - Sex: Female
+- Place of Residency: Berlin, Germany
 - Race/Ethnicity: Not specified
 - Occupation: Not specified
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Von Willebrand Disease (VWD), Type 3.
+- Primary Disorder: Von Willebrand Disease (VWD), Type 3.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - History of frequent severe mucosal and joint bleeding.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Prolonged bleeding time, deficiency of factor viii, impaired platelet adhesion.
 - Chronic joint pain (hemarthropathy) due to recurrent bleeds.
 - Frequent epistaxis and mucosal hemorrhages.
 - General Physical: Stable between bleeding episodes.

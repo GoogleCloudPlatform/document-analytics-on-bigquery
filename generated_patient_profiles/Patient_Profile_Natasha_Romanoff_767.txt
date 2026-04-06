@@ -1,18 +1,19 @@
 PATIENT PROFILE: NATASHA ROMANOFF
 
 1. DEMOGRAPHIC INFORMATION
+- Name: NATASHA ROMANOFF
 - Age: 44 years
 - Sex: Female
-- Place of Residency: Unknown
+- Place of Residency: Berlin, Germany
 - Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Melanoma
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: Monitoring long-term survival in advanced melanoma patients treated with combination IO.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: PD-L1 positive; starting dual immunotherapy with Nivolumab and Relatlimab. Stage IV metastatic melanoma, BRAF wild-type.
+- Symptoms: Liver melanoma, lymph node melanoma.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: NATASHA ROMANOFF
 - Clinical Markers: Biopsy confirmed melanoma; LDH within normal range.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: PD-L1 positive; starting dual immunotherapy with Nivolumab and Relatlimab.

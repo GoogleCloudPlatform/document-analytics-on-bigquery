@@ -1,17 +1,20 @@
 PATIENT PROFILE: INGRID B.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: INGRID B.
 - Age: 72 years
 - Sex: Female
 - Place of Residency: Stockholm, Sweden
 
 2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unknown Medical Condition
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Primary Disorders: Chronic Kidney Disease (CKD) and Heart Failure with Reduced Ejection Fraction (HFrEF).
 - Renal Function: eGFR of 35 mL/min/1.73m².
 - Cardiac Function: Left ventricular ejection fraction (LVEF) of 35%.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Experiences fluid retention, dyspnea on exertion, and fatigue.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - NYHA Class: NYHA Class II heart failure symptoms.
 
 4. LABORATORY RESULTS

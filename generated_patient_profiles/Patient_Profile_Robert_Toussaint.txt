@@ -1,6 +1,7 @@
 PATIENT PROFILE: ROBERT TOUSSAINT
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ROBERT TOUSSAINT
 - Age: 65 years
 - Sex: Male
 - Place of Residency: Not specified.
@@ -8,11 +9,12 @@ PATIENT PROFILE: ROBERT TOUSSAINT
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Type 2 Diabetes Mellitus
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: Recently diagnosed.
 - Comorbidities: Hypertension, well-controlled with medication. No history of cardiovascular events.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but related to new diagnosis of type 2 diabetes.
+- Symptoms: Hyperglycemia, glucose intolerance.
 - Performance Status: Assumed good.
 
 4. LABORATORY RESULTS

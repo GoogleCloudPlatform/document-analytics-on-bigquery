@@ -1,6 +1,7 @@
 PATIENT PROFILE: LIN MEI-LING
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LIN MEI-LING
 - Age: 66 years
 - Sex: Female
 - Place of Residency: Taiwan
@@ -8,11 +9,12 @@ PATIENT PROFILE: LIN MEI-LING
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsed and Refractory Multiple Myeloma (RRMM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Relapsed after three prior lines of therapy.
 - Comorbidities: None significant.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Bone pain and systemic fatigue.
+- Symptoms: Hypercalcemia, osteolytic lesions.
 - Performance Status: ECOG 1.
 - Physical Status: Fit for combination immunotherapy.
 

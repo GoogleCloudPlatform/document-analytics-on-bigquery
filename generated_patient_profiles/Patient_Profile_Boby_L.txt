@@ -1,6 +1,7 @@
 PATIENT PROFILE: BOBY L.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: BOBY L.
 - Age: 6 months
 - Sex: Male
 - Place of Residency: Boston, MA, USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: BOBY L.
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: High Risk of Severe Respiratory Syncytial Virus (RSV) infection.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Comorbidity: Chronic lung disease of prematurity.
 - Current Status: Entering his first RSV season.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Mild baseline tachypnea; otherwise well-appearing.
+- Symptoms: Respiratory infection.
 - Performance Status: Active infant achieving corrected-age milestones.
 - Cardiac Health: Normal structural heart via neonatal echocardiogram.
 

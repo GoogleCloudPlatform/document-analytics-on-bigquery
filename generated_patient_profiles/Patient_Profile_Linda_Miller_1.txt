@@ -1,6 +1,7 @@
 PATIENT PROFILE: LINDA MILLER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LINDA MILLER
 - Age: 60 years
 - Sex: Female
 - Place of Residency: Not specified.
@@ -8,11 +9,12 @@ PATIENT PROFILE: LINDA MILLER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Diagnosis Date: 15 years prior
 - Disease Status: Moderately active.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Not specified, but history of suboptimal disease control with DMTs. EDSS score of 4.5.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Performance Status: Moderate disability.
 
 4. LABORATORY RESULTS

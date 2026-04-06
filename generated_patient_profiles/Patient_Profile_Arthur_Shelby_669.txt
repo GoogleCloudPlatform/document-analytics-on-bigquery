@@ -1,16 +1,20 @@
+PATIENT PROFILE: ARTHUR SHELBY
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Arthur Shelby
 - Age: 58 years
 - Sex: Male
+- Place of Residency: UK
 - Race/Ethnicity: Not specified
 - Occupation: Professional
-- Location: UK
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Primary Myelofibrosis (PMF).
+- Primary Disorder: Primary Myelofibrosis (PMF).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Intermediate-risk disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Proliferation of granulocytes in the bone marrow, anemia, splenomegaly.
 - Significant splenomegaly (palpable 8 cm below costal margin).
 - Constitutional symptoms: Persistent night sweats and weight loss.
 - Fatigue and early satiety.

@@ -1,17 +1,19 @@
 PATIENT PROFILE: SOFIA R.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SOFIA R.
 - Age: 61 years
 - Sex: Female
-- Place of Residency: [To be inferred or randomized, e.g., United States or Europe]
+- Place of Residency: Sydney, Australia
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Endometrial Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Recurrence: Recurrent disease after prior platinum-based chemotherapy.
 - Biomarker Status: Tumor biopsy confirmed Mismatch Repair Deficient (dMMR) or Microsatellite Instability-High (MSI-H).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Pelvic pain and abnormal bleeding.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 1.
 
 4. LABORATORY RESULTS

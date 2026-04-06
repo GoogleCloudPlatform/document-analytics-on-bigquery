@@ -1,18 +1,19 @@
 PATIENT PROFILE: ORORO MUNROE
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ORORO MUNROE
 - Age: 62 years
 - Sex: Female
-- Place of Residency: Unknown
+- Place of Residency: London, UK
 - Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: COPD with Chronic Bronchitis
-- Secondary Condition: [None or Hypertension as appropriate]
 - Other Relevant History: Real-world evaluation of fixed-dose triple therapy in chronic bronchitis-predominant COPD.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: CAT score 23; multiple exacerbations despite LAMA; transitioning to BGF. CAT score of 24; mMRC score of 3. Frequent exacerbations noted.
+- Symptoms: Chronic cough, wheezing, chest tightness, shortness of breath.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for trial qualification.
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: ORORO MUNROE
 - Respiratory Function: FEV1 42% of predicted value; FEV1/FVC ratio 0.65.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Standard care as per clinical guidelines]
+- Prior Therapy: Standard care as per clinical guidelines
 - Current Plan: CAT score 23; multiple exacerbations despite LAMA; transitioning to BGF.

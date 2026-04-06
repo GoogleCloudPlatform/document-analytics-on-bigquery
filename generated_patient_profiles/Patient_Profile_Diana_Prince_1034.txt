@@ -1,30 +1,33 @@
+PATIENT PROFILE: DIANA PRINCE
+
 1. DEMOGRAPHIC INFORMATION
-Name: Diana Prince
-Age: 66
-Sex: Female
-Residency: Washington D.C., USA
-Occupation: Museum Curator
+- Name: Diana Prince
+- Age: 66
+- Sex: Female
+- Place of Residency: Washington D.C., USA
+- Occupation: Museum Curator
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-Diagnosis: HR+/HER2- Metastatic Breast Cancer
-Duration: 4 years
-Comorbidities: None
+- Primary Disorder: HR+/HER2- Metastatic Breast Cancer
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Duration: 4 years
+- Comorbidities: None
 
 3. SYMPTOMS & PHYSICAL STATUS
-Symptoms: Exertional fatigue, mild localized bone pain.
-Physical Status: Post-menopausal. ECOG Performance Status 1. Measurable lesion in the liver (15mm).
-Weight: 68 kg.
+- Symptoms: Breast pain, breast lump, skin dimpling, nipple discharge.
+- Physical Status: Post-menopausal. ECOG Performance Status 1. Measurable lesion in the liver (15mm).
+- Weight: 68 kg.
 
 4. LABORATORY RESULTS
-Estrogen Receptor: Positive
-Progesterone Receptor: Positive
-HER2 Status: Negative (IHC 1+)
-Hemoglobin: 12.2 g/dL
-ANC: 2.5 x 10^9/L
-Platelets: 180 x 10^9/L
-HbA1c: 5.8% (Normal)
-ECG: Normal Sinus Rhythm, QTcF 420ms.
+- Estrogen Receptor: Positive
+- Progesterone Receptor: Positive
+- HER2 Status: Negative (IHC 1+)
+- Hemoglobin: 12.2 g/dL
+- ANC: 2.5 x 10^9/L
+- Platelets: 180 x 10^9/L
+- HbA1c: 5.8% (Normal)
+- ECG: Normal Sinus Rhythm, QTcF 420ms.
 
 5. TREATMENT HISTORY
-Previous Treatments: Received prior endocrine therapy (Letrozole) for 2 years with initial response, followed by disease progression.
-Plan: Initiate combination therapy with AZD2014 and Fulvestrant.
+- Previous Treatments: Received prior endocrine therapy (Letrozole) for 2 years with initial response, followed by disease progression.
+- Plan: Initiate combination therapy with AZD2014 and Fulvestrant.

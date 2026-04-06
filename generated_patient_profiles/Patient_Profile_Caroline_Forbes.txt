@@ -1,18 +1,19 @@
 PATIENT PROFILE: CAROLINE FORBES
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CAROLINE FORBES
 - Age: 32 years
 - Sex: Female
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Sydney, Australia
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Hypertrophic Cardiomyopathy in Pregnancy
-- Secondary Condition: None documented
 - Other Relevant History: Woman of childbearing potential with HCM enrolled in a pregnancy safety monitoring registry.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Starting a surveillance program to monitor potential drug exposure and maternal health throughout pregnancy.
+- Symptoms: Left ventricular hypertrophy, right ventricular hypertrophy, cardiac muscle disease, heart septum involvement.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Hypertrophic Cardiomyopathy in Pregnancy.
 

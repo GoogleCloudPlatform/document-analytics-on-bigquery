@@ -1,18 +1,19 @@
 PATIENT PROFILE: SANDRINE CASTILLO
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SANDRINE CASTILLO
 - Age: 50 years
 - Sex: Female
 - Place of Residency: Russia
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic oHCM
-- Secondary Condition: None documented
 - Other Relevant History: European patient with symptomatic oHCM starting Mavacamten.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: initiating Mavacamten in a multi-national registry. NYHA Functional Class II or III.
+- Symptoms: Shortness of breath, chest pain.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Symptomatic oHCM.
 

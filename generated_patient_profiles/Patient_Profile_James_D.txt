@@ -1,16 +1,18 @@
 PATIENT PROFILE: JAMES D.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JAMES D.
 - Age: 35 years
 - Sex: Male
 - Place of Residency: New York, NY, USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Crohn's Disease.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Treatment History: Failed prior anti-TNF therapy (Infliximab).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Active Crohn's disease with abdominal pain and diarrhea.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Endoscopy: Shows active inflammation.
 
 4. LABORATORY RESULTS

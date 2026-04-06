@@ -1,6 +1,7 @@
 PATIENT PROFILE: ELENA IVANOVA
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ELENA IVANOVA
 - Age: 46 years
 - Sex: Female
 - Place of Residency: Russia
@@ -8,11 +9,12 @@ PATIENT PROFILE: ELENA IVANOVA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Symptoms: Palpitations and chest discomfort.
 - Cardiac Anatomy: Documented septal hypertrophy.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Exertional palpitations and chest pressure.
+- Symptoms: Hypertension, left ventricular hypertrophy, aortic stenosis.
 - Performance Status: NYHA Class II.
 - Cardiac Health: Resting LVOT gradient 50 mmHg.
 

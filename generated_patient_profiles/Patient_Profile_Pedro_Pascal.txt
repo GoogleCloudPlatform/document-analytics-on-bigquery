@@ -1,18 +1,19 @@
 PATIENT PROFILE: PEDRO PASCAL
 
 1. DEMOGRAPHIC INFORMATION
+- Name: PEDRO PASCAL
 - Age: 50 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Tokyo, Japan
+- Employment Status: Unemployed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Symptomatic COPD
-- Secondary Condition: None documented
 - Other Relevant History: Routine care patient treated with triple therapy for symptomatic COPD management.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: CAT score 21; recently switched to BGF triple therapy for better symptom control.
+- Symptoms: Shortness of breath, wheezing, chronic cough, chest tightness.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Symptomatic COPD.
 

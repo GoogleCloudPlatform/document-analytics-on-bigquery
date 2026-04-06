@@ -1,16 +1,18 @@
 PATIENT PROFILE: LUCA F.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LUCA F.
 - Age: 46 years
 - Sex: Male
 - Place of Residency: Rome, Italy
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Psoriatic Arthritis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Activity: Active PsA.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Joint pain and skin lesions.
+- Symptoms: Inflammation of joints.
 - Performance Status: Good.
 
 4. LABORATORY RESULTS

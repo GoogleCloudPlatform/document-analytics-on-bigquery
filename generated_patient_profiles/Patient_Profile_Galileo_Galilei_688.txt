@@ -1,16 +1,20 @@
+PATIENT PROFILE: GALILEO GALILEI
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Galileo Galilei
 - Age: 65 years
 - Sex: Male
+- Place of Residency: China
 - Race/Ethnicity: Chinese
 - Occupation: Not specified
-- Location: China
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Diabetic Macular Edema (DME).
+- Primary Disorder: Diabetic Macular Edema (DME).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Type 2 Diabetes Mellitus.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abnormal accumulation of fluid.
 - Central vision loss in the affected eye.
 - Difficulty with precision tasks.
 - Stable glycemic control on oral agents.

@@ -1,18 +1,19 @@
 PATIENT PROFILE: HANK SCHRADER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: HANK SCHRADER
 - Age: 52 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Berlin, Germany
+- Employment Status: Employed
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
-- Secondary Condition: None documented
 - Other Relevant History: Lower-risk MDS patient on Luspatercept monitoring treatment outcomes and resource utilization.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Initiating erythroid maturation therapy to reduce transfusion frequency and improve overall survival.
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Lower-Risk Myelodysplastic Syndromes (MDS).
 

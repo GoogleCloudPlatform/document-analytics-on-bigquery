@@ -1,18 +1,19 @@
 PATIENT PROFILE: NATHAN SUMMERS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: NATHAN SUMMERS
 - Age: 48 years
 - Sex: Male
-- Place of Residency: Unknown
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Place of Residency: Sydney, Australia
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Advanced Solid Tumor (KRAS G12C Mutation)
-- Secondary Condition: None documented
 - Other Relevant History: Advanced solid tumor patient with KRAS G12C mutation receiving adagrasib via expanded access.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Molecular profiling confirmed KRAS G12C; ineligible for ongoing clinical trials due to prior treatments; starting adagrasib.
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Advanced Solid Tumor (KRAS G12C Mutation).
 

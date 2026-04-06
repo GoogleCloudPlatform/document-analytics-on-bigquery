@@ -1,16 +1,17 @@
 PATIENT PROFILE: LIN W.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LIN W.
 - Age: 71 years
 - Sex: Male
 - Place of Residency: Beijing, China
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: COPD with Exacerbations.
-- History: Frequent exacerbations.
+- Other Relevant History: Frequent exacerbations.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic cough, dyspnea.
+- Symptoms: Chest tightness, shortness of breath.
 - Lung Function: Reduced FEV1.
 
 4. LABORATORY RESULTS

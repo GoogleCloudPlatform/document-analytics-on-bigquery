@@ -1,17 +1,21 @@
+PATIENT PROFILE: BEVERLY CRUSHER
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Beverly Crusher
 - Age: 70 years
 - Sex: Female
+- Place of Residency: France
 - Race/Ethnicity: Not specified
 - Occupation: Medical Doctor
-- Location: France
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Muscle Invasive Urothelial Carcinoma (MIUC).
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Post-radical resection status.
 - High-risk pathology.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Blood in urine, frequent urination, painful urination.
 - Clinically stable following radical resection for bladder cancer.
 - ECOG Performance Status: 1.
 - No history of other active malignancies.

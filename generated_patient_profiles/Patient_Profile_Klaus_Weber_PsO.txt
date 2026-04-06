@@ -1,6 +1,7 @@
 PATIENT PROFILE: KLAUS WEBER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KLAUS WEBER
 - Age: 48 years
 - Sex: Male
 - Place of Residency: Germany
@@ -8,11 +9,12 @@ PATIENT PROFILE: KLAUS WEBER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Moderate-to-Severe Plaque Psoriasis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Involvement: Scalp and limbs.
 - Severity: Chronic disease.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Persistent skin plaques and pruritus.
+- Symptoms: Scaling patches, skin lesions, erythematous skin, dry skin.
 - Performance Status: ECOG 0.
 - Physical Status: Suboptimal response to previous therapies.
 

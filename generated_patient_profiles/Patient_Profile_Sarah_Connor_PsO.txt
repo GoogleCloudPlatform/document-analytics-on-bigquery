@@ -1,6 +1,7 @@
 PATIENT PROFILE: SARAH CONNOR
 
 1. DEMOGRAPHIC INFORMATION
+- Name: SARAH CONNOR
 - Age: 28 years
 - Sex: Female
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: SARAH CONNOR
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Chronic Plaque Psoriasis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Moderate-to-severe.
 - Risk Profile: Requires pregnancy safety data.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic skin plaques.
+- Symptoms: Skin lesions, scaling patches, dry skin.
 - Performance Status: ECOG 0.
 - Physical Status: Systemically well.
 

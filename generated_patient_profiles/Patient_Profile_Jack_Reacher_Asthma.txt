@@ -1,6 +1,7 @@
 PATIENT PROFILE: JACK REACHER
 
 1. DEMOGRAPHIC INFORMATION
+- Name: JACK REACHER
 - Age: 50 years
 - Sex: Male
 - Place of Residency: USA
@@ -8,11 +9,12 @@ PATIENT PROFILE: JACK REACHER
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Severe Asthma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Comorbidities: History of non-fatal myocardial infarction two years ago.
 - Disease Status: Uncontrolled despite high-intensity SOC treatment.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Nighttime wheezing and exertional dyspnea.
+- Symptoms: Difficulty breathing.
 - Performance Status: ECOG 0.
 - Cardiac Health: History of MI; stable cardiovascular profile.
 

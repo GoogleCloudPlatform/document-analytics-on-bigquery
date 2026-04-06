@@ -1,18 +1,19 @@
 PATIENT PROFILE: ZOE WINTERS
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ZOE WINTERS
 - Age: 38 years
 - Sex: Female
 - Place of Residency: France
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Retired
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: MIUC Adjuvant Study
-- Secondary Condition: None documented
 - Other Relevant History: Post-surgical MIUC patient receiving standard-of-care adjuvant immunotherapy in France.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: High-risk pathology; initiating adjuvant Nivolumab to reduce recurrence risk.
+- Symptoms: Blood in urine, frequent urination.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for MIUC Adjuvant Study.
 

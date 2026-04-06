@@ -1,18 +1,19 @@
 PATIENT PROFILE: CLARA OSWALD
 
 1. DEMOGRAPHIC INFORMATION
+- Name: CLARA OSWALD
 - Age: 38 years
 - Sex: Female
 - Place of Residency: Canada
-- Employment Status: [To be inferred or randomized, e.g., Employed/Retired]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Generalized Myasthenia Gravis (gMG)
-- Secondary Condition: [To be inferred based on context, e.g., Hypertension or None]
 - Other Relevant History: Adult gMG patient initiating Ravulizumab to evaluate real-world functional outcomes.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: MG-ADL score of 9; initiating Ravulizumab as a complement inhibitor to manage persistent symptoms. MG-ADL score of 11.
+- Symptoms: Proximal limb muscle weakness, bulbar muscle weakness, cranial muscle weakness.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
 
@@ -20,5 +21,5 @@ PATIENT PROFILE: CLARA OSWALD
 - Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
 
 5. TREATMENT HISTORY
-- Prior Therapy: [Inferred from context, e.g., Standard of Care]
+- Prior Therapy: Standard of Care
 - Current Plan: MG-ADL score of 9; initiating Ravulizumab as a complement inhibitor to manage persistent symptoms.

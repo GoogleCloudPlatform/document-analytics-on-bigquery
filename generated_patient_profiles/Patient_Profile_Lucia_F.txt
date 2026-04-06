@@ -1,16 +1,18 @@
 PATIENT PROFILE: LUCIA F.
 
 1. DEMOGRAPHIC INFORMATION
+- Name: LUCIA F.
 - Age: 31 years
 - Sex: Female
 - Place of Residency: Madrid, Spain
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease History: History of intravascular hemolysis and a prior thrombotic event.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Chronic fatigue, episodic dark urine, and abdominal pain.
+- Symptoms: Abdominal pain, shortness of breath, fatigue.
 - Disease Control: Symptoms were controlled on bi-weekly infusions of Eculizumab.
 
 4. LABORATORY RESULTS

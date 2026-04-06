@@ -1,16 +1,20 @@
+PATIENT PROFILE: DAVID WRIGHT
+
 1. DEMOGRAPHIC INFORMATION
 - Name: David Wright
 - Age: 72 years
 - Sex: Male
+- Place of Residency: USA
 - Race/Ethnicity: Not specified
 - Occupation: Retired
-- Location: USA
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Metastatic Castration-Resistant Prostate Cancer (mCRPC).
+- Primary Disorder: Metastatic Castration-Resistant Prostate Cancer (mCRPC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Bone metastases.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Bone pain managed with analgesics.
 - Progressive disease despite androgen deprivation.
 - ECOG Performance Status: 1.

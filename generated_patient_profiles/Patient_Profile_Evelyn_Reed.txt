@@ -1,6 +1,7 @@
 PATIENT PROFILE: EVELYN REED
 
 1. DEMOGRAPHIC INFORMATION
+- Name: EVELYN REED
 - Age: 58 years
 - Sex: Female
 - Place of Residency: Oregon, USA
@@ -8,13 +9,14 @@ PATIENT PROFILE: EVELYN REED
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: ALK-positive Advanced Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Adenocarcinoma
 - Current Stage: Stage IVA (Metastatic)
 - Molecular Markers: ALK gene rearrangement (confirmed via FISH).
 - Comorbidities: Stable brain metastases.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Mild persistent cough and localized chest pressure.
+- Symptoms: Persistent cough, chest pain, coughing up blood, shortness of breath.
 - Performance Status: ECOG 1 (Ambulatory and capable of light work).
 - Physical Status: Neurologically stable despite CNS involvement.
 

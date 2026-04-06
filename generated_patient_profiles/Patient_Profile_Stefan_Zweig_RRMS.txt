@@ -1,6 +1,7 @@
 PATIENT PROFILE: STEFAN ZWEIG
 
 1. DEMOGRAPHIC INFORMATION
+- Name: STEFAN ZWEIG
 - Age: 41 years
 - Sex: Male
 - Place of Residency: Germany
@@ -8,11 +9,12 @@ PATIENT PROFILE: STEFAN ZWEIG
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Disease Status: Switching due to suboptimal response.
 - Symptoms: History of neurological flares.
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Episodic paresthesia and gait imbalance.
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
 - Performance Status: EDSS score 2.0.
 - Physical Status: Stable.
 

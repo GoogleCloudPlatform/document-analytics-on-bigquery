@@ -1,6 +1,7 @@
 PATIENT PROFILE: ARTHUR JENSEN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR JENSEN
 - Age: 68 years
 - Sex: Male
 - Place of Residency: Georgia, USA
@@ -8,13 +9,14 @@ PATIENT PROFILE: ARTHUR JENSEN
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Histology: Histologically documented Stage IV NSCLC (Right lung).
 - Metastatic Sites: Adrenal gland and bone.
 - Molecular Markers: Negative for EGFR mutations and ALK fusions.
 - PD-L1 Expression: TPS 75%
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Localized bone pain and generalized fatigue.
+- Symptoms: Tumor nodules, pleural effusion.
 - Performance Status: ECOG 1.
 - Physical Status: No untreated CNS metastases; no history of autoimmune disorders.
 

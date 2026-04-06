@@ -1,6 +1,7 @@
 PATIENT PROFILE: KENJI YAMAMOTO
 
 1. DEMOGRAPHIC INFORMATION
+- Name: KENJI YAMAMOTO
 - Age: 70 years
 - Sex: Male
 - Place of Residency: Japan
@@ -8,11 +9,12 @@ PATIENT PROFILE: KENJI YAMAMOTO
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - Surgical Status: Post-radical cystectomy.
 - PD-L1 Expression: Positive (CPS ≥ 1).
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: Post-surgical recovery.
+- Symptoms: Painful urination, back pain, blood in urine.
 - Performance Status: ECOG 1.
 - Physical Status: High risk of recurrence.
 

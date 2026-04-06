@@ -1,18 +1,19 @@
 PATIENT PROFILE: ABBY WHELAN
 
 1. DEMOGRAPHIC INFORMATION
+- Name: ABBY WHELAN
 - Age: 42 years
 - Sex: Female
 - Place of Residency: Germany
-- Employment Status: [Inferred: Medical Leave or Retired due to condition]
+- Employment Status: Medical Leave
 
 2. CLINICAL DIAGNOSIS & DISORDERS
 - Primary Disorder: Plaque Psoriasis
-- Secondary Condition: None documented
 - Other Relevant History: Adult psoriasis patient initiating Deucravacitinib in clinical practice.
+- Secondary Condition: None documented
 
 3. SYMPTOMS & PHYSICAL STATUS
-- Symptoms: PASI score of 15; starting Deucravacitinib after failing topical steroids.
+- Symptoms: Itching, plaques, scaling.
 - Performance Status: ECOG 0 or 1
 - Physical Status: Stable, meeting all inclusion criteria for Plaque Psoriasis.
 

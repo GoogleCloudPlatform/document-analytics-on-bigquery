@@ -1,16 +1,20 @@
+PATIENT PROFILE: PHOEBE CAULFIELD
+
 1. DEMOGRAPHIC INFORMATION
 - Name: Phoebe Caulfield
 - Age: 11 months
 - Sex: Female
+- Place of Residency: Berlin, Germany
 - Race/Ethnicity: Not specified
 - Occupation: N/A (Infant)
-- Location: Not specified
 
 2. CLINICAL DIAGNOSIS & DISORDERS
-- Congenital Heart Disease (CHD), hemodynamically significant.
+- Primary Disorder: Congenital Heart Disease (CHD), hemodynamically significant.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
 - High risk for severe Respiratory Syncytial Virus (RSV) infection.
 
 3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
 - Stable cardiovascular status awaiting corrective surgery.
 - No active respiratory infections.
 - Normal growth and development for age, considering cardiac status.
