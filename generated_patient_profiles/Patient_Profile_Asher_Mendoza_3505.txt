@@ -1,0 +1,23 @@
+PATIENT PROFILE: ASHER MENDOZA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Asher Mendoza
+- Age: 70 years
+- Sex: Male
+- Place of Residency: Rome, Italy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic castration-resistant prostate cancer
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient underwent a major abdominal surgical procedure 10 days ago.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Weakness, fractures, weight loss.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Metastatic castration-resistant prostate cancer.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: JOSEPHINE WILSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Josephine Wilson
+- Age: 72 years
+- Sex: Female
+- Place of Residency: Singapore
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Cervical
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pelvic pain, after intercourse, or post-menopause, between periods.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Significantly elevated liver enzymes (AST: 350 U/L, ALT: 410 U/L), exceeding 5x the upper limit of normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Cervical.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

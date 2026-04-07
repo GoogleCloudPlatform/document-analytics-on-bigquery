@@ -1,0 +1,23 @@
+PATIENT PROFILE: LOGAN RAMIREZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Logan Ramirez
+- Age: 60 years
+- Sex: Male
+- Place of Residency: Dublin, Ireland
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Diffuse
+- Other Relevant History: Patient has a history of stable management for their primary condition. History of an unrelated active malignancy (metastatic melanoma) currently under systemic treatment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anaplastic large cell lymphoma, renal cell carcinoma.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Diffuse.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

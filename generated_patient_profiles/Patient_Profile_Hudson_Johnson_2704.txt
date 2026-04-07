@@ -1,0 +1,23 @@
+PATIENT PROFILE: HUDSON JOHNSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Hudson Johnson
+- Age: 40 years
+- Sex: Male
+- Place of Residency: Vancouver, BC, Canada
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Gastric (qualifier value)
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient underwent a major abdominal surgical procedure 10 days ago.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abdominal pain or discomfort, heartburn, vomiting, nausea.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Gastric (qualifier value).
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

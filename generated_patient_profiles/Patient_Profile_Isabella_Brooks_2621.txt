@@ -1,0 +1,23 @@
+PATIENT PROFILE: ISABELLA BROOKS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Isabella Brooks
+- Age: 65 years
+- Sex: Female
+- Place of Residency: Vancouver, BC, Canada
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hodgkin Disease
+- Other Relevant History: Patient has a history of stable management for their primary condition. History of an unrelated active malignancy (metastatic melanoma) currently under systemic treatment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Enlargement of spleen, enlargement of lymphoid tissue.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Hodgkin Disease.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

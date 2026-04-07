@@ -1,0 +1,23 @@
+PATIENT PROFILE: PENELOPE COOPER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Penelope Cooper
+- Age: 71 years
+- Sex: Female
+- Place of Residency: Beijing, China
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Multiple Myeloma
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently in her second trimester of pregnancy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hypercalcemia, anemia, bone pain, pathological fractures.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Multiple Myeloma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

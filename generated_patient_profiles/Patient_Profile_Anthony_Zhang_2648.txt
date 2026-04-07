@@ -1,0 +1,23 @@
+PATIENT PROFILE: ANTHONY ZHANG
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Anthony Zhang
+- Age: 57 years
+- Sex: Male
+- Place of Residency: Toronto, ON, Canada
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lymphoma
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Lymph nodes, nodules.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology: Grade 3 thrombocytopenia (Platelets: 45,000/uL) and severe anemia (Hemoglobin: 7.2 g/dL).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Lymphoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

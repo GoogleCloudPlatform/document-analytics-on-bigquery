@@ -1,0 +1,23 @@
+PATIENT PROFILE: SCARLETT WARD
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Scarlett Ward
+- Age: 96 years
+- Sex: Female
+- Place of Residency: Lyon, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Healthy
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient presents with significant frailty and multiple age-related comorbidities.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Healthy volunteers do not exhibit symptoms of a medical disorder, as they are typically screened to be free from significant health conditions relevant to the study..
+- Performance Status: ECOG 3 (Capable of only limited self-care; confined to bed or chair more than 50% of waking hours).
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Healthy.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: MILA TURNER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Mila Turner
+- Age: 36 years
+- Sex: Female
+- Place of Residency: Manchester, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Cancer
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently in her second trimester of pregnancy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue, decreased appetite, discomfort, low energy.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Metastatic Cancer.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

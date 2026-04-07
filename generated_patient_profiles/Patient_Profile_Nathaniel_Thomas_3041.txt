@@ -1,0 +1,23 @@
+PATIENT PROFILE: NATHANIEL THOMAS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Nathaniel Thomas
+- Age: 5 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant neoplasm of lung
+- Other Relevant History: Patient has a history of stable management for their primary condition. Pediatric onset noted; patient remains under guardian supervision.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Wheezing, unexplained weight loss, recurrent respiratory infections, fatigue.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant neoplasm of lung.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

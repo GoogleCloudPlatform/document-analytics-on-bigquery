@@ -1,0 +1,23 @@
+PATIENT PROFILE: MILDRED WALKER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Mildred Walker
+- Age: 26 years
+- Sex: Female
+- Place of Residency: Lyon, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant neoplasm of lung
+- Other Relevant History: Patient has a history of stable management for their primary condition. History of an unrelated active malignancy (metastatic melanoma) currently under systemic treatment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Recurrent respiratory infections, persistent cough, wheezing.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant neoplasm of lung.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

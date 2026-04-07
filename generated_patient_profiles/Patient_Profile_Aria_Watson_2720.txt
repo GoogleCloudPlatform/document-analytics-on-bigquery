@@ -1,0 +1,23 @@
+PATIENT PROFILE: ARIA WATSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Aria Watson
+- Age: 20 years
+- Sex: Female
+- Place of Residency: Manchester, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Extraventricular neurocytoma
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient underwent a major abdominal surgical procedure 10 days ago.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Vision disturbances, headache, seizures.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Extraventricular neurocytoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

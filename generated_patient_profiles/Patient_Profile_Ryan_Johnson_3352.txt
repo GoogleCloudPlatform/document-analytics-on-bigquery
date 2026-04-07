@@ -1,0 +1,23 @@
+PATIENT PROFILE: RYAN JOHNSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ryan Johnson
+- Age: 87 years
+- Sex: Male
+- Place of Residency: Sydney, NSW, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Neoplasms
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient presents with significant frailty and multiple age-related comorbidities.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bone cancer, bone tumors.
+- Performance Status: ECOG 3 (Capable of only limited self-care; confined to bed or chair more than 50% of waking hours).
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Neoplasms.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

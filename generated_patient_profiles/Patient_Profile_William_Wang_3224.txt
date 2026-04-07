@@ -1,0 +1,23 @@
+PATIENT PROFILE: WILLIAM WANG
+
+1. DEMOGRAPHIC INFORMATION
+- Name: William Wang
+- Age: 2 years
+- Sex: Male
+- Place of Residency: Chicago, IL, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Endometrial
+- Other Relevant History: Patient has a history of stable management for their primary condition. Pediatric onset noted; patient remains under guardian supervision.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Uterine bleeding.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Endometrial.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

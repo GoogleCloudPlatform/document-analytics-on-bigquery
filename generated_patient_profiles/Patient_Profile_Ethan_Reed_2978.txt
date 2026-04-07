@@ -1,0 +1,23 @@
+PATIENT PROFILE: ETHAN REED
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ethan Reed
+- Age: 54 years
+- Sex: Male
+- Place of Residency: Mumbai, India
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Conventional (Clear Cell) Renal Cell Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition. History of an unrelated active malignancy (metastatic melanoma) currently under systemic treatment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Unexplained weight loss, blood in the urine (hematuria), loss of appetite, a mass or lump in the abdomen or side.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Conventional (Clear Cell) Renal Cell Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

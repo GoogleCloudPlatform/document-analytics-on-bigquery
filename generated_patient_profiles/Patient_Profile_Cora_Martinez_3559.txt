@@ -1,0 +1,23 @@
+PATIENT PROFILE: CORA MARTINEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Cora Martinez
+- Age: 56 years
+- Sex: Female
+- Place of Residency: Zurich, Switzerland
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant neoplasm of breast
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently in her second trimester of pregnancy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Change in the size or shape of the breast, swelling of all or part of the breast, skin dimpling or puckering.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant neoplasm of breast.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

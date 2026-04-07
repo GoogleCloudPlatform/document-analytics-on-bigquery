@@ -1,0 +1,23 @@
+PATIENT PROFILE: WILLIAM MORRIS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: William Morris
+- Age: 43 years
+- Sex: Male
+- Place of Residency: Hong Kong
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Esophageal Squamous Cell Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: A new sore or raised area on an old scar or chronic sore, a flat lesion with a scaly, crusted surface.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Metastatic Esophageal Squamous Cell Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: BROOKS HUGHES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Brooks Hughes
+- Age: 53 years
+- Sex: Male
+- Place of Residency: Mumbai, India
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Multiple Sclerosis
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient underwent a major abdominal surgical procedure 10 days ago.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Multiple Sclerosis.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

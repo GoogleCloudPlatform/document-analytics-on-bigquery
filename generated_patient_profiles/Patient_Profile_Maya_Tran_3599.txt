@@ -1,0 +1,23 @@
+PATIENT PROFILE: MAYA TRAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Maya Tran
+- Age: 39 years
+- Sex: Female
+- Place of Residency: Sao Paulo, Brazil
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Malignant Solid Neoplasm
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently enrolled and receiving treatment in a separate interventional phase 2 clinical trial.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bone pain, persistent fatigue, loss of appetite.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Advanced Malignant Solid Neoplasm.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

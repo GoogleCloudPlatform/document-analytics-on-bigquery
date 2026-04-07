@@ -1,0 +1,23 @@
+PATIENT PROFILE: JACK NELSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Jack Nelson
+- Age: 91 years
+- Sex: Male
+- Place of Residency: Melbourne, VIC, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Adenocarcinoma of rectum
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient presents with significant frailty and multiple age-related comorbidities.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Change in bowel habits, anemia, intestinal bleeding.
+- Performance Status: ECOG 3 (Capable of only limited self-care; confined to bed or chair more than 50% of waking hours).
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Adenocarcinoma of rectum.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

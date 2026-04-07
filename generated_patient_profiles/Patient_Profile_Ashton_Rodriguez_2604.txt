@@ -1,0 +1,23 @@
+PATIENT PROFILE: ASHTON RODRIGUEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ashton Rodriguez
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Seoul, South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Non-metastatic prostate cancer
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hips, less common in non-metastatic, but can occur if local progression causes pressure, frequent urination, especially at night.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Non-metastatic prostate cancer.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

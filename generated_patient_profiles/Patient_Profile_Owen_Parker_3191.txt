@@ -1,0 +1,23 @@
+PATIENT PROFILE: OWEN PARKER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Owen Parker
+- Age: 42 years
+- Sex: Male
+- Place of Residency: Vienna, Austria
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Gastric Adenocarcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abdominal pain or discomfort, dysphagia (difficulty swallowing), unexplained weight loss.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Gastric Adenocarcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

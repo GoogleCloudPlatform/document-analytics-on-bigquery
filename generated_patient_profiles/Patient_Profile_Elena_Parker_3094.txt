@@ -1,0 +1,23 @@
+PATIENT PROFILE: ELENA PARKER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Elena Parker
+- Age: 49 years
+- Sex: Female
+- Place of Residency: Lyon, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Small cell carcinoma of lung
+- Other Relevant History: Patient has a history of stable management for their primary condition. Documentation confirms active chronic Hepatitis B infection requiring antiviral therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Recurrent pneumonia or bronchitis, shortness of breath, chest pain, fatigue.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Infectious Screen: Positive for HBsAg and HIV-1 antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Small cell carcinoma of lung.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

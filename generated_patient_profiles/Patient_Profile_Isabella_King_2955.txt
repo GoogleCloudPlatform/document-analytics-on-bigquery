@@ -1,0 +1,23 @@
+PATIENT PROFILE: ISABELLA KING
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Isabella King
+- Age: 59 years
+- Sex: Female
+- Place of Residency: Manchester, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Unexplained weight loss, nipple discharge.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Significantly elevated liver enzymes (AST: 350 U/L, ALT: 410 U/L), exceeding 5x the upper limit of normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

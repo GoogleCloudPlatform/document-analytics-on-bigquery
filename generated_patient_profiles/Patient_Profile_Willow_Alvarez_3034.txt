@@ -1,0 +1,23 @@
+PATIENT PROFILE: WILLOW ALVAREZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Willow Alvarez
+- Age: 43 years
+- Sex: Female
+- Place of Residency: Los Angeles, CA, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Esophageal Squamous Cell Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently in her second trimester of pregnancy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: A flat lesion with a scaly, crusted surface, a new sore or raised area on an old scar or chronic sore, a firm, red nodule.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Metastatic Esophageal Squamous Cell Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

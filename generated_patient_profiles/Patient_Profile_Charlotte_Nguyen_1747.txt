@@ -1,0 +1,24 @@
+PATIENT PROFILE: CHARLOTTE NGUYEN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Charlotte Nguyen
+- Age: 60 years
+- Sex: Female
+- Place of Residency: Munich, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant neoplasm of breast
+- Other Relevant History: Patient has a history of stable management for their primary condition with no major acute exacerbations in the past 6 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pain in any part of the breast, redness or scaling of the nipple or breast skin.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology: Hemoglobin, WBC, and platelets within acceptable ranges for clinical observation.
+- Biochemistry: Renal and hepatic function parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant neoplasm of breast.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

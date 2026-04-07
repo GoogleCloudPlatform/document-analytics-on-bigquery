@@ -1,0 +1,23 @@
+PATIENT PROFILE: ANTHONY YOUNG
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Anthony Young
+- Age: 12 years
+- Sex: Male
+- Place of Residency: Sao Paulo, Brazil
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Gastric (qualifier value)
+- Other Relevant History: Patient has a history of stable management for their primary condition. Pediatric onset noted; patient remains under guardian supervision.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Indigestion (dyspepsia), abdominal pain or discomfort, vomiting, bloating.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Gastric (qualifier value).
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

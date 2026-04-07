@@ -1,0 +1,23 @@
+PATIENT PROFILE: ALEXANDER RIVERA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Alexander Rivera
+- Age: 29 years
+- Sex: Male
+- Place of Residency: Madrid, Spain
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lymphoma, Non-Hodgkin
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently enrolled and receiving treatment in a separate interventional phase 2 clinical trial.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Solid tumor.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Lymphoma, Non-Hodgkin.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

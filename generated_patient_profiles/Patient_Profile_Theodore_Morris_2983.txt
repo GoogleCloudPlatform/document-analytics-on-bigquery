@@ -1,0 +1,23 @@
+PATIENT PROFILE: THEODORE MORRIS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Theodore Morris
+- Age: 79 years
+- Sex: Male
+- Place of Residency: Osaka, Japan
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hodgkin Disease
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Enlargement of lymph nodes, enlargement of lymphoid tissue, enlargement of spleen.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Hodgkin Disease.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

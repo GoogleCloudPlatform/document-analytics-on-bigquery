@@ -1,0 +1,23 @@
+PATIENT PROFILE: CLARA HERNANDEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Clara Hernandez
+- Age: 34 years
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant neoplasm of breast
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently in her second trimester of pregnancy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Change in the size or shape of the breast, pain in any part of the breast.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant neoplasm of breast.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

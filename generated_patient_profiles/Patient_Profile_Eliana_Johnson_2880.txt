@@ -1,0 +1,23 @@
+PATIENT PROFILE: ELIANA JOHNSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Eliana Johnson
+- Age: 55 years
+- Sex: Female
+- Place of Residency: Barcelona, Spain
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic non-small cell lung cancer
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently enrolled and receiving treatment in a separate interventional phase 2 clinical trial.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Distant metastasis, pleural nodules.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Metastatic non-small cell lung cancer.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.
