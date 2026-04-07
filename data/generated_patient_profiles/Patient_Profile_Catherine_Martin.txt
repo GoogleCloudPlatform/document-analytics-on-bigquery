@@ -1,0 +1,38 @@
+PATIENT PROFILE: CATHERINE MARTIN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Catherine Martin
+- Age: 50
+- Sex: Female
+- Place of Residency: London, UK
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Senator's Daughter
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Breast Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Subtype: HR+/HER2- (Estrogen Receptor positive, HER2 receptor negative).
+- Status: Locally advanced unresectable/metastatic solid tumor.
+- Progressed after prior endocrine therapy (tamoxifen and anastrozole).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Skin dimpling, nipple discharge, breast pain, breast lump.
+- Performance Status: ECOG 1.
+- Physical Examination: No active brain metastases. No Grade ≥ 2 peripheral neuropathy. Stable cardiac function.
+- Measurable Disease: 2.5 cm mass in the left breast and 1.5 cm bone lesion in the pelvis (RECIST 1.1).
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 11.5 g/dL
+- ANC: 2.8 x 10^9/L
+- Platelets: 190 x 10^9/L
+- Chemistry:
+- ALT: 28 U/L
+- AST: 25 U/L
+- Total Bilirubin: 0.9 mg/dL
+- Creatinine: 0.8 mg/dL
+- Molecular Status: CCNE1 status known (not amplified).
+
+5. TREATMENT HISTORY
+- Plan: Initiate combination therapy with BMS-986500 and Fulvestrant as part of a Phase 1 study (NCT06997029). Administer BMS-986500 orally and Fulvestrant 500 mg IM every 4 weeks. Monitor for dose-limiting toxicities and clinical response via RECIST 1.1. Provide baseline tumor sample for analysis.

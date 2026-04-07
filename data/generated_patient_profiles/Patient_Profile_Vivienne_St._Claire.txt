@@ -1,0 +1,25 @@
+PATIENT PROFILE: VIVIENNE ST. CLAIRE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: VIVIENNE ST. CLAIRE
+- Age: 35 years
+- Sex: Female
+- Place of Residency: Middle East
+- Employment Status: Medical Leave
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia
+- Other Relevant History: Adult TDT patient in the Middle East starting Luspatercept.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anemia.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Transfusion-Dependent Beta-Thalassemia.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Pre-transfusion Hemoglobin 6.8 g/dL; Serum Ferritin 1850 ng/mL.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Transfusion-Dependent Beta-Thalassemia
+- Current Plan: Initiating Luspatercept to reduce transfusion visits.

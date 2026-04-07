@@ -1,0 +1,25 @@
+PATIENT PROFILE: CHRISTOPHER EVANS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CHRISTOPHER EVANS
+- Age: 48 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Stage III Resectable Melanoma
+- Other Relevant History: Adult patient with resectable melanoma participating in a neoadjuvant combination immunotherapy study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Change in mole, mucous membrane lesion.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Stage III Resectable Melanoma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Initiating neoadjuvant therapy with Nivolumab and Relatlimab prior to surgical resection.

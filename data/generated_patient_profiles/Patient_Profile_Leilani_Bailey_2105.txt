@@ -1,0 +1,24 @@
+PATIENT PROFILE: LEILANI BAILEY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Leilani Bailey
+- Age: 73 years
+- Sex: Female
+- Place of Residency: Sydney, NSW, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Malignant Solid Neoplasm
+- Other Relevant History: Patient has a history of stable management for their primary condition with no major acute exacerbations in the past 6 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Jaundice, chronic pain (often localized to affected areas), shortness of breath, loss of appetite.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology: Hemoglobin, WBC, and platelets within acceptable ranges for clinical observation.
+- Biochemistry: Renal and hepatic function parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Advanced Malignant Solid Neoplasm.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

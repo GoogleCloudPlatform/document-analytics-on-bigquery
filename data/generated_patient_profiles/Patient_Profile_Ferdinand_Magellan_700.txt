@@ -1,0 +1,31 @@
+PATIENT PROFILE: FERDINAND MAGELLAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ferdinand Magellan
+- Age: 38 years
+- Sex: Male
+- Place of Residency: Sydney, Australia
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Overweight/Obesity.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Otherwise healthy status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Excess body fat.
+- BMI: 28.2 kg/m².
+- Weight: 92 kg.
+- No history of chronic medical conditions.
+- Asymptomatic.
+
+4. LABORATORY RESULTS
+- Routine hematology and biochemistry: Normal.
+- HbA1c: 5.4%.
+- Fasting Insulin: Normal range.
+- ECG: Normal.
+
+5. TREATMENT HISTORY
+- Previous: No pharmacological treatments for weight management.
+- Plan: Participate in a clinical pharmacology study to evaluate the effects of AZD6234 on metabolic markers and pharmacokinetics.

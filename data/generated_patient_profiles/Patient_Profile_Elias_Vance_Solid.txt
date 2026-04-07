@@ -1,0 +1,28 @@
+PATIENT PROFILE: ELIAS VANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELIAS VANCE
+- Age: 62 years
+- Sex: Male
+- Place of Residency: North Carolina, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Solid Malignancy (Metastatic Colorectal Carcinoma)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Current Status: Stable but progressive metastatic disease.
+- Medical History: No history of active hepatitis, HIV, or pre-existing cardiac conditions.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Rectal carcinoma, malignant neoplasm, adenocarcinoma.
+- Performance Status: ECOG 1.
+- Physical Status: No active uncontrolled infections; triplicate ECG mean resting QTcF 425 ms.
+
+4. LABORATORY RESULTS
+- Hematology/Organ Function: Adequate marrow and organ function.
+- Life Expectancy: Estimated to be greater than 12 weeks.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Exhausted multiple lines of standard-of-care therapies. Avoiding calcium channel blockers and relevant cocktail substrates.
+- Current Plan: Initiating therapy with Saruparib in combination with probe substrates (e.g., Metformin) for DDI assessment.
+- Monitoring: Close follow-up of metabolic parameters and PK profiling.

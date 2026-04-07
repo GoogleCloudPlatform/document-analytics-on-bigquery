@@ -1,0 +1,30 @@
+PATIENT PROFILE: CLARA BARTON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Clara Barton
+- Age: 15 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Race/Ethnicity: Not specified
+- Occupation: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Von Willebrand Disease (VWD), Type 3.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- History of severe recurrent hemorrhage.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Prolonged bleeding time, deficiency of factor viii, impaired platelet adhesion.
+- Life-long history of severe nosebleeds (epistaxis).
+- Significant bruising with minimal trauma.
+- History of joint bleeds.
+
+4. LABORATORY RESULTS
+- VWF:Ag: < 1%.
+- VWF:RCo: < 1%.
+- FVIII:C: 4%.
+- Hemoglobin: 11.0 g/dL.
+
+5. TREATMENT HISTORY
+- Previous: On-demand treatment.
+- Plan: Initiate prophylactic factor replacement therapy (Standard of Care) to prevent chronic joint disease and manage bleeding frequency.

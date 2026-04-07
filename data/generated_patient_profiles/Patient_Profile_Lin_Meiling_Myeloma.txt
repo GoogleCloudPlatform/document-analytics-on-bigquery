@@ -1,0 +1,29 @@
+PATIENT PROFILE: LIN MEI-LING
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LIN MEI-LING
+- Age: 66 years
+- Sex: Female
+- Place of Residency: Taiwan
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed and Refractory Multiple Myeloma (RRMM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease Status: Relapsed after three prior lines of therapy.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hypercalcemia, osteolytic lesions.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for combination immunotherapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Protein Studies: Elevated paraprotein levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Includes proteasome inhibitors and other agents.
+- Current Plan: Initiating Elotuzumab in combination with Pomalidomide and Dexamethasone.
+- Monitoring: Safety and response tracking in post-marketing study.

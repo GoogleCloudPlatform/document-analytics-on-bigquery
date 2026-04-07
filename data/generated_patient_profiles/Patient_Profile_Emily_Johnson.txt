@@ -1,0 +1,25 @@
+PATIENT PROFILE: EMILY JOHNSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: EMILY JOHNSON
+- Age: 30 years
+- Sex: Female
+- Place of Residency: the US
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Psoriasis in Pregnancy
+- Other Relevant History: Pregnant woman with psoriasis exposed to Deucravacitinib participating in a safety surveillance study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Scaling patches, dry skin, erythematous skin, skin lesions.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Psoriasis in Pregnancy.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Exposed to Deucravacitinib during the first trimester; monitoring for major congenital malformations.

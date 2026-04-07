@@ -1,0 +1,25 @@
+PATIENT PROFILE: ELENA GILBERT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELENA GILBERT
+- Age: 28 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hypertrophic Cardiomyopathy in Pregnancy
+- Other Relevant History: Pregnant woman with HCM participating in the Mavacamten Pregnancy Surveillance Program.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hypertrophic cardiomyopathy, hypertension, heart septum involvement.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Hypertrophic Cardiomyopathy in Pregnancy.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Hypertrophic Cardiomyopathy in Pregnancy
+- Current Plan: Enrolled to monitor pregnancy outcomes and fetal safety during the course of gestation.

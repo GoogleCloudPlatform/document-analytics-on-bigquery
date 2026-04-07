@@ -1,0 +1,31 @@
+PATIENT PROFILE: SIGNOR FERRARI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Signor Ferrari
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Sydney, Australia
+- Race/Ethnicity: Not specified
+- Occupation: Business Owner
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Intravascular Hemolysis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dark-colored urine (hemoglobinuria), abdominal pain.
+- Chronic fatigue and dyspnea.
+- History of dark urine episodes.
+- No current acute thrombosis.
+- Physical Status: Ambulatory, ECOG 1.
+
+4. LABORATORY RESULTS
+- Flow Cytometry: PNH clone detected.
+- LDH: 720 U/L (3x normal).
+- Hemoglobin: 10.2 g/dL.
+- Bilirubin: 2.1 mg/dL.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care only.
+- Plan: Initiate Ravulizumab (Ultomiris) for sustained complement inhibition and evaluation of clinical effectiveness.

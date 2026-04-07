@@ -1,0 +1,25 @@
+PATIENT PROFILE: BRIAN COX
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BRIAN COX
+- Age: 78 years
+- Sex: Male
+- Place of Residency: Sydney, Australia
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: COPD routine care
+- Other Relevant History: Geriatric COPD patient requiring escalation to triple therapy for symptomatic relief.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Wheezing, chronic cough, chest tightness, shortness of breath.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for COPD routine care.
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for COPD routine care
+- Current Plan: FEV1 42% predicted; CAT score 24; switching to BGF triple therapy.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: MILDRED MORALES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Mildred Morales
+- Age: 20 years
+- Sex: Female
+- Place of Residency: Singapore
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unresectable
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Swollen lymph nodes, breast lump.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Unresectable.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

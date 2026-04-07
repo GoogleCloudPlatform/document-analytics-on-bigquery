@@ -1,0 +1,31 @@
+PATIENT PROFILE: ROBERT HAYES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Robert Hayes
+- Age: 42 years
+- Sex: Male
+- Place of Residency: Paris, France
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Chronic Intravascular Hemolysis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue, dark-colored urine (hemoglobinuria), shortness of breath.
+- Significant fatigue and generalized weakness.
+- Occasional dark-colored urine episodes (hemoglobinuria).
+- ECOG Performance Status: 1.
+- No history of major thrombotic events.
+
+4. LABORATORY RESULTS
+- Flow Cytometry: 45% PNH clone size in granulocytes.
+- LDH: 700 U/L (2.8x normal).
+- Hemoglobin: 10.5 g/dL.
+- Bilirubin (Indirect): Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care and folic acid.
+- Plan: Initiate Ravulizumab (Ultomiris) for sustained complement inhibition and evaluation of treatment outcomes in a real-world setting.

@@ -1,0 +1,31 @@
+PATIENT PROFILE: MARIE CURIE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Marie Curie
+- Age: 32 years
+- Sex: Female
+- Place of Residency: USA
+- Race/Ethnicity: Not specified
+- Occupation: Scientist
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Alopecia Areata.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Alopecia Totalis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Absence of hair.
+- > 90% loss of scalp hair.
+- Loss of eyebrows and eyelashes.
+- No history of other excluded alopecia types.
+- SALT score: 95.
+
+4. LABORATORY RESULTS
+- Thyroid function: Normal.
+- Hemoglobin: 12.8 g/dL.
+- Renal function: Normal.
+- LFTs: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Failed topical and intralesional corticosteroids.
+- Plan: Initiate Ritlecitinib (Litfulo) for the treatment of severe Alopecia Areata and evaluation of real-world effectiveness.

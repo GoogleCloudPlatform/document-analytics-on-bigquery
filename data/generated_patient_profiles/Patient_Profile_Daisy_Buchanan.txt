@@ -1,0 +1,25 @@
+PATIENT PROFILE: DAISY BUCHANAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: DAISY BUCHANAN
+- Age: 30 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Real-world patient initiating Ravulizumab to assess functional improvement and safety in gMG.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Ocular muscle weakness, bulbar muscle weakness, skeletal muscle weakness, diplopia.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: MG-ADL score of 10; seeking to start Ravulizumab for symptom stabilization.

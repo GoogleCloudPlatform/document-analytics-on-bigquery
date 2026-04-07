@@ -1,0 +1,30 @@
+PATIENT PROFILE: SOFIA L.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SOFIA L.
+- Age: 29 years
+- Sex: Female
+- Place of Residency: Toronto, Canada
+- Employment Status: Active. Supports ECOG 1 status due to chronic illness.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE), moderate-to-severe.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Organ Involvement: Primarily skin (malar rash, photosensitivity) and joints (polyarthritis).
+- Disease Activity: Active disease with persistent symptoms despite prior treatments.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Peripheral blood cell abnormalities, joint problems.
+- Performance Status: ECOG 1 (Capable of light work, but some physical activity is restricted due to joint pain and fatigue).
+- Autoimmune History: Confirmed SLE diagnosis based on ACR/EULAR classification criteria.
+
+4. LABORATORY RESULTS
+- Autoantibodies: Positive ANA, anti-dsDNA, anti-Sm antibodies.
+- Inflammatory Markers: Elevated ESR and CRP during disease flares.
+- Complement Levels: Low C3 and C4, consistent with active disease.
+- Hematologic Function: Mild anemia of chronic disease.
+- Renal Function: Normal creatinine and urine protein/creatinine ratio (no significant renal involvement yet).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Oral corticosteroids (e.g., prednisone) at varying doses, hydroxychloroquine (antimalarial). Limited efficacy and/or intolerable side effects with these treatments.
+- Current Plan: Initiated Anifrolumab (Saphnelo) intravenous therapy approximately 3 months ago, targeting Type I interferon pathway.

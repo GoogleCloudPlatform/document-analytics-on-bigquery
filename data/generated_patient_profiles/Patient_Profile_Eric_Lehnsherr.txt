@@ -1,0 +1,25 @@
+PATIENT PROFILE: ERIC LEHNSHERR
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ERIC LEHNSHERR
+- Age: 54 years
+- Sex: Male
+- Place of Residency: thrombosis
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: PNH with Thrombosis Risk
+- Other Relevant History: Management of PNH-related complications and prevention of breakthrough hemolysis.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Thrombus, blood clot.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.8x Upper Limit of Normal (ULN); Hemoglobin 8.2 g/dL; Flow cytometry confirms 42% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care as per context
+- Current Plan: Currently on anticoagulants; LDH is 2.5x ULN; starting Ravulizumab.

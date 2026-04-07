@@ -1,0 +1,29 @@
+PATIENT PROFILE: PARK BO-GUM
+
+1. DEMOGRAPHIC INFORMATION
+- Name: PARK BO-GUM
+- Age: 41 years
+- Sex: Male
+- Place of Residency: Seoul, South Korea
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: COVID-19 Vaccination (Booster)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Recently received booster dose.
+- Comorbidities: None.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: Fully active.
+- Physical Status: Healthy adult.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Renal/Liver Function: Normal.
+- Infectious Disease: Negative for acute infection.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Completed primary series and received booster of Comirnaty.
+- Current Plan: Participating in active post-marketing safety monitoring.
+- Monitoring: Recording reactions in a mobile application diary.

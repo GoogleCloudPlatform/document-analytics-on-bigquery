@@ -1,0 +1,31 @@
+PATIENT PROFILE: ARTHUR P. JENKINS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR P. JENKINS
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Kentucky, USA
+- Employment Status: Retired (Former heavy smoker)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Histology: Histologically confirmed Stage IV NSCLC.
+- Current Stage: Stage IV (Metastatic)
+- Molecular Markers: Negative for EGFR mutations and ALK fusions.
+- PD-L1 Expression: TPS 35%
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pleural effusion, pleural nodules.
+- Performance Status: ECOG 1 (Ambulatory).
+- Physical Status: No history of autoimmune disorders or primary immunodeficiency; no untreated CNS metastases.
+
+4. LABORATORY RESULTS
+- Cardiac Markers: Troponin T levels within normal range.
+- Hematologic Function: Adequate organ and bone marrow function.
+- Life Expectancy: Assessed to be well over 12 weeks.
+
+5. TREATMENT HISTORY
+- Prior Therapy: No prior systemic therapy for metastatic NSCLC.
+- Current Plan: Initiating first-line immunotherapy according to PD-L1 status and molecular profile.
+- Monitoring: Evaluation of clinical response and monitoring for immune-related adverse events.

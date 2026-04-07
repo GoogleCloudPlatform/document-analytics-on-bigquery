@@ -1,0 +1,42 @@
+PATIENT PROFILE: EVELDA DRUMGO
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Evelda Drumgo
+- Age: 30
+- Sex: Female
+- Place of Residency: New York, USA
+- Race: Black
+- Ethnicity: Non-Hispanic
+- Occupation: Social Worker
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Healthy Volunteer. No history of clinically significant acute or chronic medical illness. No history of clinically relevant cardiac disease, arrhythmias, or GI surgery. No Gilbert Syndrome.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Symptoms.
+- Overall Status: Healthy.
+- Height: 165 cm
+- Weight: 65 kg
+- BMI: 23.9 kg/m2 (Within 18.0 to 30.0 range)
+- Vital Signs:
+- BP: 115/72 mmHg
+- HR: 70 bpm
+- Physical Examination: Normal findings. No history of syncope.
+- 12-lead ECG: Normal (PR, QRS, QT intervals within normal limits).
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 13.2 g/dL
+- WBC: 5.8 x 10^3/mm3
+- Chemistry:
+- ALT: 18 U/L
+- AST: 16 U/L
+- Creatinine: 0.8 mg/dL
+- Total Bilirubin: 0.6 mg/dL
+- Infectious Disease:
+- HIV/HBV/HCV: Negative
+- Pregnancy Test: Negative.
+
+5. TREATMENT HISTORY
+- Plan: Enroll in Phase 1 Thorough QT/QTc study (NCT06846866). Participate in Part 2 (nested-crossover) to evaluate the effect of multiple doses of BMS-986419 on cardiac repolarization. Receive BMS-986419 or placebo/moxifloxacin. Conduct intensive safety monitoring including continuous ECGs and PK measurements for 28 days.

@@ -1,0 +1,29 @@
+PATIENT PROFILE: MICHELANGELO
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Michelangelo
+- Age: 52 years
+- Sex: Male
+- Place of Residency: France
+- Race/Ethnicity: Not specified
+- Occupation: Artist (France)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Primary Progressive Multiple Sclerosis (PPMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
+- Gradual worsening of lower limb strength and balance over 24 months.
+- Occasional muscle spasms.
+- EDSS score: 4.5.
+- Generally stable cardiovascular health.
+
+4. LABORATORY RESULTS
+- MRI (Brain/Spine): Typical T2 lesions and spinal atrophy consistent with PPMS.
+- Hepatic and Renal Function: Within normal limits.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Symptomatic management and physical therapy.
+- Plan: Initiate Ocrelizumab therapy to manage disease progression in primary progressive multiple sclerosis.

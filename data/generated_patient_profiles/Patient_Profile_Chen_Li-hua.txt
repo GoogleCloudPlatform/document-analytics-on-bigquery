@@ -1,0 +1,25 @@
+PATIENT PROFILE: CHEN LI-HUA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CHEN LI-HUA
+- Age: 65 years
+- Sex: Female
+- Place of Residency: Taiwan
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed or Refractory Multiple Myeloma
+- Other Relevant History: RRMM patient in Taiwan initiating Elotuzumab in a safety and tolerability surveillance study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pathological fractures, osteolytic lesions, skeletal destruction, serum monoclonal protein.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Relapsed or Refractory Multiple Myeloma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Starting Elotuzumab in combination with Lenalidomide and Dexamethasone.

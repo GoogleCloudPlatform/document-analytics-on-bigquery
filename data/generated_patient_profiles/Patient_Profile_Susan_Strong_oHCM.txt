@@ -1,0 +1,29 @@
+PATIENT PROFILE: SUSAN STRONG
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SUSAN STRONG
+- Age: 45 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease Status: Symptomatic despite therapy.
+- Cardiac Anatomy: Documented septal hypertrophy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hypertrophic cardiomyopathy, right ventricular hypertrophy, aortic stenosis, heart septum involvement.
+- Performance Status: NYHA Class III.
+- Physical Status: Significant LVOT obstruction.
+
+4. LABORATORY RESULTS
+- Echocardiography: Resting LVOT gradient > 50 mmHg.
+- Cardiac Function: Normal LVEF.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed response to Verapamil.
+- Current Plan: Initiating treatment with Mavacamten.
+- Monitoring: Prospective registry monitoring for real-world outcomes.

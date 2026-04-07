@@ -1,0 +1,25 @@
+PATIENT PROFILE: HELGA FISCHER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HELGA FISCHER
+- Age: 52 years
+- Sex: Female
+- Place of Residency: Toronto, Canada
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HR+/HER2- Early Breast Cancer
+- Other Relevant History: High-risk early breast cancer patient in Austria initiating adjuvant Ribociclib combination therapy.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Nipple discharge, breast pain, skin dimpling.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for HR+/HER2- Early Breast Cancer.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Starting adjuvant Ribociclib plus Letrozole as part of routine care.

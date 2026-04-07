@@ -1,0 +1,25 @@
+PATIENT PROFILE: INSPECTOR LESTRADE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: INSPECTOR LESTRADE
+- Age: 50 years
+- Sex: Male
+- Place of Residency: London, UK
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Melanoma Outcomes Study
+- Other Relevant History: Real-world data study for immunotherapy combination in advanced skin cancer.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pigmented lesion, change in mole, mucous membrane lesion.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Biopsy confirmed melanoma; LDH within normal range.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care as per context
+- Current Plan: Treated with Nivo/Rela; tracking long-term survival and adverse events.

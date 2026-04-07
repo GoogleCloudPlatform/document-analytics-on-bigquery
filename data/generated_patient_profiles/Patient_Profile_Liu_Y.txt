@@ -1,0 +1,22 @@
+PATIENT PROFILE: LIU Y.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LIU Y.
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Shanghai, China
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: COPD with Exacerbation Risk.
+- Other Relevant History: Failed dual bronchodilation.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, chronic cough.
+- Lung Function: Reduced FEV1.
+
+4. LABORATORY RESULTS
+- Spirometry: Confirms obstruction.
+
+5. TREATMENT HISTORY
+- Prior Therapy: LAMA/LABA.
+- Current Plan: Starting triple therapy (BGF).

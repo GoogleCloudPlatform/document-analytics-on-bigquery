@@ -1,0 +1,25 @@
+PATIENT PROFILE: JAN NOWAK
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JAN NOWAK
+- Age: 40 years
+- Sex: Male
+- Place of Residency: Poland
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: Adult patient with PNH in Poland initiating Ravulizumab within routine clinical practice.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abdominal pain, shortness of breath, fatigue, dark-colored urine (hemoglobinuria).
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.5x Upper Limit of Normal (ULN); Hemoglobin 8.5 g/dL; Flow cytometry confirms 45% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Flow cytometry shows 55% PNH clone; starting Ravulizumab within the National Drug Program.

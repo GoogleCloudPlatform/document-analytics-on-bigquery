@@ -1,0 +1,25 @@
+PATIENT PROFILE: HAL JORDAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HAL JORDAN
+- Age: 5 months
+- Sex: Male
+- Place of Residency: London, UK
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV
+- Other Relevant History: Preterm infant at high risk for severe RSV infection receiving Palivizumab prophylaxis in a real-world study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Wheezing, coughing, fever.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Requires seasonal prophylaxis with Palivizumab to prevent severe lower respiratory tract infection.

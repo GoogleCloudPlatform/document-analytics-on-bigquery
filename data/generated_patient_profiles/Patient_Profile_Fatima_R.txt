@@ -1,0 +1,24 @@
+PATIENT PROFILE: FATIMA R.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: FATIMA R.
+- Age: 31 years
+- Sex: Female
+- Place of Residency: Jeddah, Saudi Arabia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Severity: Moderate-to-severe active SLE.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Peripheral blood cell abnormalities, joint problems.
+- Disease Activity: Active disease.
+
+4. LABORATORY RESULTS
+- Serology: Positive for anti-dsDNA.
+- Complement: Low.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to standard oral therapies.
+- Current Plan: Initiated Anifrolumab.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: PARK J.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: PARK J.
+- Age: 71 years
+- Sex: Male
+- Place of Residency: Seoul, South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed/Refractory Multiple Myeloma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Refractory Status: Triple-class refractory (has been exposed to and is no longer responding to an IMiD, a proteasome inhibitor, and an anti-CD38 monoclonal antibody).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Serum monoclonal protein, hypercalcemia, anemia, pathological fractures.
+- Performance Status: ECOG 2 (Significantly limited in daily activities).
+
+4. LABORATORY RESULTS
+- Disease Markers: Rising M-protein levels in serum and urine.
+- Bone Marrow: Increased plasma cell infiltration.
+
+5. TREATMENT HISTORY
+- Prior Therapies: Has received multiple lines of therapy, including bortezomib, lenalidomide, and daratumumab.
+- Current Plan: Starting treatment with Elranatamab (ELREXFIO), a bispecific antibody targeting BCMA and CD3.

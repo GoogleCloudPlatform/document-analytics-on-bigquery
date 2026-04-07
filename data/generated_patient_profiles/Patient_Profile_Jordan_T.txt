@@ -1,0 +1,23 @@
+PATIENT PROFILE: JORDAN T.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JORDAN T.
+- Age: 22 years
+- Sex: Male
+- Place of Residency: Seattle, WA, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Alopecia Areata.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Hair Loss: >50%.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Absence of hair.
+- Psychological Impact: Significant.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirms Alopecia Areata.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed topical steroids.
+- Current Plan: Starting Ritlecitinib (Litfulo).

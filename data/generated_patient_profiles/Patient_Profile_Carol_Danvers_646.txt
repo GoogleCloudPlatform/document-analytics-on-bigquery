@@ -1,0 +1,29 @@
+PATIENT PROFILE: CAROL DANVERS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Carol Danvers
+- Age: 54 years
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+- Race/Ethnicity: Not specified
+- Occupation: Pilot
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: B-cell Malignancy (Previously treated with CAR-T).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Secondary Primary Malignancy: Squamous cell carcinoma of the skin.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Stable following CAR-T therapy for lymphoma.
+- New onset of a suspicious, enlarging skin lesion on the forearm.
+- ECOG Performance Status: 0.
+
+4. LABORATORY RESULTS
+- Biopsy (Skin): Confirmed Squamous Cell Carcinoma.
+- History: Previously received gene-modified cell therapy (Abecma).
+- Hepatic and Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: CAR-T cell therapy for B-cell lymphoma 3 years ago (remission).
+- Plan: Perform transgene assay testing on the secondary malignancy to rule out insertional mutagenesis as part of safety surveillance.

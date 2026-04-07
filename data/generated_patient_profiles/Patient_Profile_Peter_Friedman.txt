@@ -1,0 +1,25 @@
+PATIENT PROFILE: PETER FRIEDMAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: PETER FRIEDMAN
+- Age: 64 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: PNH real-life outcomes
+- Other Relevant History: Real-world assessment of Ravulizumab for stabilization of hemoglobin levels.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abdominal pain, fatigue, shortness of breath, dark-colored urine (hemoglobinuria).
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for PNH real-life outcomes.
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.5x Upper Limit of Normal (ULN); Hemoglobin 8.5 g/dL; Flow cytometry confirms 45% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for PNH real-life outcomes
+- Current Plan: Flow cytometry confirmed PNH clone; starting Ravulizumab for complement inhibition.

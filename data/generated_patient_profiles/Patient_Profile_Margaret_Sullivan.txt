@@ -1,0 +1,32 @@
+PATIENT PROFILE: MARGARET SULLIVAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Margaret Sullivan
+- Age: 72 years
+- Sex: Female
+- Place of Residency: Sydney, Australia
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Mixed-phenotype Transthyretin Amyloidosis (ATTR).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- ATTR Cardiomyopathy (ATTR-CM) and Polyneuropathy (ATTR-PN).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Progressive heart failure symptoms (exertional dyspnea, edema).
+- Peripheral neuropathy symptoms: Bilateral tingling and weakness in the feet.
+- NYHA Class II heart failure.
+- Physical Status: Ambulatory with assistance.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed TTR amyloid deposits.
+- Echocardiogram: Increased left ventricular wall thickness (16 mm).
+- NT-proBNP: Elevated.
+- Troponin T: Mildly elevated.
+- Nerve Conduction Study: Consistent with sensory-motor polyneuropathy.
+
+5. TREATMENT HISTORY
+- Previous: Diuretics for heart failure management.
+- Plan: Initiate high-dose Tafamidis for the treatment of mixed-phenotype ATTR amyloidosis and evaluation of neurologic disease progression.

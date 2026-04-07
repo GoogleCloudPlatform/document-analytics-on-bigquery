@@ -1,0 +1,24 @@
+PATIENT PROFILE: CHLOE L.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CHLOE L.
+- Age: 66 years
+- Sex: Female
+- Place of Residency: Marseille, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High-risk Muscle Invasive Urothelial Carcinoma (MIUC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Post-radical cystectomy.
+- Risk: High risk of recurrence (pT3).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Frequent urination, painful urination, blood in urine.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed high-risk MIUC.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Starting adjuvant Nivolumab.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: ANTON B.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ANTON B.
+- Age: 48 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Plaque Psoriasis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Severity: PASI score 16.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Scaling patches, erythematous skin.
+- Quality of Life: Impacted.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirms psoriasis.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Topicals.
+- Current Plan: Starting therapy with Deucravacitinib.

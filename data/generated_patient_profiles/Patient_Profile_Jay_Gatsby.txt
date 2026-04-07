@@ -1,0 +1,25 @@
+PATIENT PROFILE: JAY GATSBY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JAY GATSBY
+- Age: 55 years
+- Sex: Male
+- Place of Residency: Sydney, Australia
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic NSCLC
+- Other Relevant History: Eligible for long-term safety and survival data collection in the PD-L1 negative lung cancer cohort.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, chest pain, persistent cough.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Metastatic NSCLC.
+
+4. LABORATORY RESULTS
+- Tumor Markers: PD-L1 expression < 1% (TPS 0%). Molecular Testing: Wild type for EGFR, ALK, and ROS1 mutations.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: PD-L1 < 1%; starting first-line therapy with Nivolumab + Ipilimumab combo.

@@ -1,0 +1,30 @@
+PATIENT PROFILE: DRACO MALFOY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Draco Malfoy
+- Age: 35 years
+- Sex: Male
+- Place of Residency: UK
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Chronic Hemolysis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dark-colored urine (hemoglobinuria), abdominal pain, fatigue, shortness of breath.
+- Chronic fatigue and occasional abdominal pain.
+- Episodes of hemoglobinuria.
+- No history of major thrombotic events.
+
+4. LABORATORY RESULTS
+- Flow Cytometry: PNH clone detected.
+- LDH: Elevated (2.5x normal).
+- Hemoglobin: 10.5 g/dL.
+- Bilirubin: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care.
+- Plan: Initiate Ravulizumab (Ultomiris) for complement inhibition and clinical outcome evaluation.

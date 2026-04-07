@@ -1,0 +1,24 @@
+PATIENT PROFILE: DANIEL NGUYEN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Daniel Nguyen
+- Age: 64 years
+- Sex: Male
+- Place of Residency: Vancouver, BC, Canada
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Multiple Sclerosis, Relapsing-Remitting
+- Other Relevant History: Patient has a history of stable management for their primary condition with no major acute exacerbations in the past 6 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Acute episodes of demyelination, loss of sensory function.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology: Hemoglobin, WBC, and platelets within acceptable ranges for clinical observation.
+- Biochemistry: Renal and hepatic function parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Multiple Sclerosis, Relapsing-Remitting.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

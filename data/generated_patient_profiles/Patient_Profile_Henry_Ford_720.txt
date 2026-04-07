@@ -1,0 +1,31 @@
+PATIENT PROFILE: HENRY FORD
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Henry Ford
+- Age: 71 years
+- Sex: Male
+- Place of Residency: London, UK
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Significant Nocturnal Symptoms.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest tightness, shortness of breath.
+- Shortness of breath during basic daily tasks.
+- Frequent awakenings at night due to respiratory symptoms.
+- History of poor adherence to multiple separate inhaler regimens.
+- Physical Status: Ambulatory.
+
+4. LABORATORY RESULTS
+- FEV1: 42% of predicted.
+- FEV1/FVC: 0.58.
+- Oxygen saturation: 92%.
+- Renal function: Stable.
+
+5. TREATMENT HISTORY
+- Previous: Multiple separate maintenance inhalers.
+- Plan: Initiate once-daily fixed-dose BGF (Budesonide/Glycopyrronium/Formoterol) triple therapy to simplify the treatment regimen and manage symptoms.

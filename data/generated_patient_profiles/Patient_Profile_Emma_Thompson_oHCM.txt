@@ -1,0 +1,28 @@
+PATIENT PROFILE: EMMA THOMPSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: EMMA THOMPSON
+- Age: 33 years
+- Sex: Female
+- Place of Residency: USA
+- Pregnancy Status: Currently 10 weeks pregnant (G1P0)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Documented oHCM.
+- Risk Profile: Requires fetal safety monitoring.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Left ventricular hypertrophy, hypertension.
+- Performance Status: NYHA Class II.
+- Physical Status: Exposed to Mavacamten prior to pregnancy confirmation.
+
+4. LABORATORY RESULTS
+- Echocardiography: Documented gradient and ejection fraction.
+- Cardiac Function: Preserved LVEF.
+- Prenatal Screening: Normal initial results.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Managed with myosin inhibitor.
+- Current Plan: Participation in pregnancy surveillance program to monitor outcomes.
+- Monitoring: Regular fetal ultrasound and maternal cardiac assessments.

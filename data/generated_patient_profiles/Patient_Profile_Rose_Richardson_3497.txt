@@ -1,0 +1,23 @@
+PATIENT PROFILE: ROSE RICHARDSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Rose Richardson
+- Age: 23 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: New pain, breast pain, breast skin changes, unexplained weight loss.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

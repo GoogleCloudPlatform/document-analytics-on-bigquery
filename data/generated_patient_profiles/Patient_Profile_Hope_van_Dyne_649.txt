@@ -1,0 +1,30 @@
+PATIENT PROFILE: HOPE VAN DYNE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Hope van Dyne
+- Age: 45 years
+- Sex: Female
+- Place of Residency: USA
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Metastatic Melanoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- BRAF wild-type.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Change in mole, mucous membrane lesion, pigmented lesion, eye lesion.
+- Metastatic lesions present in the liver and lungs.
+- ECOG Performance Status: 1.
+- No history of symptomatic brain metastases.
+
+4. LABORATORY RESULTS
+- BRAF Mutation: Negative (Wild-type).
+- LDH: 1.3x Upper Limit of Normal.
+- Hemoglobin: 12.5 g/dL.
+- LFTs: Mildly elevated (consistent with liver involvement).
+
+5. TREATMENT HISTORY
+- Previous: First-line immunotherapy naïve for metastatic disease.
+- Plan: Initiate combination immunotherapy with Nivolumab and Relatlimab for the management of advanced melanoma.

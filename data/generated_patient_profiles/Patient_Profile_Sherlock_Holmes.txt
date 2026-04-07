@@ -1,0 +1,34 @@
+PATIENT PROFILE: SHERLOCK HOLMES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Sherlock Holmes
+- Age: 42 years
+- Sex: Male
+- Place of Residency: London, UK
+- Race/Ethnicity: Not specified
+- Occupation: Private Investigator (UK)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Lupus-related Arthritis.
+- Early-stage Lupus Nephritis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Heart problems, lung problems, inflammation.
+- Active joint inflammation and swelling (primarily hands and knees).
+- Persistent malar rash and photosensitivity.
+- Systemic fatigue and occasional low-grade fevers.
+- BMI: 23.5 kg/m².
+
+4. LABORATORY RESULTS
+- SLEDAI-2K score: 12.
+- Anti-dsDNA: Positive/Elevated.
+- Complement C3/C4: Low.
+- Proteinuria: 0.8 g/24h.
+- ANA: Positive (1:1280, speckled pattern).
+
+5. TREATMENT HISTORY
+- Previous: Hydroxychloroquine, Methotrexate, and oral Corticosteroids.
+- Current: High disease activity despite standard therapy.
+- Plan: Initiate Anifrolumab (Saphnelo) therapy for improved disease control and steroid sparing.

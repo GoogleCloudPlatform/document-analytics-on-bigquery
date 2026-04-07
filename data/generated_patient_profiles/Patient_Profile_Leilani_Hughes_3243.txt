@@ -1,0 +1,23 @@
+PATIENT PROFILE: LEILANI HUGHES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Leilani Hughes
+- Age: 64 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic non-small cell lung cancer
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pleural nodules, tumor nodules.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Metastatic non-small cell lung cancer.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

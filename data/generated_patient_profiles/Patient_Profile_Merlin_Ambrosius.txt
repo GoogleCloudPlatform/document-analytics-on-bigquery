@@ -1,0 +1,25 @@
+PATIENT PROFILE: MERLIN AMBROSIUS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MERLIN AMBROSIUS
+- Age: 68 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Adult patient with gMG initiating complement inhibitor therapy in a non-interventional study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Respiratory muscle weakness, skeletal muscle weakness.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Generalized Myasthenia Gravis (gMG)
+- Current Plan: Anti-AChR antibody positive; initiating a C5 complement inhibitor as part of routine clinical management.

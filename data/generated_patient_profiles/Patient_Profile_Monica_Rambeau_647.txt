@@ -1,0 +1,32 @@
+PATIENT PROFILE: MONICA RAMBEAU
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Monica Rambeau
+- Age: 62 years
+- Sex: Female
+- Place of Residency: Japan
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Rheumatoid Arthritis (RA).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Biologic-naive status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Symmetric polyarthritis, inflammation, polyarthritis.
+- Symmetric joint swelling and pain in the hands and wrists.
+- Morning stiffness lasting > 2 hours.
+- High disease activity score (SDAI: 22).
+- BMI: 25.0 kg/m².
+
+4. LABORATORY RESULTS
+- RF: Positive (High titer).
+- Anti-CCP: Positive.
+- CRP: 18 mg/L.
+- ESR: 45 mm/hr.
+- β-D-glucan: Negative.
+
+5. TREATMENT HISTORY
+- Previous: Methotrexate monotherapy with inadequate response.
+- Plan: Initiate Abatacept (Orencia) as the first biologic agent for the treatment of severe RA and monitoring of long-term outcomes.

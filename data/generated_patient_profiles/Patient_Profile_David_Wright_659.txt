@@ -1,0 +1,30 @@
+PATIENT PROFILE: DAVID WRIGHT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: David Wright
+- Age: 72 years
+- Sex: Male
+- Place of Residency: USA
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Castration-Resistant Prostate Cancer (mCRPC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Bone metastases.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Bone pain managed with analgesics.
+- Progressive disease despite androgen deprivation.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- PSA: Rising (current 45 ng/mL).
+- Testosterone: < 50 ng/dL (Castrate level).
+- Imaging (Bone scan/CT): Multiple osteoblastic lesions.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Long-term androgen deprivation therapy.
+- Plan: Initiate combination therapy with Opevesostat (MK-5684) and Docetaxel.

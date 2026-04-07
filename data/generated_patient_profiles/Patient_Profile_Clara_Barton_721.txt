@@ -1,0 +1,32 @@
+PATIENT PROFILE: CLARA BARTON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Clara Barton
+- Age: 29 years
+- Sex: Female
+- Place of Residency: New York, USA
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Cutaneous and Articular manifestations.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Inflammation, peripheral blood cell abnormalities, heart problems.
+- Persistent malar rash and discoid lesions.
+- Active joint inflammation and swelling.
+- Systemic fatigue and malaise.
+- BMI: 22.5 kg/m².
+
+4. LABORATORY RESULTS
+- SLEDAI-2K score: 12.
+- Anti-dsDNA: Positive.
+- Complement C3/C4: Low.
+- ANA: Positive.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Inadequate response to hydroxychloroquine and methotrexate.
+- Plan: Initiate Anifrolumab (Saphnelo) therapy for the management of active SLE and track real-world clinical effectiveness.

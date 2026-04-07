@@ -1,0 +1,25 @@
+PATIENT PROFILE: CHEN X.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CHEN X.
+- Age: 66 years
+- Sex: Male
+- Place of Residency: Guangzhou, China
+- Smoking History: Long-term smoker.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Exacerbation History: History of two or more moderate exacerbations in the past year.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough, shortness of breath.
+- Lung Function: FEV1 is less than 80% of predicted.
+
+4. LABORATORY RESULTS
+- Spirometry: Confirms persistent airflow limitation.
+- Blood Eosinophils: May be elevated.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Was on a LAMA/LABA dual bronchodilator.
+- Current Plan: Stepped up to a triple therapy regimen of Budesonide/Glycopyrronium/Formoterol (a combination of an inhaled corticosteroid, a LAMA, and a LABA).

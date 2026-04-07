@@ -1,0 +1,29 @@
+PATIENT PROFILE: INGRID HOFFMANN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: INGRID HOFFMANN
+- Age: 66 years
+- Sex: Female
+- Place of Residency: Germany
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate COPD
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Symptoms: Persistent cough and daily shortness of breath.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, wheezing, chronic cough.
+- Performance Status: CAT score 21.
+- Physical Status: Moderate airflow limitation.
+
+4. LABORATORY RESULTS
+- Pulmonary Function: FEV1 55% predicted.
+- Hematologic Function: Normal.
+- Oxygen Saturation: 94%.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Mono/dual bronchodilator therapy.
+- Current Plan: Switching to BGF triple therapy (Budesonide/Glycopyrronium/Formoterol).
+- Monitoring: Outcome analysis in a routine care setting.

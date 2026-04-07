@@ -1,0 +1,32 @@
+PATIENT PROFILE: KENJI TANAKA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: KENJI TANAKA
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: Retired (Currently hospitalized)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Sepsis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Secondary Disorder: Renal Impairment
+- Diagnosis Detail: Developed severe sepsis with confirmed bacterial infection during hospitalization for severe pneumonia.
+- Comorbidities: Poorly controlled Type 2 Diabetes Mellitus and Hypertension.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Systemic inflammatory response syndrome, organ dysfunction, hypotension.
+- Performance Status: Restricted to hospital bed/unit due to acute illness and IV therapy.
+- General Health: No participation in other interventional trials for sepsis.
+- Physical Status: Acutely ill, but stable enough for advanced antimicrobial therapy.
+
+4. LABORATORY RESULTS
+- Renal Function: Impaired (Creatinine clearance: 45 mL/min; below the threshold of 50 mL/min).
+- Microbiology: Confirmed bacterial infection at baseline.
+- Hematologic Function: Leukocytosis (Elevated white blood cell count).
+- Liver Function: Within clinically acceptable ranges for therapy.
+- Documentation: Informed consent provided for a special clinical investigation.
+
+5. TREATMENT HISTORY
+- Prior Therapy: No prior exposure to Zavicefta (Avibactam/Ceftazidime).
+- Current Plan: Initiating first-time treatment with Zavicefta for severe bacterial sepsis and renal impairment. Therapy is ongoing with plans for clinical follow-up as part of a post-marketing surveillance study in Japan. Decision to prescribe therapy made independently of study participation. Dosing will be adjusted for renal function.

@@ -1,0 +1,30 @@
+PATIENT PROFILE: PHOEBE CAULFIELD
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Phoebe Caulfield
+- Age: 11 months
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Race/Ethnicity: Not specified
+- Occupation: N/A (Infant)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Congenital Heart Disease (CHD), hemodynamically significant.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- High risk for severe Respiratory Syncytial Virus (RSV) infection.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Stable cardiovascular status awaiting corrective surgery.
+- No active respiratory infections.
+- Normal growth and development for age, considering cardiac status.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirmed congenital heart defect with hemodynamic significance.
+- Oxygen saturation: 94% on room air.
+- Hematology: Stable hemoglobin and hematocrit.
+- Viral Panel: Negative for RSV and other respiratory viruses at baseline.
+
+5. TREATMENT HISTORY
+- Scheduled for corrective cardiac surgery in the upcoming winter months.
+- Plan: Initiate seasonal RSV prophylaxis with Palivizumab (Synagis) monthly injections throughout the RSV season.

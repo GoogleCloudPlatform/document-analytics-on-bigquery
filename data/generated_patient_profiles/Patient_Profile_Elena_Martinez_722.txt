@@ -1,0 +1,31 @@
+PATIENT PROFILE: ELENA MARTINEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Elena Martinez
+- Age: 34 years
+- Sex: Female
+- Place of Residency: Toronto, Canada
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Recurrent systemic flares.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Inflammation, joint problems.
+- Persistent malar rash.
+- Symmetrical polyarthritis.
+- Frequent disease flares requiring glucocorticoid bursts.
+- BMI: 24.0 kg/m².
+
+4. LABORATORY RESULTS
+- SLEDAI-2K: Elevated disease activity.
+- Anti-dsDNA: Positive (High titer).
+- Complement levels: Low.
+- LFTs: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Long-term glucocorticoid therapy with associated side effects.
+- Plan: Transition to Anifrolumab (Saphnelo) for symptomatic management and potential steroid sparing.

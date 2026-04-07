@@ -1,0 +1,25 @@
+PATIENT PROFILE: ARTHUR SHELBY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR SHELBY
+- Age: 67 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: Medical Leave
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
+- Other Relevant History: Lower-risk MDS patient receiving Luspatercept for transfusion-dependent anemia management.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Lower-Risk Myelodysplastic Syndromes (MDS).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Hemoglobin 7.8 g/dL; Serum Erythropoietin (sEPO) 350 U/L. Bone Marrow: >15% ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Serum erythropoietin (sEPO) is 400 U/L; fails to respond to erythropoiesis-stimulating agents (ESAs).

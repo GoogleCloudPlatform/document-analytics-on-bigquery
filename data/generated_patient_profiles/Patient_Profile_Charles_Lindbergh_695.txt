@@ -1,0 +1,30 @@
+PATIENT PROFILE: CHARLES LINDBERGH
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Charles Lindbergh
+- Age: 55 years
+- Sex: Male
+- Place of Residency: UK
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Eosinophilic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Uncontrolled disease activity.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Persistent wheezing and cough despite high-dose maintenance therapy.
+- Frequent exacerbations requiring systemic steroids.
+- ECOG Performance Status: 0.
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 450 cells/µL.
+- FeNO: 40 ppb.
+- FEV1: 68% of predicted.
+- IgE levels: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Maximum dose inhaled corticosteroids plus long-acting beta-agonists.
+- Plan: Initiate add-on biologic therapy with Tezepelumab (Tezspire) for the management of severe asthma.

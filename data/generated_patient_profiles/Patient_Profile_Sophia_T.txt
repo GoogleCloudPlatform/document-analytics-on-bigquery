@@ -1,0 +1,24 @@
+PATIENT PROFILE: SOPHIA T.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SOPHIA T.
+- Age: 53 years
+- Sex: Female
+- Place of Residency: Birmingham, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Melanoma (Unresectable).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Biomarker: BRAF wild-type.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pigmented lesion, mucous membrane lesion.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed melanoma.
+- LDH: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None for advanced disease.
+- Current Plan: Starting first-line dual therapy with Nivolumab and Relatlimab.

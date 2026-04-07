@@ -1,0 +1,25 @@
+PATIENT PROFILE: ISABELLA ROSSI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ISABELLA ROSSI
+- Age: 27 years
+- Sex: Female
+- Place of Residency: the hands
+- Employment Status: Medical Leave
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE)
+- Other Relevant History: Adult SLE patient initiating Anifrolumab for better disease control and steroid sparing in a real-world setting.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Peripheral blood cell abnormalities, kidney problems.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Systemic Lupus Erythematosus (SLE).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-dsDNA antibodies; low C3 and C4 complement levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Systemic Lupus Erythematosus (SLE)
+- Current Plan: SLEDAI-2K score of 12; inadequate response to oral corticosteroids and hydroxychloroquine.

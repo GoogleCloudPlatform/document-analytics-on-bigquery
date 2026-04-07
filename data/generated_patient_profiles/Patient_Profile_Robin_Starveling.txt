@@ -1,0 +1,39 @@
+PATIENT PROFILE: ROBIN STARVELING
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Robin Starveling
+- Age: 52
+- Sex: Male
+- Place of Residency: Toronto, Canada
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Tailor
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Advanced solid tumor, metastatic (Stage IV). Histologically confirmed.
+- Molecular Status: Negative for EGFR mutations, ALK fusions, or ROS1 rearrangements. PD-L1 TPS ≥ 50% confirmed by 22C3 assay.
+- Treatment History: Treatment-naïve for advanced/metastatic disease. No prior anti-PD-1 or anti-PD-L1 therapy. No prior systemic chemotherapy for metastatic NSCLC.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pericardial effusion, tumor nodules.
+- Performance Status: ECOG 1.
+- Physical Examination: No active CNS metastases. No history of pneumonitis requiring steroids. Life expectancy > 3 months. Stable vital signs.
+- Measurable Disease: 3.5 cm right lung mass (RECIST 1.1). Archival tumor tissue provided.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 12.5 g/dL
+- ANC: 4.2 x 10^9/L
+- Platelets: 220 x 10^9/L
+- Chemistry:
+- ALT: 28 U/L
+- AST: 26 U/L
+- Total Bilirubin: 0.8 mg/dL
+- Creatinine: 1.0 mg/dL
+- Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+- Plan: Initiate combination therapy with Sacituzumab Tirumotecan (MK-2870) and Pembrolizumab as part of a Phase 1 study (NCT06049212). Administer Sacituzumab Tirumotecan IV and Pembrolizumab 200 mg IV every 3 weeks. Monitor for dose-limiting toxicities, antitumor activity, and survival. Agree to refrain from donating sperm and use highly effective contraception.

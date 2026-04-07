@@ -1,0 +1,29 @@
+PATIENT PROFILE: MICHAEL O'CONNELL
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MICHAEL O'CONNELL
+- Age: 55 years
+- Sex: Male
+- Place of Residency: Ireland
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Eosinophilic Asthma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Comorbidities: Controlled hypertension.
+- Disease Status: Uncontrolled despite high-dose maintenance therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Performance Status: ECOG 0.
+- Cardiac Health: No history of heart failure; stable cardiovascular profile for monitoring.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Blood eosinophil count > 300 cells/µL.
+- Pulmonary Function: FEV1 65% of predicted.
+- Cardiovascular: Normal baseline ECG and cardiac biomarkers.
+
+5. TREATMENT HISTORY
+- Prior Therapy: High-dose inhaled corticosteroids and long-acting beta-agonists.
+- Current Plan: Initiating treatment with Tezepelumab (Tezspire) as an add-on biologic.
+- Monitoring: Long-term safety surveillance for Major Adverse Cardiovascular Events (MACE).

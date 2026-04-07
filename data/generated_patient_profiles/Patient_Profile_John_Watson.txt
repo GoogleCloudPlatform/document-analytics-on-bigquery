@@ -1,0 +1,32 @@
+PATIENT PROFILE: JOHN WATSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: John Watson
+- Age: 45 years
+- Sex: Male
+- Place of Residency: London, UK
+- Race/Ethnicity: Not specified
+- Occupation: Medical Doctor (UK)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- NYHA Functional Class II symptoms.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Heart septum involvement, right ventricular hypertrophy.
+- Exertion-induced shortness of breath and chest discomfort.
+- Occasional dizziness during physical activity.
+- Normal blood pressure: 120/80 mmHg.
+- BMI: 26.0 kg/m².
+
+4. LABORATORY RESULTS
+- Peak resting LVOT gradient: 62 mmHg.
+- Echocardiogram: Significant septal hypertrophy (Interventricular septum: 19 mm).
+- Left Ventricular Ejection Fraction (LVEF): 65%.
+- NT-proBNP: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: Beta-blockers (Metoprolol) at optimized doses.
+- Current: Continued symptoms despite standard medical therapy.
+- Plan: Initiate Mavacamten (Camzyos) for reduction of LVOT gradient and symptom improvement.

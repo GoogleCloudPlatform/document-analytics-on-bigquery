@@ -1,0 +1,24 @@
+PATIENT PROFILE: YUKI S.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: YUKI S.
+- Age: 45 years
+- Sex: Male
+- Place of Residency: Osaka, Japan
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease Activity: High.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, abdominal pain, fatigue.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- LDH: High.
+- PNH Clone: Large.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Eculizumab.
+- Current Plan: Switching to Ravulizumab.

@@ -1,0 +1,31 @@
+PATIENT PROFILE: SOFIA ROSSI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Sofia Rossi
+- Age: 38 years
+- Sex: Female
+- Place of Residency: Italy
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Triple-Negative Breast Cancer (TNBC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Stage IV disease.
+- PD-L1 positive status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Breast lump, nipple discharge.
+- High tumor burden with associated pain.
+- Fatigue and weight loss.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Pathology: Triple-negative (ER-/PR-/HER2-).
+- PD-L1 expression: Positive (IHC).
+- Hematology: Stable.
+- LFTs: Mildly elevated.
+
+5. TREATMENT HISTORY
+- Previous: Treatment-naive for metastatic disease.
+- Plan: Initiate first-line therapy with Tobemstomig in combination with Nab-Paclitaxel.

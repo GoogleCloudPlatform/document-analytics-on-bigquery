@@ -1,0 +1,29 @@
+PATIENT PROFILE: PO-HSUAN LIN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: PO-HSUAN LIN
+- Age: 22 years
+- Sex: Male
+- Place of Residency: Taipei, Taiwan
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: β-Thalassemia Major
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease Status: Transfusion-dependent since childhood.
+- Comorbidities: Iron overload.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anemia.
+- Performance Status: Stable.
+- Physical Status: Requires blood transfusions every 3 weeks.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Chronic anemia (pre-transfusion hemoglobin 7-8 g/dL).
+- Iron Overload: High serum ferritin and liver iron concentration.
+- Genetics: Confirmed beta-thalassemia mutation.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Chronic transfusion therapy and iron chelation.
+- Current Plan: Initiating treatment with Luspatercept to reduce transfusion burden.
+- Monitoring: Longitudinal tracking of transfusion frequency and hemoglobin stability.

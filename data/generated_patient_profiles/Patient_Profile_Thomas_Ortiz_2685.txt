@@ -1,0 +1,23 @@
+PATIENT PROFILE: THOMAS ORTIZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Thomas Ortiz
+- Age: 61 years
+- Sex: Male
+- Place of Residency: Sydney, NSW, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Malignant Solid Neoplasm
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Jaundice, neurological deficits, swelling (e.g., lymph nodes, limbs, abdomen).
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Significantly elevated liver enzymes (AST: 350 U/L, ALT: 410 U/L), exceeding 5x the upper limit of normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Advanced Malignant Solid Neoplasm.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

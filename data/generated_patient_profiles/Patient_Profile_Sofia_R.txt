@@ -1,0 +1,25 @@
+PATIENT PROFILE: SOFIA R.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SOFIA R.
+- Age: 61 years
+- Sex: Female
+- Place of Residency: Sydney, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Endometrial Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Recurrence: Recurrent disease after prior platinum-based chemotherapy.
+- Biomarker Status: Tumor biopsy confirmed Mismatch Repair Deficient (dMMR) or Microsatellite Instability-High (MSI-H).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Molecular Testing: dMMR/MSI-H status confirmed on tumor tissue.
+- Imaging: CT scan shows recurrent tumor in the pelvis.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has received at least one line of platinum-based chemotherapy for advanced/recurrent endometrial cancer.
+- Current Plan: Starting second-line therapy with Dostarlimab (Jemperli), an anti-PD-1 monoclonal antibody.

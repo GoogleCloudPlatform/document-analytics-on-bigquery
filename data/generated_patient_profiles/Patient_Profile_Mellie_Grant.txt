@@ -1,0 +1,25 @@
+PATIENT PROFILE: MELLIE GRANT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MELLIE GRANT
+- Age: 48 years
+- Sex: Female
+- Place of Residency: United States
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE)
+- Other Relevant History: Adult SLE patient receiving Anifrolumab within routine clinical practice.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Skin problems, heart problems, inflammation.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Systemic Lupus Erythematosus (SLE).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-dsDNA antibodies; low C3 and C4 complement levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Systemic Lupus Erythematosus (SLE)
+- Current Plan: SLEDAI-2K score of 10; failing standard immunosuppressants; starting Anifrolumab.

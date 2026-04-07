@@ -1,0 +1,30 @@
+PATIENT PROFILE: CHEN XIU-YING
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Chen Xiu-ying
+- Age: 28 years
+- Sex: Female
+- Place of Residency: China
+- Race/Ethnicity: Chinese
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Chronic Iron Overload.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anemia.
+- Persistent fatigue and exercise intolerance.
+- Requires 2-3 units of blood every 21 days.
+- Scleral icterus and mild splenomegaly.
+
+4. LABORATORY RESULTS
+- Pre-transfusion Hemoglobin: Consistently < 7.5 g/dL.
+- Serum Ferritin: 2200 ng/mL.
+- Liver Iron Concentration: Elevated.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Regular blood transfusions and iron chelation (Deferasirox).
+- Plan: Initiate Luspatercept (Reblozyl) to reduce the frequency of transfusions.

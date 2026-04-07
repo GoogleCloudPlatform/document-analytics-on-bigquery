@@ -1,0 +1,23 @@
+PATIENT PROFILE: SEBASTIAN YOUNG
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Sebastian Young
+- Age: 57 years
+- Sex: Male
+- Place of Residency: Madrid, Spain
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Prostatic Neoplasms
+- Other Relevant History: Patient has a history of stable management for their primary condition. History of an unrelated active malignancy (metastatic melanoma) currently under systemic treatment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Invasion, metastasis, tissue growth, abnormal growth.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Prostatic Neoplasms.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

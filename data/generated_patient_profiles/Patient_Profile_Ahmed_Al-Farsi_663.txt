@@ -1,0 +1,31 @@
+PATIENT PROFILE: AHMED AL-FARSI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ahmed Al-Farsi
+- Age: 22 years
+- Sex: Male
+- Place of Residency: Oman
+- Race/Ethnicity: Omani
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Sickle Cell Disease (SCD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- HbSS genotype.
+- Recurrent Vaso-Occlusive Episodes (VOE).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Frequent pain crises requiring hospitalization (3-4 times per year).
+- Chronic fatigue and dactylitis.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Hemoglobin electrophoresis: 85% HbS, 10% HbF.
+- LDH: Elevated.
+- Bilirubin: Elevated.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Hydroxyurea and analgesics.
+- Plan: Initiate Crovalimab as an adjunct treatment for the prevention of vaso-occlusive episodes.

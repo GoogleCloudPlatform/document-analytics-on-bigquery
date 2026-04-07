@@ -1,0 +1,42 @@
+PATIENT PROFILE: DEMETRIUS ATHENIAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Demetrius Athenian
+- Age: 40
+- Sex: Male
+- Place of Residency: Toronto, Canada
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Officer
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Healthy Volunteer. Overtly healthy as determined by medical evaluation. No clinically significant abnormalities on exam or labs. No active infection or disease. No history of seizures or malignancy. No history of psychiatric disease.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Seizure.
+- Overall Status: Healthy.
+- Height: 180 cm
+- Weight: 85 kg
+- BMI: 26.2 kg/m2 (Within 19.0 to 30.0 range)
+- Vital Signs:
+- BP: 120/78 mmHg
+- HR: 68 bpm
+- Physical Examination: Normal findings. Stable non-smoker for > 3 months. No history of clinically relevant cardiac or respiratory disease.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 15.2 g/dL
+- WBC: 6.5 x 10^3/µL
+- Platelets: 230 x 10^3/µL
+- Chemistry:
+- ALT: 22 U/L
+- AST: 20 U/L
+- Bilirubin: 0.7 mg/dL
+- Creatinine: 1.0 mg/dL
+- Infectious Disease:
+- HIV/HBV/HCV: Negative
+- ECG: Normal sinus rhythm. No PR or QRS abnormalities.
+
+5. TREATMENT HISTORY
+- Plan: Enroll in a single-dose, randomized, double-blind, 4-way crossover TQT study (NCT07214935). Receive a single dose of Evobrutinib (M2951), placebo, or moxifloxacin in different study periods. Undergo intensive continuous cardiac monitoring via 12-lead ECGs to evaluate the effect on the QTc interval. Monitor for treatment-emergent adverse events and PK parameters.

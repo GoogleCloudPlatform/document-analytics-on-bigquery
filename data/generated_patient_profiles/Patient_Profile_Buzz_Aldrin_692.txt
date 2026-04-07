@@ -1,0 +1,31 @@
+PATIENT PROFILE: BUZZ ALDRIN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Buzz Aldrin
+- Age: 50 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Pulmonary Arterial Hypertension (PAH).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- WHO Group 1 PAH.
+- NYHA Functional Class III.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Increased pressure.
+- Significant exertional dyspnea.
+- Fatigue and peripheral edema.
+- Signs of right heart failure on examination.
+
+4. LABORATORY RESULTS
+- Right Heart Catheterization: Mean pulmonary arterial pressure (mPAP) 35 mmHg.
+- Pulmonary Vascular Resistance (PVR): Elevated (> 3 Wood units).
+- Pulmonary Capillary Wedge Pressure (PCWP): < 15 mmHg.
+- NT-proBNP: 1200 pg/mL.
+
+5. TREATMENT HISTORY
+- Previous: Standard oral therapy for PAH (Endothelin receptor antagonists and PDE5 inhibitors).
+- Plan: Initiate Sotatercept for the management of pulmonary arterial hypertension.

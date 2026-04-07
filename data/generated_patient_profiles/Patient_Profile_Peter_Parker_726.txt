@@ -1,0 +1,30 @@
+PATIENT PROFILE: PETER PARKER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Peter Parker
+- Age: 48 years
+- Sex: Male
+- Place of Residency: UK
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Uncontrolled Severe Eosinophilic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Persistent wheezing and nocturnal awakenings.
+- History of multiple oral corticosteroid bursts in the last 12 months.
+- Exertional dyspnea.
+- ECOG Performance Status: 0.
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 450 cells/µL.
+- FeNO: Elevated.
+- FEV1: 72% of predicted.
+- IgE levels: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: High-intensity inhaled corticosteroids and long-acting bronchodilators.
+- Plan: Initiate add-on biologic therapy with Tezepelumab (Tezspire) for the management of severe asthma.

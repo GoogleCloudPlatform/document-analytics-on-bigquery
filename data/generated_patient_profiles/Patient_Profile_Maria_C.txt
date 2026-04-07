@@ -1,0 +1,24 @@
+PATIENT PROFILE: MARIA C.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARIA C.
+- Age: 65 years
+- Sex: Female
+- Place of Residency: Milan, Italy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Lung Function: FEV1 is 45% of predicted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough, chest tightness, wheezing, shortness of breath.
+- Exacerbation History: History of one severe exacerbation in the last year.
+
+4. LABORATORY RESULTS
+- Spirometry: Confirms severe airflow limitation.
+- Chest X-ray: Shows hyperinflation.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Was on a LAMA/LABA combination inhaler.
+- Current Plan: Started on BGF triple therapy (Budesonide/Glycopyrronium/Formoterol).

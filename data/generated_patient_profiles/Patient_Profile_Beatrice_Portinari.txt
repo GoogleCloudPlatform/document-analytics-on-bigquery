@@ -1,0 +1,25 @@
+PATIENT PROFILE: BEATRICE PORTINARI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BEATRICE PORTINARI
+- Age: 44 years
+- Sex: Female
+- Place of Residency: New York, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Complement-inhibitor naive patient starting Ravulizumab to evaluate functional status and quality of life.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Asymmetric ophthalmoplegia, fatigable weakness.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: MG-ADL score of 11; experiencing significant muscle weakness and difficulty with daily activities.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: KYLE RAYNER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: KYLE RAYNER
+- Age: 34 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Ulcerative Colitis (UC)
+- Other Relevant History: Ozanimod-naive patient with moderate-to-severe UC in a prospective non-interventional study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Necrosis of tissue, lesion on an internal mucous surface, suppurating lesion.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Ulcerative Colitis (UC).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Mayo score of 8; initiating Ozanimod (Zeposia) after failing 5-ASA and corticosteroids.

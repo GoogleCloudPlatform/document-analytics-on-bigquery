@@ -1,0 +1,30 @@
+PATIENT PROFILE: SELINA KYLE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Selina Kyle
+- Age: 24 years
+- Sex: Female
+- Place of Residency: London, UK
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Atopic Dermatitis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Chronic eczema flares.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Inflammation of the skin.
+- Intense pruritus (itching) and skin pain.
+- Eczema affecting >20% of total body surface area.
+- Frequent sleep disruption due to skin symptoms.
+- EASI score: 24.
+
+4. LABORATORY RESULTS
+- IgE levels: Elevated.
+- Blood Eosinophils: Mildly elevated.
+- Hepatic and Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Inadequate response to potent topical corticosteroids and topical calcineurin inhibitors.
+- Plan: Initiate Abrocitinib (Cibinqo) for the management of moderate-to-severe Atopic Dermatitis.

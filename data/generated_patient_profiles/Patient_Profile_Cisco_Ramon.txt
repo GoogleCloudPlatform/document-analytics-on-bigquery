@@ -1,0 +1,25 @@
+PATIENT PROFILE: CISCO RAMON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CISCO RAMON
+- Age: 34 years
+- Sex: Male
+- Place of Residency: United Kingdom
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Episodic Migraine (UK)
+- Other Relevant History: Patient with migraine in the UK receiving Rimegepant for acute treatment in a consistency study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Nausea, sound sensitivity.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Episodic Migraine (UK).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Using Rimegepant for acute treatment of attacks; monitoring response consistency over 3 months.

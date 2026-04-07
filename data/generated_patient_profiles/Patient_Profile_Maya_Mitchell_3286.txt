@@ -1,0 +1,23 @@
+PATIENT PROFILE: MAYA MITCHELL
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Maya Mitchell
+- Age: 42 years
+- Sex: Female
+- Place of Residency: Seoul, South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Ovarian
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Absent ovarian function, premature ovarian failure, ovarian failure, cessation of ovarian function.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Significantly elevated liver enzymes (AST: 350 U/L, ALT: 410 U/L), exceeding 5x the upper limit of normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Ovarian.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

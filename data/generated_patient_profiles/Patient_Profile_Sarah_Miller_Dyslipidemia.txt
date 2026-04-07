@@ -1,0 +1,30 @@
+PATIENT PROFILE: SARAH MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SARAH MILLER
+- Age: 45 years
+- Sex: Female
+- Place of Residency: Texas, USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Dyslipidemia
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- BMI: 24.5 kg/m²
+- Weight: 65 kg
+- Medical History: Healthy postmenopausal female; no chronic cardiovascular, hepatic, or renal diseases.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Low hdl cholesterol, elevated ldl cholesterol, high triglycerides.
+- Performance Status: Fully active and fit.
+- Physical Status: No recent surgeries or illnesses within the past 4 weeks; no known drug allergies.
+
+4. LABORATORY RESULTS
+- Lipid Profile: Fasting LDL-C 135 mg/dL; Fasting triglycerides 180 mg/dL.
+- Liver Function: Normal (ALT, AST, TBL within clinically acceptable limits).
+- Infectious Disease: Negative for HBsAg, Hepatitis B core antibody, and HIV.
+
+5. TREATMENT HISTORY
+- Prior Therapy: No lipid-lowering therapy within the last 3 months; no prior PCSK9 inhibitor use.
+- Current Plan: Participation in a clinical pharmacology study evaluating new lipid-lowering therapy.
+- Monitoring: Regular laboratory monitoring of lipid levels and safety parameters.

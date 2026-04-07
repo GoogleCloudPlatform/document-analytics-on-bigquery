@@ -1,0 +1,28 @@
+PATIENT PROFILE: WILL GRAHAM
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Will Graham
+- Age: 45
+- Sex: Male
+- Place of Residency: Sydney, Australia
+- Ethnicity: Not specified
+- Performance Status: ECOG 1
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed Acute Myeloid Leukemia (AML)
+- Other Relevant History: Diagnosed with primary AML; relapsed after initial induction chemotherapy. Failed standard salvage chemotherapy regimens. No history of Acute Promyelocytic Leukemia.
+- Comorbidities: None significant; no active malignant solid tumors. No clinically active central nervous system leukemia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Uncontrolled proliferation.
+- Physical Status: ECOG performance status of 1. Clinically stable with no evidence of major infection or organ dysfunction.
+
+4. LABORATORY RESULTS
+- Hematology: CD33 expression confirmed by flow cytometry. White blood cell count 12.5 x 10^9/L, Hemoglobin 8.8 g/dL, Platelets 45 x 10^9/L.
+- Organ Function: Adequate hepatic (Bilirubin 1.1 mg/dL) and renal (Creatinine 0.9 mg/dL) function.
+
+5. TREATMENT HISTORY
+- Prior Therapies:
+- Line 1: 7+3 induction (Cytarabine and Idarubicin).
+- Line 2: MEC salvage (Mitoxantrone, Etoposide, and Cytarabine).
+- Treatment Plan: Initiate triple combination therapy with BMS-986497 (ORM-6151), Azacitidine, and Venetoclax as part of a Phase 1 clinical study.

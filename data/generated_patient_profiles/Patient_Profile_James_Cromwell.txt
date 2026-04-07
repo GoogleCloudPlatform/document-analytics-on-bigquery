@@ -1,0 +1,25 @@
+PATIENT PROFILE: JAMES CROMWELL
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JAMES CROMWELL
+- Age: 85 years
+- Sex: Male
+- Place of Residency: Toronto, Canada
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: COPD BGF Pooled Analysis
+- Other Relevant History: Routine care COPD patient initiating BGF for symptom and exacerbation control.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough, chest tightness.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for COPD BGF Pooled Analysis.
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for COPD BGF Pooled Analysis
+- Current Plan: Switching to BGF triple therapy for better exacerbation management.

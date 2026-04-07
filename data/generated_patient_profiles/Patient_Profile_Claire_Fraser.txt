@@ -1,0 +1,25 @@
+PATIENT PROFILE: CLAIRE FRASER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CLAIRE FRASER
+- Age: 45 years
+- Sex: Female
+- Place of Residency: United Kingdom
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Migraine
+- Other Relevant History: UK resident with chronic migraine using Rimegepant for acute relief in a consistency study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Throbbing or pulsating pain, light sensitivity, sound sensitivity.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Chronic Migraine.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Using Rimegepant for acute treatment of attacks; completing daily migraine surveys.

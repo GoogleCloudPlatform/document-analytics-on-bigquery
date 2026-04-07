@@ -1,0 +1,25 @@
+PATIENT PROFILE: BELLA RAMSEY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BELLA RAMSEY
+- Age: 6 months
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+- Employment Status: Medical Leave
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV
+- Other Relevant History: High-risk infant meeting clinical criteria for RSV prophylaxis due to prematurity and CHD.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Sneezing, decrease in appetite.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for High Risk of Severe RSV
+- Current Plan: requires seasonal prophylaxis with Palivizumab for the winter months.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: CHLOE EVANS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CHLOE EVANS
+- Age: 31 years
+- Sex: Female
+- Place of Residency: the UK
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Atopic Dermatitis in Pregnancy
+- Other Relevant History: Pregnant woman with atopic dermatitis participating in a prospective safety surveillance registry.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Inflammation of the skin.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Atopic Dermatitis in Pregnancy.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Enrolled in a registry to monitor pregnancy outcomes after treatment for atopic dermatitis.

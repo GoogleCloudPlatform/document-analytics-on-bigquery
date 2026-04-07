@@ -1,0 +1,23 @@
+PATIENT PROFILE: CALEB JAMES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Caleb James
+- Age: 64 years
+- Sex: Male
+- Place of Residency: Toronto, ON, Canada
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant neoplasm of stomach
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bloating after eating, fatigue, stool with blood (black tarry stools).
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology: Grade 3 thrombocytopenia (Platelets: 45,000/uL) and severe anemia (Hemoglobin: 7.2 g/dL).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant neoplasm of stomach.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

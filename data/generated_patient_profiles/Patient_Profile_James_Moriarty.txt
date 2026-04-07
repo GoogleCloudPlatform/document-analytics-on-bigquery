@@ -1,0 +1,25 @@
+PATIENT PROFILE: JAMES MORIARTY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JAMES MORIARTY
+- Age: 60 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+- Employment Status: Medical Leave
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: gMG Ravulizumab Outcomes
+- Other Relevant History: Real-world evidence for Ravulizumab in non-interventional gMG cohort.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Drooping eyelids (ptosis), difficulty swallowing, double vision (diplopia), muscle weakness.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care as per context
+- Current Plan: Starting complement inhibitor; tracking MG-ADL and safety.

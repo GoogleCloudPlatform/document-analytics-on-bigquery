@@ -1,0 +1,40 @@
+PATIENT PROFILE: GIUSEPPE VERDI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Giuseppe Verdi
+- Age: 72
+- Sex: Male
+- Place of Residency: Paris, France
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Retired Musician
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Mixed-Phenotype Transthyretin Amyloidosis (ATTR-CM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Diagnosis: Diagnosed with ATTRwt-CM (wild-type) with mixed phenotype (cardiac and neurologic involvement).
+- Symptoms: Heart failure and progressive sensory loss in feet.
+- Comorbidities: None. No history of organ transplant. Ambulatory. No B12 deficiency or other causes of neuropathy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: NYHA Class II.
+- Physical Examination: Decreased sensation to vibration and light touch in a stocking distribution. S3 gallop noted on cardiac exam. Stable vital signs.
+- Neurologic Assessment: Baseline assessment completed (NIS-LL or similar).
+
+4. LABORATORY RESULTS
+- Cardiac:
+- NT-proBNP: 1500 pg/mL
+- Troponin T: 0.04 ng/mL
+- Chemistry:
+- ALT: 22 U/L
+- AST: 24 U/L
+- Bilirubin: 0.8 mg/dL
+- Creatinine: 1.1 mg/dL
+- Vitamin B12: 450 pg/mL (Normal)
+- Imaging:
+- Echocardiogram: Interventricular septum thickness 16mm, low voltage on ECG, typical amyloid pattern.
+- Technetium Pyrophosphate (PYP) Scan: Positive (Grade 2/3).
+
+5. TREATMENT HISTORY
+- Plan: Initiate treatment with high-dose Tafamidis (VYNDAMAX 61 mg orally once daily) as part of a real-world effectiveness study (NCT06393465). Continue therapy for at least 12 months. Undergo regular neurologic and cardiac assessments to monitor disease progression. Track changes in modified BMI and functional status. Avoid other disease-modifying therapies for ATTR.

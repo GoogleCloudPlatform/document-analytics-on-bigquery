@@ -1,0 +1,32 @@
+PATIENT PROFILE: JENNIFER LANE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Jennifer Lane
+- Age: 64 years
+- Sex: Female
+- Place of Residency: New York, USA
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Uncontrolled Severe Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- History of Stable Angina.
+- Cardiovascular risk factors.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Persistent symptoms despite high-dose ICS/LABA.
+- Occasional chest pain on heavy exertion (stable angina).
+- BMI: 25.5 kg/m².
+- Heart rate: 72 bpm.
+
+4. LABORATORY RESULTS
+- FEV1: 65% of predicted.
+- Blood Eosinophils: 350 cells/µL.
+- Troponin: Normal at baseline.
+- Lipid profile: Mildly elevated LDL.
+
+5. TREATMENT HISTORY
+- Previous: Maximum dose inhaled maintenance therapy.
+- Plan: Initiate Tezepelumab (Tezspire) therapy with prioritized monitoring for Major Adverse Cardiovascular Events (MACE).

@@ -1,0 +1,26 @@
+PATIENT PROFILE: ELEANOR VANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELEANOR VANCE
+- Age: 62 years
+- Sex: Female
+- Place of Residency: US
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HR+/HER2- Metastatic Breast Cancer (MBC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Diagnosis Date: March 2020
+- Disease Status: Ongoing treatment for metastatic disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Breast lump, breast pain.
+- Performance Status: Assumed good, allowing for ongoing systemic therapy.
+
+4. LABORATORY RESULTS
+- Histopathology: Confirmed HR+/HER2- MBC.
+- Other Lab Results: Assumed within normal limits for ongoing systemic therapy.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Initiated first-line systemic therapy with abemaciclib in combination with an endocrine therapy shortly after MBC diagnosis in March 2020.
+- Current Plan: Currently receiving ongoing treatment with abemaciclib and endocrine therapy.

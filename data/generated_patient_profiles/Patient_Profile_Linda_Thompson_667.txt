@@ -1,0 +1,30 @@
+PATIENT PROFILE: LINDA THOMPSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Linda Thompson
+- Age: 42 years
+- Sex: Female
+- Place of Residency: Toronto, Canada
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Immune Thrombocytopenia (ITP).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Refractory disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Subnormal level of blood platelets.
+- Persistent bruising and menometrorrhagia.
+- Significant fatigue.
+- Physical Exam: Petechiae present on lower extremities.
+
+4. LABORATORY RESULTS
+- Platelet Count: 15,000/µL.
+- Hemoglobin: 11.5 g/dL.
+- Hepatic and Renal function: Normal.
+- Ozanimod-naïve (if applicable, though Iptacopan is primary focus).
+
+5. TREATMENT HISTORY
+- Previous: Failed corticosteroids, IVIG, and splenectomy.
+- Plan: Initiate Iptacopan (LNP023) as a next-generation complement inhibitor for the management of refractory ITP.

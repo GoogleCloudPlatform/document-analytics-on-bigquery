@@ -1,0 +1,23 @@
+PATIENT PROFILE: RUBY CHAVEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ruby Chavez
+- Age: 78 years
+- Sex: Female
+- Place of Residency: Mexico City, Mexico
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant neoplasm of prostate
+- Other Relevant History: Patient has a history of stable management for their primary condition. History of an unrelated active malignancy (metastatic melanoma) currently under systemic treatment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent pain in the back, hips, or pelvis, frequent urination, especially at night, weak or interrupted flow of urine.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant neoplasm of prostate.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

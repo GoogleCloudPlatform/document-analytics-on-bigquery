@@ -1,0 +1,32 @@
+PATIENT PROFILE: PATRICIA HOLT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Patricia Holt
+- Age: 70 years
+- Sex: Female
+- Place of Residency: Sydney, Australia
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Persistent Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- History of minor Myocardial Infarction (5 years ago).
+- High-risk cardiovascular profile.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Daily asthma symptoms requiring frequent rescue inhaler use.
+- Chronic use of oral corticosteroids for asthma management.
+- Stable cardiac status post-MI.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Blood Eosinophils: 380 cells/µL.
+- FEV1: 62% of predicted.
+- NT-proBNP: Normal.
+- Renal function: Stable.
+
+5. TREATMENT HISTORY
+- Previous: High-dose ICS/LABA and maintenance oral Prednisone.
+- Plan: Initiate Tezepelumab (Tezspire) to reduce steroid burden and improve asthma control while monitoring cardiovascular health.

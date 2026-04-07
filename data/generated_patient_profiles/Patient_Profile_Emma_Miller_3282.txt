@@ -1,0 +1,23 @@
+PATIENT PROFILE: EMMA MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Emma Miller
+- Age: 80 years
+- Sex: Female
+- Place of Residency: Dublin, Ireland
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Conventional (Clear Cell) Renal Cell Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Lower back pain on one side (flank pain), fatigue.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Conventional (Clear Cell) Renal Cell Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: JAX JEFFERSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JAX JEFFERSON
+- Age: 43 years
+- Sex: Male
+- Place of Residency: Germany
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic COPD (Germany)
+- Other Relevant History: German routine care patient initiating BGF triple therapy for symptomatic COPD management.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, chest tightness, wheezing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Symptomatic COPD (Germany).
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: CAT score of 21; switching to triple therapy with BGF.

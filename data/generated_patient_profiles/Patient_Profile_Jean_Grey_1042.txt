@@ -1,0 +1,30 @@
+PATIENT PROFILE: JEAN GREY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Jean Grey
+- Age: 55
+- Sex: Female
+- Place of Residency: Beijing, China
+- Occupation: Professor
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Stage III Esophageal Squamous Cell Carcinoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Duration: 8 months
+- Comorbidities: None
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Physical Status: Status post-complete surgical resection of esophageal tumor. ECOG Performance Status 1.
+- Weight: 60 kg.
+
+4. LABORATORY RESULTS
+- Pathology: Residual disease detected in resected specimen (Non-pCR).
+- PD-L1 Status: CPS 5.
+- Hemoglobin: 11.5 g/dL
+- Renal Function: Normal.
+- Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Previous Treatments: Received neoadjuvant chemoradiotherapy followed by surgical resection.
+- Plan: Initiate adjuvant therapy with Nivolumab monotherapy to reduce recurrence risk.

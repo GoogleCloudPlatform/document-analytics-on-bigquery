@@ -1,0 +1,25 @@
+PATIENT PROFILE: ROSALIND FRANKLIN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ROSALIND FRANKLIN
+- Age: 45 years
+- Sex: Female
+- Place of Residency: Toronto, Canada
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma
+- Other Relevant History: Fits the profile for a pooled analysis of real-world treatment patterns in severe asthma.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Blood eosinophil count > 300 cells/µL. Documented history of frequent asthma flares.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care as per context
+- Current Plan: Blood eosinophil count > 300 cells/µL; recently started Tezepelumab.

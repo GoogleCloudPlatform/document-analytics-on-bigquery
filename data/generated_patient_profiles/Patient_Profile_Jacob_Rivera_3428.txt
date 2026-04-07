@@ -1,0 +1,23 @@
+PATIENT PROFILE: JACOB RIVERA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Jacob Rivera
+- Age: 29 years
+- Sex: Male
+- Place of Residency: Seoul, South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Esophageal Squamous Cell Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient underwent a major abdominal surgical procedure 10 days ago.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: A new sore or raised area on an old scar or chronic sore, a flat lesion with a scaly, crusted surface, a firm, red nodule.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Metastatic Esophageal Squamous Cell Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

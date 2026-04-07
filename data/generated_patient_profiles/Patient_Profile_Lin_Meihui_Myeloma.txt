@@ -1,0 +1,29 @@
+PATIENT PROFILE: LIN MEI-HUI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LIN MEI-HUI
+- Age: 65 years
+- Sex: Female
+- Place of Residency: Taiwan
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed/Refractory Multiple Myeloma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease Status: Relapsed after two prior lines of therapy.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pathological fractures, skeletal destruction, osteolytic lesions, hypercalcemia.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for triple therapy regimen.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Paraprotein: Evidence of rising monoclonal protein.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Includes various standard agents.
+- Current Plan: Initiating treatment with Elotuzumab plus Lenalidomide and Dexamethasone (ERd).
+- Monitoring: Safety and tolerability surveillance participation.

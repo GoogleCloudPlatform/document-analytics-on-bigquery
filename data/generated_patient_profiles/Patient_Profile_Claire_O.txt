@@ -1,0 +1,27 @@
+PATIENT PROFILE: CLAIRE O.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CLAIRE O.
+- Age: 48 years
+- Sex: Female
+- Place of Residency: London, UK
+- Employment Status: Works part-time.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Eosinophilic Asthma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease Severity: Frequent exacerbations requiring oral corticosteroids, despite treatment with high-dose inhaled corticosteroids (ICS) and a long-acting beta-agonist (LABA).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Performance Status: Experiences limitations in daily activities due to her asthma.
+- Exacerbation History: Has had 3 severe asthma exacerbations in the past year.
+
+4. LABORATORY RESULTS
+- Eosinophil Count: Elevated blood eosinophil count of 450 cells/μL.
+- IgE Levels: Normal total IgE levels.
+- Pulmonary Function: FEV1 is 60% of predicted, with reversibility after bronchodilator administration.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Long-term use of high-dose ICS/LABA combination inhalers. Has also tried a leukotriene receptor antagonist without significant benefit.
+- Current Plan: Will be starting treatment with Tezepelumab, a monoclonal antibody that blocks thymic stromal lymphopoietin (TSLP).

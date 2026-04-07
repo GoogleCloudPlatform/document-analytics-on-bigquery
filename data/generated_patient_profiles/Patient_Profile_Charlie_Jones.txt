@@ -1,0 +1,25 @@
+PATIENT PROFILE: CHARLIE JONES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CHARLIE JONES
+- Age: 22 years
+- Sex: Male
+- Place of Residency: Taiwan
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: β-Thalassemia Major
+- Other Relevant History: Adult TDT patient in Taiwan receiving Luspatercept.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anemia.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for β-Thalassemia Major.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Pre-transfusion Hemoglobin 6.8 g/dL; Serum Ferritin 1850 ng/mL.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for β-Thalassemia Major
+- Current Plan: Transfusion burden of 30 units in 24 weeks; initiating Luspatercept.

@@ -1,0 +1,26 @@
+PATIENT PROFILE: PIERRE D.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: PIERRE D.
+- Age: 71 years
+- Sex: Male
+- Place of Residency: Paris, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Surgical History: Underwent a radical cystectomy.
+- Pathological Risk: High risk of recurrence based on lymph node involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Blood in urine, painful urination.
+- Post-Operative: Recovering from surgery.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed urothelial carcinoma with lymph node metastases.
+- Imaging: No evidence of distant metastatic disease.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None for this cancer.
+- Current Plan: Starting adjuvant therapy with Nivolumab.

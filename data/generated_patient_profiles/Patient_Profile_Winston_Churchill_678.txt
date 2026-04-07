@@ -1,0 +1,31 @@
+PATIENT PROFILE: WINSTON CHURCHILL
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Winston Churchill
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Germany
+- Race/Ethnicity: Not specified
+- Occupation: Retired (UK)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Plaque Psoriasis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Chronic disease (20+ years).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Scaling patches, erythematous skin, skin lesions, dry skin.
+- Extensive erythematous plaques with silvery scales on elbows, knees, and trunk.
+- Severe pruritus.
+- PASI score: 18.
+- BMI: 29.0 kg/m².
+
+4. LABORATORY RESULTS
+- PASI Baseline: 18.
+- sPGA: 3 (Moderate).
+- LFTs: Normal.
+- Hematology: Stable.
+
+5. TREATMENT HISTORY
+- Previous: Inadequate response to topical steroids and Methotrexate.
+- Plan: Initiate Deucravacitinib therapy for the management of plaque psoriasis in a real-world setting.

@@ -1,0 +1,30 @@
+PATIENT PROFILE: NELSON MANDELA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Nelson Mandela
+- Age: 44 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hidradenitis Suppurativa (HS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Hurley Stage II.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fistulas, poral occlusion, sinus tracts.
+- Chronic painful inflammatory nodules and abscesses in the axillary and inguinal regions.
+- Presence of sinus tracts.
+- Frequent drainage and skin pain.
+- BMI: 31.0 kg/m².
+
+4. LABORATORY RESULTS
+- CRP: Mildly elevated (8.5 mg/L).
+- Hematology: Normal.
+- LFTs: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Recurrent courses of oral antibiotics (Clindamycin/Rifampicin) with temporary relief.
+- Plan: Initiate Ritlecitinib therapy for the management of Hidradenitis Suppurativa.

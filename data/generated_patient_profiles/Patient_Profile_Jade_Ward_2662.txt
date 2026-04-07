@@ -1,0 +1,23 @@
+PATIENT PROFILE: JADE WARD
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Jade Ward
+- Age: 27 years
+- Sex: Female
+- Place of Residency: Stockholm, Sweden
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hodgkin Disease
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently enrolled and receiving treatment in a separate interventional phase 2 clinical trial.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Enlargement of lymph nodes, enlargement of lymphoid tissue, enlargement of spleen.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Hodgkin Disease.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

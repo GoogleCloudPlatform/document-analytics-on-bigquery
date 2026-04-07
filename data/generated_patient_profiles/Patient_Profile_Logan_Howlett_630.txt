@@ -1,0 +1,32 @@
+PATIENT PROFILE: LOGAN HOWLETT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Logan Howlett
+- Age: 62 years
+- Sex: Male
+- Place of Residency: New York, USA
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC), Stage IV.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Squamous cell histology.
+- PD-L1 negative status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pleural effusion, distant metastasis, pericardial effusion, pleural nodules.
+- Chronic productive cough.
+- Moderate chest wall pain.
+- ECOG Performance Status: 1.
+- Smoking history: Heavy former smoker.
+
+4. LABORATORY RESULTS
+- PD-L1 expression: 0%.
+- EGFR, ALK, ROS1: Wild-type (Negative).
+- Hemoglobin: 11.5 g/dL.
+- Imaging: Large central lung mass with hilar adenopathy and bone metastases.
+
+5. TREATMENT HISTORY
+- Previous: Treatment naïve for metastatic disease.
+- Plan: Initiate first-line dual immunotherapy with Nivolumab and Ipilimumab in combination with 2 cycles of platinum-doublet chemotherapy (NIC regimen).

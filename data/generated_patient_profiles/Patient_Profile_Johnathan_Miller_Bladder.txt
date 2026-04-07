@@ -1,0 +1,29 @@
+PATIENT PROFILE: JOHNATHAN MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JOHNATHAN MILLER
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Ohio, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Bladder Cancer (Urothelial Carcinoma)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Current Status: Metastatic disease with target liver lesion (2.5 cm).
+- Medical History: No history of autoimmune disease, ILD, or significant cardiac events.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Painful urination, frequent urination, back pain, blood in urine.
+- Performance Status: WHO 1 (Ambulatory and capable of light activities).
+- Physical Status: No active infections; no spinal cord compression or brain metastases; baseline LVEF 62%.
+
+4. LABORATORY RESULTS
+- Hematology: Hemoglobin 13.1 g/dL; ANC 4.5 x 10^9/L; Platelets 280 x 10^9/L.
+- Organ Function: Liver/Renal tests and Creatinine clearance (>50 mL/min) within normal limits.
+- Cardiac: Mean QTc 425 ms (Normal).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Received neo-adjuvant platinum-based chemotherapy 8 months ago with subsequent progression. Last therapy concluded 6 weeks prior to current assessment.
+- Current Plan: Initiating second-line systemic therapy for metastatic urothelial MIBC.
+- Monitoring: Close observation for ocular health and regular LVEF assessments during treatment.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: VERNA THORNTON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: VERNA THORNTON
+- Age: 4 months
+- Sex: Female
+- Place of Residency: Sydney, Australia
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV
+- Other Relevant History: Preterm infant (<35 weeks) at high risk for severe RSV disease.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Decrease in appetite, fever.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for High Risk of Severe RSV
+- Current Plan: Requires seasonal RSV prophylaxis with Palivizumab.

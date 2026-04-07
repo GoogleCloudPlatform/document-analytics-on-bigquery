@@ -1,0 +1,25 @@
+PATIENT PROFILE: HANS K.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HANS K.
+- Age: 67 years
+- Sex: Male
+- Place of Residency: Frankfurt, Germany
+- Smoking History: Former smoker.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic COPD.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Symptoms: Frequent cough.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, chronic cough, chest tightness.
+- Lung Function: FEV1 48%.
+- Treatment History: Inadequate relief from dual therapy.
+
+4. LABORATORY RESULTS
+- Spirometry: Confirms obstruction.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Dual bronchodilator.
+- Current Plan: Starting BGF Triple Therapy.

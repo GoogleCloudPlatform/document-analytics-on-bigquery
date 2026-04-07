@@ -1,0 +1,25 @@
+PATIENT PROFILE: HOLLIS DOYLE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HOLLIS DOYLE
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Korea
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Multiple Myeloma
+- Other Relevant History: Adult with relapsed MM initiating Elranatamab in Korea.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Osteolytic lesions, pathological fractures, bone pain, anemia.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Multiple Myeloma.
+
+4. LABORATORY RESULTS
+- Tumor Markers: Elevated M-protein in serum and urine; Bone marrow plasma cells > 10%.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Multiple Myeloma
+- Current Plan: refractory to 3 lines of therapy; starting Elranatamab.

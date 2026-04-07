@@ -1,0 +1,34 @@
+PATIENT PROFILE: SARAH J.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Sarah J.
+- Age: 54 years
+- Sex: Female
+- Place of Residency: Chicago, IL, USA
+- Menopausal Status: Post-menopausal (Confirmed via 14 months of natural amenorrhea).
+- Employment Status: Active (Supports ECOG status)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Locally advanced Adenocarcinoma of the Breast.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Subtype: Estrogen Receptor-Positive (ER+), HER2-Negative (HER2-).
+- Current Stage: Stage IV (Metastatic) — disease has spread to the thoracic lymph nodes and bone.
+- Molecular Marker: ESR1 mutation confirmed via baseline circulating tumor DNA (ctDNA) through central laboratory testing.
+- Measurability: Presence of measurable disease per RECIST v.1.1.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1 (Restricted in physically strenuous activity but ambulatory).
+- Cardiac Health: LVEF >= 50% (Baseline Echocardiogram confirmed LVEF of 58% within 14 days prior to screening).
+- Pregnancy Status: Not Applicable (Patient is post-menopausal; however, a screening serum pregnancy test was performed and was negative).
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate (ANC >= 1.5 x 10^9/L, Platelets >= 100 x 10^9/L, Hemoglobin >= 9 g/dL).
+- Liver Function: Normal (Total Bilirubin, AST, and ALT within protocol-defined limits; no history of clinically significant liver disease).
+- Renal Function: Normal (Creatinine clearance within acceptable range).
+
+5. TREATMENT HISTORY
+- Adjuvant Therapy: Completed a 5-year course of standard adjuvant Endocrine Therapy (Letrozole) 10 months ago.
+- Resistance Status: Relapsed within 12 months of completing adjuvant ET, meeting the study definition for resistance to prior adjuvant endocrine therapy.
+- Advanced Disease Treatment: No prior systemic anti-cancer therapy (chemotherapy, immunotherapy, or biologic therapy) for her current metastatic diagnosis.
+- Specific Drug History: No prior treatment with any SERD (e.g., fulvestrant) or novel ER-targeting agents.

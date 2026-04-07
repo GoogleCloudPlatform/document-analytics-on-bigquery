@@ -1,0 +1,25 @@
+PATIENT PROFILE: LINDA G.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LINDA G.
+- Age: 47 years
+- Sex: Female
+- Place of Residency: Atlanta, GA, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HR+/HER2- Early Breast Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Risk: High risk (Node-positive).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Breast lump, nipple discharge, skin dimpling.
+- Status: Post-surgery.
+- Performance Status: ECOG 0.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed HR+/HER2- EBC.
+- Nodal Status: Positive.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Surgery.
+- Current Plan: Starting adjuvant Ribociclib.

@@ -1,0 +1,40 @@
+PATIENT PROFILE: ARDELIA MAPP
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ardelia Mapp
+- Age: 42
+- Sex: Female
+- Place of Residency: Sydney, Australia
+- Race: Black
+- Ethnicity: Non-Hispanic
+- Occupation: FBI Agent
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Refractory Dermatomyositis (Idiopathic Inflammatory Myopathy). Fulfilling 2017 EULAR/ACR criteria for definite IIM.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Subgroup: Dermatomyositis (DM).
+- Disease Activity: Severe muscle and skin involvement. Refractory to high-dose glucocorticoids, methotrexate, and IVIG (each used for > 3 months).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Rash on upper trunk, proximal muscle weakness.
+- Physical Examination: Severe erythema on face and knuckles. Significant difficulty rising from a chair without assistance.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 11.8 g/dL
+- WBC: 5.5 x 10^3/µL
+- ANC: 3.2 x 10^9/L
+- Platelets: 240 x 10^9/L
+- Chemistry:
+- Creatine Kinase (CK): 1200 U/L (> 3x ULN)
+- ALT: 55 U/L
+- AST: 60 U/L
+- Creatinine: 0.7 mg/dL
+- Immunology:
+- Myositis Specific Antibody (MSA): Positive (Anti-Mi-2)
+- ANA: Positive (1:320)
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+- Plan: Enroll in Breakfree-1 Phase 1 study (NCT05869955). Receive CC-97540 (BMS-986353), CD19-targeted Nex-T CAR T cells. Treatment involves lymphodepleting chemotherapy followed by a single IV infusion of CC-97540. Monitor for safety (CRS, ICANS) and efficacy using the Myositis Damage Index and changes in CK levels.

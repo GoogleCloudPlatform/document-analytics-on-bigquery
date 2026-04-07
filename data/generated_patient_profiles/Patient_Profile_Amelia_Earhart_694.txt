@@ -1,0 +1,31 @@
+PATIENT PROFILE: AMELIA EARHART
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Amelia Earhart
+- Age: 66 years
+- Sex: Female
+- Place of Residency: UK
+- Race/Ethnicity: Not specified
+- Occupation: Retired (UK)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- History of long-term tobacco use.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest tightness, shortness of breath.
+- Daily chronic cough and wheezing.
+- Exertional dyspnea limiting mobility.
+- CAT (COPD Assessment Test) score: 22.
+- Smoking status: Former smoker.
+
+4. LABORATORY RESULTS
+- FEV1: 48% of predicted value.
+- FEV1/FVC: 0.60.
+- Oxygen saturation: 93% on room air.
+- Hematology: Stable.
+
+5. TREATMENT HISTORY
+- Previous: Dual maintenance bronchodilator therapy.
+- Plan: Switch to BGF (Budesonide/Glycopyrronium/Formoterol) triple therapy for improved symptom and exacerbation management in a routine care setting.

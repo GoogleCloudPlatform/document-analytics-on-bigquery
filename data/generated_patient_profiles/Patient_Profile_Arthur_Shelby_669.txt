@@ -1,0 +1,30 @@
+PATIENT PROFILE: ARTHUR SHELBY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Arthur Shelby
+- Age: 58 years
+- Sex: Male
+- Place of Residency: UK
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Primary Myelofibrosis (PMF).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Intermediate-risk disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Proliferation of granulocytes in the bone marrow, anemia, splenomegaly.
+- Significant splenomegaly (palpable 8 cm below costal margin).
+- Constitutional symptoms: Persistent night sweats and weight loss.
+- Fatigue and early satiety.
+
+4. LABORATORY RESULTS
+- JAK2 V617F Mutation: Positive.
+- Hemoglobin: 10.5 g/dL.
+- White Blood Cell Count: 12.5 x 10^9/L.
+- Platelets: 140 x 10^9/L.
+
+5. TREATMENT HISTORY
+- Previous: Supportive care and analgesics.
+- Plan: Initiate Fedratinib (Inrebic) for the management of splenomegaly and constitutional symptoms of myelofibrosis.

@@ -1,0 +1,29 @@
+PATIENT PROFILE: MARIA FERNANDA LOPEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARIA FERNANDA LOPEZ
+- Age: 62 years
+- Sex: Female
+- Place of Residency: Argentina
+- Employment Status: Not specified, assumed active.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Non-small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Diagnosis: Newly diagnosed, resectable Stage IIIA (AJCC 8th ed).
+- Molecular Markers: Absence of EGFR or ALK driver mutations confirmed by pathological testing.
+- Other Malignancies: No active malignancies other than NSCLC.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest pain, persistent cough.
+- Performance Status: Assumed good, consistent with eligibility for neoadjuvant therapy.
+- General Health: No history of prior antineoplastic therapy within the last three months, no participation in other NSCLC clinical trials.
+
+4. LABORATORY RESULTS
+- Pathological Confirmation: Histological or cytological confirmation of NSCLC.
+- Molecular Testing: Negative for EGFR gene mutation and ALK fusion gene.
+- Other Lab Results: Assumed within normal limits to tolerate chemotherapy (e.g., adequate hematologic, renal, and liver function).
+
+5. TREATMENT HISTORY
+- Prior Therapy: No prior antineoplastic therapy for NSCLC within the last three months.
+- Current Plan: Initiated neoadjuvant therapy with nivolumab (360 mg Q3W) combined with platinum-based chemotherapy in January 2023.

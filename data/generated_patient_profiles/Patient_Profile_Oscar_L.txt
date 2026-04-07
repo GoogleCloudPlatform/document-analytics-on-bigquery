@@ -1,0 +1,24 @@
+PATIENT PROFILE: OSCAR L.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: OSCAR L.
+- Age: 58 years
+- Sex: Male
+- Place of Residency: Mexico City, Mexico
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Resectable Non-Small Cell Lung Cancer (NSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Stage: Stage IIIA.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest pain, shortness of breath.
+- Performance Status: ECOG 0.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed NSCLC.
+- PD-L1: Assessed.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Undergoing neoadjuvant Nivolumab + Chemotherapy.

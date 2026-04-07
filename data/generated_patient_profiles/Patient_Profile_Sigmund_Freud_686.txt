@@ -1,0 +1,31 @@
+PATIENT PROFILE: SIGMUND FREUD
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Sigmund Freud
+- Age: 40 years
+- Sex: Male
+- Place of Residency: Toronto, Canada
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Metabolic intolerance to typical antipsychotics.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Delusions, disorganized thinking.
+- Chronic auditory hallucinations and paranoid ideation.
+- Negative symptoms including social withdrawal.
+- Significant weight gain and glucose intolerance on prior therapy.
+- BMI: 30.5 kg/m².
+
+4. LABORATORY RESULTS
+- HbA1c: 6.2% (Prediabetic range).
+- Fasting Glucose: 110 mg/dL.
+- Lipid Profile: Elevated LDL.
+- Hepatic Function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Multiple atypical antipsychotics (Quetiapine, Risperidone).
+- Plan: Transition to KarXT (xanomeline and trospium chloride) for improved symptom control and better metabolic profile.

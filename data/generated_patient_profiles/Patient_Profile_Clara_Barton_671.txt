@@ -1,0 +1,31 @@
+PATIENT PROFILE: CLARA BARTON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Clara Barton
+- Age: 29 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Active Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Multi-organ involvement (Cutaneous and Articular).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Peripheral blood cell abnormalities, skin problems.
+- Persistent malar rash and discoid lesions.
+- Symmetrical arthritis in the hands and wrists.
+- Significant systemic fatigue.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Anti-dsDNA: Positive (High titer).
+- Complement C3/C4: Low.
+- SLEDAI-2K: Elevated.
+- ANA: Positive (1:1280).
+
+5. TREATMENT HISTORY
+- Previous: Inadequate response to high-dose steroids and Mycophenolate Mofetil.
+- Plan: Initiate CC-97540 (CD19-targeted CAR T cell therapy) for the management of active SLE.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: ELENA D.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELENA D.
+- Age: 64 years
+- Sex: Female
+- Place of Residency: Barcelona, Spain
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Endometrial Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Biomarker: dMMR/MSI-H status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1.
+
+4. LABORATORY RESULTS
+- Molecular Testing: dMMR/MSI-H confirmed.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Platinum-based chemotherapy.
+- Current Plan: Starting Dostarlimab.

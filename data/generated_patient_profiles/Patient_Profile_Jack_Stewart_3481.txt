@@ -1,0 +1,23 @@
+PATIENT PROFILE: JACK STEWART
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Jack Stewart
+- Age: 22 years
+- Sex: Male
+- Place of Residency: Milan, Italy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently enrolled and receiving treatment in a separate interventional phase 2 clinical trial.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Breast skin changes, new pain, unexplained weight loss.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

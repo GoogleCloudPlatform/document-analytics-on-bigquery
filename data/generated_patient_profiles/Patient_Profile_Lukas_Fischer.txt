@@ -1,0 +1,25 @@
+PATIENT PROFILE: LUKAS FISCHER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LUKAS FISCHER
+- Age: 52 years
+- Sex: Male
+- Place of Residency: Germany
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Adult gMG patient initiating Ravulizumab to evaluate real-world functional outcomes.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fluctuating ophthalmoplegia, ocular muscle weakness, weakness of eye closure, external ophthalmoplegia.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: MG-ADL score of 10; starting Ravulizumab as a complement inhibitor for better symptom control.

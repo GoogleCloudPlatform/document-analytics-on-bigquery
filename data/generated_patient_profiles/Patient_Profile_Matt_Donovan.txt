@@ -1,0 +1,25 @@
+PATIENT PROFILE: MATT DONOVAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MATT DONOVAN
+- Age: 33 years
+- Sex: Male
+- Place of Residency: the pregnancy registry
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Enrolled in the broader Mavacamten surveillance context for patient/family registry monitoring.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Reduced left ventricular volume, aortic stenosis, right ventricular hypertrophy, hypertension.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Hypertrophic Cardiomyopathy (oHCM).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Hypertrophic Cardiomyopathy (oHCM)
+- Current Plan: Undergoing echocardiographic screening for oHCM; requires long-term safety tracking.

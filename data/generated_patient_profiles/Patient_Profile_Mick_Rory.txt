@@ -1,0 +1,25 @@
+PATIENT PROFILE: MICK RORY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MICK RORY
+- Age: 59 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Esophageal Cancer (China)
+- Other Relevant History: Adult patient in China receiving adjuvant Nivolumab for esophageal cancer in a routine care study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Esophageal Cancer (China).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Initiating adjuvant Nivolumab to reduce risk of recurrence.

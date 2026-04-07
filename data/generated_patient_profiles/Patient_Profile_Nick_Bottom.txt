@@ -1,0 +1,38 @@
+PATIENT PROFILE: NICK BOTTOM
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Nick Bottom
+- Age: 60
+- Sex: Male
+- Place of Residency: Toronto, Canada
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Weaver
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Esophageal Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Histologically confirmed metastatic solid tumor. Received and progressed on or been intolerant to all treatments known to confer clinical benefit (including platinum-based chemotherapy).
+- Comorbidities: None. Well-controlled hypertension. No history of autoimmune disease or allogeneic transplant. No history of ILD.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1.
+- Physical Examination: No clinically active CNS metastases. No active infection. Stable vital signs. No history of major surgery within 4 weeks.
+- Measurable Disease: 3.0 cm esophageal mass, 1.5 cm liver lesion. Baseline tumor sample provided.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 10.5 g/dL
+- ANC: 3.4 x 10^9/L
+- Platelets: 195 x 10^9/L
+- Chemistry:
+- ALT: 35 U/L
+- AST: 32 U/L
+- Total Bilirubin: 1.0 mg/dL
+- Creatinine: 1.1 mg/dL
+- Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+- Plan: Enroll in a Phase 1 study (NCT05514444) to receive MK-4464 in combination with Pembrolizumab. Administer MK-4464 orally and Pembrolizumab 200 mg IV every 3 weeks. Monitor for dose-limiting toxicities (DLTs), pharmacokinetics, and objective response. Participate in serial biopsy collections as required by the protocol.

@@ -1,0 +1,29 @@
+PATIENT PROFILE: HENRY FORD
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HENRY FORD
+- Age: 65 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unresectable Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Current Stage: Stage III (Locally advanced).
+- Molecular Markers: High tumor mutational burden (TMB).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mucous membrane lesion, skin lesion.
+- Performance Status: ECOG 1.
+- Physical Status: Candidate for neoadjuvant therapy prior to planned surgery.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal organ and marrow function.
+- Imaging: CT shows localized but unresectable nodal involvement.
+- Pathology: Histologically confirmed melanoma.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for advanced disease.
+- Current Plan: Initiating neoadjuvant therapy with Nivolumab and Relatlimab combination.
+- Monitoring: Periodic imaging to assess for tumor shrinkage and surgical feasibility.

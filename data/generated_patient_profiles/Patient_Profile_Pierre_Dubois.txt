@@ -1,0 +1,27 @@
+PATIENT PROFILE: PIERRE DUBOIS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: PIERRE DUBOIS
+- Age: 62 years
+- Sex: Male
+- Place of Residency: France
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Squamous Cell Carcinoma of the Head and Neck (SCCHN)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Diagnosis: Histologically confirmed SCCHN.
+- Disease Status: Progression of SCCHN after prior platinum-based chemotherapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: Assumed adequate for initiation of immunotherapy.
+
+4. LABORATORY RESULTS
+- Histopathology: Confirmed Squamous Cell Carcinoma.
+- Imaging: Confirmed disease progression.
+- Other Lab Results: Assumed within normal limits for immunotherapy treatment.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Platinum-based chemotherapy.
+- Current Plan: Initiating nivolumab as first treatment targeting the immune checkpoint pathway, in line with approved label for SCCHN.

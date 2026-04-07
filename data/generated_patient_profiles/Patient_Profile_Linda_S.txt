@@ -1,0 +1,24 @@
+PATIENT PROFILE: LINDA S.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LINDA S.
+- Age: 28 years
+- Sex: Female
+- Place of Residency: London, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Current Status: Experiencing an acute exacerbation of psychosis, requiring intervention.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Disorganized thinking, retreat from reality.
+- Functionality: Her symptoms are currently severe enough to interfere with her ability to work and maintain social relationships.
+
+4. LABORATORY RESULTS
+- Blood Work: No significant abnormalities.
+- Urine Drug Screen: Negative for illicit substances.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has been treated with several antipsychotic medications in the past, with either suboptimal efficacy or intolerable side effects.
+- Current Plan: Enrolled in the RESKU registry and starting treatment with KarXT (Xanomeline-Trospium), a novel M1/M4 muscarinic agonist.

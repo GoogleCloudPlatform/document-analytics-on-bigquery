@@ -1,0 +1,25 @@
+PATIENT PROFILE: SAM KEATING
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SAM KEATING
+- Age: 60 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hospital Acquired Pneumonia
+- Other Relevant History: Hospitalized patient in China receiving CAZ AVI for serious infection.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Infection, inflammation.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Hospital Acquired Pneumonia.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Hospital Acquired Pneumonia
+- Current Plan: starting treatment with Ceftazidime-Avibactam.

@@ -1,0 +1,29 @@
+PATIENT PROFILE: RAVEN DARKHOLME
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Raven Darkholme
+- Age: 42 years
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Anti-AChR antibody-positive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Respiratory muscle weakness, diplopia, bulbar muscle weakness, weakness of eye closure.
+- Muscle weakness and persistent double vision (diplopia).
+- MG-ADL score: 11.
+- Fatigue worsening with activity.
+
+4. LABORATORY RESULTS
+- Anti-AChR Antibody: Positive.
+- EMG: Decremental response on repetitive nerve stimulation.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Standard immunosuppressants and anticholinesterase therapy.
+- Plan: Initiate Ravulizumab (Ultomiris) as a complement inhibitor for real-world functional outcome management.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: JAMES WHITE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JAMES WHITE
+- Age: 42 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia
+- Other Relevant History: Adult patient with schizophrenia initiating KarXT therapy in a treatment satisfaction registry.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Delusions, retreat from reality.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Schizophrenia.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Transitioning to KarXT (xanomeline and trospium chloride) for better symptom control.

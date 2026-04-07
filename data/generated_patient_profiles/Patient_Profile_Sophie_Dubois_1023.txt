@@ -1,0 +1,42 @@
+PATIENT PROFILE: SOPHIE DUBOIS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Sophie Dubois
+- Age: 50
+- Sex: Female
+- Place of Residency: London, UK
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Sales Manager
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Primary Progressive Multiple Sclerosis (PPMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Definite diagnosis of PPMS according to McDonald 2017 criteria. Steady worsening of walking ability over the past 2 years.
+- Requirement: Decision to initiate Ocrelizumab taken as part of routine clinical practice. Ocrelizumab-naïve.
+- Comorbidities: None. No severe psychiatric disability. No active infections.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
+- Performance Status: EDSS 4.5.
+- Physical Examination: Increased muscle tone in lower extremities, decreased hand strength bilaterally.
+- Gait: Requires unilateral assistance for long distances.
+- SymptoMScreen Score: Baseline composite score of 35.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 12.8 g/dL
+- WBC: 5.8 x 10^3/µL
+- Lymphocytes: 1.5 x 10^3/µL
+- Chemistry:
+- ALT: 20 U/L
+- AST: 18 U/L
+- Total Bilirubin: 0.7 mg/dL
+- Creatinine: 0.8 mg/dL
+- Infectious Disease:
+- HIV/HBsAg/HCV: Negative
+- Imaging:
+- Brain MRI: Multiple T2-hyperintense lesions, no gadolinium-enhancing lesions.
+
+5. TREATMENT HISTORY
+- Plan: Initiate treatment with Ocrelizumab (Ocrevus) 600 mg IV every 6 months as part of a multicentre non-interventional study (MuSicalE, NCT03593590). Participate in regular assessments using participant-reported outcomes (PROs) including SymptoMScreen and conventional MS endpoints. Monitor forHand function, gait, and cognition changes. Undergo safety monitoring for serious adverse events and treatment discontinuation reasons. Provide signed informed consent.

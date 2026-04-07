@@ -1,0 +1,30 @@
+PATIENT PROFILE: WADE WILSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Wade Wilson
+- Age: 48 years
+- Sex: Male
+- Place of Residency: France
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Post-surgical resection status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Painful urination, blood in urine.
+- Currently stable following radical surgical resection.
+- High risk of recurrence.
+- ECOG Performance Status: 0.
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed MIUC with high-risk features.
+- Renal function: Normal.
+- LFTs: Normal.
+- Hematology: Stable.
+
+5. TREATMENT HISTORY
+- Previous: Radical cystectomy.
+- Plan: Initiate adjuvant Nivolumab (Opdivo) therapy for the reduction of recurrence risk in a real-world setting.

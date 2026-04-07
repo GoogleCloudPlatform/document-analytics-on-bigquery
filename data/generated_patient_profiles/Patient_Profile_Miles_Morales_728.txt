@@ -1,0 +1,30 @@
+PATIENT PROFILE: MILES MORALES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Miles Morales
+- Age: 25 years
+- Sex: Male
+- Place of Residency: UK
+- Race/Ethnicity: Not specified
+- Occupation: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Early-onset Severe Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Frequent emergency room visits for asthma exacerbations.
+- Daily shortness of breath.
+- Active but limited by respiratory status.
+- BMI: 23.5 kg/m².
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 500 cells/µL.
+- FEV1: 75% of predicted.
+- FeNO: 45 ppb.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Multiple inhaler combinations and frequent rescue therapy.
+- Plan: Initiate Tezepelumab (Tezspire) to improve disease control and reduce exacerbation frequency.

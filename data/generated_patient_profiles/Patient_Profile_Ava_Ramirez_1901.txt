@@ -1,0 +1,24 @@
+PATIENT PROFILE: AVA RAMIREZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ava Ramirez
+- Age: 80 years
+- Sex: Female
+- Place of Residency: Beijing, China
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Evaluation for 8 genes (ALK, BRAF, EGFR, ERBB2, MET, NTRK1-3, RET, ROS1) and nd KRAS G12C and PD-L1 if performed, in formalin-fixed paraffin-embedded (FFPE) tissue by whole slide imaging analysis, reported as positive or negative for each biomarker in lung cancer
+- Other Relevant History: Patient has a history of stable management for their primary condition with no major acute exacerbations in the past 6 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hoarseness, swelling in the face or neck.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology: Hemoglobin, WBC, and platelets within acceptable ranges for clinical observation.
+- Biochemistry: Renal and hepatic function parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Evaluation for 8 genes (ALK, BRAF, EGFR, ERBB2, MET, NTRK1-3, RET, ROS1) and nd KRAS G12C and PD-L1 if performed, in formalin-fixed paraffin-embedded (FFPE) tissue by whole slide imaging analysis, reported as positive or negative for each biomarker in lung cancer.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

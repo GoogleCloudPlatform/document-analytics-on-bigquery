@@ -1,0 +1,24 @@
+PATIENT PROFILE: MARIE D.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARIE D.
+- Age: 39 years
+- Sex: Female
+- Place of Residency: Marseille, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Pustular Psoriasis (GPP).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Current Status: Experiencing an acute flare, with widespread eruption of sterile pustules.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Scaling patches, dry skin, skin lesions, erythematous skin.
+- Disease Severity: Severe flare requiring hospitalization.
+
+4. LABORATORY RESULTS
+- Histopathology: Skin biopsy confirms GPP.
+- Blood Work: Leukocytosis and elevated C-reactive protein.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has a history of psoriasis, but this is her first severe GPP flare.
+- Current Plan: Admitted to the hospital and starting treatment with Spesolimab, a monoclonal antibody that targets the IL-36 receptor.

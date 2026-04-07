@@ -1,0 +1,25 @@
+PATIENT PROFILE: HARRISON WRIGHT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HARRISON WRIGHT
+- Age: 30 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia
+- Other Relevant History: Adult with schizophrenia initiating KarXT therapy in the US.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hallucinations, delusions, disorganized thinking, retreat from reality.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Schizophrenia.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Schizophrenia
+- Current Plan: Prescribed KarXT; monitoring treatment preference and satisfaction.

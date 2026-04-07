@@ -1,0 +1,29 @@
+PATIENT PROFILE: ARTHUR MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ARTHUR MILLER
+- Age: 72 years
+- Sex: Male
+- Place of Residency: UK
+- Employment Status: Retired (Former construction worker)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Smoking History: Long-term heavy smoker.
+- Disease Status: Symptomatic with frequent exacerbations (2 per year).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest tightness, chronic cough, shortness of breath, wheezing.
+- Performance Status: CAT score 25; mMRC grade 3.
+- Physical Status: Moderate airflow limitation.
+
+4. LABORATORY RESULTS
+- Pulmonary Function: FEV1 45% predicted.
+- Hematologic Function: Normal.
+- Oxygen Saturation: 92% on room air.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Currently on dual maintenance therapy (LAMA/LABA) with suboptimal control.
+- Current Plan: Escalating to BGF triple therapy (Budesonide/Glycopyrronium/Formoterol).
+- Monitoring: Tracking exacerbation frequency and lung function stability.

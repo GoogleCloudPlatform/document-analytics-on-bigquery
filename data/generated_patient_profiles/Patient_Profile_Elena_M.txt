@@ -1,0 +1,24 @@
+PATIENT PROFILE: ELENA M.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELENA M.
+- Age: 32 years
+- Sex: Female
+- Place of Residency: Naples, Italy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Ulcerative Colitis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Severity: Moderate-to-severe.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Necrosis of tissue, suppurating lesion, inflammatory lesion.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Endoscopy: Active inflammation.
+- CRP: Elevated.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Inadequate response to conventional therapies.
+- Current Plan: Starting Ozanimod (Zeposia).

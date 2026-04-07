@@ -1,0 +1,31 @@
+PATIENT PROFILE: KENJI SATO
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Kenji Sato
+- Age: 60 years
+- Sex: Male
+- Place of Residency: Japan
+- Race/Ethnicity: Japanese
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unresectable Hepatocellular Carcinoma (HCC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Chronic Hepatitis B.
+- Child-Pugh A cirrhosis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Abdominal discomfort.
+- Fatigue.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Imaging: Confirmed unresectable HCC.
+- AFP: Elevated.
+- Liver Function: Child-Pugh Score 5 (Class A).
+- HBsAg: Positive.
+
+5. TREATMENT HISTORY
+- Previous: Treatment-naive for advanced disease.
+- Plan: Initiate first-line combination therapy with Durvalumab, Tremelimumab, and Lenvatinib.

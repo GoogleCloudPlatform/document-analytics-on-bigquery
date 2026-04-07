@@ -1,0 +1,46 @@
+PATIENT PROFILE: REZIA SMITH
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Rezia Smith
+- Age: 68
+- Sex: Male
+- Place of Residency: Berlin, Germany
+- Race: Asian
+- Ethnicity: Japanese
+- Occupation: Retired Shopkeeper
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Castration-Resistant Prostate Cancer (mCRPC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Confirmed adenocarcinoma of the prostate without small cell histology. Current evidence of metastatic disease (bone lesions on scan).
+- Treatment History: Previously treated with Enzalutamide (NHA) and Docetaxel (taxane-based chemotherapy) with subsequent disease progression. Stable doses of Denosumab for 6 weeks.
+- Comorbidities: Well-controlled hypertension. No history of pituitary dysfunction or brain metastases. No active autoimmune disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1.
+- Physical Examination: No clinical evidence of spinal cord compression. Normal neurological exam. Able to swallow oral medications.
+- Vital Signs:
+- BP: 130/84 mmHg
+- HR: 74 bpm
+- Androgen Deprivation: Ongoing.
+
+4. LABORATORY RESULTS
+- Endocrine:
+- Serum Testosterone: 15 ng/dL (Castrate level < 50 ng/dL).
+- PSA: 45.0 ng/mL
+- Hematology:
+- Hemoglobin: 10.8 g/dL
+- ANC: 3.2 x 10^9/L
+- Platelets: 180 x 10^9/L
+- Chemistry:
+- ALT: 28 U/L
+- AST: 30 U/L
+- Bilirubin: 0.9 mg/dL
+- Creatinine: 1.1 mg/dL (Normal renal function)
+- HbA1c: 6.2%
+- Infectious Disease:
+- HIV/HBV/HCV: Negative
+
+5. TREATMENT HISTORY
+- Plan: Initiate treatment with Opevesostat (MK-5684) in combination with hormonal therapy as part of a Phase 1/2 clinical study in Japan (NCT06104449). Administer Opevesostat orally at the assigned dose level. Continue androgen deprivation therapy. Monitor for dose-limiting toxicities, PSA response, and radiographic progression-free survival. Agree to use male condoms and refrain from donating sperm.

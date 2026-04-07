@@ -1,0 +1,25 @@
+PATIENT PROFILE: MICHAELA PRATT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MICHAELA PRATT
+- Age: 66 years
+- Sex: Female
+- Place of Residency: Germany
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD)
+- Other Relevant History: COPD patient initiating BGF triple therapy in a routine care setting in Germany.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough, shortness of breath, wheezing, chest tightness.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Chronic Obstructive Pulmonary Disease (COPD).
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Chronic Obstructive Pulmonary Disease (COPD)
+- Current Plan: CAT score of 24; initiating BGF triple therapy in primary care.

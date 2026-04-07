@@ -1,0 +1,29 @@
+PATIENT PROFILE: PETER PARKER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: PETER PARKER
+- Age: 25 years
+- Sex: Male
+- Place of Residency: USA
+- Employment Status: Active (Athlete)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Genetics: Confirmed MYH7 mutation.
+- Disease Status: Newly diagnosed following collapse.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Aortic stenosis, hypertension, left ventricular hypertrophy, cardiac muscle disease.
+- Performance Status: NYHA Class II.
+- Cardiac Anatomy: Echocardiography reveals significant septal hypertrophy.
+
+4. LABORATORY RESULTS
+- Echocardiography: Documented significant resting LVOT gradient.
+- Genetic Testing: Positive for MYH7.
+- Cardiac Rhythm: Normal sinus rhythm.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Newly diagnosed.
+- Current Plan: Initiating Mavacamten for obstructive HCM management.
+- Monitoring: Serial echocardiograms to monitor gradient and ventricular function.

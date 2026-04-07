@@ -1,0 +1,25 @@
+PATIENT PROFILE: DAVID STRATHAIRN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: DAVID STRATHAIRN
+- Age: 77 years
+- Sex: Male
+- Place of Residency: New York, USA
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: COPD symptomatic management
+- Other Relevant History: COPD routine care patient requiring escalation to triple therapy for better symptom management.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest tightness, shortness of breath, wheezing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for COPD symptomatic management.
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for COPD symptomatic management
+- Current Plan: Persistent dyspnea; CAT score 22; switching to triple therapy with BGF.

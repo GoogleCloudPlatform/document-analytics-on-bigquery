@@ -1,0 +1,24 @@
+PATIENT PROFILE: ELENA F.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELENA F.
+- Age: 41 years
+- Sex: Female
+- Place of Residency: Marseille, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Pustular Psoriasis (GPP).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Acute flare.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dry skin, erythematous skin, skin lesions, scaling patches.
+- Severity: Severe.
+
+4. LABORATORY RESULTS
+- WBC: Elevated.
+- CRP: Elevated.
+
+5. TREATMENT HISTORY
+- Prior Therapy: History of plaque psoriasis.
+- Current Plan: Receiving Spesolimab.

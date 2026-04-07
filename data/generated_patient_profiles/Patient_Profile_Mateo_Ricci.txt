@@ -1,0 +1,25 @@
+PATIENT PROFILE: MATEO RICCI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MATEO RICCI
+- Age: 56 years
+- Sex: Male
+- Place of Residency: Italy
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Symptomatic oHCM patient initiating Mavacamten as part of a real-world treatment assessment.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Right ventricular hypertrophy, left ventricular hypertrophy, heart septum involvement.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Obstructive Hypertrophic Cardiomyopathy (oHCM).
+
+4. LABORATORY RESULTS
+- Cardiac Imaging: Echocardiogram shows interventricular thickness of 18 mm and peak resting LVOT gradient of 60 mmHg. Preserved LVEF (62%).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Echocardiogram shows a peak LVOT gradient of 52 mmHg; NYHA Class II symptoms; initiating Mavacamten.

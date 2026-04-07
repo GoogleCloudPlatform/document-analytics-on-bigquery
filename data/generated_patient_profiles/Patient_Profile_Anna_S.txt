@@ -1,0 +1,23 @@
+PATIENT PROFILE: ANNA S.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ANNA S.
+- Age: 13 years
+- Sex: Female
+- Place of Residency: Amsterdam, Netherlands
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Pediatric Melanoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Stage: Advanced disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pigmented lesion, eye lesion, mucous membrane lesion, change in mole.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed melanoma.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treated with Ipilimumab.
+- Current Plan: Long-term follow-up.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: BEATRICE R.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BEATRICE R.
+- Age: 69 years
+- Sex: Female
+- Place of Residency: Lyon, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High-risk Urothelial Carcinoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Post-operative.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Painful urination, blood in urine, frequent urination.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Pathology: High-risk features.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Surgery.
+- Current Plan: Post-operative Nivolumab adjuvant therapy.

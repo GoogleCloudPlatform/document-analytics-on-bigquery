@@ -1,0 +1,25 @@
+PATIENT PROFILE: VICTOR THORNE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: VICTOR THORNE
+- Age: 55 years
+- Sex: Male
+- Place of Residency: thrombosis in the portal vein
+- Employment Status: Medical Leave
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: High-risk PNH patient with a history of thrombosis monitoring treatment outcomes on complement inhibition.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, abdominal pain, fatigue.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.5x Upper Limit of Normal (ULN); Hemoglobin 8.5 g/dL; Flow cytometry confirms 45% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Current Plan: Currently anticoagulated but still experiencing high markers of hemolysis; requires consistent C5 inhibition.

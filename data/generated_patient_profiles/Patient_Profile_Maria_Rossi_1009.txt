@@ -1,0 +1,40 @@
+PATIENT PROFILE: MARIA ROSSI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Maria Rossi
+- Age: 34
+- Sex: Female
+- Place of Residency: New York, USA
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Retail Assistant
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Atopic Dermatitis (AD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Chronic AD present for > 5 years. Inadequate response to prior treatment with Dupilumab (used for 6 months).
+- Requirement: Prescribed Abrocitinib for use in accordance with product label.
+- Comorbidities: None. No other active inflammatory skin diseases (psoriasis, lupus). No prior use of JAK inhibitors.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Inflammation of the skin.
+- Performance Status: ECOG 0.
+- Physical Examination: Significant erythema, induration, and excoriation on trunk and limbs.
+- EASI Score: 25.
+- Peak Pruritus NRS: 8.
+- BSA Affected: 20%.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 12.8 g/dL
+- WBC: 6.2 x 10^3/µL
+- Platelets: 240 x 10^3/µL
+- Chemistry:
+- ALT: 22 U/L
+- AST: 20 U/L
+- Bilirubin: 0.7 mg/dL
+- Creatinine: 0.8 mg/dL
+- Pregnancy Test: Negative.
+
+5. TREATMENT HISTORY
+- Plan: Initiate treatment with Abrocitinib (Cibinqo) 100 mg or 200 mg orally once daily as part of a multi-center observational study (NCT06899204). Monitor for EASI-75 improvement and Peak Pruritus NRS changes at Week 2 and Week 16. Complete PRO questionnaires and maintain regular clinic visits. Follow contraception requirements during the study.

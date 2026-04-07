@@ -1,0 +1,28 @@
+PATIENT PROFILE: DAVID W.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: DAVID W.
+- Age: 55 years
+- Sex: Male
+- Place of Residency: Munich, Germany
+- Employment Status: Active. Supports NYHA Class II, generally active.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Hemodynamic Measurement: Dynamic Left Ventricular Outflow Tract (LVOT) gradient of 60 mmHg at rest.
+- Clinical Classification: NYHA Class II.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Reduced left ventricular volume, aortic stenosis, hypertrophic cardiomyopathy.
+- Performance Status: Able to perform ordinary physical activity, but may be limited by symptoms. NYHA Class II implies slight limitation of physical activity.
+- Cardiac Health: Enlarged left ventricle with asymmetrical septal hypertrophy. Ejection Fraction within normal limits, but with dynamic outflow obstruction.
+
+4. LABORATORY RESULTS
+- Cardiac Biomarkers: Normal troponin and BNP (B-type natriuretic peptide) in stable state.
+- Genetic Testing: May have positive genetic mutation associated with HCM, but not explicitly stated as a qualification criterion for this trial.
+- Renal/Liver Function: Within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blockers or calcium channel blockers for symptom management, but with persistent LVOT gradient and symptoms.
+- Current Plan: Prescribed Mavacamten, a cardiac myosin inhibitor, to reduce hypercontractility and LVOT obstruction.

@@ -1,0 +1,31 @@
+PATIENT PROFILE: SARAH WILSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Sarah Wilson
+- Age: 45 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- History of Lupus Nephritis (currently stable).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Joint problems, skin problems, heart problems.
+- Systemic fatigue and joint pain.
+- Clinically stable renal status.
+- BMI: 26.5 kg/m².
+- Blood pressure: 130/80 mmHg.
+
+4. LABORATORY RESULTS
+- Anti-dsDNA: Positive (Elevated).
+- Complement C3/C4: Low.
+- Proteinuria: Stable at baseline.
+- Creatinine: 0.9 mg/dL.
+
+5. TREATMENT HISTORY
+- Previous: Standard immunosuppressants.
+- Plan: Add Anifrolumab (Saphnelo) to the current regimen to manage high disease activity and prevent further organ damage.

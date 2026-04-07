@@ -1,0 +1,30 @@
+PATIENT PROFILE: NATASHA ROMANOFF
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Natasha Romanoff
+- Age: 30 years
+- Sex: Female
+- Place of Residency: Middle East
+- Race/Ethnicity: Middle Eastern
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia Major.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Chronic Iron Overload.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anemia.
+- Generalized fatigue and pallor.
+- Splenomegaly.
+- Requires regular blood transfusions every 3 weeks to maintain hemoglobin.
+
+4. LABORATORY RESULTS
+- Pre-transfusion Hemoglobin: Consistently < 7.5 g/dL.
+- Serum Ferritin: 2500 ng/mL.
+- Liver Iron Concentration (LIC): Elevated.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Life-long blood transfusions and iron chelation therapy (Deferasirox).
+- Plan: Initiate Luspatercept (Reblozyl) to reduce red blood cell transfusion burden and improve clinical stability.

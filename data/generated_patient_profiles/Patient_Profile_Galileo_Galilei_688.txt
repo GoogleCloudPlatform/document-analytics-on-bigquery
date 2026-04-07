@@ -1,0 +1,30 @@
+PATIENT PROFILE: GALILEO GALILEI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Galileo Galilei
+- Age: 65 years
+- Sex: Male
+- Place of Residency: China
+- Race/Ethnicity: Chinese
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Diabetic Macular Edema (DME).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Type 2 Diabetes Mellitus.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abnormal accumulation of fluid.
+- Central vision loss in the affected eye.
+- Difficulty with precision tasks.
+- Stable glycemic control on oral agents.
+
+4. LABORATORY RESULTS
+- OCT (Macula): Macular thickening and subretinal fluid.
+- HbA1c: 7.2%.
+- Renal function: Normal.
+- Blood pressure: 130/80 mmHg.
+
+5. TREATMENT HISTORY
+- Previous: Observation and systemic diabetic management.
+- Plan: Initiate Faricimab (Vabysmo) intravitreal injections for the management of DME.

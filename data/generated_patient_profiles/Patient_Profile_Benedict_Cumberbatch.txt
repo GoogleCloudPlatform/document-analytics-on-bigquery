@@ -1,0 +1,25 @@
+PATIENT PROFILE: BENEDICT CUMBERBATCH
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BENEDICT CUMBERBATCH
+- Age: 45 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma with Cardiovascular Monitoring
+- Other Relevant History: Active Tezspire user with pre-existing cardiovascular risk factors fitting the PASS safety study cohort.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Severe Asthma with Cardiovascular Monitoring.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Blood eosinophil count 450 cells/µL. Cardiac Markers: Troponin I within normal limits; stable ECG.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Severe Asthma with Cardiovascular Monitoring
+- Current Plan: Prescribed Tezepelumab; requires long-term monitoring for Major Adverse Cardiovascular Events (MACE).

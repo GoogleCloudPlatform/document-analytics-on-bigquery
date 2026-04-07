@@ -1,0 +1,24 @@
+PATIENT PROFILE: VIOLET COOPER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Violet Cooper
+- Age: 27 years
+- Sex: Female
+- Place of Residency: Sydney, NSW, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Small cell carcinoma of lung
+- Other Relevant History: Patient has a history of stable management for their primary condition with no major acute exacerbations in the past 6 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest pain, persistent cough.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology: Hemoglobin, WBC, and platelets within acceptable ranges for clinical observation.
+- Biochemistry: Renal and hepatic function parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Small cell carcinoma of lung.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

@@ -1,0 +1,31 @@
+PATIENT PROFILE: SAMUEL ADAMS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Samuel Adams
+- Age: 34 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Active Proliferative Lupus Nephritis (LN).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Biopsy-proven Class IV Lupus Nephritis.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Lupus nephritis, glomerulonephritis, systemic lupus erythematosus.
+- Lower extremity edema (pitting).
+- Hypertension (145/90 mmHg).
+- Systemic symptoms of SLE (fatigue, joint pain).
+
+4. LABORATORY RESULTS
+- Proteinuria: 2.5 g/day.
+- Serum Creatinine: 1.2 mg/dL.
+- Urine Sediment: Presence of RBC casts.
+- Complement C3: Low.
+- Anti-dsDNA: Positive.
+
+5. TREATMENT HISTORY
+- Previous: Standard induction therapy with Mycophenolate and Corticosteroids.
+- Plan: Initiate Anifrolumab (Saphnelo) as part of a Phase 3 study for renal outcomes in active proliferative LN.

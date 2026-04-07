@@ -1,0 +1,28 @@
+PATIENT PROFILE: VICTOR HUGO
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Victor Hugo
+- Age: 50 years
+- Sex: Male
+- Place of Residency: France
+- Race/Ethnicity: Not specified
+- Occupation: Writer (France)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Primary Progressive Multiple Sclerosis (PPMS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
+- Steady worsening of walking ability over the last two years.
+- Progressive lower limb weakness and spasticity.
+- EDSS: 4.5.
+
+4. LABORATORY RESULTS
+- MRI (Brain/Spine): Multiple T2 hyperintense lesions and spinal cord atrophy consistent with PPMS.
+- Cerebrospinal Fluid (CSF): Positive for oligoclonal bands.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Symptomatic management only.
+- Plan: Initiate Ocrelizumab therapy to slow disease progression in primary progressive multiple sclerosis.

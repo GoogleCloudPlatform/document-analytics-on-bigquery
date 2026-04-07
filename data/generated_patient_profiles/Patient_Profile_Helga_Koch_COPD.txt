@@ -1,0 +1,28 @@
+PATIENT PROFILE: HELGA KOCH
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HELGA KOCH
+- Age: 67 years
+- Sex: Female
+- Place of Residency: Germany
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD)
+- Other Relevant History: Frequent exacerbations.
+- Comorbidities: None significant.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest tightness, shortness of breath, wheezing, chronic cough.
+- Performance Status: CAT score 20.
+- Physical Status: Moderate airflow obstruction.
+
+4. LABORATORY RESULTS
+- Pulmonary Function: FEV1 < 60% predicted.
+- Hematologic Function: Normal.
+- Oxygen Saturation: 94%.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Suboptimal control on standard therapy.
+- Current Plan: Switching to BGF triple therapy.
+- Monitoring: Symptom management and exacerbation tracking.

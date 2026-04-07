@@ -1,0 +1,29 @@
+PATIENT PROFILE: ELENA PETROVA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELENA PETROVA
+- Age: 43 years
+- Sex: Female
+- Place of Residency: Russia
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Cardiac Anatomy: LV wall thickness 17 mm.
+- Disease Status: Symptomatic heart failure.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Reduced left ventricular volume, cardiac muscle disease, right ventricular hypertrophy.
+- Performance Status: NYHA Class II.
+- Cardiac Health: Peak LVOT gradient 55 mmHg.
+
+4. LABORATORY RESULTS
+- Echocardiography: Documented 55 mmHg LVOT gradient.
+- Cardiac Function: Preserved LVEF.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed to respond to beta-blockers.
+- Current Plan: Initiating treatment with Mavacamten.
+- Monitoring: Participation in prospective registry study.

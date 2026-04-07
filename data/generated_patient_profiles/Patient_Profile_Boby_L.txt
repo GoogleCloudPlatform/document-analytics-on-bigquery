@@ -1,0 +1,27 @@
+PATIENT PROFILE: BOBY L.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BOBY L.
+- Age: 6 months
+- Sex: Male
+- Place of Residency: Boston, MA, USA
+- Status: Dependent infant (born prematurely at 30 weeks gestation).
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe Respiratory Syncytial Virus (RSV) infection.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Comorbidity: Chronic lung disease of prematurity.
+- Current Status: Entering his first RSV season.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Respiratory infection.
+- Performance Status: Active infant achieving corrected-age milestones.
+- Cardiac Health: Normal structural heart via neonatal echocardiogram.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal (Hemoglobin: 11.2 g/dL, Platelets: 300 x 10^9/L).
+- Renal/Liver Function: Within normal limits for age.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Received neonatal intensive care and respiratory support; successfully weaned.
+- Current Plan: Scheduled to initiate passive immunization with Palivizumab prophylaxis to prevent severe lower respiratory tract infection.

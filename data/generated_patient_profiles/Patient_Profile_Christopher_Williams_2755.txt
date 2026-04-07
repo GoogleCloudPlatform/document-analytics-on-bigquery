@@ -1,0 +1,23 @@
+PATIENT PROFILE: CHRISTOPHER WILLIAMS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Christopher Williams
+- Age: 71 years
+- Sex: Male
+- Place of Residency: Lyon, France
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Non-Small Cell Lung Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently enrolled and receiving treatment in a separate interventional phase 2 clinical trial.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Wheezing, chest pain, unexplained weight loss.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Non-Small Cell Lung Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

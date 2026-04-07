@@ -1,0 +1,31 @@
+PATIENT PROFILE: MARY JANE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Mary Jane
+- Age: 41 years
+- Sex: Female
+- Place of Residency: UK
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Persistent Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Fixed airflow obstruction.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Significant exertional dyspnea.
+- CAT (Asthma control related) score: 26.
+- Persistent cough.
+- BMI: 24.8 kg/m².
+
+4. LABORATORY RESULTS
+- FEV1: 62% of predicted (post-bronchodilator).
+- Blood Eosinophils: 380 cells/µL.
+- Total IgE: 250 IU/mL.
+- Hematology: Stable.
+
+5. TREATMENT HISTORY
+- Previous: Optimized inhaled maintenance therapy and oral steroids.
+- Plan: Initiate Tezepelumab (Tezspire) to improve overall lung function and quality of life.

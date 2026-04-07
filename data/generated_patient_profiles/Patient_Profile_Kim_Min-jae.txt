@@ -1,0 +1,25 @@
+PATIENT PROFILE: KIM MIN-JAE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: KIM MIN-JAE
+- Age: 64 years
+- Sex: Male
+- Place of Residency: South Korea
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: EGFR-Mutated NSCLC (Korea)
+- Other Relevant History: Korean patient with EGFR+ metastatic NSCLC initiating Dacomitinib in a post-marketing safety study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Coughing up blood, shortness of breath.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for EGFR-Mutated NSCLC (Korea).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Starting first-line treatment with Dacomitinib (Vizimpro).

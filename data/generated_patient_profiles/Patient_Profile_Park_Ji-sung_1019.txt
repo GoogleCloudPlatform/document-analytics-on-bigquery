@@ -1,0 +1,43 @@
+PATIENT PROFILE: PARK JI-SUNG
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Park Ji-sung
+- Age: 40
+- Sex: Male
+- Place of Residency: Paris, France
+- Race: Asian
+- Ethnicity: Korean
+- Occupation: Professional Coach
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Active Ankylosing Spondylitis (AS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Diagnosed according to modified New York criteria. Responded inadequately to conventional therapy (NSAIDs: Celecoxib and Naproxen).
+- Requirement: Initiating Xeljanz XR (Tofacitinib) 11 mg once daily.
+- Comorbidities: Well-controlled hypertension. No history of active tuberculosis or serious infections. No severe hepatic impairment.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Ankylosis, sacroiliac joint pain.
+- Performance Status: Good.
+- Physical Examination: Limited spinal mobility (Schober's test < 4 cm). No peripheral joint swelling. Stable vital signs.
+- BASDAI Score: 5.2.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 14.5 g/dL (> 9.0 requirement)
+- ANC: 4.2 x 10^3/mm3 (> 1.0 requirement)
+- ALC: 1.8 x 10^3/mm3 (> 0.5 requirement)
+- Platelets: 230 x 10^3/mm3
+- Chemistry:
+- ESR: 35 mm/hr (Elevated)
+- CRP: 12 mg/L (Elevated)
+- ALT: 28 U/L
+- AST: 25 U/L
+- Creatinine: 1.0 mg/dL
+- Infectious Disease:
+- QuantiFERON-TB: Negative
+- HBsAg: Negative
+- HIV: Negative
+
+5. TREATMENT HISTORY
+- Plan: Initiate treatment with Xeljanz XR 11 mg orally once daily as part of a post-marketing surveillance study in Korea (NCT04876781). Participate in regular assessments for 6 months. Monitor for treatment-emergent adverse events and efficacy endpoints including DAS28 change, EULAR response, and ACR20 response. Provide signed informed consent.

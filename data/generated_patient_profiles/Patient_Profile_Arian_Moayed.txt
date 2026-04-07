@@ -1,0 +1,25 @@
+PATIENT PROFILE: ARIAN MOAYED
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ARIAN MOAYED
+- Age: 45 years
+- Sex: Male
+- Place of Residency: United States
+- Employment Status: Medical Leave
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: gMG Ravulizumab Outcomes
+- Other Relevant History: Real-world gMG patient initiating Ravulizumab to evaluate functional status.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Double vision (diplopia), drooping eyelids (ptosis), muscle weakness, difficulty swallowing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for gMG Ravulizumab Outcomes.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for gMG Ravulizumab Outcomes
+- Current Plan: MG-ADL score of 11; anti-AChR+; starting Ravulizumab.

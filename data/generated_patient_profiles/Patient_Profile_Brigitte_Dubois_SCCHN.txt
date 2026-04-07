@@ -1,0 +1,29 @@
+PATIENT PROFILE: BRIGITTE DUBOIS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BRIGITTE DUBOIS
+- Age: 63 years
+- Sex: Female
+- Place of Residency: France
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Recurrent Head and Neck Squamous Cell Carcinoma (SCCHN)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Subtype: Laryngeal cancer.
+- Disease Status: Recurrent disease following primary therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 1.
+- Physical Status: Progressed on or after platinum-based therapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Pathology: Confirmed SCCHN.
+- Organ Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Received platinum-based chemotherapy.
+- Current Plan: Initiating Nivolumab as a second-line therapy.
+- Monitoring: Clinical assessment of response in recurrent SCCHN.

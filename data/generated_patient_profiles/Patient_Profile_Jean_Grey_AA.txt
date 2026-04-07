@@ -1,0 +1,29 @@
+PATIENT PROFILE: JEAN GREY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JEAN GREY
+- Age: 30 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Alopecia Areata
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Severity: > 50% scalp hair loss.
+- Involvement: Loss of eyebrows and eyelashes.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Absence of hair.
+- Performance Status: ECOG 0.
+- Physical Status: Psychologically impacted by hair loss.
+
+4. LABORATORY RESULTS
+- SALT Score: > 50.
+- Thyroid Function: Normal.
+- Infectious Disease: Negative screen for chronic infections.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failing topical and intralesional corticosteroids.
+- Current Plan: Initiating treatment with Ritlecitinib for hair regrowth.
+- Monitoring: Real-world population study for JAK inhibitor utilization.

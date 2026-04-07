@@ -1,0 +1,23 @@
+PATIENT PROFILE: WYATT LOPEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Wyatt Lopez
+- Age: 97 years
+- Sex: Male
+- Place of Residency: Mexico City, Mexico
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Triple Negative Breast Neoplasms
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient presents with significant frailty and multiple age-related comorbidities.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Tissue growth, metastasis, invasion, anaplasia.
+- Performance Status: ECOG 3 (Capable of only limited self-care; confined to bed or chair more than 50% of waking hours).
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Triple Negative Breast Neoplasms.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

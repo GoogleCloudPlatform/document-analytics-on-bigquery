@@ -1,0 +1,29 @@
+PATIENT PROFILE: LUCIANA COSTA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LUCIANA COSTA
+- Age: 44 years
+- Sex: Female
+- Place of Residency: Brazil
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Resectable Stage III Melanoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Histology: Histologically confirmed melanoma.
+- Nodal Status: Clinically palpable lymph nodes.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Eye lesion, pigmented lesion, change in mole, skin lesion.
+- Performance Status: ECOG 0.
+- Physical Status: Scheduled for definitive surgical resection.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- Pathology: Biopsy-confirmed melanoma.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for advanced disease.
+- Current Plan: Initiating neoadjuvant therapy with Nivolumab and Relatlimab combination.
+- Monitoring: Evaluation of pathologic response post-surgery.

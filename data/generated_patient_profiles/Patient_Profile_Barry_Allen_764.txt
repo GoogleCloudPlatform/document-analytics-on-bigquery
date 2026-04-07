@@ -1,0 +1,25 @@
+PATIENT PROFILE: BARRY ALLEN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BARRY ALLEN
+- Age: 32 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Myasthenia Gravis with Bulbar Involvement
+- Other Relevant History: Symptomatic gMG patient evaluating the effectiveness of C5 inhibition on functional status.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Diplopia, proximal limb muscle weakness.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard care as per clinical guidelines
+- Current Plan: MG-ADL score of 12; anti-AChR positive; starting Ravulizumab.

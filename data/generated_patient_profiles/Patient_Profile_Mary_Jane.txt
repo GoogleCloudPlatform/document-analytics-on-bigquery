@@ -1,0 +1,25 @@
+PATIENT PROFILE: MARY JANE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARY JANE
+- Age: 59 years
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Metastatic NSCLC patient with PD-L1 < 1% participating in a long-term outcomes and safety registry.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Tumor nodules, pericardial effusion, pleural effusion.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Metastatic Non-Small Cell Lung Cancer (NSCLC).
+
+4. LABORATORY RESULTS
+- Tumor Markers: PD-L1 expression < 1% (TPS 0%) or as per protocol. Molecular Testing: Wild type for EGFR, ALK, and ROS1 mutations (unless specified otherwise).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Current Plan: Initiating first-line dual immunotherapy to assess long-term safety and treatment durability.

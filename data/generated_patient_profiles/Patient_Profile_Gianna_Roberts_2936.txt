@@ -1,0 +1,23 @@
+PATIENT PROFILE: GIANNA ROBERTS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Gianna Roberts
+- Age: 12 years
+- Sex: Female
+- Place of Residency: Sydney, NSW, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant tumor of exocrine pancreas
+- Other Relevant History: Patient has a history of stable management for their primary condition. Pediatric onset noted; patient remains under guardian supervision.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: New-onset diabetes, loss of appetite.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant tumor of exocrine pancreas.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

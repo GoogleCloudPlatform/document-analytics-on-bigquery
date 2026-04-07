@@ -1,0 +1,24 @@
+PATIENT PROFILE: LI Z.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LI Z.
+- Age: 66 years
+- Sex: Male
+- Place of Residency: Guangzhou, China
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk MDS with Anemia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Goal: Transfusion reduction.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Palpitations of the heart, pallor of the skin and mucous membranes, fatigability.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Hemoglobin: Low.
+- Bone Marrow: Confirms MDS.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Supportive care.
+- Current Plan: Starting Luspatercept.

@@ -1,0 +1,28 @@
+PATIENT PROFILE: HANS G.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HANS G.
+- Age: 34 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+- Employment Status: Full-time employment.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease History: Diagnosed 2 years ago.
+- Relapse History: Experienced two confirmed relapses in the past 12 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
+- Performance Status: EDSS score of 2.0. Minimal disability, does not interfere with daily activities.
+- MRI Findings: Brain MRI shows multiple T2 lesions consistent with MS, with one new gadolinium-enhancing lesion on the most recent scan.
+
+4. LABORATORY RESULTS
+- Cerebrospinal Fluid (CSF): Oligoclonal bands present.
+- Vitamin D Level: Low, supplementation initiated.
+- Blood Work: No significant abnormalities.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Was treated with interferon-beta for 18 months, but experienced breakthrough disease activity (relapses and new MRI lesions).
+- Current Plan: Recently switched to Ozanimod (Zeposia®), an oral S1P receptor modulator, for better disease control.

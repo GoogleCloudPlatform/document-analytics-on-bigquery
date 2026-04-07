@@ -1,0 +1,26 @@
+PATIENT PROFILE: KATHERINE P.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: KATHERINE P.
+- Age: 42 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Menopausal Status: Pre-menopausal.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hormone Receptor-Positive (HR+), HER2-Negative (HER2-) Early Breast Cancer (EBC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Risk Category: High risk of recurrence due to lymph node involvement (Node-positive).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Skin dimpling, nipple discharge, breast pain, breast lump.
+- Post-Surgical Status: Recently completed definitive surgery (e.g., lumpectomy or mastectomy).
+- Performance Status: ECOG 0 (Fully active, no performance restrictions).
+
+4. LABORATORY RESULTS
+- Pathology: Confirmed HR+/HER2- invasive ductal carcinoma.
+- Nodal Status: Positive axillary lymph nodes on surgical pathology.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Has completed surgery. May have also received (neo)adjuvant chemotherapy.
+- Current Plan: Starting adjuvant endocrine therapy with an Aromatase Inhibitor in combination with Ribociclib (Kisqali), a CDK4/6 inhibitor, to reduce the risk of recurrence.

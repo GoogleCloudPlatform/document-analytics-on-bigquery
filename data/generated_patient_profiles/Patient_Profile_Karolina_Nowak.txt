@@ -1,0 +1,29 @@
+PATIENT PROFILE: KAROLINA NOWAK
+
+1. DEMOGRAPHIC INFORMATION
+- Name: KAROLINA NOWAK
+- Age: 40 years
+- Sex: Female
+- Place of Residency: Warsaw, Poland
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Symptoms: Recurrent hemoglobinuria and abdominal pain.
+- Clone Size: Confirmed via flow cytometry.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dark-colored urine (hemoglobinuria), fatigue, abdominal pain.
+- Performance Status: ECOG 0.
+- Physical Status: Newly diagnosed; fit for complement inhibitor therapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Hemoglobin 10.2 g/dL.
+- Hemolysis Markers: Elevated LDH levels.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Newly diagnosed.
+- Current Plan: Initiating routine clinical treatment with Ravulizumab within the National Drug Program (NDP).
+- Monitoring: Regular LDH monitoring for baseline stabilization and response.

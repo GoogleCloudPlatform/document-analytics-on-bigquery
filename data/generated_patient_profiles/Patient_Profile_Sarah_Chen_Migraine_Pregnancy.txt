@@ -1,0 +1,32 @@
+PATIENT PROFILE: SARAH CHEN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SARAH CHEN
+- Age: 32 years
+- Sex: Female
+- Place of Residency: USA
+- Pregnancy Status: Currently pregnant (Approx. 20 weeks gestation).
+- Employment Status: Active (Supports health status assessment)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Migraine (Documented history).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Diagnosis Duration: Confirmed diagnosis prior to her estimated last menstrual period (LMP).
+- Clinical Status: Stable migraine management prior to pregnancy confirmation.
+- Comorbidities: No evidence of other significant systemic or inflammatory disorders.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Throbbing or pulsating pain, nausea, light sensitivity.
+- Functional Status: Stable during current pregnancy.
+- Performance Status: Ambulatory; able to manage activities of daily living.
+- Healthcare Enrollment: Continuous enrollment in a health care plan with medical and pharmacy benefits for at least 6 months before her estimated LMP and through the postpartum period.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Within normal limits for age and pregnancy status.
+- Renal Function: Normal (Creatinine and eGFR within acceptable ranges).
+- Liver Function: Normal (AST/ALT within acceptable ranges).
+- Pregnancy Outcome: Currently pending; monitoring for obstetric and infant health as part of a safety registry.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Documented history of pharmacy dispensing for Rimegepant within the 30-day window before her estimated LMP and continued through the early stages of her pregnancy. No prior exposure to Ditans, other CGRP receptor antagonists (Ubrogepant, Atogepant, Zavegepant), or CGRP monoclonal antibodies (Erenumab, Fremanezumab, etc.) during the specified exclusion periods.
+- Current Plan: Participating in a retrospective safety cohort to monitor pregnancy outcomes following Rimegepant exposure. Pregnancy outcome is being tracked in medical records. Decision to use Rimegepant was made independently of study participation. Dosing and usage documented in pharmacy records.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: MATEO SILVA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MATEO SILVA
+- Age: 34 years
+- Sex: Male
+- Place of Residency: fog that prevents him from working
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Systemic Lupus Erythematosus (SLE)
+- Other Relevant History: Real-world patient with SLE transitioning to Anifrolumab to assess improvements in patient-reported outcomes.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Lung problems, skin problems.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Systemic Lupus Erythematosus (SLE).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-dsDNA antibodies; low C3 and C4 complement levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Systemic Lupus Erythematosus (SLE)
+- Current Plan: Quality of life scores are significantly below average; anti-dsDNA titers are highly elevated; starting biologic therapy.

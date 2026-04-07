@@ -1,0 +1,43 @@
+PATIENT PROFILE: ZHANG WEI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Zhang Wei
+- Age: 58
+- Sex: Male
+- Place of Residency: London, UK
+- Race: Asian
+- Ethnicity: Chinese
+- Occupation: Engineer
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Complicated Intra-abdominal Infection (cIAI).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Hospitalized. Infected with multi-drug resistant Gram-negative bacteria (Carbapenem-resistant Enterobacteriaceae).
+- Requirement: Initiated at least one dose of Ceftazidime-Avibactam during hospitalization.
+- Comorbidities: None. No enrollment in other clinical trials.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Malaise, abdominal tenderness, fever.
+- Status: Hospitalized, acutely ill.
+- Height: 172 cm
+- Weight: 75 kg
+- Vital Signs:
+- BP: 110/70 mmHg
+- HR: 95 bpm
+- Physical Examination: Diffuse abdominal tenderness, rebound tenderness present. No signs of pregnancy (N/A).
+
+4. LABORATORY RESULTS
+- Hematology:
+- WBC: 16.8 x 10^3/µL
+- Neutrophils: 88%
+- Hemoglobin: 12.5 g/dL
+- Chemistry:
+- ALT: 35 U/L
+- AST: 32 U/L
+- Bilirubin: 0.9 mg/dL
+- Creatinine: 1.1 mg/dL
+- Microbiology:
+- Peritoneal Fluid Culture: Positive for CRE (Klebsiella pneumoniae).
+
+5. TREATMENT HISTORY
+- Plan: Initiate treatment with Ceftazidime-Avibactam (CAZ-AVI) IV as part of a real-world usage study in China (NCT05487586). Monitor for clinical success at 7, 14, and 21 days post-initiation. Resolution of all signs and symptoms of infection. Follow-up for 60 days after discharge. Provide signed informed consent.

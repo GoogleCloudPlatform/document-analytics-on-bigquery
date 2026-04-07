@@ -1,0 +1,25 @@
+PATIENT PROFILE: ISAAC ROA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ISAAC ROA
+- Age: 15 years
+- Sex: Male
+- Place of Residency: the Netherlands with advanced melanoma
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Pediatric Melanoma
+- Other Relevant History: Pediatric patient with unresectable melanoma treated with Ipilimumab.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Eye lesion, skin lesion, pigmented lesion, change in mole.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Pediatric Melanoma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Pediatric Melanoma
+- Current Plan: treated with Ipilimumab monotherapy.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: VALENTINA TAYLOR
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Valentina Taylor
+- Age: 64 years
+- Sex: Female
+- Place of Residency: Hong Kong
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Leukemia, Myelocytic, Acute
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Symptoms.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Leukemia, Myelocytic, Acute.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

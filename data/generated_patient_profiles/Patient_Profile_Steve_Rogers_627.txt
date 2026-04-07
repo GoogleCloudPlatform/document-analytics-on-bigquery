@@ -1,0 +1,31 @@
+PATIENT PROFILE: STEVE ROGERS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Steve Rogers
+- Age: 68 years
+- Sex: Male
+- Place of Residency: China
+- Race/Ethnicity: Chinese
+- Occupation: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hospital-Acquired Pneumonia (HAP).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- History of recent major abdominal surgery.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Infection, inflammation.
+- New onset of high-grade fever (39.0°C).
+- Productive cough with purulent sputum.
+- Increasing oxygen requirements.
+- Physical Status: Post-operative, currently stable but acutely ill.
+
+4. LABORATORY RESULTS
+- Chest X-ray: New pulmonary infiltrates.
+- Sputum Culture: Positive for carbapenem-resistant Klebsiella pneumoniae.
+- WBC: 16.5 x 10^9/L.
+- Creatinine Clearance: 65 mL/min.
+
+5. TREATMENT HISTORY
+- Previous: Prophylactic post-operative antibiotics.
+- Plan: Initiate Ceftazidime-Avibactam (Zavicefta) therapy for the treatment of serious hospital-acquired pneumonia.

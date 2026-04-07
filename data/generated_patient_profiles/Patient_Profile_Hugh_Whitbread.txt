@@ -1,0 +1,43 @@
+PATIENT PROFILE: HUGH WHITBREAD
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Hugh Whitbread
+- Age: 45
+- Sex: Male
+- Place of Residency: Sydney, Australia
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Civil Servant
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Healthy Volunteer. In good health as determined by medical history, physical exam, and ECG. No history of clinically significant endocrine, gastrointestinal, cardiovascular, hematological, hepatic, immunological, renal, respiratory, or neurological diseases. No history of cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Overall Status: Healthy.
+- Height: 175 cm
+- Weight: 78 kg
+- BMI: 25.5 kg/m2 (Within 18.0 to 32.0 range)
+- Vital Signs:
+- BP: 122/76 mmHg
+- HR: 66 bpm
+- Physical Examination: Normal. No clinically significant findings.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 14.8 g/dL
+- WBC: 6.2 x 10^3/µL
+- Platelets: 230 x 10^3/µL
+- Chemistry:
+- ALT: 20 U/L
+- AST: 18 U/L
+- Total Bilirubin: 0.7 mg/dL
+- Creatinine: 0.9 mg/dL
+- Infectious Disease:
+- HBsAg: Negative
+- HCV Ab: Negative
+- HIV: Negative
+
+5. TREATMENT HISTORY
+- Plan: Participate in a Phase 1 double-blind, placebo-controlled safety and PK study (NCT07063238). Receive a supratherapeutic dose of MK-8527 orally. Undergo intensive cardiac monitoring via 12-lead ECGs to assess the effect on the QTc interval. Monitor for adverse events and laboratory changes.

@@ -1,0 +1,30 @@
+PATIENT PROFILE: CHARLES XAVIER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Charles Xavier
+- Age: 74 years
+- Sex: Male
+- Place of Residency: London, UK
+- Race/Ethnicity: Not specified
+- Occupation: Professor
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Refractory Anemia with Ring Sideroblasts.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
+- Chronic fatigue and exertion-based dyspnea.
+- Transfusion-dependent status.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Bone Marrow: Confirmed MDS with > 15% ring sideroblasts.
+- Hemoglobin: 8.1 g/dL.
+- Serum Erythropoietin (sEPO): 320 U/L.
+- IPSS-R Risk: Low.
+
+5. TREATMENT HISTORY
+- Previous: Failed response to Erythropoiesis-stimulating agents (ESAs).
+- Plan: Initiate Luspatercept (Reblozyl) for the treatment of anemia and reduction of transfusion burden.

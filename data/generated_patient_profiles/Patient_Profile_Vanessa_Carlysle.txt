@@ -1,0 +1,25 @@
+PATIENT PROFILE: VANESSA CARLYSLE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: VANESSA CARLYSLE
+- Age: 35 years
+- Sex: Female
+- Place of Residency: New York, USA
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Solid Tumor (KRAS G12C Mutation)
+- Other Relevant History: Patient with a KRAS G12C mutated metastatic cancer qualifying for the adagrasib expanded access program.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Advanced Solid Tumor (KRAS G12C Mutation).
+
+4. LABORATORY RESULTS
+- Molecular Testing: Confirmed KRAS G12C mutation via NGS.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Advanced Solid Tumor (KRAS G12C Mutation)
+- Current Plan: Exhausted standard chemotherapy options; seeking access to a specific KRAS inhibitor.

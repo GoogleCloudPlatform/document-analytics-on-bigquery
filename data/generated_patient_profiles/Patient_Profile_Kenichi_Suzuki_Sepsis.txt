@@ -1,0 +1,29 @@
+PATIENT PROFILE: KENICHI SUZUKI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: KENICHI SUZUKI
+- Age: 74 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Sepsis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Comorbidities: Kidney dysfunction (decreased creatinine clearance).
+- Infection Source: Severe bacterial infection.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Systemic inflammatory response syndrome, organ dysfunction, hypotension.
+- Performance Status: Bedbound (Hospitalized).
+- Physical Status: Critically ill but stable for antibiotic therapy.
+
+4. LABORATORY RESULTS
+- Renal Function: Decreased creatinine clearance.
+- Infectious Markers: Elevated WBC and CRP.
+- Cultures: Positive for Gram-negative bacteria.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Initial stabilization in the ICU.
+- Current Plan: Initiating carefully dosed Zavicefta (Ceftazidime-Avibactam).
+- Monitoring: Clinical study of antibiotic safety in renal impairment.

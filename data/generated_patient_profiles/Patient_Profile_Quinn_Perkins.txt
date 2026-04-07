@@ -1,0 +1,25 @@
+PATIENT PROFILE: QUINN PERKINS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: QUINN PERKINS
+- Age: 35 years
+- Sex: Female
+- Place of Residency: Paris, France
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD)
+- Other Relevant History: New user of BGF triple therapy in a routine care setting.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest tightness, shortness of breath.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Chronic Obstructive Pulmonary Disease (COPD).
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Chronic Obstructive Pulmonary Disease (COPD)
+- Current Plan: CAT score of 22; moderate COPD; switching to BGF triple therapy.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: TONY STARK
+
+1. DEMOGRAPHIC INFORMATION
+- Name: TONY STARK
+- Age: 52 years
+- Sex: Male
+- Place of Residency: Paris, France
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma with Cardiovascular Monitoring
+- Other Relevant History: Active user of Tezepelumab in a routine setting with pre-existing cardiovascular risk factors (hypertension).
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Blood eosinophil count 480 cells/µL. Cardiac Markers: Troponin I within normal limits; baseline ECG shows stable sinus rhythm.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard care as per clinical guidelines
+- Current Plan: Currently prescribed Tezepelumab; enrolled in safety monitoring for Major Adverse Cardiovascular Events (MACE).

@@ -1,0 +1,23 @@
+PATIENT PROFILE: GIANNA CAMPBELL
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Gianna Campbell
+- Age: 19 years
+- Sex: Female
+- Place of Residency: Barcelona, Spain
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Small cell carcinoma of lung
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hoarseness, chest pain, recurrent pneumonia or bronchitis, swelling in the face and neck.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Significantly elevated liver enzymes (AST: 350 U/L, ALT: 410 U/L), exceeding 5x the upper limit of normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Small cell carcinoma of lung.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

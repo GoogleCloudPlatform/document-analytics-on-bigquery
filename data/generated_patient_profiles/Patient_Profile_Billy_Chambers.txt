@@ -1,0 +1,25 @@
+PATIENT PROFILE: BILLY CHAMBERS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BILLY CHAMBERS
+- Age: 55 years
+- Sex: Male
+- Place of Residency: France
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Head and Neck Cancer
+- Other Relevant History: Patient with metastatic head and neck cancer progressing on platinum therapy.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Head and Neck Cancer.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Head and Neck Cancer
+- Current Plan: Initiating Nivolumab monotherapy in France.

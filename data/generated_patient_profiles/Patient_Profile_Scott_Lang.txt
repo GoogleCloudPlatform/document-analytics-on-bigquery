@@ -1,0 +1,25 @@
+PATIENT PROFILE: SCOTT LANG
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SCOTT LANG
+- Age: 52 years
+- Sex: Male
+- Place of Residency: Sydney, Australia
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unresectable KRAS G12C Tumor
+- Other Relevant History: Patient with a KRAS G12C mutated advanced solid tumor eligible for targeted therapy access.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Unresectable KRAS G12C Tumor.
+
+4. LABORATORY RESULTS
+- Molecular Testing: Confirmed KRAS G12C mutation via NGS.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Unresectable KRAS G12C Tumor
+- Current Plan: Failed prior chemotherapy; starting Adagrasib via expanded access.

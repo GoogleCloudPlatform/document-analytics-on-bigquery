@@ -1,0 +1,23 @@
+PATIENT PROFILE: HANS S.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HANS S.
+- Age: 66 years
+- Sex: Male
+- Place of Residency: Hamburg, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Exacerbation History: 2+ per year.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Wheezing, shortness of breath, chronic cough, chest tightness.
+- Lung Function: Reduced FEV1.
+
+4. LABORATORY RESULTS
+- Spirometry: Confirms obstruction.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Dual bronchodilator.
+- Current Plan: Starting BGF triple therapy.

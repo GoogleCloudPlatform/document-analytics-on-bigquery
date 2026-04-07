@@ -1,0 +1,25 @@
+PATIENT PROFILE: MARTIN STEIN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARTIN STEIN
+- Age: 68 years
+- Sex: Male
+- Place of Residency: the US
+- Employment Status: Medical Leave
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Adjuvant NSCLC
+- Other Relevant History: US patient with resected NSCLC receiving adjuvant Nivolumab in a real-world effectiveness cohort.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest pain, persistent cough.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Adjuvant NSCLC.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Starting adjuvant Nivolumab after finishing standard chemotherapy.

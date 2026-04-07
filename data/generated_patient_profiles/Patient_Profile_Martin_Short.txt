@@ -1,0 +1,25 @@
+PATIENT PROFILE: MARTIN SHORT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARTIN SHORT
+- Age: 75 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+- Employment Status: Medical Leave
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate COPD Routine Care
+- Other Relevant History: Routine care patient transitioning to triple therapy for symptomatic COPD management.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest tightness, chronic cough, wheezing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Moderate COPD Routine Care.
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Moderate COPD Routine Care
+- Current Plan: CAT score of 20; switching to BGF fixed-dose combination therapy.

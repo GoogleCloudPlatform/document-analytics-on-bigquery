@@ -1,0 +1,29 @@
+PATIENT PROFILE: CARLOS ROSSI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CARLOS ROSSI
+- Age: 9 years
+- Sex: Male
+- Place of Residency: Bogotá, Colombia
+- School Status: Attending primary school
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Atopic Dermatitis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Onset: Infancy (diagnosed at 1 year of age)
+- Affected Areas: Flexural areas (elbows, knees), face, and neck, with significant lichenification.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Inflammation of the skin.
+- Performance Status: Fully active and age-appropriate, but with significant impact on quality of life due to itching and skin discomfort.
+- Comorbidities: Allergic rhinitis.
+
+4. LABORATORY RESULTS
+- Eosinophil Count: Elevated (650 cells/µL)
+- IgE Levels: Significantly elevated (1200 IU/mL)
+- Complete Blood Count (CBC): Within normal limits
+- Comprehensive Metabolic Panel (CMP): Within normal limits
+
+5. TREATMENT HISTORY
+- Prior Therapy: Extensive use of high-potency topical corticosteroids and calcineurin inhibitors with limited and unsustained efficacy. Multiple courses of oral antihistamines for symptomatic relief of pruritus.
+- Current Plan: Scheduled to initiate treatment with Dupilumab.

@@ -1,0 +1,32 @@
+PATIENT PROFILE: THOMAS MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Thomas Miller
+- Age: 58 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Eosinophilic Asthma (15-year history).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Controlled Hypertension.
+- Increased risk for Major Adverse Cardiovascular Events (MACE).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Uncontrolled asthma symptoms despite optimized therapy.
+- Frequent wheezing and shortness of breath.
+- Blood pressure: 138/88 mmHg.
+- BMI: 27.0 kg/m².
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 420 cells/µL.
+- FEV1: 70% of predicted.
+- IgE levels: Elevated.
+- ECG: Normal sinus rhythm.
+
+5. TREATMENT HISTORY
+- Previous: High-intensity ICS/LABA and antihypertensives.
+- Plan: Initiate add-on therapy with Tezepelumab (Tezspire) for severe asthma with long-term safety monitoring for cardiovascular events.

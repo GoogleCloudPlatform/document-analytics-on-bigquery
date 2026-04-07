@@ -1,0 +1,31 @@
+PATIENT PROFILE: ERNEST SHACKLETON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ernest Shackleton
+- Age: 45 years
+- Sex: Male
+- Place of Residency: Toronto, Canada
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obesity.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Hypertension.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Excess body fat.
+- BMI: 32.5 kg/m².
+- Weight: 105 kg.
+- Clinically stable hypertension managed with medication.
+- No history of type 2 diabetes.
+
+4. LABORATORY RESULTS
+- HbA1c: 5.6%.
+- Fasting Glucose: 92 mg/dL.
+- Blood Pressure: 138/88 mmHg.
+- Hepatic and Renal Function: Within normal limits.
+
+5. TREATMENT HISTORY
+- Previous: Lifestyle interventions and antihypertensive therapy.
+- Plan: Initiate combination therapy with RO7204239 and Tirzepatide to evaluate pharmacokinetics and safety for weight management.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: ANTON L.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ANTON L.
+- Age: 70 years
+- Sex: Male
+- Place of Residency: Vienna, Austria
+- Smoking History: Former smoker.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Exacerbation History: History of multiple exacerbations.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough, chest tightness, wheezing, shortness of breath.
+- Lung Function: Reduced FEV1.
+
+4. LABORATORY RESULTS
+- Spirometry: Confirms airflow obstruction.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Was on dual bronchodilator therapy.
+- Current Plan: On triple therapy with Budesonide/Glycopyrronium/Formoterol (BGF).

@@ -1,0 +1,31 @@
+PATIENT PROFILE: HARRY POTTER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Harry Potter
+- Age: 45 years
+- Sex: Male
+- Place of Residency: UK
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC) of the bladder.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Post-surgical resection status.
+- High risk for recurrence.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Back pain, frequent urination, painful urination.
+- Clinically stable following radical resection.
+- No current symptoms of metastatic disease.
+- ECOG Performance Status: 0.
+
+4. LABORATORY RESULTS
+- Pathology: Invasive urothelial carcinoma with pT3 disease.
+- PD-L1 expression: Positive.
+- Creatinine: 0.9 mg/dL.
+- Liver Enzymes: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Radical cystectomy.
+- Plan: Initiate adjuvant Nivolumab (Opdivo) therapy to reduce the risk of disease recurrence.

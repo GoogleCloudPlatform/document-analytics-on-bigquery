@@ -1,0 +1,31 @@
+PATIENT PROFILE: ZHANG WEI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Zhang Wei
+- Age: 45 years
+- Sex: Female
+- Place of Residency: China
+- Race/Ethnicity: Chinese
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Early-Stage HR+/HER2- Breast Cancer.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- PIK3CA-mutant disease.
+- Post-surgical status (lumpectomy).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Breast lump, skin dimpling, nipple discharge.
+- Currently asymptomatic post-lumpectomy.
+- High risk of recurrence based on genomic score.
+- ECOG Performance Status: 0.
+
+4. LABORATORY RESULTS
+- Genomic Profiling: Confirmed PIK3CA mutation.
+- IHC: HR positive, HER2 negative.
+- Oncotype DX Score: High risk.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Lumpectomy and initial staging.
+- Plan: Initiate adjuvant therapy with Inavolisib in combination with endocrine therapy.

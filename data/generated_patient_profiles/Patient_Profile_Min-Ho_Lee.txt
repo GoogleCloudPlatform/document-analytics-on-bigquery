@@ -1,0 +1,30 @@
+PATIENT PROFILE: MIN-HO LEE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Min-Ho Lee
+- Age: 60 years
+- Sex: Male
+- Place of Residency: Seoul, South Korea
+- Race/Ethnicity: Korean
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: ALK-Positive Advanced Non-Small Cell Lung Cancer (NSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Stage IV adenocarcinoma.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chest pain, shortness of breath.
+- Mild cough.
+- ECOG Performance Status: 1.
+- Smoking status: Never-smoker.
+
+4. LABORATORY RESULTS
+- Pathology: Adenocarcinoma of the lung.
+- ALK Testing: Positive for ALK gene rearrangement (confirmed via FISH).
+- EGFR: Negative.
+- Imaging: Primary tumor with nodal involvement.
+
+5. TREATMENT HISTORY
+- Previous: Treatment naïve for advanced disease.
+- Plan: Initiate first-line targeted therapy with Alectinib for the management of ALK-positive advanced NSCLC.

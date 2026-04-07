@@ -1,0 +1,31 @@
+PATIENT PROFILE: PETER UGARTE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Peter Ugarte
+- Age: 44 years
+- Sex: Male
+- Place of Residency: London, UK
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- NYHA Functional Class II.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Left ventricular hypertrophy, aortic stenosis.
+- Dyspnea on exertion.
+- Occasional chest tightness during moderate physical activity.
+- Normal blood pressure.
+- Pulse: 72 bpm.
+
+4. LABORATORY RESULTS
+- Peak resting LVOT gradient: 55 mmHg.
+- Echocardiogram: Confirmed septal hypertrophy (IVS: 18 mm).
+- LVEF: 62%.
+- NT-proBNP: Mildly elevated.
+
+5. TREATMENT HISTORY
+- Previous: Beta-blocker monotherapy.
+- Plan: Initiate Mavacamten (Camzyos) for reduction of LVOT gradient and improvement of NYHA functional symptoms.

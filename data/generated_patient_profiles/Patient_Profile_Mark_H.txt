@@ -1,0 +1,23 @@
+PATIENT PROFILE: MARK H.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARK H.
+- Age: 66 years
+- Sex: Male
+- Place of Residency: Sydney, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unresectable Stage IV Melanoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Database: His de-identified health records are part of a large oncology database.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pigmented lesion, skin lesion, mucous membrane lesion, eye lesion.
+- Disease Status: At the time of treatment initiation, he had metastatic disease.
+- Performance Status: Good performance status at the start of therapy.
+
+4. LABORATORY RESULTS
+- This is a database entry, so specific lab results are not provided in the summary.
+
+5. TREATMENT HISTORY
+- First-Line Therapy: Was treated with the combination of Nivolumab and Relatlimab for his advanced melanoma.

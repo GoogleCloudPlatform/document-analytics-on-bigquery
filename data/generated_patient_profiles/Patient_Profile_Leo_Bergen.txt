@@ -1,0 +1,25 @@
+PATIENT PROFILE: LEO BERGEN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LEO BERGEN
+- Age: 36 years
+- Sex: Male
+- Place of Residency: Germany
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsing-Remitting MS
+- Other Relevant History: RRMS patient in Germany initiating Ozanimod in routine practice.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Relapsing-Remitting MS.
+
+4. LABORATORY RESULTS
+- Imaging: MRI shows multiple T2-weighted hyperintense lesions; Gadolinium-enhancing lesions present.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Relapsing-Remitting MS
+- Current Plan: Initiating Ozanimod; monitoring treatment persistence and quality of life.

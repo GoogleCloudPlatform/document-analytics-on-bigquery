@@ -1,0 +1,29 @@
+PATIENT PROFILE: LOIS LANE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LOIS LANE
+- Age: 34 years
+- Sex: Female
+- Place of Residency: Canada
+- Pregnancy Status: Currently 14 weeks pregnant (G1P0)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Plaque Psoriasis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease Status: Moderate-to-severe.
+- Risk Profile: Requires safety monitoring during pregnancy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Redness, scaling, itching.
+- Performance Status: Stable.
+- Physical Status: Exposed to Deucravacitinib during first trimester.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Pregnancy Screening: Normal to date.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Systemic psoriasis therapy.
+- Current Plan: Monitoring for potential adverse fetal effects following Deucravacitinib exposure.
+- Monitoring: Safety surveillance study for pregnancy outcomes.

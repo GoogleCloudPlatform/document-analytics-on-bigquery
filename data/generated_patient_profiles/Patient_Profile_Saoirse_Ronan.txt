@@ -1,0 +1,25 @@
+PATIENT PROFILE: SAOIRSE RONAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SAOIRSE RONAN
+- Age: 30 years
+- Sex: Female
+- Place of Residency: France
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Muscle Invasive Urothelial Carcinoma (MIUC)
+- Other Relevant History: Post-surgical MIUC patient receiving adjuvant Nivolumab in a prospective real-world study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Blood in urine, painful urination.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Muscle Invasive Urothelial Carcinoma (MIUC).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Muscle Invasive Urothelial Carcinoma (MIUC)
+- Current Plan: Pathologic margins show high risk of recurrence; initiating adjuvant Nivolumab.

@@ -1,0 +1,27 @@
+PATIENT PROFILE: LIAM BAKER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LIAM BAKER
+- Age: 30 years
+- Sex: Male
+- Place of Residency: Not specified.
+- Employment Status: Not specified.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Ulcerative Colitis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Diagnosis Date: 5 years prior
+- Disease Status: Currently well-controlled on ozanimod therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Necrosis of tissue, lesion on the skin.
+- Performance Status: Assumed good, enabling daily activities.
+
+4. LABORATORY RESULTS
+- Endoscopic findings: Expected to show signs of UC, but potentially improved on therapy.
+- Inflammatory markers: Expected to be reduced due to effective therapy.
+- Other Lab Results: Assumed within normal limits for study eligibility.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed mesalamine and corticosteroids.
+- Current Plan: Currently on ozanimod therapy, which his physician has determined is suitable for continued use.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: WANG XIAO
+
+1. DEMOGRAPHIC INFORMATION
+- Name: WANG XIAO
+- Age: 64 years
+- Sex: Male
+- Place of Residency: China
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Adjuvant Esophageal Cancer
+- Other Relevant History: Adult patient in China receiving adjuvant Nivolumab for esophageal cancer in a routine care study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Adjuvant Esophageal Cancer.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Unknown

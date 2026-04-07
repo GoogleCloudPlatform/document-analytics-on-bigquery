@@ -1,0 +1,29 @@
+PATIENT PROFILE: MARY JOHNSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARY JOHNSON
+- Age: 30 years
+- Sex: Female
+- Place of Residency: USA
+- Pregnancy Status: Currently 12 weeks pregnant (G1P0)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Plaque Psoriasis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease Status: Active disease.
+- Risk Profile: Requires pregnancy outcome monitoring.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Plaques, scaling.
+- Performance Status: Stable.
+- Physical Status: Exposed to Deucravacitinib during early pregnancy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Normal.
+- Pregnancy Screening: Ongoing monitoring.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Systemic psoriasis management.
+- Current Plan: Monitoring for obstetric outcomes following drug exposure.
+- Monitoring: Safety surveillance study participation.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: RICARDO SANTOS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: RICARDO SANTOS
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Brazil
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Obstructive Pulmonary Disease (COPD)
+- Other Relevant History: Routine care patient treated with BGF triple therapy for symptomatic COPD management in a global pooled analysis.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Chronic cough, wheezing, chest tightness, shortness of breath.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Chronic Obstructive Pulmonary Disease (COPD).
+
+4. LABORATORY RESULTS
+- Respiratory Function: FEV1 45% of predicted value; FEV1/FVC ratio < 0.70.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: CAT score of 22; switching to BGF triple therapy after failing dual LAMA/LABA treatment.

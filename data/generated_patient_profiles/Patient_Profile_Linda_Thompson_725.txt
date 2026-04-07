@@ -1,0 +1,30 @@
+PATIENT PROFILE: LINDA THOMPSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Linda Thompson
+- Age: 38 years
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Systemic Lupus Erythematosus (SLE).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Multiple joint involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Joint problems, inflammation, kidney problems.
+- Severe articular pain and morning stiffness.
+- Generalized malaise.
+- BMI: 25.0 kg/m².
+
+4. LABORATORY RESULTS
+- SLEDAI-2K score: 14.
+- Anti-dsDNA: Positive.
+- ANA: Positive (1:640).
+- Complement C3/C4: Low.
+
+5. TREATMENT HISTORY
+- Previous: Failed prior biologic therapy (e.g., Belimumab).
+- Plan: Initiate Anifrolumab (Saphnelo) for the management of moderate-to-severe SLE in a real-world clinical practice setting.

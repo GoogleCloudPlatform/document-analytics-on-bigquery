@@ -1,0 +1,23 @@
+PATIENT PROFILE: MARTA D.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARTA D.
+- Age: 50 years
+- Sex: Female
+- Place of Residency: Krakow, Poland
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Resectable Melanoma (Stage III).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Treatment: Neoadjuvant immunotherapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mucous membrane lesion, pigmented lesion, eye lesion, change in mole.
+- Performance Status: ECOG 0.
+
+4. LABORATORY RESULTS
+- Biopsy: Confirmed melanoma.
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Starting neoadjuvant Nivolumab + Relatlimab prior to surgery.

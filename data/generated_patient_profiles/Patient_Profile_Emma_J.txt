@@ -1,0 +1,25 @@
+PATIENT PROFILE: EMMA J.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: EMMA J.
+- Age: 8 months
+- Sex: Female
+- Place of Residency: Manchester, UK
+- Gestational Age: 31 weeks.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk for RSV.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Risk Factor: Prematurity.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Runny nose, fever, coughing, wheezing.
+- Health Status: High-risk infant.
+- Respiratory Status: At risk for severe RSV infection.
+
+4. LABORATORY RESULTS
+- N/A
+
+5. TREATMENT HISTORY
+- Prior Therapy: None.
+- Current Plan: Receiving Palivizumab prophylaxis.

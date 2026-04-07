@@ -1,0 +1,25 @@
+PATIENT PROFILE: ELENA VOSS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELENA VOSS
+- Age: 34 years
+- Sex: Female
+- Place of Residency: United States
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: Real-world PNH patient initiating Ravulizumab to assess functional improvements and hemoglobin stabilization.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, abdominal pain, fatigue.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Paroxysmal Nocturnal Haemoglobinuria (PNH).
+
+4. LABORATORY RESULTS
+- Clinical Markers: LDH level 2.5x Upper Limit of Normal (ULN); Hemoglobin 8.5 g/dL; Flow cytometry confirms 45% PNH clone size in granulocytes.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Current Plan: Flow cytometry shows 40% PNH clone size in granulocytes; baseline hemoglobin of 9.5 g/dL.

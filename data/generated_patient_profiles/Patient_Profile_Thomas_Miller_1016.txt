@@ -1,0 +1,42 @@
+PATIENT PROFILE: THOMAS MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Thomas Miller
+- Age: 50
+- Sex: Male
+- Place of Residency: New York, USA
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Engineer
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Adult Growth Hormone Deficiency (GHD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Persistent fatigue and metabolic syndrome related to GHD. No epiphyseal closure.
+- Requirement: Receiving Ngenla (Somatrogon) for the first time.
+- Comorbidities: Well-controlled hypertension. No history of neoplasm or glucose metabolism disorders.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: Good.
+- Physical Examination: Increased waist circumference. No clinically significant abnormalities. Stable vital signs.
+- Height: 175 cm
+- Weight: 85 kg
+- BMI: 27.8 kg/m2
+
+4. LABORATORY RESULTS
+- Endocrine:
+- GH Stimulation Test: Peak GH < 5 ng/mL (Confirmed adult deficiency)
+- IGF-1: 85 ng/mL (Low for age)
+- Chemistry:
+- Glucose (Fasting): 95 mg/dL
+- HbA1c: 5.8%
+- ALT: 25 U/L
+- AST: 22 U/L
+- Creatinine: 1.0 mg/dL
+- Lipids:
+- Total Cholesterol: 210 mg/dL
+- LDL-C: 135 mg/dL
+
+5. TREATMENT HISTORY
+- Plan: Initiate once-weekly subcutaneous Somatrogon (Ngenla) injections as part of a special clinical investigation (NCT05602766). Administer Somatrogon via pre-filled pen according to prescription. Undergo long-term safety monitoring until November 2027. Record any adverse events, incidence of glucose metabolism disorders, or new neoplasms. Maintain regular follow-up for growth hormone response.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: OPHELIA HARKNESS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: OPHELIA HARKNESS
+- Age: 10 months
+- Sex: Female
+- Place of Residency: Paris, France
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV
+- Other Relevant History: Pediatric patient with CHD qualifying for RSV prevention.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Decrease in appetite, fever, coughing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for High Risk of Severe RSV.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for High Risk of Severe RSV
+- Current Plan: requires Palivizumab prophylaxis before heart surgery.

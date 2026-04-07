@@ -1,0 +1,25 @@
+PATIENT PROFILE: AHMED AL-SAYED
+
+1. DEMOGRAPHIC INFORMATION
+- Name: AHMED AL-SAYED
+- Age: 28 years
+- Sex: Male
+- Place of Residency: Middle East
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent Beta-Thalassemia
+- Other Relevant History: Adult TDT patient in the Middle East initiating Luspatercept in a real-world treatment observation study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anemia.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Transfusion-Dependent Beta-Thalassemia.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Pre-transfusion Hemoglobin 6.8 g/dL; Serum Ferritin 1850 ng/mL.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Serum ferritin levels are elevated; starting Luspatercept to reduce transfusion burden.

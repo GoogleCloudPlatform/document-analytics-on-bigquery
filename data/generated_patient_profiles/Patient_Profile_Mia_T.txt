@@ -1,0 +1,24 @@
+PATIENT PROFILE: MIA T.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MIA T.
+- Age: 52 years
+- Sex: Female
+- Place of Residency: Auckland, New Zealand
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Phenotype: Eosinophilic.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Performance Status: Limited by asthma.
+
+4. LABORATORY RESULTS
+- Eosinophils: Elevated.
+- FEV1: Reduced.
+
+5. TREATMENT HISTORY
+- Prior Therapy: High-dose ICS/LABA.
+- Current Plan: Starting Tezepelumab.

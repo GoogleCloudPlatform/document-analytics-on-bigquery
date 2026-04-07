@@ -1,0 +1,24 @@
+PATIENT PROFILE: ISAAC ROGERS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Isaac Rogers
+- Age: 47 years
+- Sex: Male
+- Place of Residency: Madrid, Spain
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: HER2 negative
+- Other Relevant History: Patient has a history of stable management for their primary condition with no major acute exacerbations in the past 6 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: A lump in the breast for breast cancer, there are no specific symptoms directly attributable to her2 negativity itself. instead, as her2 status is a molecular characteristic rather than a disease with its own distinct symptoms..
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology: Hemoglobin, WBC, and platelets within acceptable ranges for clinical observation.
+- Biochemistry: Renal and hepatic function parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for HER2 negative.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

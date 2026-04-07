@@ -1,0 +1,23 @@
+PATIENT PROFILE: ROSE MORRIS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Rose Morris
+- Age: 50 years
+- Sex: Female
+- Place of Residency: Seoul, South Korea
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Non-metastatic prostate cancer
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently enrolled and receiving treatment in a separate interventional phase 2 clinical trial.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pain or stiffness in the lower back, weak or interrupted urine flow.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Non-metastatic prostate cancer.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: ALEX J.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ALEX J.
+- Age: 31 years
+- Sex: Male
+- Place of Residency: New York, NY, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Schizophrenia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Experiencing an acute exacerbation.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Disorganized thinking, retreat from reality.
+- Functionality: Impaired.
+
+4. LABORATORY RESULTS
+- N/A
+
+5. TREATMENT HISTORY
+- Prior Therapy: Previous antipsychotics with limited success.
+- Current Plan: Starting KarXT (Xanomeline-Trospium).

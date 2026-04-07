@@ -1,0 +1,31 @@
+PATIENT PROFILE: FLORENCE NIGHTINGALE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Florence Nightingale
+- Age: 45 years
+- Sex: Female
+- Place of Residency: London, UK
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Sjögren's Disease (SjD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Systemic involvement.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Severe keratoconjunctivitis sicca (dry eyes).
+- Xerostomia (dry mouth) with difficulty swallowing.
+- Systemic fatigue and arthralgia.
+- Parotid gland enlargement.
+
+4. LABORATORY RESULTS
+- Anti-SSA (Ro): Positive.
+- Anti-SSB (La): Positive.
+- RF: Positive.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Symptomatic management (pilocarpine, artificial tears) and hydroxychloroquine.
+- Plan: Initiate Rapcabtagene Autoleucel (CAR T therapy) to assess safety and cellular kinetics in Sjögren's disease.

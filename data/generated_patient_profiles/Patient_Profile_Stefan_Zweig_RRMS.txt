@@ -1,0 +1,29 @@
+PATIENT PROFILE: STEFAN ZWEIG
+
+1. DEMOGRAPHIC INFORMATION
+- Name: STEFAN ZWEIG
+- Age: 41 years
+- Sex: Male
+- Place of Residency: Germany
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsing-Remitting Multiple Sclerosis (RRMS)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Disease Status: Switching due to suboptimal response.
+- Symptoms: History of neurological flares.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Physical impairments, cognitive impairments, demyelination.
+- Performance Status: EDSS score 2.0.
+- Physical Status: Stable.
+
+4. LABORATORY RESULTS
+- MRI: Multiple T2-weighted brain lesions.
+- Hematologic Function: Normal.
+- Renal/Liver Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed Glatiramer Acetate.
+- Current Plan: Transitioning to oral Ozanimod.
+- Monitoring: Prospective non-interventional study for treatment persistence.

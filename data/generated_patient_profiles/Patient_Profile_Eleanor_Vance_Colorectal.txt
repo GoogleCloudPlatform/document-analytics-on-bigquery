@@ -1,0 +1,29 @@
+PATIENT PROFILE: ELEANOR VANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELEANOR VANCE
+- Age: 62 years
+- Sex: Female
+- Place of Residency: New York, USA
+- Employment Status: Retired (Former Librarian)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Colorectal Carcinoma
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Current Status: Metastatic disease (liver and lung localization), progressing.
+- Medical History: Well-controlled hypertension (managed with lisinopril); no history of Hepatitis B/C or HIV.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Rectal carcinoma, malignant neoplasm, adenocarcinoma.
+- Performance Status: ECOG 1 (Ambulatory and capable of light work).
+- Physical Status: No symptomatic arrhythmias; mean resting QTcF 435 ms; no gastrointestinal conditions impairing absorption.
+
+4. LABORATORY RESULTS
+- Organ Function: Adequate hepatic, renal, and hematologic function for study participation.
+- Hematology: Marrow function within required limits.
+- Life Expectancy: Estimated to be greater than 12 weeks.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Exhausted multiple lines of standard chemotherapy and targeted therapies.
+- Current Plan: Initiating therapy with a new PARP inhibitor (Saruparib) as part of a pharmacology study.
+- Monitoring: Pharmacokinetic assessments and regular ECG monitoring for QT interval.

@@ -1,0 +1,45 @@
+PATIENT PROFILE: ELIZABETH DALLOWAY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Elizabeth Dalloway
+- Age: 8
+- Sex: Female
+- Place of Residency: Toronto, Canada
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Hospital-Acquired Pneumonia (Nosocomial Pneumonia).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Requirement: Treatment for serious bacterial infection.
+- Comorbidities: No moderate or severe renal impairment (CrCL > 50 mL/min/1.73m2). No history of hypersensitivity to beta-lactam antibacterials. No active immunosuppression.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Infection, inflammation.
+- Status: Hospitalized.
+- Height: 125 cm
+- Weight: 28 kg
+- Vital Signs:
+- BP: 105/70 mmHg
+- HR: 110 bpm
+- RR: 24 bpm
+- Physical Examination: Appears acutely ill. No signs of septic shock or acute hepatic failure.
+
+4. LABORATORY RESULTS
+- Hematology:
+- WBC: 15.5 x 10^3/µL (Leukocytosis)
+- Neutrophils: 85%
+- Hemoglobin: 11.8 g/dL
+- Renal Function:
+- Serum Creatinine: 0.5 mg/dL
+- Estimated CrCL: 85 mL/min/1.73m2 (Revised Schwartz equation)
+- Chemistry:
+- ALT: 22 U/L
+- AST: 20 U/L
+- Bilirubin: 0.6 mg/dL
+- Imaging:
+- Chest X-ray: New infiltrates in the right lower lobe.
+
+5. TREATMENT HISTORY
+- Plan: Initiate treatment with Ceftolozane/Tazobactam (MK-7625A) as part of a Phase 2 safety and PK study (NCT04223752). Administer Ceftolozane/Tazobactam IV every 8 hours for a minimum of 8 days as concomitant standard-of-care antibiotic therapy. Conduct intensive PK sampling and monitor for adverse events and clinical resolution of pneumonia.

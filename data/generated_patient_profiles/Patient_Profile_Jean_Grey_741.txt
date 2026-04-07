@@ -1,0 +1,25 @@
+PATIENT PROFILE: JEAN GREY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JEAN GREY
+- Age: 42 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unresectable Melanoma
+- Other Relevant History: Adult patient with advanced melanoma participating in a real-world assessment of Nivolumab-based regimens.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mucous membrane lesion, eye lesion, change in mole.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Biopsy confirmed melanoma; LDH within normal range.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard care as per clinical guidelines
+- Current Plan: Tumor tissue confirmed; starting first-line Nivolumab combination therapy to achieve tumor shrinkage.

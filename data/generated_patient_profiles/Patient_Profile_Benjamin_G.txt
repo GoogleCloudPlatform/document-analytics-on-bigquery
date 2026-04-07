@@ -1,0 +1,25 @@
+PATIENT PROFILE: BENJAMIN G.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: BENJAMIN G.
+- Age: 9 months
+- Sex: Male
+- Place of Residency: Seattle, WA, USA
+- Gestational Age: 32 weeks.
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: High Risk of Severe RSV.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Comorbidity: Hemodynamically significant congenital heart disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fever, wheezing, runny nose, sneezing.
+- Health Status: Entering his second RSV season.
+- Cardiac Status: Stable, but at high risk for complications from RSV.
+
+4. LABORATORY RESULTS
+- N/A
+
+5. TREATMENT HISTORY
+- Prior Prophylaxis: Received Palivizumab during his first RSV season.
+- Current Plan: Continuing Palivizumab prophylaxis.

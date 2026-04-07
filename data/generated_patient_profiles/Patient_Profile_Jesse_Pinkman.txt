@@ -1,0 +1,25 @@
+PATIENT PROFILE: JESSE PINKMAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JESSE PINKMAN
+- Age: 30 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS)
+- Other Relevant History: Adult patient with MDS and ring sideroblasts participating in a healthcare resource utilization study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Lower-Risk Myelodysplastic Syndromes (MDS).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Hemoglobin 7.8 g/dL; Serum Erythropoietin (sEPO) 350 U/L. Bone Marrow: >15% ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Lower-Risk Myelodysplastic Syndromes (MDS)
+- Current Plan: Requiring two units of blood every month; starting luspatercept for real-world symptom management.

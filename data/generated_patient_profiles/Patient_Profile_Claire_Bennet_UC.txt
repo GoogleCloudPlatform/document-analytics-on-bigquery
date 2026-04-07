@@ -1,0 +1,29 @@
+PATIENT PROFILE: CLAIRE BENNET
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CLAIRE BENNET
+- Age: 35 years
+- Sex: Female
+- Place of Residency: USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Ulcerative Colitis (UC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Severity: Moderate disease activity.
+- Status: Ozanimod-naive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Necrosis of tissue, lesion on an internal mucous surface, suppurating lesion, inflammatory lesion.
+- Performance Status: ECOG 0.
+- Disease Activity: Mayo score 7.
+
+4. LABORATORY RESULTS
+- Mayo Score: 7.
+- Inflammatory Markers: Elevated fecal calprotectin.
+- Hematologic Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Failed 5-ASA therapy.
+- Current Plan: Initiating treatment with Ozanimod (Zeposia).
+- Monitoring: Prospective non-interventional outcome study.

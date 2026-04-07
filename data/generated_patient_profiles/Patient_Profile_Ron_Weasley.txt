@@ -1,0 +1,30 @@
+PATIENT PROFILE: RON WEASLEY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ron Weasley
+- Age: 38 years
+- Sex: Male
+- Place of Residency: UK
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unresectable Stage III Cutaneous Melanoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- BRAF wild-type.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Change in mole, skin lesion, pigmented lesion.
+- Clinically palpable regional lymph nodes.
+- Unresectable primary lesion on the trunk.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- BRAF V600: Negative.
+- LDH: Normal.
+- Hematology and Chemistry: Within normal limits.
+- Imaging: Stage III disease with localized nodal involvement.
+
+5. TREATMENT HISTORY
+- Previous: Biopsy confirmation only.
+- Plan: Initiate neoadjuvant combination therapy with Nivolumab and Relatlimab prior to definitive surgical assessment.

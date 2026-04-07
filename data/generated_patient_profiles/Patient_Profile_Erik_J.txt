@@ -1,0 +1,25 @@
+PATIENT PROFILE: ERIK J.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ERIK J.
+- Age: 74 years
+- Sex: Male
+- Place of Residency: Gothenburg, Sweden
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Unknown Medical Condition
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Primary Disorders: Chronic Kidney Disease (CKD) and Heart Failure with reduced Ejection Fraction (HFrEF).
+- Renal Function: eGFR of 40 mL/min/1.73m².
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Heart Failure Class: NYHA Class II.
+
+4. LABORATORY RESULTS
+- Renal Panel: Shows moderately decreased kidney function.
+- Echocardiogram: Confirms HFrEF with a low ejection fraction.
+
+5. TREATMENT HISTORY
+- Standard Therapy: On an ACE inhibitor and beta-blocker for his heart failure.
+- Current Plan: Has been prescribed Dapagliflozin, an SGLT2 inhibitor.

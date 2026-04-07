@@ -1,0 +1,25 @@
+PATIENT PROFILE: TEDDY REED
+
+1. DEMOGRAPHIC INFORMATION
+- Name: TEDDY REED
+- Age: 58 years
+- Sex: Male
+- Place of Residency: New York, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma (Cardiovascular PASS)
+- Other Relevant History: Severe asthma patient taking Tezepelumab with cardiovascular history.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Severe Asthma (Cardiovascular PASS).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Blood eosinophil count 450 cells/µL. Cardiac Markers: Troponin I within normal limits; stable ECG.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Severe Asthma (Cardiovascular PASS)
+- Current Plan: On Tezepelumab; monitored for MACE in a safety study.

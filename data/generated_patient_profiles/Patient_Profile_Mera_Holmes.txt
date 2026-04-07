@@ -1,0 +1,25 @@
+PATIENT PROFILE: MERA HOLMES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MERA HOLMES
+- Age: 46 years
+- Sex: Female
+- Place of Residency: Germany
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Plaque Psoriasis
+- Other Relevant History: Plaque psoriasis patient in Germany initiating Deucravacitinib in a real-world effectiveness study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Plaques, redness, itching, scaling.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Plaque Psoriasis.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Failed phototherapy and topical treatments; initiating Deucravacitinib.

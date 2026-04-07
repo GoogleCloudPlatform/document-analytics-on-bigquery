@@ -1,0 +1,29 @@
+PATIENT PROFILE: JAKUB WÓJCIK
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JAKUB WÓJCIK
+- Age: 37 years
+- Sex: Male
+- Place of Residency: Poland
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Paroxysmal Nocturnal Haemoglobinuria (PNH)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Symptoms: Hemolysis and fatigue.
+- Clone Size: Confirmed via flow cytometry.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abdominal pain, fatigue.
+- Performance Status: ECOG 0.
+- Physical Status: Stable on complement inhibition.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Hemoglobin 10.5 g/dL.
+- Hemolysis Markers: Stable LDH levels.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Managed with Eculizumab for 3 years.
+- Current Plan: Transitioning to Ravulizumab for a less frequent dosing schedule.
+- Monitoring: Longitudinal assessment of functional outcomes.

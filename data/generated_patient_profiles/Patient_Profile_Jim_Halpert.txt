@@ -1,0 +1,31 @@
+PATIENT PROFILE: JIM HALPERT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Jim Halpert
+- Age: 32 years
+- Sex: Male
+- Place of Residency: Pennsylvania, USA
+- Race/Ethnicity: Not specified
+- Occupation: Sales (US)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Schizophrenia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- History of metabolic side effects on typical antipsychotics.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Delusions, hallucinations, retreat from reality.
+- Persistent auditory hallucinations and social withdrawal.
+- Cognitive impairment affecting daily functioning.
+- History of weight gain on prior medications.
+- BMI: 28.5 kg/m².
+
+4. LABORATORY RESULTS
+- Metabolic Panel: Borderline elevated fasting glucose.
+- Lipid Profile: Mild hypertriglyceridemia.
+- Hepatic Function: Normal.
+- ECG: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Multiple atypical antipsychotics.
+- Plan: Transition to KarXT (xanomeline and trospium chloride) therapy for improved symptom control and better metabolic tolerability.

@@ -1,0 +1,23 @@
+PATIENT PROFILE: AARON TRAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Aaron Tran
+- Age: 19 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant neoplasm of lung
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue, chest pain.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Evidence of severe renal impairment with estimated Creatinine Clearance (CrCl) of 22 mL/min.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant neoplasm of lung.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

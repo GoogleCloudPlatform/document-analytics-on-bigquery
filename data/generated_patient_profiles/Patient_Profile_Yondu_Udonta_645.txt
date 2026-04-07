@@ -1,0 +1,29 @@
+PATIENT PROFILE: YONDU UDONTA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Yondu Udonta
+- Age: 65 years
+- Sex: Male
+- Place of Residency: Taiwan
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed/Refractory Multiple Myeloma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Bone pain, hypercalcemia, serum monoclonal protein.
+- Bone pain and fatigue.
+- ECOG Performance Status: 1.
+- No history of prior elotuzumab exposure.
+
+4. LABORATORY RESULTS
+- Serum M-protein: Elevated (Relapsed from baseline).
+- Hemoglobin: 10.8 g/dL.
+- Creatinine: 1.2 mg/dL.
+- Platelets: 110 x 10^9/L.
+
+5. TREATMENT HISTORY
+- Previous: Failed multiple lines of therapy including proteasome inhibitors and immunomodulatory agents.
+- Plan: Initiate Elotuzumab (Empliciti) in combination with standard care for relapsed multiple myeloma.

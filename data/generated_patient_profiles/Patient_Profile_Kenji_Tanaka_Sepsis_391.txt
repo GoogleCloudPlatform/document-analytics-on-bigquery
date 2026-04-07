@@ -1,0 +1,29 @@
+PATIENT PROFILE: KENJI TANAKA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: KENJI TANAKA
+- Age: 78 years
+- Sex: Male
+- Place of Residency: Japan
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Sepsis
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Comorbidities: Impaired kidney function (Creatinine clearance 40 mL/min).
+- Infection Source: Bacterial infection.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Systemic inflammatory response syndrome, organ dysfunction, hypotension.
+- Performance Status: Hospitalized.
+- Physical Status: Critically ill.
+
+4. LABORATORY RESULTS
+- Renal Function: Creatinine clearance 40 mL/min.
+- Infectious Markers: Elevated CRP.
+- Cultures: Gram-negative bacterial growth.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Emergency stabilization.
+- Current Plan: Initiating treatment with Zavicefta for the first time.
+- Monitoring: Safety and pharmacokinetics in elderly renal impairment.

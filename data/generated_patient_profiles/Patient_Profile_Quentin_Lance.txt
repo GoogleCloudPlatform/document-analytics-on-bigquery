@@ -1,0 +1,25 @@
+PATIENT PROFILE: QUENTIN LANCE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: QUENTIN LANCE
+- Age: 54 years
+- Sex: Male
+- Place of Residency: United Kingdom
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Migraine
+- Other Relevant History: UK resident with chronic migraine using Rimegepant for acute relief in a consistency study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Sound sensitivity, light sensitivity, throbbing or pulsating pain, nausea.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Chronic Migraine.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Using Rimegepant for acute relief; monitoring consistency of response over 12 weeks.

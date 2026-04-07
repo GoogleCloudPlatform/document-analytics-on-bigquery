@@ -1,0 +1,25 @@
+PATIENT PROFILE: DIANA PRINCE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: DIANA PRINCE
+- Age: 34 years
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe SLE
+- Other Relevant History: Real-world SLE patient transitioning to biologic therapy for better disease control.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fatigue, joint pain, fever, rash.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for trial qualification.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-dsDNA antibodies; low C3 and C4 complement levels.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard care as per clinical guidelines
+- Current Plan: High titers of anti-dsDNA; failing corticosteroids; initiating Anifrolumab.

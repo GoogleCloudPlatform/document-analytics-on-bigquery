@@ -1,0 +1,23 @@
+PATIENT PROFILE: ELIZABETH MENDOZA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Elizabeth Mendoza
+- Age: 51 years
+- Sex: Female
+- Place of Residency: Melbourne, VIC, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Healthy
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient underwent a major abdominal surgical procedure 10 days ago.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: As they are typically screened to be free from significant health conditions relevant to the study., healthy volunteers do not exhibit symptoms of a medical disorder.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Healthy.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

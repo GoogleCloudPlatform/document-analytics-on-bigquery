@@ -1,0 +1,25 @@
+PATIENT PROFILE: DAVID RASCHE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: DAVID RASCHE
+- Age: 77 years
+- Sex: Male
+- Place of Residency: Paris, France
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Neoadjuvant Melanoma
+- Other Relevant History: Evaluation of pathologic response to combination IO in the neoadjuvant melanoma setting.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mucous membrane lesion, skin lesion.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Neoadjuvant Melanoma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Neoadjuvant Melanoma
+- Current Plan: Starting neoadjuvant Nivolumab + Relatlimab combo before surgery.

@@ -1,0 +1,42 @@
+PATIENT PROFILE: PEASEBLOSSOM FAIRY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Peaseblossom Fairy
+- Age: 6
+- Sex: Female
+- Place of Residency: New York, USA
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed Neuroblastoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Histologically proven neuroblastoma (INSS). Relapsed disease following initial multi-modal therapy.
+- Requirement: Progressed despite standard therapy.
+- Molecular Status: MYCN status available.
+- Comorbidities: None. No active infection. Recovered from acute toxicities of prior therapy.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Malignant neuroblastic tumor, presence of neuroblastic cells, absence of ganglion cells.
+- Performance Status: Lansky Play score 70%.
+- Physical Examination: Palpable abdominal mass. No significant respiratory or cardiac distress.
+- Life Expectancy: >= 12 weeks.
+- Measurable Disease: Primary adrenal mass 3.5 cm (INRC).
+
+4. LABORATORY RESULTS
+- Hematology:
+- ANC: 1.8 x 10^9/L
+- Platelets: 120 x 10^9/L (Bone marrow involvement possible but function adequate)
+- Hemoglobin: 10.5 g/dL
+- Chemistry:
+- ALT: 35 U/L
+- AST: 32 U/L
+- Bilirubin: 0.8 mg/dL
+- Creatinine: 0.5 mg/dL (Normal for age)
+- Cardiac:
+- Echo: Normal function, QTc 420 ms.
+- Pregnancy Test: Not applicable (age 6).
+
+5. TREATMENT HISTORY
+- Plan: Initiate combination therapy with Ribociclib, Topotecan, and Temozolomide (TOTEM) as part of a Phase 1/2 multicenter study (NCT05429502). Administer Ribociclib orally and TOTEM regimen as per protocol. Monitor for dose-limiting toxicities (DLTs), pharmacokinetics, and clinical response via INRC criteria. Undergo regular cardiac and laboratory monitoring.

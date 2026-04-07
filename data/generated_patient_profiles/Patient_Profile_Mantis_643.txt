@@ -1,0 +1,31 @@
+PATIENT PROFILE: MANTIS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Mantis
+- Age: 29 years
+- Sex: Female
+- Place of Residency: Sydney, Australia
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Postpartum status.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Heart septum involvement, aortic stenosis.
+- Dyspnea on exertion.
+- Fatigue and chest discomfort.
+- Currently breastfeeding.
+- BMI: 23.5 kg/m².
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirmed septal hypertrophy.
+- Peak LVOT gradient: 50 mmHg.
+- NT-proBNP: Mildly elevated.
+- Pregnancy Test: Negative (Postpartum).
+
+5. TREATMENT HISTORY
+- Previous: Exposed to Mavacamten (Camzyos) during pregnancy.
+- Plan: Continue monitoring maternal and infant health while on Mavacamten therapy during the breastfeeding period.

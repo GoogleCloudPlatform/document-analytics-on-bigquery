@@ -1,0 +1,25 @@
+PATIENT PROFILE: THEA QUEEN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: THEA QUEEN
+- Age: 33 years
+- Sex: Female
+- Place of Residency: Korea
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed Multiple Myeloma
+- Other Relevant History: Korean adult with relapsed MM initiating Elranatamab in a post-marketing safety study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hypercalcemia, bone pain, skeletal destruction.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Relapsed Multiple Myeloma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Starting Elranatamab monotherapy for relapsed disease.

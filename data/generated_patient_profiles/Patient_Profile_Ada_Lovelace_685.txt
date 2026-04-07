@@ -1,0 +1,31 @@
+PATIENT PROFILE: ADA LOVELACE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ada Lovelace
+- Age: 30 years
+- Sex: Female
+- Place of Residency: Sydney, Australia
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Refractory Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Anti-AChR antibody-positive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Diplopia, respiratory muscle weakness, external ophthalmoplegia, bulbar muscle weakness.
+- Severe generalized muscle fatigue.
+- Bulbar involvement with dysarthria and dysphagia.
+- Occasional respiratory muscle weakness.
+- MG-ADL score: 12.
+
+4. LABORATORY RESULTS
+- Anti-AChR Antibody: Positive (High titer).
+- Pulmonary Function: Mild reduction in Forced Vital Capacity (FVC).
+- Hepatic function: Normal.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Failed multiple lines of immunosuppressant therapy and high-dose steroids.
+- Plan: Initiate CC-97540 (CAR T cell therapy) for the treatment of refractory gMG.

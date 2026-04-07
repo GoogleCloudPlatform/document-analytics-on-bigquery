@@ -1,0 +1,23 @@
+PATIENT PROFILE: EZRA CAMPBELL
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ezra Campbell
+- Age: 78 years
+- Sex: Male
+- Place of Residency: Munich, Germany
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: cervical cancer
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient is currently enrolled and receiving treatment in a separate interventional phase 2 clinical trial.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Watery bloody vaginal discharge that may be heavy and have a foul odor, pain during sexual intercourse.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for cervical cancer.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

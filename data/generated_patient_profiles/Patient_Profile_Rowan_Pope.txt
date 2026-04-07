@@ -1,0 +1,25 @@
+PATIENT PROFILE: ROWAN POPE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ROWAN POPE
+- Age: 68 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Melanoma
+- Other Relevant History: Adult with advanced melanoma receiving combination immunotherapy.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pigmented lesion, skin lesion.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Advanced Melanoma.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Advanced Melanoma
+- Current Plan: Initiating Nivolumab and Relatlimab; tracking outcomes in the Flatiron database.

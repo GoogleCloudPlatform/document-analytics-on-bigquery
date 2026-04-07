@@ -1,0 +1,24 @@
+PATIENT PROFILE: JAMES S.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: JAMES S.
+- Age: 72 years
+- Sex: Male
+- Place of Residency: Vancouver, Canada
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Subtype: Ring sideroblasts.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
+- Treatment History: Refractory to ESAs.
+
+4. LABORATORY RESULTS
+- Bone Marrow: Confirms MDS-RS.
+- Hemoglobin: Low.
+
+5. TREATMENT HISTORY
+- Prior Therapy: ESAs.
+- Current Plan: Transitioning to Luspatercept therapy.

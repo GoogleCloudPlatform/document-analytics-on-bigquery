@@ -1,0 +1,30 @@
+PATIENT PROFILE: AMÉLIE DUPONT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Amélie Dupont
+- Age: 64 years
+- Sex: Female
+- Place of Residency: France
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Endometrial Carcinoma (Stage III).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Mismatch Repair Proficient (pMMR).
+- HER2-expressing tumor.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Uterine bleeding.
+- Pelvic pain and irregular bleeding.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- MMR Status: Proficient (pMMR) via PCR.
+- HER2 Expression: 2+ (IHC).
+- Histology: Endometrioid adenocarcinoma.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Newly diagnosed advanced disease.
+- Plan: Initiate first-line combination therapy with Trastuzumab Deruxtecan and Rilvegostomig.

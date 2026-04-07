@@ -1,0 +1,25 @@
+PATIENT PROFILE: OLIVER J.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: OLIVER J.
+- Age: 79 years
+- Sex: Male
+- Place of Residency: Manchester, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transthyretin Amyloid Cardiomyopathy (ATTR-CM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Type: Wild-type (senile) ATTR-CM.
+- Diagnosis: Diagnosed via a positive technetium pyrophosphate (PYP) scan.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Heart Failure Class: NYHA Class II.
+
+4. LABORATORY RESULTS
+- Imaging: Echocardiogram shows a thickened left ventricular wall. PYP scan is positive, confirming ATTR-CM.
+- Genetic Testing: Negative for TTR mutations.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Receiving standard heart failure medications (diuretics).
+- Current Plan: Starting treatment with Tafamidis, a transthyretin stabilizer.

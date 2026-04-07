@@ -1,0 +1,23 @@
+PATIENT PROFILE: MARK A.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARK A.
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Birmingham, UK
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Melanoma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Database: Record in an oncology registry.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Mucous membrane lesion, pigmented lesion.
+- Disease Status: Advanced disease.
+- Performance Status: Good.
+
+4. LABORATORY RESULTS
+- Database record.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treated with Nivolumab + Relatlimab.

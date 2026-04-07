@@ -1,0 +1,23 @@
+PATIENT PROFILE: LUNA GUPTA
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Luna Gupta
+- Age: 60 years
+- Sex: Female
+- Place of Residency: Mexico City, Mexico
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Carcinoma
+- Other Relevant History: Patient has a history of stable management for their primary condition. Patient underwent a major abdominal surgical procedure 10 days ago.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Breast lump, breast pain.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Carcinoma.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

@@ -1,0 +1,41 @@
+PATIENT PROFILE: ELIZABETH JANE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Elizabeth Jane
+- Age: 55
+- Sex: Female
+- Place of Residency: New York, USA
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Librarian
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Melanoma (Stage IV).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Molecular Status: BRAF wild-type.
+- Status: Advanced/metastatic solid tumor. Received and progressed on prior anti-PD-1 therapy (Nivolumab).
+- Comorbidities: Well-controlled HIV-1 infection on stable ART (CD4+ count > 350 cells/mm3, viral load undetectable).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Eye lesion, pigmented lesion.
+- Performance Status: ECOG 1.
+- Physical Examination: No clinically active CNS metastases. No active autoimmune disease or vasculitis.
+- Measurable Disease: Subcutaneous lesion 1.8 cm (injectable), lung lesion 1.2 cm (distant).
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 12.1 g/dL
+- ANC: 2.9 x 10^9/L
+- Platelets: 205 x 10^9/L
+- Chemistry:
+- LDH: 210 U/L (Normal)
+- ALT: 32 U/L
+- AST: 30 U/L
+- Total Bilirubin: 0.7 mg/dL
+- Creatinine: 0.9 mg/dL
+- Virology:
+- HIV RNA: < 50 copies/mL
+- CD4+ Count: 450 cells/mm3
+
+5. TREATMENT HISTORY
+- Plan: Initiate treatment with Ulevostinag (STING agonist) via intratumoral injection in combination with Pembrolizumab (IV) as part of a Phase 1 study (NCT03010176). Receive ulevostinag injection into the 1.8 cm subcutaneous lesion. Undergo 24-hour inpatient observation after the first dose. Monitor for safety, DLTs, and antitumor activity in both injected and non-injected lesions.

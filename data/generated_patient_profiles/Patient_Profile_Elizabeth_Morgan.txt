@@ -1,0 +1,25 @@
+PATIENT PROFILE: ELIZABETH MORGAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ELIZABETH MORGAN
+- Age: 32 years
+- Sex: Female
+- Place of Residency: the US
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: oHCM (Pregnancy)
+- Other Relevant History: Pregnant woman with oHCM and Mavacamten exposure participating in a pregnancy surveillance program.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Palpitations, fainting (syncope), chest pain, shortness of breath.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for oHCM (Pregnancy).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Enrolled in a registry to monitor pregnancy outcomes and fetal safety after drug exposure.

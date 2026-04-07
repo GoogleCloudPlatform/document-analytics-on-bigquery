@@ -1,0 +1,25 @@
+PATIENT PROFILE: OLIVIA POPE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: OLIVIA POPE
+- Age: 45 years
+- Sex: Female
+- Place of Residency: Toronto, Canada
+- Employment Status: Student
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic NSCLC (PD-L1 <1%)
+- Other Relevant History: Meets the criteria for PD-L1 negative advanced NSCLC receiving dual immunotherapy.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, persistent cough.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Metastatic NSCLC (PD-L1 <1%).
+
+4. LABORATORY RESULTS
+- Tumor Markers: PD-L1 expression < 1% (TPS 0%) or as per protocol. Molecular Testing: Wild type for EGFR, ALK, and ROS1 mutations (unless specified otherwise).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Metastatic NSCLC (PD-L1 <1%)
+- Current Plan: PD-L1 expression is <1%; no EGFR or ALK mutations; initiating first-line Nivolumab and Ipilimumab.

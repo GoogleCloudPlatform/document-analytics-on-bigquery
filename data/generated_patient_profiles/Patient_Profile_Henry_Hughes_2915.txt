@@ -1,0 +1,23 @@
+PATIENT PROFILE: HENRY HUGHES
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Henry Hughes
+- Age: 80 years
+- Sex: Male
+- Place of Residency: Singapore
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Small cell carcinoma of lung
+- Other Relevant History: Patient has a history of stable management for their primary condition.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent cough, due to superior vena cava syndrome.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Biochemistry: Significantly elevated liver enzymes (AST: 350 U/L, ALT: 410 U/L), exceeding 5x the upper limit of normal.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Small cell carcinoma of lung.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

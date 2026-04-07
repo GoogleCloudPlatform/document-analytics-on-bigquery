@@ -1,0 +1,30 @@
+PATIENT PROFILE: SARAH JENKINS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SARAH JENKINS
+- Age: 32 years
+- Sex: Female
+- Place of Residency: Washington, USA
+- Employment Status: Active
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Healthy Participant (Overweight)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- BMI: 29.1 kg/m² (Height 168 cm, Weight 82 kg)
+- Medical History: Generally healthy; no significant chronic medical conditions; non-smoker.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: Fully active.
+- Physical Status: Vital signs within normal limits; copper intrauterine device (IUD) in place for contraception.
+
+4. LABORATORY RESULTS
+- Metabolism: HbA1c 5.4% (Normal).
+- Hematology: Complete blood count within normal limits.
+- Infectious Disease: Negative for HIV, HBsAg, and HBcAb.
+- Pregnancy Test: Negative.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Not currently taking any medications, including statins or estrogen-containing products.
+- Current Plan: Participation as a healthy volunteer in a clinical pharmacology study.
+- Monitoring: Observation of safety and pharmacokinetic parameters during study participation.

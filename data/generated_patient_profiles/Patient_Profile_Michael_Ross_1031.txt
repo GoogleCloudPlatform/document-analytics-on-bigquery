@@ -1,0 +1,34 @@
+PATIENT PROFILE: MICHAEL ROSS
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Michael Ross
+- Age: 45
+- Sex: Male
+- Place of Residency: New York, USA
+- Occupation: Corporate Consultant
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Primary Hyperlipidemia (Elevated LDL-C)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Duration: 3 years
+- Comorbidities: None
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Physical Status: BMI 24.8 kg/m2, weight 78 kg. Heart rate 72 bpm, Blood Pressure 122/78 mmHg.
+- Lifestyle: Non-smoker, exercises twice a week. No history of cardiovascular disease or diabetes.
+
+4. LABORATORY RESULTS
+- Fasting LDL-C: 165 mg/dL
+- Fasting Triglycerides: 140 mg/dL
+- Total Cholesterol: 245 mg/dL
+- HDL-C: 52 mg/dL
+- ALT: 22 U/L
+- AST: 19 U/L
+- eGFR: 95 mL/min/1.73m2
+- HBsAg: Negative
+- HIV: Negative
+
+5. TREATMENT HISTORY
+- Previous Treatments: Attempted low-fat diet and increased physical activity for 12 months with insufficient reduction in LDL-C.
+- Plan: Initiate therapy with a new PCSK9 inhibitor in combination with Ezetimibe.

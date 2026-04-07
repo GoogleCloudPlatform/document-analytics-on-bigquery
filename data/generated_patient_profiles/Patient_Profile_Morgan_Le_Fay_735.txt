@@ -1,0 +1,31 @@
+PATIENT PROFILE: MORGAN LE FAY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Morgan Le Fay
+- Age: 39 years
+- Sex: Female
+- Place of Residency: Paris, France
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Early-onset Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Refractory symptoms.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Asymmetric ophthalmoplegia, fatigable weakness, skeletal muscle weakness, bulbar muscle weakness.
+- MG-ADL score: 11.
+- Fluctuating muscle weakness, worsening in the evening.
+- Persistent diplopia.
+- Generally healthy otherwise.
+
+4. LABORATORY RESULTS
+- Anti-AChR Antibody: Positive.
+- Single Fiber EMG: Increased jitter.
+- Pregnancy Test: Negative.
+- Renal Function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Failed multiple immunosuppressants (e.g., Azathioprine, Mycophenolate).
+- Plan: Initiate Ravulizumab (Ultomiris) therapy and monitor safety and effectiveness in daily clinical practice.

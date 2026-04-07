@@ -1,0 +1,25 @@
+PATIENT PROFILE: PIOTR WISNIEWSKI
+
+1. DEMOGRAPHIC INFORMATION
+- Name: PIOTR WISNIEWSKI
+- Age: 54 years
+- Sex: Male
+- Place of Residency: Poland
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG)
+- Other Relevant History: Adult gMG patient in Poland initiating Ravulizumab in a real-world routine clinical practice study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Cranial muscle weakness, facial muscle weakness.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Generalized Myasthenia Gravis (gMG).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Positive for anti-AChR (acetylcholine receptor) antibodies.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Starting Ravulizumab; has received meningococcal vaccination; monitoring MG-ADL score improvement.

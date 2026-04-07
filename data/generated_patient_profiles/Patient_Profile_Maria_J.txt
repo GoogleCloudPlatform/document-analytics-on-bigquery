@@ -1,0 +1,23 @@
+PATIENT PROFILE: MARIA J.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARIA J.
+- Age: 60 years
+- Sex: Female
+- Place of Residency: Mexico City, Mexico
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Symptoms: NYHA Class III.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Heart septum involvement, aortic stenosis.
+- LVOT Gradient: Resting LVOT gradient 55 mmHg.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirms oHCM.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blockers.
+- Current Plan: Starting Mavacamten (Camzyos).

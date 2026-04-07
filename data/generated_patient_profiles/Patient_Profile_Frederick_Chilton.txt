@@ -1,0 +1,48 @@
+PATIENT PROFILE: FREDERICK CHILTON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Frederick Chilton
+- Age: 40
+- Sex: Male
+- Place of Residency: New York, USA
+- Race: Caucasian
+- Ethnicity: Non-Hispanic
+- Occupation: Hospital Administrator
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Healthy Volunteer. No known acute or chronic medical illnesses. No history of endocrine, gastrointestinal, cardiovascular, peripheral vascular, hematological, hepatic, immunological, renal, respiratory, neoplastic, or genitourinary abnormalities.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Symptoms.
+- Overall Status: Healthy and well-developed.
+- Height: 180 cm
+- Weight: 75 kg
+- BMI: 23.1 kg/m2
+- Vital Signs:
+- Blood Pressure: 120/80 mmHg
+- Heart Rate: 72 bpm
+- Respiratory Rate: 16 bpm
+- Temperature: 36.6°C
+- Physical Examination: No clinically significant findings. Normal 12-lead ECG.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 14.5 g/dL
+- Platelets: 250 x 10^3/mm3
+- WBC: 6.5 x 10^3/mm3
+- Chemistry:
+- Potassium: 4.2 mmol/L (Normal)
+- Magnesium: 2.0 mg/dL (Normal)
+- Calcium: 9.5 mg/dL (Normal)
+- ALT: 20 U/L
+- AST: 18 U/L
+- Total Bilirubin: 0.8 mg/dL
+- eGFR: > 90 mL/min/1.73m2
+- Infectious Disease:
+- HBsAg: Negative
+- HIV: Negative
+- HCV: Negative
+
+5. TREATMENT HISTORY
+- Plan: Enroll in Phase 1 drug-drug interaction study (NCT06493409) to evaluate the effect of voriconazole and quinidine on the pharmacokinetics of a single dose of repotrectinib. Administer repotrectinib 160 mg orally as a single dose in each period. Use voriconazole 400 mg twice daily on Day 1 and 200 mg twice daily on Days 2-5. Use quinidine 600 mg as a single dose. Conduct intensive PK sampling and safety monitoring including ECGs.

@@ -1,0 +1,24 @@
+PATIENT PROFILE: AIDEN RICHARDSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Aiden Richardson
+- Age: 56 years
+- Sex: Male
+- Place of Residency: Chicago, IL, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Malignant tumor of colon
+- Other Relevant History: Patient has a history of stable management for their primary condition with no major acute exacerbations in the past 6 months.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Or narrowing of stool, rectal bleeding or blood in stool, abdominal discomfort or pain (cramps, gas, or pain), iron deficiency anemia.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology: Hemoglobin, WBC, and platelets within acceptable ranges for clinical observation.
+- Biochemistry: Renal and hepatic function parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Malignant tumor of colon.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

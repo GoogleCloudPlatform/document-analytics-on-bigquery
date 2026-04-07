@@ -1,0 +1,44 @@
+PATIENT PROFILE: MIN-HO LEE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Min-ho Lee
+- Age: 60
+- Sex: Male
+- Place of Residency: Sydney, Australia
+- Race: Asian
+- Ethnicity: Korean
+- Occupation: University Administrator
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced ALK-Positive Non-Small Cell Lung Cancer (NSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Status: Stage IV metastatic adenocarcinoma of the lung. Histologically confirmed.
+- Molecular Status: ALK rearrangement confirmed via Next-Generation Sequencing (NGS) prior to ALK inhibitor treatment.
+- Requirement: Currently receiving or planned to receive Alectinib as first-line treatment for advanced NSCLC.
+- Comorbidities: Stable brain metastases present. No other active malignancies.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, coughing up blood.
+- Performance Status: ECOG 1.
+- Physical Examination: Decreased breath sounds in the right upper lobe. No new neurological signs or symptoms. Stable vital signs.
+- Life Expectancy: > 6 months.
+
+4. LABORATORY RESULTS
+- Hematology:
+- Hemoglobin: 12.2 g/dL
+- WBC: 5.5 x 10^3/µL
+- ANC: 3.2 x 10^9/L
+- Platelets: 195 x 10^9/L
+- Chemistry:
+- ALT: 32 U/L
+- AST: 30 U/L
+- Bilirubin: 0.8 mg/dL
+- Creatinine: 1.1 mg/dL
+- Infectious Disease:
+- HIV/HBV/HCV: Negative
+- Imaging:
+- CT Chest: 4.5 cm mass in the right lung, hilar lymphadenopathy.
+- MRI Brain: Three stable small lesions (< 1 cm), no edema.
+
+5. TREATMENT HISTORY
+- Plan: Initiate first-line targeted therapy with Alectinib (Alecensa) 600 mg BID orally as part of a multicenter non-interventional cohort study (ReAlec, NCT04764188). Planned to receive treatment for at least one cycle (28 days). Monitor investigator-confirmed progression-free survival (PFS) using local standard of care or RECIST criteria. Track time to loss of clinical benefit (TTLCB) and choice of next line of treatment. Provide signed informed consent.

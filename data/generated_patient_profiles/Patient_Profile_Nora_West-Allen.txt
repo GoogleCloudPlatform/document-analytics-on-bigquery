@@ -1,0 +1,25 @@
+PATIENT PROFILE: NORA WEST-ALLEN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: NORA WEST-ALLEN
+- Age: 22 years
+- Sex: Female
+- Place of Residency: South Korea
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Relapsed Multiple Myeloma (Korea)
+- Other Relevant History: Korean adult with relapsed MM initiating Elranatamab in a post-marketing safety study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Hypercalcemia, osteolytic lesions, serum monoclonal protein.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Relapsed Multiple Myeloma (Korea).
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Starting Elranatamab monotherapy for relapsed disease.

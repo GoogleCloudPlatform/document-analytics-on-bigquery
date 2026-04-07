@@ -1,0 +1,33 @@
+PATIENT PROFILE: BOO RADLEY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Boo Radley
+- Age: 74 years
+- Sex: Male
+- Place of Residency: Paris, France
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk Myelodysplastic Syndromes (MDS).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Symptomatic Anemia.
+- Mild Leukopenia.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Dysplasia, ineffective hematopoiesis, increased myeloblasts.
+- Persistent fatigue and generalized weakness.
+- Occasional shortness of breath on exertion.
+- No history of transformative leukemia.
+- ECOG Performance Status: 1.
+
+4. LABORATORY RESULTS
+- Hemoglobin: 8.2 g/dL.
+- White Blood Cell Count: 3.1 x 10^9/L.
+- Serum Erythropoietin (sEPO): 400 U/L (ESA-refractory).
+- Bone Marrow Biopsy: Confirmed MDS with < 5% blasts.
+- Transfusion Burden: Requires 2 units of RBC every 4 weeks.
+
+5. TREATMENT HISTORY
+- Previous: Erythropoiesis-stimulating agents (ESAs) with inadequate response.
+- Plan: Initiate Luspatercept (Reblozyl) to reduce red blood cell transfusion dependency and manage anemia.

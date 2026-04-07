@@ -1,0 +1,29 @@
+PATIENT PROFILE: DIANA PRINCE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Diana Prince
+- Age: 29 years
+- Sex: Female
+- Place of Residency: USA
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Chronic Migraine.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Current pregnancy (8 weeks gestation).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Light sensitivity, throbbing or pulsating pain, sound sensitivity, nausea.
+- 10 migraine days per month.
+- Throbbing headache, photophobia, and nausea during attacks.
+- Pregnancy: Early first trimester, clinically stable.
+
+4. LABORATORY RESULTS
+- Beta-hCG: Positive (Consistent with 8 weeks gestation).
+- Blood pressure: 110/70 mmHg.
+- Hematology: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Rimegepant (Nurtec) used for acute treatment around the time of conception.
+- Plan: Monitor fetal development and pregnancy outcomes following early exposure to Rimegepant.

@@ -1,0 +1,30 @@
+PATIENT PROFILE: SARAH MILLER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Sarah Miller
+- Age: 22 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Von Willebrand Disease (VWD), Type 3.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- History of frequent severe mucosal and joint bleeding.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Prolonged bleeding time, deficiency of factor viii, impaired platelet adhesion.
+- Chronic joint pain (hemarthropathy) due to recurrent bleeds.
+- Frequent epistaxis and mucosal hemorrhages.
+- General Physical: Stable between bleeding episodes.
+
+4. LABORATORY RESULTS
+- VWF Antigen (VWF:Ag): < 1% (Undetectable).
+- VWF Ristocetin Cofactor Activity (VWF:RCo): < 1%.
+- Factor VIII Activity: 3%.
+- Hematology: Intermittent iron deficiency anemia due to chronic blood loss.
+
+5. TREATMENT HISTORY
+- Previous: On-demand factor replacement.
+- Plan: Initiate prophylactic factor replacement therapy (Standard of Care) to reduce bleeding rates and prevent further joint damage.

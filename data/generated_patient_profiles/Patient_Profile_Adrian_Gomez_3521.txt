@@ -1,0 +1,23 @@
+PATIENT PROFILE: ADRIAN GOMEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Adrian Gomez
+- Age: 8 years
+- Sex: Male
+- Place of Residency: Osaka, Japan
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: methotrexate
+- Other Relevant History: Patient has a history of stable management for their primary condition. Pediatric onset noted; patient remains under guardian supervision.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Thrombocytopenia, hair thinning.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for methotrexate.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

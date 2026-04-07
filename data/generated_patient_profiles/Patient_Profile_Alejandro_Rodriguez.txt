@@ -1,0 +1,25 @@
+PATIENT PROFILE: ALEJANDRO RODRIGUEZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: ALEJANDRO RODRIGUEZ
+- Age: 59 years
+- Sex: Male
+- Place of Residency: Argentina
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Neoadjuvant Non-small Cell Lung Cancer
+- Other Relevant History: Adult patient with resectable NSCLC receiving neoadjuvant Nivolumab plus chemotherapy in a real-world study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Coughing up blood, persistent cough.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Neoadjuvant Non-small Cell Lung Cancer.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Starting neoadjuvant therapy with Nivolumab and platinum-based chemotherapy.

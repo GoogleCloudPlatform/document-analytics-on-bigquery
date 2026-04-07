@@ -1,0 +1,31 @@
+PATIENT PROFILE: WILBUR WRIGHT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Wilbur Wright
+- Age: 68 years
+- Sex: Male
+- Place of Residency: London, UK
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Heart Failure with Preserved Ejection Fraction (HFpEF).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Associated Pulmonary Hypertension.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Unable to pump out sufficient blood, ventricular dysfunction.
+- Chronic shortness of breath on exertion.
+- Fatigue and reduced exercise capacity.
+- No history of right heart failure.
+- BMI: 27.5 kg/m².
+
+4. LABORATORY RESULTS
+- Left Ventricular Ejection Fraction (LVEF): 55%.
+- NT-proBNP: Elevated (1100 pg/mL).
+- Right Heart Catheterization: Elevated pulmonary arterial pressures.
+- Renal function: Normal.
+
+5. TREATMENT HISTORY
+- Previous: Diuretics and antihypertensives.
+- Plan: Initiate Sotatercept therapy for the management of pulmonary hypertension associated with HFpEF.

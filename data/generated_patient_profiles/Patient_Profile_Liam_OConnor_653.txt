@@ -1,0 +1,29 @@
+PATIENT PROFILE: LIAM O'CONNOR
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Liam O'Connor
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Paris, France
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: EGFR-Mutated Non-Small Cell Lung Cancer (NSCLC).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Stage IV Adenocarcinoma.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Persistent cough, chest pain, coughing up blood, shortness of breath.
+- Exertional shortness of breath.
+- ECOG Performance Status: 1.
+- Smoking status: Never-smoker.
+
+4. LABORATORY RESULTS
+- Tumor NGS: EGFR exon 19 deletion confirmed.
+- Biomarkers: Rising CEA levels despite current therapy.
+- Organ Function: Adequate hepatic and renal function.
+
+5. TREATMENT HISTORY
+- Previous: Currently on Osimertinib (stable but with rising biomarkers).
+- Plan: Continue Osimertinib and initiate combination therapy with Datopotamab Deruxtecan (Dato-DXd).

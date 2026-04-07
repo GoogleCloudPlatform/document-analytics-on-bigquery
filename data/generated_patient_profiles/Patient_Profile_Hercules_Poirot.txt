@@ -1,0 +1,31 @@
+PATIENT PROFILE: HERCULES POIROT
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Hercules Poirot
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Brussels, Belgium
+- Race/Ethnicity: Not specified
+- Occupation: Private Investigator (Belgium)
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Generalized Myasthenia Gravis (gMG).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Anti-AChR antibody-positive.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Asymmetric ophthalmoplegia, facial muscle weakness, bulbar muscle weakness, diplopia.
+- Generalized muscle weakness, particularly in the limbs.
+- Bulbar symptoms, including occasional difficulty swallowing and slurred speech.
+- Ptosis (drooping eyelid) and diplopia (double vision).
+- MG-ADL score: 12.
+
+4. LABORATORY RESULTS
+- Anti-Acetylcholine Receptor (AChR) Antibody: Positive (High titer).
+- Single Fiber EMG: Increased jitter consistent with neuromuscular junction defect.
+- Pulmonary Function Tests: Normal Vital Capacity.
+- Cardiac Status: Stable, no signs of myocarditis.
+
+5. TREATMENT HISTORY
+- Previous: Pyridostigmine and Prednisone with inadequate response.
+- Plan: Initiate Ravulizumab (Ultomiris) as a complement inhibitor for symptomatic management of generalized Myasthenia Gravis.

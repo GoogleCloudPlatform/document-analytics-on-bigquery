@@ -1,0 +1,23 @@
+PATIENT PROFILE: ARIA ALVAREZ
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Aria Alvarez
+- Age: 5 years
+- Sex: Female
+- Place of Residency: Milan, Italy
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Triple Negative Breast Neoplasms
+- Other Relevant History: Patient has a history of stable management for their primary condition. Pediatric onset noted; patient remains under guardian supervision.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Abnormal growth, tissue growth.
+- Performance Status: ECOG 0 or 1.
+- Physical Status: Generally stable, independent in daily activities.
+
+4. LABORATORY RESULTS
+- Hematology and biochemistry parameters are within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard maintenance therapy as per clinical guidelines for Triple Negative Breast Neoplasms.
+- Current Plan: Continue ongoing monitoring and periodic clinical assessments.

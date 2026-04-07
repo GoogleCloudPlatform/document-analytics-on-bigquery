@@ -1,0 +1,25 @@
+PATIENT PROFILE: HARRIET WALTER
+
+1. DEMOGRAPHIC INFORMATION
+- Name: HARRIET WALTER
+- Age: 75 years
+- Sex: Female
+- Place of Residency: UK
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Asthma medical chart review
+- Other Relevant History: Retrospective data collection for Tezepelumab response in a UK specialist center.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Severe Asthma medical chart review.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Severe Asthma medical chart review
+- Current Plan: Initiating Tezepelumab; records being reviewed for clinical effectiveness.

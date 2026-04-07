@@ -1,0 +1,30 @@
+PATIENT PROFILE: FRANKLIN PETERSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: FRANKLIN PETERSON
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Florida, USA
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Histology: Metastatic adenocarcinoma.
+- Molecular Markers: EGFR and ALK wild type.
+- PD-L1 Expression: Negative (< 1%).
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pericardial effusion, tumor nodules, distant metastasis, pleural nodules.
+- Performance Status: ECOG 1.
+- Physical Status: Fit for dual immunotherapy.
+
+4. LABORATORY RESULTS
+- Hematologic Function: Adequate.
+- Organ Function: Normal.
+- PD-L1 Testing: Negative staining.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treatment-naive for metastatic disease.
+- Current Plan: Initiating first-line dual immunotherapy with Nivolumab and Ipilimumab.
+- Monitoring: Long-term safety study participation.

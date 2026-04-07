@@ -1,0 +1,25 @@
+PATIENT PROFILE: TONY STARK
+
+1. DEMOGRAPHIC INFORMATION
+- Name: TONY STARK
+- Age: 63 years
+- Sex: Male
+- Place of Residency: Tokyo, Japan
+- Employment Status: Unemployed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Other Relevant History: Patient with low PD-L1 metastatic NSCLC receiving first-line treatment in an observational study.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Pericardial effusion, pleural effusion, pleural nodules, tumor nodules.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Metastatic Non-Small Cell Lung Cancer (NSCLC).
+
+4. LABORATORY RESULTS
+- Tumor Markers: PD-L1 expression < 1% (TPS 0%) or as per protocol. Molecular Testing: Wild type for EGFR, ALK, and ROS1 mutations (unless specified otherwise).
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Metastatic Non-Small Cell Lung Cancer (NSCLC)
+- Current Plan: EGFR and ALK mutations are absent; starting first-line nivolumab-based combination therapy.

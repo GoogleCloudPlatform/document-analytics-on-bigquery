@@ -1,0 +1,30 @@
+PATIENT PROFILE: TONY STARK
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Tony Stark
+- Age: 50 years
+- Sex: Male
+- Place of Residency: USA
+- Race/Ethnicity: Not specified
+- Occupation: Engineer/Business Owner
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Obstructive Hypertrophic Cardiomyopathy (oHCM).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- NYHA Class III symptoms.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Reduced left ventricular volume, cardiac muscle disease.
+- Persistent chest pain during activities.
+- Fainting spells (exertional syncope).
+- Severe exertional dyspnea.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirmed septal hypertrophy.
+- Peak resting LVOT gradient: > 50 mmHg.
+- LVEF: 64%.
+- NT-proBNP: Elevated.
+
+5. TREATMENT HISTORY
+- Previous: High-dose Beta-blockers and Calcium channel blockers with suboptimal relief.
+- Plan: Initiate Mavacamten (Camzyos) for the treatment of symptomatic obstructive HCM and reduction of LVOT gradient.

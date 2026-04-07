@@ -1,0 +1,30 @@
+PATIENT PROFILE: ISAAC NEWTON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Isaac Newton
+- Age: 75 years
+- Sex: Male
+- Place of Residency: New York, USA
+- Race/Ethnicity: Not specified
+- Occupation: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Mild Cognitive Impairment (MCI) due to Alzheimer's Disease.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Early-stage neuroinflammation.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Death of nerve cells, loss of function.
+- Progressive memory loss and word-finding difficulties.
+- MMSE Score: 24/30.
+- Independent in activities of daily living with minimal assistance.
+
+4. LABORATORY RESULTS
+- PET Scan: Evidence of amyloid deposition.
+- MRI: Mild hippocampal atrophy.
+- Inflammatory Markers (Baseline): CRP mildly elevated (3.2 mg/L).
+- Renal and Hepatic function: Adequate.
+
+5. TREATMENT HISTORY
+- Previous: Donepezil 10 mg daily.
+- Plan: Initiate treatment with Canakinumab to evaluate its impact on neuroinflammation and cognitive decline.

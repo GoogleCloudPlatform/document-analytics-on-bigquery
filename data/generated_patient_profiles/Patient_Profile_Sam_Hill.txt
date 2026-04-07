@@ -1,0 +1,31 @@
+PATIENT PROFILE: SAM HILL
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Sam Hill
+- Age: 62 years
+- Sex: Male
+- Place of Residency: Paris, France
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic Non-Small Cell Lung Cancer (NSCLC), Stage IV.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- PD-L1 negative disease.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Tumor nodules, pleural nodules, pericardial effusion.
+- Persistent cough.
+- Moderate fatigue.
+- ECOG Performance Status: 1.
+- Smoking history: Former heavy smoker.
+
+4. LABORATORY RESULTS
+- PD-L1 expression: < 1%.
+- EGFR, ALK: Negative.
+- Hemoglobin: 12.0 g/dL.
+- Imaging: Primary lung mass with adrenal metastases.
+
+5. TREATMENT HISTORY
+- Previous: No prior systemic therapy for metastatic disease.
+- Plan: Initiate first-line dual immunotherapy with Nivolumab and Ipilimumab for metastatic NSCLC management.

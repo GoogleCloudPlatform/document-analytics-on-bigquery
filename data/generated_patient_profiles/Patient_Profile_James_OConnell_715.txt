@@ -1,0 +1,32 @@
+PATIENT PROFILE: JAMES O'CONNELL
+
+1. DEMOGRAPHIC INFORMATION
+- Name: James O'Connell
+- Age: 45 years
+- Sex: Male
+- Place of Residency: Berlin, Germany
+- Race/Ethnicity: Not specified
+- Occupation: Professional
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Severe Eosinophilic Asthma.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Hyperlipidemia.
+- Cardiovascular risk for MACE monitoring.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Difficulty breathing.
+- Poorly controlled asthma despite adherence to maintenance therapy.
+- Recurrent nighttime symptoms.
+- BMI: 28.0 kg/m².
+- Blood Pressure: 130/85 mmHg.
+
+4. LABORATORY RESULTS
+- Blood Eosinophil Count: 520 cells/µL.
+- FEV1: 74% of predicted.
+- LDL Cholesterol: 155 mg/dL.
+- ECG: Normal.
+
+5. TREATMENT HISTORY
+- Previous: High-dose inhaled corticosteroids and LABA.
+- Plan: Initiate add-on therapy with Tezepelumab (Tezspire) for severe asthma with participation in a cardiovascular safety study.

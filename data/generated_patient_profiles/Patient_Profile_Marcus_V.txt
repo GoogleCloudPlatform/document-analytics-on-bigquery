@@ -1,0 +1,24 @@
+PATIENT PROFILE: MARCUS V.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARCUS V.
+- Age: 66 years
+- Sex: Male
+- Place of Residency: Melbourne, Australia
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Polycythemia Vera (PV).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Treatment History: Inadequate response or intolerance to hydroxyurea.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Leukocytosis, extramedullary hematopoiesis.
+- Hematocrit Level: Hematocrit remains above 45% despite phlebotomy.
+
+4. LABORATORY RESULTS
+- Genetic Marker: Positive for the JAK2 V617F mutation.
+- Blood Counts: Elevated red blood cell count and platelets.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Treated with hydroxyurea, but failed to achieve adequate control of his hematocrit and symptoms.
+- Current Plan: Accessing Ruxolitinib, a JAK1/2 inhibitor, through a Managed Access Program (MAP) to control his disease.

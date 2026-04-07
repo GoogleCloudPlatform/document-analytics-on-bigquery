@@ -1,0 +1,29 @@
+PATIENT PROFILE: ORORO MUNROE
+
+1. DEMOGRAPHIC INFORMATION
+- Name: Ororo Munroe
+- Age: 60 years
+- Sex: Female
+- Place of Residency: Tokyo, Japan
+- Race/Ethnicity: Not specified
+- Occupation: Not specified
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic Chronic Obstructive Pulmonary Disease (COPD).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- History of tobacco use.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Shortness of breath, wheezing, chest tightness, chronic cough.
+- Frequent morning cough and daily breathlessness.
+- CAT (COPD Assessment Test) score: 22.
+- Smoking status: Former smoker.
+
+4. LABORATORY RESULTS
+- FEV1: 52% of predicted.
+- FEV1/FVC: 0.62.
+- Pulse oximetry: 94%.
+
+5. TREATMENT HISTORY
+- Previous: Dual maintenance therapy.
+- Plan: Initiate BGF (Budesonide/Glycopyrronium/Formoterol) triple therapy in a routine care setting for improved symptom management.

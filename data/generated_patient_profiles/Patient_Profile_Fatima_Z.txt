@@ -1,0 +1,24 @@
+PATIENT PROFILE: FATIMA Z.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: FATIMA Z.
+- Age: 25 years
+- Sex: Female
+- Place of Residency: Casablanca, Morocco
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Transfusion-Dependent β-Thalassemia.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Complication: High transfusion burden.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Anemia.
+- Performance Status: Good, despite chronic illness.
+
+4. LABORATORY RESULTS
+- Hemoglobin: Low, requiring frequent transfusions.
+- Ferritin: High.
+
+5. TREATMENT HISTORY
+- Standard Care: Regular transfusions and iron chelation.
+- Current Plan: Starting Luspatercept.

@@ -1,0 +1,25 @@
+PATIENT PROFILE: CILLIAN MURPHY
+
+1. DEMOGRAPHIC INFORMATION
+- Name: CILLIAN MURPHY
+- Age: 48 years
+- Sex: Male
+- Place of Residency: London, UK
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Lower-Risk MDS with Anemia
+- Other Relevant History: Lower-risk MDS patient using Luspatercept to reduce transfusion burden and improve iron overload.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Palpitations of the heart, lethargy, pallor of the skin and mucous membranes, soft systolic murmurs.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Lower-Risk MDS with Anemia.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Hemoglobin 7.8 g/dL; Serum Erythropoietin (sEPO) 350 U/L. Bone Marrow: >15% ring sideroblasts.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Lower-Risk MDS with Anemia
+- Current Plan: Transfusion-dependent (3 units/month); failing initial erythropoietin therapy; starting Luspatercept.

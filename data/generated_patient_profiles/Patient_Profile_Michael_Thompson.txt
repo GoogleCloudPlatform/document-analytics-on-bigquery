@@ -1,0 +1,25 @@
+PATIENT PROFILE: MICHAEL THOMPSON
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MICHAEL THOMPSON
+- Age: 62 years
+- Sex: Male
+- Place of Residency: the US
+- Employment Status: Retired
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Metastatic NSCLC (PD-L1 <1%)
+- Other Relevant History: PD-L1 negative metastatic NSCLC patient receiving first-line dual immunotherapy in a safety surveillance cohort.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Coughing up blood, persistent cough.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Metastatic NSCLC (PD-L1 <1%).
+
+4. LABORATORY RESULTS
+- Tumor Markers: PD-L1 expression < 1% (TPS 0%). Molecular Testing: Wild type for EGFR, ALK, and ROS1 mutations.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: PD-L1 expression is 0%; starting first-line therapy with Nivolumab and Ipilimumab.

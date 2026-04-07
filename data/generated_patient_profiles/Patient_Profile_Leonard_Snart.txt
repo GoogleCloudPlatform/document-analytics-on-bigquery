@@ -1,0 +1,25 @@
+PATIENT PROFILE: LEONARD SNART
+
+1. DEMOGRAPHIC INFORMATION
+- Name: LEONARD SNART
+- Age: 55 years
+- Sex: Male
+- Place of Residency: France
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Neoadjuvant NSCLC
+- Other Relevant History: Adult patient in France with resectable NSCLC receiving neoadjuvant Nivolumab plus chemotherapy.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Coughing up blood, chest pain, persistent cough, shortness of breath.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Neoadjuvant NSCLC.
+
+4. LABORATORY RESULTS
+- Clinical Markers: Lab values within the required range for trial qualification. Safety Labs: Renal and liver function within normal limits.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care
+- Current Plan: Starting neoadjuvant therapy with Nivolumab and platinum-based chemotherapy prior to surgery.

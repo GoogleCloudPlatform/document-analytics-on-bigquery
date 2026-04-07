@@ -1,0 +1,25 @@
+PATIENT PROFILE: NEENA THURMAN
+
+1. DEMOGRAPHIC INFORMATION
+- Name: NEENA THURMAN
+- Age: 39 years
+- Sex: Female
+- Place of Residency: Berlin, Germany
+- Employment Status: Employed
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Advanced Solid Tumor (KRAS G12C Mutation)
+- Other Relevant History: Participant with KRAS G12C mutation in a metastatic cancer eligible for the adagrasib access program.
+- Secondary Condition: None documented
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Clinical symptoms related to the primary disorder, affecting patient quality of life and functionality.
+- Performance Status: ECOG 0 or 1
+- Physical Status: Stable, meeting all inclusion criteria for Advanced Solid Tumor (KRAS G12C Mutation).
+
+4. LABORATORY RESULTS
+- Molecular Testing: Confirmed KRAS G12C mutation via NGS.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Standard of Care for Advanced Solid Tumor (KRAS G12C Mutation)
+- Current Plan: NGS testing showed KRAS G12C; failed 2 prior lines of treatment; initiating targeted therapy.

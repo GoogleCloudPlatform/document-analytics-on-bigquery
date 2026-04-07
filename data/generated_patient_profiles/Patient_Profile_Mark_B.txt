@@ -1,0 +1,23 @@
+PATIENT PROFILE: MARK B.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: MARK B.
+- Age: 49 years
+- Sex: Male
+- Place of Residency: New York, NY, USA
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Symptomatic oHCM (NYHA Class II).
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- LVOT Gradient: Resting LVOT gradient 60 mmHg.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Fainting (syncope), palpitations, chest pain.
+- Performance Status: Limited.
+
+4. LABORATORY RESULTS
+- Echocardiogram: Confirms oHCM.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Beta-blockers.
+- Current Plan: Enrolled in a Prospective Registry for Mavacamten.

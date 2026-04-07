@@ -1,0 +1,23 @@
+PATIENT PROFILE: SAMUEL V.
+
+1. DEMOGRAPHIC INFORMATION
+- Name: SAMUEL V.
+- Age: 7 years
+- Sex: Male
+- Place of Residency: Rio de Janeiro, Brazil
+
+2. CLINICAL DIAGNOSIS & DISORDERS
+- Primary Disorder: Moderate-to-Severe Atopic Dermatitis.
+- Other Relevant History: Patient presents with standard clinical history consistent with the primary disorder. No significant prior comorbidities noted.
+- Prior Treatment: Failed topical immunomodulators.
+
+3. SYMPTOMS & PHYSICAL STATUS
+- Symptoms: Inflammation of the skin.
+- EASI Score: High.
+
+4. LABORATORY RESULTS
+- IgE: Elevated.
+
+5. TREATMENT HISTORY
+- Prior Therapy: Topical calcineurin inhibitors.
+- Current Plan: Starting Dupilumab (Dupixent).
