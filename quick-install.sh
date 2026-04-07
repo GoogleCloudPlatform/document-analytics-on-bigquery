@@ -125,7 +125,46 @@ create_sa() {
 check_dependencies
 
 section_open "1. Enabling APIs"
-APIS="chat.googleapis.com slides.googleapis.com gmail.googleapis.com drive.googleapis.com docs.googleapis.com sheets.googleapis.com calendar-json.googleapis.com datalineage.googleapis.com visionai.googleapis.com dataform.googleapis.com dataflow.googleapis.com dataplex.googleapis.com aiplatform.googleapis.com"
+APIS="
+aiplatform.googleapis.com
+analyticshub.googleapis.com
+artifactregistry.googleapis.com
+bigquery.googleapis.com
+bigqueryconnection.googleapis.com
+bigquerydatatransfer.googleapis.com
+calendar-json.googleapis.com
+chat.googleapis.com
+cloudaicompanion.googleapis.com
+cloudbuild.googleapis.com
+cloudfunctions.googleapis.com
+cloudkms.googleapis.com
+cloudresourcemanager.googleapis.com
+cloudscheduler.googleapis.com
+compute.googleapis.com
+dataflow.googleapis.com
+dataform.googleapis.com
+datalineage.googleapis.com
+dataplex.googleapis.com
+docs.googleapis.com
+documentai.googleapis.com
+drive.googleapis.com
+geminidataanalytics.googleapis.com
+gmail.googleapis.com
+iam.googleapis.com
+iamcredentials.googleapis.com
+logging.googleapis.com
+monitoring.googleapis.com
+notebooks.googleapis.com
+pubsub.googleapis.com
+secretmanager.googleapis.com
+serviceusage.googleapis.com
+sheets.googleapis.com
+slides.googleapis.com
+storage-api.googleapis.com
+storage-component.googleapis.com
+storage.googleapis.com
+visionai.googleapis.com
+"
 for api in $APIS; do
   enable_api "$api"
 done
