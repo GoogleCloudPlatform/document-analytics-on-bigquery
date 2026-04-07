@@ -187,24 +187,19 @@ create_dataset "clinical_trial_multiregion"
 section_close "BigQuery Datasets"
 
 section_open "5. Loading Data & Tables"
-# Load AVRO file
-run_command "bq load --source_format=AVRO $PROJECT_ID:clinical_trial.TrialStatus ./sql/tables/TrialStatus.avro"
+# Load all AVRO files into clinical_trial dataset
+for avro_file in ./sql/tables/*.avro; do
+  if [ -f "$avro_file" ]; then
+    table_name=$(basename "$avro_file" .avro)
+    run_command "bq load --source_format=AVRO --project_id=$PROJECT_ID clinical_trial.$table_name '$avro_file'"
+  fi
+done
 
 # Upload local files to GCS
 # Assuming profiles are in data/generated_patient_profiles and reports are in data/generated_clinical_trials_reports
 run_command "gsutil -m cp data/generated_patient_profiles/*.txt gs://$BUCKET_PROFILES/"
 run_command "gsutil -m cp data/generated_clinical_trials_reports/new/*.pdf gs://$BUCKET_DOCS/" 2>/dev/null || warn "No PDF reports found in data/generated_clinical_trials_reports/new/"
 section_close "Data Loading"
-
-section_open "6. Executing SQL Queries"
-# Run the denormalized data query (outputting to a table or just validating)
-SQL_FILE="sql/Clinical TRial Denormalized Data.sql"
-if [ -f "$SQL_FILE" ]; then
-  run_command "bq query --use_legacy_sql=false < '$SQL_FILE'"
-else
-  warn "SQL file $SQL_FILE not found."
-fi
-section_close "SQL Execution"
 
 printf "\n${BGREEN}Setup Complete!${NC}\n"
 if [ "$EXECUTE" = false ]; then
