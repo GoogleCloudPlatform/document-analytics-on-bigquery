@@ -38,28 +38,45 @@ Once you have reviewed the output, run the script with the `--execute` flag to a
 
 ---
 
-## 📊 Step 2: Data Layer & Table Creation
+## 📊 Step 2: BigQuery & IAM Configuration
 
-The `quick-install.sh` script automatically performs the following data tasks:
+The `quick-install.sh` script automates the following BigQuery and IAM tasks:
 
-1.  **AVRO Loading:** Loads `sql/tables/TrialStatus.avro` into the `clinical_trial.TrialStatus` table.
+1.  **BigQuery Connections:**
+    *   Creates `llm-connection` (us-central1) for Gemini and Embedding models.
+    *   Creates `cloud_ai_resources` (us) for Document AI models.
+2.  **IAM Permissions:**
+    *   Automatically identifies the service accounts associated with these connections.
+    *   Grants `roles/aiplatform.user`, `roles/storage.objectUser`, and `roles/documentai.viewer` to ensure models can interact with Google's AI services and GCS data.
+3.  **Remote Models:**
+    *   Creates `EmbeddingsModel` (text-embedding-005).
+    *   Creates `LLMModel` (gemini-2.5-pro).
+    *   Creates `cssr_reports_model` (Document AI Layout Parser).
+4.  **Property Graph:**
+    *   Defines the `clinical_trial.DrugGraph` which maps Trials, Drugs, Disorders, and Mechanisms of Action into a searchable graph structure.
+
+---
+
+## 💾 Step 3: Data Layer & Table Creation
+
+The script then performs the following data tasks:
+
+1.  **AVRO Loading:** Loads all 20 tables from `sql/tables/*.avro` into the `clinical_trial` dataset.
 2.  **Unstructured Data Ingestion:**
-    *   Uploads patient profile text files from `data/generated_patient_profiles/` to the `${PROJECT_ID}-patient-profiles` bucket.
-    *   Uploads clinical trial PDF reports from `data/generated_clinical_trials_reports/new/` to the `${PROJECT_ID}-clinical-trials-docs` bucket.
+    *   Uploads patient profiles to the `${PROJECT_ID}-patient-profiles` bucket.
+    *   Uploads clinical trial PDFs to the `${PROJECT_ID}-clinical-trials-docs` bucket.
 
 ---
 
-## 🔍 Step 3: Analysis Layer (SQL)
+## 🔍 Step 4: Analysis Layer (SQL)
 
-To generate the denormalized view of the clinical trials data, you can run the SQL query provided in the repository. This query joins the trials, drugs, and disorders into a flat structure for easier analysis.
-
-```bash
-bq query --use_legacy_sql=false < sql/"Clinical TRial Denormalized Data.sql"
-```
+To generate the denormalized view or run sample graph queries, the script executes:
+*   `sql/Clinical TRial Denormalized Data.sql`
+*   `sql/setup_clinical_trial_graph.sql` (to provision the graph schema)
 
 ---
 
-## 📓 Step 4: Interaction Layer (Notebooks)
+## 📓 Step 5: Interaction Layer (Notebooks)
 
 The `notebooks/` directory contains Jupyter notebooks that demonstrate the platform's capabilities.
 

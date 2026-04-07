@@ -186,7 +186,38 @@ create_dataset "clinical_trial_demo"
 create_dataset "clinical_trial_multiregion"
 section_close "BigQuery Datasets"
 
-section_open "5. Loading Data & Tables"
+section_open "5. Setting up BigQuery Connections & IAM"
+# Create LLM Connection
+if bq ls --connection --project_id="$PROJECT_ID" --location=us-central1 | grep -q "llm-connection"; then
+  log "Connection llm-connection already exists."
+else
+  run_command "bq mk --connection --project_id=$PROJECT_ID --location=us-central1 --connection_type=CLOUD_RESOURCE llm-connection"
+fi
+
+# Create AI Resources Connection
+if bq ls --connection --project_id="$PROJECT_ID" --location=us | grep -q "cloud_ai_resources"; then
+  log "Connection cloud_ai_resources already exists."
+else
+  run_command "bq mk --connection --project_id=$PROJECT_ID --location=us --connection_type=CLOUD_RESOURCE cloud_ai_resources"
+fi
+
+# Extract Service Accounts and grant permissions
+if [ "$EXECUTE" = true ]; then
+  SA_LLM=$(bq show --connection --project_id="$PROJECT_ID" --location=us-central1 --format=json llm-connection | grep -o 'bqcx-[^"]*')
+  SA_AI=$(bq show --connection --project_id="$PROJECT_ID" --location=us --format=json cloud_ai_resources | grep -o 'bqcx-[^"]*')
+  
+  log "Granting permissions to Connection SAs: $SA_LLM, $SA_AI"
+  for role in roles/aiplatform.user roles/storage.objectUser; do
+    gcloud projects add-iam-policy-binding "$PROJECT_ID" --member="serviceAccount:$SA_LLM" --role="$role" --quiet > /dev/null
+    gcloud projects add-iam-policy-binding "$PROJECT_ID" --member="serviceAccount:$SA_AI" --role="$role" --quiet > /dev/null
+  done
+  gcloud projects add-iam-policy-binding "$PROJECT_ID" --member="serviceAccount:$SA_AI" --role="roles/documentai.viewer" --quiet > /dev/null
+else
+  echo "  [DRY RUN] Extract Connection SAs and grant roles/aiplatform.user, roles/storage.objectUser, roles/documentai.viewer"
+fi
+section_close "Connections & IAM"
+
+section_open "6. Loading Data & Tables"
 # Load all AVRO files into clinical_trial dataset
 for avro_file in ./sql/tables/*.avro; do
   if [ -f "$avro_file" ]; then
@@ -200,6 +231,25 @@ done
 run_command "gsutil -m cp data/generated_patient_profiles/*.txt gs://$BUCKET_PROFILES/"
 run_command "gsutil -m cp data/generated_clinical_trials_reports/new/*.pdf gs://$BUCKET_DOCS/" 2>/dev/null || warn "No PDF reports found in data/generated_clinical_trials_reports/new/"
 section_close "Data Loading"
+
+section_open "7. Creating Models & Knowledge Graph"
+GRAPH_SQL="sql/setup_clinical_trial_graph.sql"
+if [ -f "$GRAPH_SQL" ]; then
+  run_command "bq query --use_legacy_sql=false < '$GRAPH_SQL'"
+else
+  warn "Graph setup SQL file $GRAPH_SQL not found."
+fi
+section_close "Models & Graph"
+
+section_open "8. Executing Analytical Queries"
+# Run the denormalized data query
+SQL_FILE="sql/Clinical TRial Denormalized Data.sql"
+if [ -f "$SQL_FILE" ]; then
+  run_command "bq query --use_legacy_sql=false < '$SQL_FILE'"
+else
+  warn "SQL file $SQL_FILE not found."
+fi
+section_close "Analytical Queries"
 
 printf "\n${BGREEN}Setup Complete!${NC}\n"
 if [ "$EXECUTE" = false ]; then
