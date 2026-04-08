@@ -28,12 +28,12 @@ OPTIONS (
   ENDPOINT = 'gemini-2.5-pro'
 );
 
-CREATE OR REPLACE MODEL `clinical_trial_multiregion.cssr_reports_model`
-REMOTE WITH CONNECTION `meridian-dev-455515.us.cloud_ai_resources` 
-  OPTIONS(
-    remote_service_type = 'CLOUD_AI_DOCUMENT_V1',
-    document_processor = 'e3d2713160e255fc'
-);
+--CREATE OR REPLACE MODEL `clinical_trial_multiregion.cssr_reports_model`
+--REMOTE WITH CONNECTION `meridian-dev-455515.us.cloud_ai_resources` 
+--  OPTIONS(
+--    remote_service_type = 'CLOUD_AI_DOCUMENT_V1',
+--    document_processor = 'e3d2713160e255fc'
+--);
 
 CREATE OR REPLACE PROPERTY GRAPH clinical_trial.DrugGraph
 NODE TABLES (
