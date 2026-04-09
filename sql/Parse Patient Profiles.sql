@@ -52,8 +52,9 @@ CREATE OR REPLACE TABLE `clinical_trial_multiregion.Patients` AS (
           prior_therapy STRING,
           current_plan STRING
         ''',
+        model_params => JSON '{"generation_config": {"temperature": 0.1, "max_output_tokens": 2048, "thinking_config": {"include_thoughts": true}}}',
         connection_id => 'us.cloud_ai_resources',
-        endpoint => 'gemini-2.5-flash'
+        endpoint => 'gemini-2.5-pro'
       ) AS extracted_data
     FROM
       `meridian-dev-455515.clinical_trial_multiregion.patient_profiles`
