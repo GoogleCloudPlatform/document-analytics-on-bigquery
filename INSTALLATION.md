@@ -70,8 +70,9 @@ The script then performs the following data tasks:
 
 ## 🔍 Step 4: Analysis Layer (SQL)
 
-To generate the denormalized view or run sample graph queries, the script executes:
+To generate the denormalized view, parse unstructured data, or run sample graph queries, the script executes:
 *   `sql/Clinical TRial Denormalized Data.sql`
+*   `sql/Parse Patient Profiles.sql` (to structure the ingested patient data)
 *   `sql/setup_clinical_trial_graph.sql` (to provision the graph schema)
 
 ---
@@ -96,3 +97,19 @@ The `notebooks/` directory contains Jupyter notebooks that demonstrate the platf
 *   **Bucket Name Collisions:** GCS bucket names must be globally unique. If the script fails during bucket creation, ensure your `PROJECT_ID` prefix makes them unique.
 *   **Quota Limits:** If enabling APIs fails, check your project's quota limits in the Google Cloud Console.
 *   **Authentication:** If you receive "Access Denied" errors, re-run `gcloud auth application-default login`.
+
+---
+
+## 🛠️ Appendix: Manual Infrastructure Commands
+
+The following commands were used to manually verify and provision resources during the development of the patient profile pipeline:
+
+### 1. Create Storage Bucket
+```bash
+gcloud storage buckets create gs://${PROJECT_ID}-patient-profiles
+```
+
+### 2. Sync Local Data to GCS
+```bash
+gcloud storage rsync data/generated_patient_profiles gs://${PROJECT_ID}-patient-profiles/ --recursive
+```

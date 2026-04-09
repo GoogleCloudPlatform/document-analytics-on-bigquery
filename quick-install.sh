@@ -249,9 +249,22 @@ if [ -f "$SQL_FILE" ]; then
 else
   warn "SQL file $SQL_FILE not found."
 fi
+
+# Run the patient profile parsing query
+PARSE_PROFILES_SQL="sql/Parse Patient Profiles.sql"
+if [ -f "$PARSE_PROFILES_SQL" ]; then
+  run_command "bq query --use_legacy_sql=false < '$PARSE_PROFILES_SQL'"
+else
+  warn "SQL file $PARSE_PROFILES_SQL not found."
+fi
 section_close "Analytical Queries"
 
 printf "\n${BGREEN}Setup Complete!${NC}\n"
 if [ "$EXECUTE" = false ]; then
   warn "This was a dry run. No changes were made to GCP."
 fi
+
+# --- APPENDIX: MANUAL INFRASTRUCTURE COMMANDS ---
+# The following commands can be used to manually verify and provision resources:
+# gcloud storage buckets create gs://${PROJECT_ID}-patient-profiles
+# gcloud storage rsync data/generated_patient_profiles gs://${PROJECT_ID}-patient-profiles/ --recursive
