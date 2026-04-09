@@ -11,7 +11,7 @@ Before you begin, ensure you have the following:
     *   `gcloud auth login`
     *   `gcloud config set project [YOUR_PROJECT_ID]`
 3.  **Permissions:** You need the `Editor` or `Owner` role on the project to enable APIs and create resources.
-4.  **Python 3.10+:** Required for running the demonstration notebooks.
+4.  **Python 3.10+:** Required for running the demonstration notebooks and the new ingestion pipeline parameterization scripts.
 
 ---
 
@@ -38,7 +38,44 @@ Once you have reviewed the output, run the script with the `--execute` flag to a
 
 ---
 
-## 📊 Step 2: BigQuery & IAM Configuration
+## ⚙️ Step 2: Unstructured Ingestion Parameterization (NEW!)
+
+Instead of modifying static SQL scripts with complicated escape characters, we now utilize a **Beginner-Friendly Parameterization Engine**.
+
+### 1. Configure the Pipeline
+Open `config.yaml` and update the values with your actual GCP details:
+```yaml
+# Basic Google Cloud Info
+project_id: "your-project-id"
+dataset_id: "clinical_trial_multiregion"
+location: "us"
+connection_id: "cloud_ai_resources"
+
+# Input Data Locations
+patient_data_gcs_path: "gs://your-bucket-name/patients/*.txt"
+clinical_reports_gcs_path: "gs://your-bucket-name/reports/*.pdf"
+
+# Advanced (Optional)
+model_name: "cssr_reports_model"
+```
+
+### 2. Generate Deployable Stored Procedures
+Run the engine script (no external dependencies required):
+```bash
+python3 scripts/parameterize.py
+```
+*This will generate `sql/Parameterized_Patient_Profiles.sql` and `sql/Parameterized_Clinical_Trials.sql`.*
+
+### 3. Deploy the Procedures to BigQuery
+The `quick-install.sh` handles this automatically, but to deploy them manually:
+```bash
+bq query --use_legacy_sql=false < sql/Parameterized_Patient_Profiles.sql
+bq query --use_legacy_sql=false < sql/Parameterized_Clinical_Trials.sql
+```
+
+---
+
+## 📊 Step 3: BigQuery & IAM Configuration
 
 The `quick-install.sh` script automates the following BigQuery and IAM tasks:
 
@@ -57,7 +94,7 @@ The `quick-install.sh` script automates the following BigQuery and IAM tasks:
 
 ---
 
-## 💾 Step 3: Data Layer & Table Creation
+## 💾 Step 4: Data Layer & Table Creation
 
 The script then performs the following data tasks:
 
@@ -68,16 +105,25 @@ The script then performs the following data tasks:
 
 ---
 
-## 🔍 Step 4: Analysis Layer (SQL)
+## 🔍 Step 5: Orchestrate Analysis Layer (SQL)
 
-To generate the denormalized view, parse unstructured data, or run sample graph queries, the script executes:
+Once the Data layer is created, we use an orchestration simulation to trigger the Unstructured Pipelines created in Step 2:
+
+```bash
+# Set up a virtual environment (optional) and install google-cloud-bigquery
+pip install google-cloud-bigquery
+
+# Orchestrate the procedures (this runs the actual ingestion on BQ!)
+python3 scripts/orchestrate_ingestion.py
+```
+
+Finally, we construct the graph structure using:
 *   `sql/Clinical TRial Denormalized Data.sql`
-*   `sql/Parse Patient Profiles.sql` (to structure the ingested patient data)
-*   `sql/setup_clinical_trial_graph.sql` (to provision the graph schema)
+*   `sql/setup_clinical_trial_graph.sql`
 
 ---
 
-## 📓 Step 5: Interaction Layer (Notebooks)
+## 📓 Step 6: Interaction Layer (Notebooks)
 
 The `notebooks/` directory contains Jupyter notebooks that demonstrate the platform's capabilities.
 
@@ -90,26 +136,3 @@ The `notebooks/` directory contains Jupyter notebooks that demonstrate the platf
 2.  **Local Jupyter:** Run `pip install -r requirements.txt` (if available) or install `google-cloud-bigquery` and `google-cloud-storage`, then start your local server.
 3.  **Google Colab:** Open the notebooks directly in Colab and follow the authentication prompts.
 
----
-
-## 🛠️ Troubleshooting
-
-*   **Bucket Name Collisions:** GCS bucket names must be globally unique. If the script fails during bucket creation, ensure your `PROJECT_ID` prefix makes them unique.
-*   **Quota Limits:** If enabling APIs fails, check your project's quota limits in the Google Cloud Console.
-*   **Authentication:** If you receive "Access Denied" errors, re-run `gcloud auth application-default login`.
-
----
-
-## 🛠️ Appendix: Manual Infrastructure Commands
-
-The following commands were used to manually verify and provision resources during the development of the patient profile pipeline:
-
-### 1. Create Storage Bucket
-```bash
-gcloud storage buckets create gs://${PROJECT_ID}-patient-profiles
-```
-
-### 2. Sync Local Data to GCS
-```bash
-gcloud storage rsync data/generated_patient_profiles gs://${PROJECT_ID}-patient-profiles/ --recursive
-```

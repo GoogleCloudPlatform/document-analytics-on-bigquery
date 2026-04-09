@@ -1,3 +1,12 @@
+-- ==============================================================================
+-- SOURCE TEMPLATE: DO NOT EXECUTE DIRECTLY
+-- This file serves as the raw, unescaped template for the Python parameterization engine.
+-- To deploy this to BigQuery, you must:
+-- 1. Configure config.yaml in the project root.
+-- 2. Run: python3 scripts/parameterize.py
+-- 3. Execute the resulting sql/Parameterized_Clinical_Trials.sql file.
+-- ==============================================================================
+
 CREATE OR REPLACE EXTERNAL TABLE `clinical_trial_multiregion.cssr_reports`
 WITH CONNECTION `meridian-dev-455515.us.cloud_ai_resources` 
 OPTIONS(
@@ -119,4 +128,3 @@ GROUP BY uri
 )
 )
 ;
-
