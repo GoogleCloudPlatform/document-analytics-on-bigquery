@@ -1,0 +1,12 @@
+# Basic Google Cloud Info
+project_id: "meridian-dev-455515"
+dataset_id: "clinical_trial_multiregion"
+location: "us"
+connection_id: "cloud_ai_resources"
+
+# Input Data Locations
+patient_data_gcs_path: "gs://meridian-dev-455515-patient-profiles/*.txt"
+clinical_reports_gcs_path: "gs://cssr_reports_trials/april2_generation/*.pdf"
+
+# Advanced (Optional)
+model_name: "cssr_reports_model"
