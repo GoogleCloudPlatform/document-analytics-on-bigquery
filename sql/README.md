@@ -26,7 +26,7 @@ Defines the **BigQuery Property Graph** (`<DATASET_ID>.DrugGraph`).
 ### 2. `Parameterized_Clinical_Trials.sql` (Generated)
 Implements the **Zero-Copy RAG** extraction pipeline as a Stored Procedure:
 * **Object Table Integration:** Connects to PDF files in Google Cloud Storage via parameters.
-* **Document AI Processing:** Uses `ML.PROCESS_DOCUMENT` to chunk and extract text while preserving layout.
+* **Document AI Processing:** Uses `AI.PARSE_DOCUMENT` to chunk and extract text while preserving layout.
 * **Generative Extraction:** Leverages Gemini (via `AI.GENERATE`) with a detailed prompt and output schema to parse clinical fields (Sponsor, Phase, NCT_Number, etc.) into structured columns.
 
 ### 3. `Parameterized_Patient_Profiles.sql` (Generated)
@@ -42,4 +42,4 @@ A utility script for retrieving unique trials and metadata, often used as an inp
 ## Prerequisites
 * A BigQuery Dataset (e.g., `<DATASET_ID>`).
 * A Cloud Resource Connection (e.g., `us-central1.llm-connection`) with IAM permissions for Vertex AI and Document AI.
-* A Document AI processor configured for the `ML.PROCESS_DOCUMENT` call.
+* A Document AI processor configured for the `AI.PARSE_DOCUMENT` call.
