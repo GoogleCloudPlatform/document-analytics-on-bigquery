@@ -4,6 +4,8 @@
 This solution provides a comprehensive, agentic framework for analyzing healthcare documents—specifically Clinical Study Summary Reports (CSSR) and Patient Profiles—using a "Zero-Copy RAG" architecture on Google Cloud.
 It leverages BigQuery as the central data and AI orchestration engine, integrating Document AI, Vertex AI (Gemini), and BigQuery Graph to transform unstructured PDF reports into a structured, searchable, and relational Knowledge Graph.
 
+![Reference Architecture](assets/images/7K9vDi9Caym3pXq.png)
+
 ## Key Architectural Pillars: The Zero-Copy RAG
 Traditional RAG (Retrieval-Augmented Generation) often requires moving data between silos (extracting text, sending to an external vector DB, then to an LLM). This solution implements **Zero-Copy RAG**, where:
 1. **Data Stays in BigQuery:** PDF documents and Text files are stored in Google Cloud Storage and exposed to BigQuery via **Object Tables**.
