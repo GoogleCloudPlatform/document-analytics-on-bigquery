@@ -17,7 +17,7 @@ To deploy these pipelines to BigQuery, you must now:
 ## Key Scripts
 
 ### 1. `setup_clinical_trial_graph.sql`
-Defines the **BigQuery Property Graph** (`clinical_trial.DrugGraph`). 
+Defines the **BigQuery Property Graph** (`<DATASET_ID>.DrugGraph`). 
 *   **Model Definitions:** Configures Remote Models for text embeddings (`text-embedding-005`), multimodal embeddings, and Gemini LLMs (`gemini-2.5-pro`).
 *   **Node Tables:** Maps structured clinical entities (Trials, Drugs, Disorders, MOA, etc.) to graph nodes.
 *   **Edge Tables:** Defines clinical relationships (e.g., `Drug` -> `MayTreat` -> `Disorder`, `Trial` -> `Uses` -> `Drug`).
@@ -40,6 +40,6 @@ Consolidates extracted and pre-existing clinical data into unified views, prepar
 A utility script for retrieving unique trials and metadata, often used as an input for synthetic data generation workflows.
 
 ## Prerequisites
-*   A BigQuery Dataset (e.g., `clinical_trial`).
+*   A BigQuery Dataset (e.g., `<DATASET_ID>`).
 *   A Cloud Resource Connection (e.g., `us-central1.llm-connection`) with IAM permissions for Vertex AI and Document AI.
 *   A Document AI processor configured for the `ML.PROCESS_DOCUMENT` call.

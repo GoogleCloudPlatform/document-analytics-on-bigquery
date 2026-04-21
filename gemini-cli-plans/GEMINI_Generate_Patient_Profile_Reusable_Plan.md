@@ -24,8 +24,8 @@ Each profile must be a `.txt` file named `Patient_Profile_<First>_<Last>_<Index>
    - **Constraint**: DO NOT provide a rationale for trial qualification or ineligibility.
 
 ## 3. Data Sources
-- **Trials/Conditions**: `meridian-dev-455515.clinical_trial.ClinicalTrialMasterData` (column: `preferred_name`).
-- **Symptoms**: `meridian-dev-455515.clinical_trial.DisorderSymptoms` (column: `symptoms.list.element`).
+- **Trials/Conditions**: `<PROJECT_ID>.<DATASET_ID>.ClinicalTrialMasterData` (column: `preferred_name`).
+- **Symptoms**: `<PROJECT_ID>.<DATASET_ID>.DisorderSymptoms` (column: `symptoms.list.element`).
 
 ## 4. Generation Logic (Python)
 When creating a generation script, implement the following:

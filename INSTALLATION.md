@@ -47,7 +47,7 @@ Open `config.yaml` and update the values with your actual GCP details:
 ```yaml
 # Basic Google Cloud Info
 project_id: "your-project-id"
-dataset_id: "clinical_trial_multiregion"
+dataset_id: "<DATASET_ID>"
 location: "us"
 connection_id: "cloud_ai_resources"
 
@@ -90,7 +90,7 @@ The `quick-install.sh` script automates the following BigQuery and IAM tasks:
     *   Creates `LLMModel` (gemini-2.5-pro).
     *   Creates `cssr_reports_model` (Document AI Layout Parser).
 4.  **Property Graph:**
-    *   Defines the `clinical_trial.DrugGraph` which maps Trials, Drugs, Disorders, and Mechanisms of Action into a searchable graph structure.
+    *   Defines the `<DATASET_ID>.DrugGraph` which maps Trials, Drugs, Disorders, and Mechanisms of Action into a searchable graph structure.
 
 ---
 
@@ -98,7 +98,7 @@ The `quick-install.sh` script automates the following BigQuery and IAM tasks:
 
 The script then performs the following data tasks:
 
-1.  **AVRO Loading:** Loads all 20 tables from `sql/tables/*.avro` into the `clinical_trial` dataset.
+1.  **AVRO Loading:** Loads all 20 tables from `sql/tables/*.avro` into the `<DATASET_ID>` dataset.
 2.  **Unstructured Data Ingestion:**
     *   Uploads patient profiles to the `${PROJECT_ID}-patient-profiles` bucket.
     *   Uploads clinical trial PDFs to the `${PROJECT_ID}-clinical-trials-docs` bucket.
@@ -135,4 +135,6 @@ The `notebooks/` directory contains Jupyter notebooks that demonstrate the platf
 1.  **Vertex AI Workbench:** Upload the notebooks to a Vertex AI Workbench instance in your project.
 2.  **Local Jupyter:** Run `pip install -r requirements.txt` (if available) or install `google-cloud-bigquery` and `google-cloud-storage`, then start your local server.
 3.  **Google Colab:** Open the notebooks directly in Colab and follow the authentication prompts.
+
+n prompts.
 

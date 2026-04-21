@@ -1,59 +1,108 @@
-import re
-import os
+# Copyright 2024 Google LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
 
-def load_config(config_path='config.yaml'):
+import os
+import re
+
+
+def load_config(config_path="config.yaml"):
     """
     Loads configuration variables from a simple YAML file.
     Designed to be beginner-friendly without requiring the PyYAML dependency.
     """
     config = {}
-    with open(config_path, 'r') as file:
+    with open(config_path, "r") as file:
         for line in file:
             line = line.strip()
             # Ignore comments and empty lines
-            if line.startswith('#') or not line:
+            if line.startswith("#") or not line:
                 continue
-            if ':' in line:
-                key, value = line.split(':', 1)
+            if ":" in line:
+                key, value = line.split(":", 1)
                 # Clean up quotes and whitespace to get the raw value
                 value = value.strip().strip('"').strip("'")
                 config[key.strip()] = value
     return config
+
 
 def parameterize_patient_profiles(config):
     """
     Reads the static Patient Profiles SQL template, dynamically injects
     configuration variables, and writes a Deployable Stored Procedure.
     """
-    with open('sql/Parse Patient Profiles.sql', 'r') as f:
+    with open("sql/Parse Patient Profiles.sql", "r") as f:
         sql = f.read()
 
     # Step 1: Robust Escaping
-    # Escape backslashes, double quotes, and triple single quotes 
+    # Escape backslashes, double quotes, and triple single quotes
     # to ensure the string is safe to be wrapped in EXECUTE IMMEDIATE """..."""
-    sql_escaped = sql.replace('\\', '\\\\').replace('"', '\\"').replace("'''", "\\'\\'\\'")
+    sql_escaped = (
+        sql.replace("\\", "\\\\")
+        .replace('"', '\\"')
+        .replace("'''", "\\'\\'\\'")
+    )
 
     # Extract configuration variables
-    project_id = config['project_id']
-    dataset_id = config['dataset_id']
-    full_connection = f"{project_id}.{config['location']}.{config['connection_id']}"
-    gcs_path = config['patient_data_gcs_path']
+    project_id = config["project_id"]
+    dataset_id = config["dataset_id"]
+    full_connection = (
+        f"{project_id}.{config['location']}.{config['connection_id']}"
+    )
+    gcs_path = config["patient_data_gcs_path"]
 
     # Step 2: Hardcoded Knowledge Replacements
     # Replace legacy static references with the new parameterized variables
-    sql_escaped = re.sub(r'`meridian-dev-455515\.clinical_trial_multiregion\.patient_profiles`', f'`{dataset_id}.patient_profiles`', sql_escaped)
-    sql_escaped = re.sub(r'`clinical_trial_multiregion\.patient_profiles`', f'`{dataset_id}.patient_profiles`', sql_escaped)
-    sql_escaped = re.sub(r'`clinical_trial_multiregion\.Patients`', f'`{dataset_id}.Patients`', sql_escaped)
-    
-    sql_escaped = re.sub(r'`meridian-dev-455515\.us\.cloud_ai_resources`', f'`{full_connection}`', sql_escaped)
-    sql_escaped = re.sub(r"'meridian-dev-455515\.us\.cloud_ai_resources'", f"'{full_connection}'", sql_escaped)
-    sql_escaped = re.sub(r"'us\.cloud_ai_resources'", f"'{full_connection}'", sql_escaped)
-    
-    sql_escaped = re.sub(r"\['gs://meridian-dev-455515-patient-profiles/\*\.txt'\]", f"['{gcs_path}']", sql_escaped)
+    sql_escaped = re.sub(
+        r"`<PROJECT_ID>\.<DATASET_ID>\.patient_profiles`",
+        f"`{dataset_id}.patient_profiles`",
+        sql_escaped,
+    )
+    sql_escaped = re.sub(
+        r"`<DATASET_ID>\.patient_profiles`",
+        f"`{dataset_id}.patient_profiles`",
+        sql_escaped,
+    )
+    sql_escaped = re.sub(
+        r"`<DATASET_ID>\.Patients`", f"`{dataset_id}.Patients`", sql_escaped
+    )
+
+    sql_escaped = re.sub(
+        r"`<PROJECT_ID>\.us\.cloud_ai_resources`",
+        f"`{full_connection}`",
+        sql_escaped,
+    )
+    sql_escaped = re.sub(
+        r"'<PROJECT_ID>\.us\.cloud_ai_resources'",
+        f"'{full_connection}'",
+        sql_escaped,
+    )
+    sql_escaped = re.sub(
+        r"'us\.cloud_ai_resources'", f"'{full_connection}'", sql_escaped
+    )
+
+    sql_escaped = re.sub(
+        r"\['gs://<PROJECT_ID>-patient-profiles/\*\.txt'\]",
+        f"['{gcs_path}']",
+        sql_escaped,
+    )
 
     # Step 3: Split statements to execute them separately
     stmt1 = sql_escaped.split("CREATE OR REPLACE TABLE")[0].strip()
-    stmt2 = "CREATE OR REPLACE TABLE" + sql_escaped.split("CREATE OR REPLACE TABLE")[1].strip()
+    stmt2 = (
+        "CREATE OR REPLACE TABLE"
+        + sql_escaped.split("CREATE OR REPLACE TABLE")[1].strip()
+    )
 
     # Step 4: Generate the Stored Procedure Wrapper
     proc_ddl = f"""-- AUTO-GENERATED FILE: DO NOT EDIT DIRECTLY.
@@ -66,48 +115,97 @@ BEGIN
     EXECUTE IMMEDIATE \"\"\"{stmt2}\"\"\";
 END;
 """
-    with open('sql/Parameterized_Patient_Profiles.sql', 'w') as f:
+    with open("sql/Parameterized_Patient_Profiles.sql", "w") as f:
         f.write(proc_ddl)
+
 
 def parameterize_clinical_trials(config):
     """
     Reads the static Clinical Trials SQL template, dynamically injects
     configuration variables, and writes a Deployable Stored Procedure.
     """
-    with open('sql/Parse Clinical Trials Report PDF files.sql', 'r') as f:
+    with open("sql/Parse Clinical Trials Report PDF files.sql", "r") as f:
         sql = f.read()
 
     # Step 1: Robust Escaping
-    sql_escaped = sql.replace('\\', '\\\\').replace('"', '\\"').replace("'''", "\\'\\'\\'")
+    sql_escaped = (
+        sql.replace("\\", "\\\\")
+        .replace('"', '\\"')
+        .replace("'''", "\\'\\'\\'")
+    )
 
     # Extract configuration variables
-    project_id = config['project_id']
-    dataset_id = config['dataset_id']
-    full_connection = f"{project_id}.{config['location']}.{config['connection_id']}"
-    gcs_path = config['clinical_reports_gcs_path']
-    model_name = config.get('model_name', 'cssr_reports_model')
+    project_id = config["project_id"]
+    dataset_id = config["dataset_id"]
+    full_connection = (
+        f"{project_id}.{config['location']}.{config['connection_id']}"
+    )
+    gcs_path = config["clinical_reports_gcs_path"]
+    model_name = config.get("model_name", "cssr_reports_model")
     full_model_path = f"{dataset_id}.{model_name}"
 
     # Step 2: Hardcoded Knowledge Replacements
-    sql_escaped = re.sub(r'`meridian-dev-455515\.clinical_trial_multiregion\.cssr_reports_parsed_pdf`', f'`{dataset_id}.cssr_reports_parsed_pdf`', sql_escaped)
-    sql_escaped = re.sub(r'`clinical_trial_multiregion\.cssr_reports_parsed_pdf`', f'`{dataset_id}.cssr_reports_parsed_pdf`', sql_escaped)
-    sql_escaped = re.sub(r'clinical_trial_multiregion\.cssr_reports_parsed_pdf', f'`{dataset_id}.cssr_reports_parsed_pdf`', sql_escaped)
-    
-    sql_escaped = re.sub(r'`clinical_trial_multiregion\.cssr_reports_chunked_pdf`', f'`{dataset_id}.cssr_reports_chunked_pdf`', sql_escaped)
-    sql_escaped = re.sub(r'clinical_trial_multiregion\.cssr_reports_chunked_pdf', f'`{dataset_id}.cssr_reports_chunked_pdf`', sql_escaped)
-    
-    sql_escaped = re.sub(r'`clinical_trial_multiregion\.cssr_reports`', f'`{dataset_id}.cssr_reports`', sql_escaped)
-    
-    sql_escaped = re.sub(r'`clinical_trial_multiregion\.ClinicalTrialMasterData`', f'`{dataset_id}.ClinicalTrialMasterData`', sql_escaped)
-    
-    sql_escaped = re.sub(r'`clinical_trial_multiregion\.cssr_reports_model`', f'`{full_model_path}`', sql_escaped)
-    sql_escaped = re.sub(r'`meridian-dev-455515\.us\.cloud_ai_resources`', f'`{full_connection}`', sql_escaped)
-    sql_escaped = re.sub(r"'us\.cloud_ai_resources'", f"'{full_connection}'", sql_escaped)
-    sql_escaped = re.sub(r"\['gs://cssr_reports_trials/april2_generation/\*\.pdf'\]", f"['{gcs_path}']", sql_escaped)
+    sql_escaped = re.sub(
+        r"`<PROJECT_ID>\.<DATASET_ID>\.cssr_reports_parsed_pdf`",
+        f"`{dataset_id}.cssr_reports_parsed_pdf`",
+        sql_escaped,
+    )
+    sql_escaped = re.sub(
+        r"`<DATASET_ID>\.cssr_reports_parsed_pdf`",
+        f"`{dataset_id}.cssr_reports_parsed_pdf`",
+        sql_escaped,
+    )
+    sql_escaped = re.sub(
+        r"<DATASET_ID>\.cssr_reports_parsed_pdf",
+        f"`{dataset_id}.cssr_reports_parsed_pdf`",
+        sql_escaped,
+    )
+
+    sql_escaped = re.sub(
+        r"`<DATASET_ID>\.cssr_reports_chunked_pdf`",
+        f"`{dataset_id}.cssr_reports_chunked_pdf`",
+        sql_escaped,
+    )
+    sql_escaped = re.sub(
+        r"<DATASET_ID>\.cssr_reports_chunked_pdf",
+        f"`{dataset_id}.cssr_reports_chunked_pdf`",
+        sql_escaped,
+    )
+
+    sql_escaped = re.sub(
+        r"`<DATASET_ID>\.cssr_reports`",
+        f"`{dataset_id}.cssr_reports`",
+        sql_escaped,
+    )
+
+    sql_escaped = re.sub(
+        r"`<DATASET_ID>\.ClinicalTrialMasterData`",
+        f"`{dataset_id}.ClinicalTrialMasterData`",
+        sql_escaped,
+    )
+
+    sql_escaped = re.sub(
+        r"`<DATASET_ID>\.cssr_reports_model`",
+        f"`{full_model_path}`",
+        sql_escaped,
+    )
+    sql_escaped = re.sub(
+        r"`<PROJECT_ID>\.us\.cloud_ai_resources`",
+        f"`{full_connection}`",
+        sql_escaped,
+    )
+    sql_escaped = re.sub(
+        r"'us\.cloud_ai_resources'", f"'{full_connection}'", sql_escaped
+    )
+    sql_escaped = re.sub(
+        r"\['gs://<PROJECT_ID>-clinical-trials-docs/\*\.pdf'\]",
+        f"['{gcs_path}']",
+        sql_escaped,
+    )
 
     # Step 3: Split into multiple EXECUTE IMMEDIATE statements
     stmts = sql_escaped.split("CREATE OR REPLACE")
-    
+
     stmt1 = "CREATE OR REPLACE" + stmts[1].strip()
     stmt2 = "CREATE OR REPLACE" + stmts[2].strip()
     stmt3 = "CREATE OR REPLACE" + stmts[3].strip()
@@ -126,15 +224,19 @@ BEGIN
     EXECUTE IMMEDIATE \"\"\"{stmt4}\"\"\";
 END;
 """
-    with open('sql/Parameterized_Clinical_Trials.sql', 'w') as f:
+    with open("sql/Parameterized_Clinical_Trials.sql", "w") as f:
         f.write(proc_ddl)
 
+
 if __name__ == "__main__":
-    if not os.path.exists('config.yaml'):
+    if not os.path.exists("config.yaml"):
         print("Error: config.yaml not found. Please create it first.")
         exit(1)
-        
+
     config = load_config()
     parameterize_patient_profiles(config)
     parameterize_clinical_trials(config)
-    print("Successfully generated Parameterized_Patient_Profiles.sql and Parameterized_Clinical_Trials.sql using config.yaml")
+    print(
+        "Successfully generated Parameterized_Patient_Profiles.sql "
+        "and Parameterized_Clinical_Trials.sql using config.yaml"
+    )

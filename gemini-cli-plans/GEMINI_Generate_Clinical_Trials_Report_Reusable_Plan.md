@@ -26,7 +26,7 @@ The document must follow a standardized 15-section structure:
 15. **Sign-off & Approval**
 
 ## 3. Data Sources
-- **Trial Metadata**: BigQuery table `meridian-dev-455515.clinical_trial.ClinicalTrialMasterData` (or `Trials`). Contains all requisite structured data including `NCT_Number`, `PostingID`, `StudyTitle`, `Sponsor`, `Phase`, `Trial_Status`, `Disease_Areas`, trial condition, inclusion/exclusion criteria, and endpoints.
+- **Trial Metadata**: BigQuery table `<PROJECT_ID>.<DATASET_ID>.ClinicalTrialMasterData` (or `Trials`). Contains all requisite structured data including `NCT_Number`, `PostingID`, `StudyTitle`, `Sponsor`, `Phase`, `Trial_Status`, `Disease_Areas`, trial condition, inclusion/exclusion criteria, and endpoints.
 
 ## 4. Generation Logic (Python)
 When creating or running the generation script/notebook, implement the following:

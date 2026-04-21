@@ -46,3 +46,7 @@ Interactive Jupyter notebooks demonstrate querying the Property Graph using GQL 
 
 ## Quick Start
 See `INSTALLATION.md` for step-by-step deployment instructions, or run `./quick-install.sh`.
+
+
+## Disclaimer
+**This is not an officially supported Google product.**
