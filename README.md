@@ -1,7 +1,8 @@
 # Healthcare Document Analytics Solution: Zero-Copy RAG & Knowledge Graph
 
 ## Overview
-This solution provides a comprehensive, agentic framework for analyzing healthcare documents—specifically Clinical Study Summary Reports (CSSR) and Patient Profiles—using a "Zero-Copy RAG" architecture on Google Cloud. It leverages BigQuery as the central data and AI orchestration engine, integrating Document AI, Vertex AI (Gemini), and BigQuery Graph to transform unstructured PDF reports into a structured, searchable, and relational Knowledge Graph.
+This solution provides a comprehensive, agentic framework for analyzing healthcare documents—specifically Clinical Study Summary Reports (CSSR) and Patient Profiles—using a "Zero-Copy RAG" architecture on Google Cloud.
+It leverages BigQuery as the central data and AI orchestration engine, integrating Document AI, Vertex AI (Gemini), and BigQuery Graph to transform unstructured PDF reports into a structured, searchable, and relational Knowledge Graph.
 
 ## Key Architectural Pillars: The Zero-Copy RAG
 Traditional RAG (Retrieval-Augmented Generation) often requires moving data between silos (extracting text, sending to an external vector DB, then to an LLM). This solution implements **Zero-Copy RAG**, where:
@@ -15,7 +16,8 @@ Traditional RAG (Retrieval-Augmented Generation) often requires moving data betw
 To make deploying unstructured ingestion pipelines simple and scalable, we have adopted a **Two-Tier Parameterization Architecture**:
 
 1. **Tier 1 (The Analyst):** Users only need to modify `config.yaml` to specify their Google Cloud project ID, dataset, and GCS bucket locations. No SQL or Python knowledge is required.
-2. **Tier 2 (The Engine):** The `scripts/parameterize.py` script automatically ingests the YAML, performs robust escaping of BigQuery AI prompts, and generates deployable `Stored Procedures` (`Parameterized_Patient_Profiles.sql` and `Parameterized_Clinical_Trials.sql`). These procedures can then be easily orchestrated via Cloud Run, Cloud Composer, or Airflow using `scripts/orchestrate_ingestion.py`.
+2. **Tier 2 (The Engine):** The `scripts/parameterize.py` script automatically ingests the YAML, performs robust escaping of BigQuery AI prompts, and generates deployable `Stored Procedures` (`Parameterized_Patient_Profiles.sql` and `Parameterized_Clinical_Trials.sql`).
+These procedures can then be easily orchestrated via Cloud Run, Cloud Composer, or Airflow using `scripts/orchestrate_ingestion.py`.
 
 ## Solution Components
 

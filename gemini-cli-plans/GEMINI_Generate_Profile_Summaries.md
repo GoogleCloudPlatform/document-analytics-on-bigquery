@@ -4,7 +4,7 @@ You're a Data Scientist working on a Clinical Trial use case.
    and demographic information (age, sex, place of residency, etc).  
   
    For Information Gathering: You will use the clinical trial data you can find on the json files from @bigquery_exports/ClinicalTrialDenormalizedData-partaa.json to  
-   @bigquery_exports/ClinicalTrialDenormalizedData-partaf.json (from *-partaa.json to *-partaf.json - total of 6 files) and the google_web_search tool to find  
+   @bigquery_exports/ClinicalTrialDenormalizedData-partaf.json (from `*-partaa.json` to `*-partaf.json` - total of 6 files) and the google_web_search tool to find  
    information on a diverse set of real-world clinical trials, covering various diseases, therapeutic areas, and geographical locations.  
   
    I'm giving you three examples that I previously generated manually.  

@@ -19,20 +19,20 @@ Before you begin, ensure you have the following:
 
 We provide a `quick-install.sh` script to automate the provisioning of APIs, storage buckets, and BigQuery datasets.
 
-### 1. Make the script executable:
+### 1. Make the script executable
 
 ```bash
 chmod +x quick-install.sh
 ```
 
-### 2. Run a Dry Run (Recommended):
+### 2. Run a Dry Run (Recommended)
 By default, the script only prints the commands it *would* execute. This allows you to review the infrastructure changes before they happen.
 
 ```bash
 ./quick-install.sh
 ```
 
-### 3. Execute the Installation:
+### 3. Execute the Installation
 Once you have reviewed the output, run the script with the `--execute` flag to apply changes to your GCP project.
 
 ```bash
@@ -41,7 +41,7 @@ Once you have reviewed the output, run the script with the `--execute` flag to a
 
 ---
 
-## ⚙️ Step 2: Unstructured Ingestion Parameterization (NEW!)
+## ⚙️ Step 2: Unstructured Ingestion Parameterization (NEW)
 
 Instead of modifying static SQL scripts with complicated escape characters, we now utilize a **Beginner-Friendly Parameterization Engine**.
 
@@ -134,11 +134,11 @@ Finally, we construct the graph structure using:
 
 The `notebooks/` directory contains Jupyter notebooks that demonstrate the platform's capabilities.
 
-### Key Notebooks:
+### Key Notebooks
 * **`Bigquery_knowledge_graph_demo.ipynb`**: Shows how to construct and query a Knowledge Graph from unstructured data.
 * **`clinical_trials_graph_demo.ipynb`**: Demonstrates semantic search and graph traversal for finding clinical trials.
 
-### How to Run:
+### How to Run
 1. **Vertex AI Workbench:** Upload the notebooks to a Vertex AI Workbench instance in your project.
 2. **Local Jupyter:** Run `pip install -r requirements.txt` (if available) or install `google-cloud-bigquery` and `google-cloud-storage`, then start your local server.
 3. **Google Colab:** Open the notebooks directly in Colab and follow the authentication prompts.
