@@ -48,17 +48,13 @@ def parameterize_patient_profiles(config):
     # Escape backslashes, double quotes, and triple single quotes
     # to ensure the string is safe to be wrapped in EXECUTE IMMEDIATE """..."""
     sql_escaped = (
-        sql.replace("\\", "\\\\")
-        .replace('"', '\\"')
-        .replace("'''", "\\'\\'\\'")
+        sql.replace("\\", "\\\\").replace('"', '\\"').replace("'''", "\\'\\'\\'")
     )
 
     # Extract configuration variables
     project_id = config["project_id"]
     dataset_id = config["dataset_id"]
-    full_connection = (
-        f"{project_id}.{config['location']}.{config['connection_id']}"
-    )
+    full_connection = f"{project_id}.{config['location']}.{config['connection_id']}"
     gcs_path = config["patient_data_gcs_path"]
 
     # Step 2: Hardcoded Knowledge Replacements
@@ -129,17 +125,13 @@ def parameterize_clinical_trials(config):
 
     # Step 1: Robust Escaping
     sql_escaped = (
-        sql.replace("\\", "\\\\")
-        .replace('"', '\\"')
-        .replace("'''", "\\'\\'\\'")
+        sql.replace("\\", "\\\\").replace('"', '\\"').replace("'''", "\\'\\'\\'")
     )
 
     # Extract configuration variables
     project_id = config["project_id"]
     dataset_id = config["dataset_id"]
-    full_connection = (
-        f"{project_id}.{config['location']}.{config['connection_id']}"
-    )
+    full_connection = f"{project_id}.{config['location']}.{config['connection_id']}"
     gcs_path = config["clinical_reports_gcs_path"]
     model_name = config.get("model_name", "cssr_reports_model")
     full_model_path = f"{dataset_id}.{model_name}"

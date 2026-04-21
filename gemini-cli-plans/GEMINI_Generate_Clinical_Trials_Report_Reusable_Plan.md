@@ -32,10 +32,10 @@ The document must follow a standardized 15-section structure:
 When creating or running the generation script/notebook, implement the following:
 
 - **Data Retrieval**: Query the BigQuery `ClinicalTrialMasterData` table for target `NCT_Number`s. Ensure that you capture the unique `PostingID` to avoid naming collisions.
-- **LLM Content Synthesis**: 
+- **LLM Content Synthesis**:
   - Use `google-genai` to generate a Markdown draft following the strict 15-section template.
   - Provide the retrieved structured trial data to the prompt context.
-- **Content Verification**: 
+- **Content Verification**:
   - Implement a secondary evaluation LLM call to ensure the generated Markdown accurately includes all critical structured data (Sponsor, Phase, specific Inclusion/Exclusion criteria, Endpoints). If fields are missing, re-prompt the LLM to correct the omission.
 - **PDF Conversion**: Use the `markdown` and `weasyprint` libraries to convert the validated Markdown string into a formatted PDF document.
 - **Storage**: Save the generated PDFs locally to `data/generated_clinical_trials_reports/new/` (or push directly to GCS buckets as required by the pipeline).
@@ -51,6 +51,7 @@ When creating or running the generation script/notebook, implement the following
 6. **Cleanup**: Monitor rate limits (e.g., HTTP 429 Resource Exhausted) during LLM generation and implement retry backoffs (e.g., 60-second sleep).
 
 ## 6. Template Structure Overview
+
 ```markdown
 Clinical Study Summary Report (CSSR)
 Document Status: Final | Version: 1.0 | Date: [Date]
