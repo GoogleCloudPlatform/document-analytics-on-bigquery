@@ -1,4 +1,18 @@
-CREATE OR REPLACE TABLE `meridian-dev-455515.clinical_trial_dev.Trials_Auto_Embedded` (
+-- Copyright 2024 Google LLC
+--
+-- Licensed under the Apache License, Version 2.0 (the "License");
+-- you may not use this file except in compliance with the License.
+-- You may obtain a copy of the License at
+--
+--     https://www.apache.org/licenses/LICENSE-2.0
+--
+-- Unless required by applicable law or agreed to in writing, software
+-- distributed under the License is distributed on an "AS IS" BASIS,
+-- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+-- See the License for the specific language governing permissions and
+-- limitations under the License.
+
+CREATE OR REPLACE TABLE `<PROJECT_ID>.<DATASET_ID>.Trials_Auto_Embedded` (
   PostingID INT64,
   semantic_text STRING,
   embedding STRUCT<result ARRAY<FLOAT64>, status STRING>
@@ -11,5 +25,5 @@ CREATE OR REPLACE TABLE `meridian-dev-455515.clinical_trial_dev.Trials_Auto_Embe
     ) STORED OPTIONS (asynchronous = TRUE)
 );
 
-INSERT INTO `meridian-dev-455515.clinical_trial_dev.Trials_Auto_Embedded` (PostingID, semantic_text)
-SELECT PostingID, semantic_text FROM `meridian-dev-455515.clinical_trial_dev.Trials`;
+INSERT INTO `<PROJECT_ID>.<DATASET_ID>.Trials_Auto_Embedded` (PostingID, semantic_text)
+SELECT PostingID, semantic_text FROM `<PROJECT_ID>.<DATASET_ID>.Trials`;

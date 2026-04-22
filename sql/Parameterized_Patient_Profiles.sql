@@ -4,7 +4,30 @@
 
 CREATE OR REPLACE PROCEDURE `clinical_trial_multiregion.IngestPatientProfiles`()
 BEGIN
-    EXECUTE IMMEDIATE """CREATE OR REPLACE EXTERNAL TABLE `clinical_trial_multiregion.patient_profiles`
+    EXECUTE IMMEDIATE """-- Copyright 2024 Google LLC
+--
+-- Licensed under the Apache License, Version 2.0 (the \"License\");
+-- you may not use this file except in compliance with the License.
+-- You may obtain a copy of the License at
+--
+--     https://www.apache.org/licenses/LICENSE-2.0
+--
+-- Unless required by applicable law or agreed to in writing, software
+-- distributed under the License is distributed on an \"AS IS\" BASIS,
+-- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+-- See the License for the specific language governing permissions and
+-- limitations under the License.
+
+-- ==============================================================================
+-- SOURCE TEMPLATE: DO NOT EXECUTE DIRECTLY
+-- This file serves as the raw, unescaped template for the Python parameterization engine.
+-- To deploy this to BigQuery, you must:
+-- 1. Configure config.yaml in the project root.
+-- 2. Run: python3 scripts/parameterize.py
+-- 3. Execute the resulting sql/Parameterized_Patient_Profiles.sql file.
+-- ==============================================================================
+
+CREATE OR REPLACE EXTERNAL TABLE `clinical_trial_multiregion.patient_profiles`
 WITH CONNECTION `meridian-dev-455515.us.cloud_ai_resources` 
 OPTIONS(
   object_metadata = 'SIMPLE',

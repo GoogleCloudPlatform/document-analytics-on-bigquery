@@ -1,3 +1,17 @@
+-- Copyright 2024 Google LLC
+--
+-- Licensed under the Apache License, Version 2.0 (the "License");
+-- you may not use this file except in compliance with the License.
+-- You may obtain a copy of the License at
+--
+--     https://www.apache.org/licenses/LICENSE-2.0
+--
+-- Unless required by applicable law or agreed to in writing, software
+-- distributed under the License is distributed on an "AS IS" BASIS,
+-- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+-- See the License for the specific language governing permissions and
+-- limitations under the License.
+
 -- ==============================================================================
 -- SOURCE TEMPLATE: DO NOT EXECUTE DIRECTLY
 -- This file serves as the raw, unescaped template for the Python parameterization engine.
@@ -7,22 +21,22 @@
 -- 3. Execute the resulting sql/Parameterized_Clinical_Trials.sql file.
 -- ==============================================================================
 
-CREATE OR REPLACE EXTERNAL TABLE `clinical_trial_multiregion.cssr_reports`
-WITH CONNECTION `meridian-dev-455515.us.cloud_ai_resources` 
+CREATE OR REPLACE EXTERNAL TABLE `<DATASET_ID>.cssr_reports`
+WITH CONNECTION `<PROJECT_ID>.us.cloud_ai_resources` 
 OPTIONS(
   object_metadata = 'SIMPLE',
-  uris = ['gs://cssr_reports_trials/april2_generation/*.pdf']
+  uris = ['gs://<PROJECT_ID>-clinical-trials-docs/*.pdf']
 );
 
-CREATE OR REPLACE TABLE clinical_trial_multiregion.cssr_reports_chunked_pdf AS (
+CREATE OR REPLACE TABLE <DATASET_ID>.cssr_reports_chunked_pdf AS (
   SELECT * FROM ML.PROCESS_DOCUMENT(
-  MODEL `clinical_trial_multiregion.cssr_reports_model`,
-  TABLE `clinical_trial_multiregion.cssr_reports`,
+  MODEL `<DATASET_ID>.cssr_reports_model`,
+  TABLE `<DATASET_ID>.cssr_reports`,
   PROCESS_OPTIONS => (JSON '{"layout_config": {"chunking_config": {"chunk_size": 250, "include_ancestor_headings": true}}}')
   )
 );
 
-CREATE OR REPLACE TABLE clinical_trial_multiregion.cssr_reports_parsed_pdf AS (
+CREATE OR REPLACE TABLE <DATASET_ID>.cssr_reports_parsed_pdf AS (
 SELECT
   uri,
   JSON_EXTRACT_SCALAR(json , '$.chunkId') AS id,
@@ -30,11 +44,11 @@ SELECT
   JSON_EXTRACT_SCALAR(json , '$.pageFooters[0].text') AS page_footers_text,
   JSON_EXTRACT_SCALAR(json , '$.pageSpan.pageStart') AS page_span_start,
   JSON_EXTRACT_SCALAR(json , '$.pageSpan.pageEnd') AS page_span_end
-FROM clinical_trial_multiregion.cssr_reports_chunked_pdf, UNNEST(JSON_EXTRACT_ARRAY(ml_process_document_result.chunkedDocument.chunks, '$')) json
+FROM <DATASET_ID>.cssr_reports_chunked_pdf, UNNEST(JSON_EXTRACT_ARRAY(ml_process_document_result.chunkedDocument.chunks, '$')) json
 );
 
 
-CREATE OR REPLACE TABLE `clinical_trial_multiregion.ClinicalTrialMasterData` AS (
+CREATE OR REPLACE TABLE `<DATASET_ID>.ClinicalTrialMasterData` AS (
 SELECT
 uri,
 extracted_data.Sponsor,
@@ -122,7 +136,7 @@ SELECT
       endpoint => 'gemini-2.5-flash'
     ) AS extracted_data
   FROM (
-    SELECT uri, STRING_AGG(content ORDER BY page_span_start) as content FROM `meridian-dev-455515.clinical_trial_multiregion.cssr_reports_parsed_pdf`
+    SELECT uri, STRING_AGG(content ORDER BY page_span_start) as content FROM `<PROJECT_ID>.<DATASET_ID>.cssr_reports_parsed_pdf`
 GROUP BY uri
   )
 )

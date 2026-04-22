@@ -24,18 +24,21 @@ Each profile must be a `.txt` file named `Patient_Profile_<First>_<Last>_<Index>
    - **Constraint**: DO NOT provide a rationale for trial qualification or ineligibility.
 
 ## 3. Data Sources
-- **Trials/Conditions**: `meridian-dev-455515.clinical_trial.ClinicalTrialMasterData` (column: `preferred_name`).
-- **Symptoms**: `meridian-dev-455515.clinical_trial.DisorderSymptoms` (column: `symptoms.list.element`).
+- **Trials/Conditions**: `<PROJECT_ID>.<DATASET_ID>.ClinicalTrialMasterData` (column: `preferred_name`).
+- **Symptoms**: `<PROJECT_ID>.<DATASET_ID>.DisorderSymptoms` (column: `symptoms.list.element`).
 
 ## 4. Generation Logic (Python)
 When creating a generation script, implement the following:
 
 - **Uniqueness**: Maintain a `blacklist` of names by reading existing files in `generated_patient_profiles/` to prevent identity duplicates.
 - **Identity Diversity**: Use a large pool (>100) of first/last names and global cities. Ensure gender-appropriate first names.
-- **Symptom Sampling**: 
+- **Symptom Sampling**:
+  
   ```python
-  picked = random.sample(possible_symptoms, random.randint(2, 4))
+picked = random.sample(possible_symptoms, random.randint(2, 4))
+
   ```
+
 - **Ineligibility Injection** (for negative cases): Randomly assign one disqualifying factor:
   - `Pediatric` (<18) for adult trials.
   - `Geriatric Frailty` (>85 + ECOG 3/4).
@@ -55,6 +58,7 @@ When creating a generation script, implement the following:
 5. **Cleanup**: Remove temporary scripts and data exports.
 
 ## 6. Template
+
 ```text
 PATIENT PROFILE: <NAME>
 

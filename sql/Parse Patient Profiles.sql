@@ -1,3 +1,17 @@
+-- Copyright 2024 Google LLC
+--
+-- Licensed under the Apache License, Version 2.0 (the "License");
+-- you may not use this file except in compliance with the License.
+-- You may obtain a copy of the License at
+--
+--     https://www.apache.org/licenses/LICENSE-2.0
+--
+-- Unless required by applicable law or agreed to in writing, software
+-- distributed under the License is distributed on an "AS IS" BASIS,
+-- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+-- See the License for the specific language governing permissions and
+-- limitations under the License.
+
 -- ==============================================================================
 -- SOURCE TEMPLATE: DO NOT EXECUTE DIRECTLY
 -- This file serves as the raw, unescaped template for the Python parameterization engine.
@@ -7,14 +21,14 @@
 -- 3. Execute the resulting sql/Parameterized_Patient_Profiles.sql file.
 -- ==============================================================================
 
-CREATE OR REPLACE EXTERNAL TABLE `clinical_trial_multiregion.patient_profiles`
-WITH CONNECTION `meridian-dev-455515.us.cloud_ai_resources` 
+CREATE OR REPLACE EXTERNAL TABLE `<DATASET_ID>.patient_profiles`
+WITH CONNECTION `<PROJECT_ID>.us.cloud_ai_resources` 
 OPTIONS(
   object_metadata = 'SIMPLE',
-  uris = ['gs://meridian-dev-455515-patient-profiles/*.txt']
+  uris = ['gs://<PROJECT_ID>-patient-profiles/*.txt']
 );
 
-CREATE OR REPLACE TABLE `clinical_trial_multiregion.Patients` AS (
+CREATE OR REPLACE TABLE `<DATASET_ID>.Patients` AS (
   SELECT
     uri,
     extracted_data.name,
@@ -44,7 +58,7 @@ CREATE OR REPLACE TABLE `clinical_trial_multiregion.Patients` AS (
           3. Combine multiple laboratory results into a single string.
           4. If a field like "employment_status" is not explicitly stated but can be heavily inferred (e.g., an 84-year-old is likely "Retired"), infer it. Otherwise, return null.
           ''' AS prompt,
-          OBJ.GET_ACCESS_URL(OBJ.MAKE_REF(uri, 'meridian-dev-455515.us.cloud_ai_resources'), 'r') AS document
+          OBJ.GET_ACCESS_URL(OBJ.MAKE_REF(uri, '<PROJECT_ID>.us.cloud_ai_resources'), 'r') AS document
         ),
         output_schema => '''
           name STRING,
@@ -66,6 +80,6 @@ CREATE OR REPLACE TABLE `clinical_trial_multiregion.Patients` AS (
         endpoint => 'gemini-2.5-pro'
       ) AS extracted_data
     FROM
-      `meridian-dev-455515.clinical_trial_multiregion.patient_profiles`
+      `<PROJECT_ID>.<DATASET_ID>.patient_profiles`
   )
 );

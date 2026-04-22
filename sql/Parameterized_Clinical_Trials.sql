@@ -4,20 +4,20 @@
 
 CREATE OR REPLACE PROCEDURE `clinical_trial_multiregion.IngestClinicalTrials`()
 BEGIN
-    EXECUTE IMMEDIATE """CREATE OR REPLACEEXTERNAL TABLE `clinical_trial_multiregion.cssr_reports`
+    EXECUTE IMMEDIATE """CREATE OR REPLACE EXTERNAL TABLE `clinical_trial_multiregion.cssr_reports`
 WITH CONNECTION `meridian-dev-455515.us.cloud_ai_resources` 
 OPTIONS(
   object_metadata = 'SIMPLE',
-  uris = ['gs://cssr_reports_trials/april2_generation/*.pdf']
+  uris = ['gs://meridian-dev-455515-clinical-trials-docs/*.pdf']
 );""";
-    EXECUTE IMMEDIATE """CREATE OR REPLACETABLE `clinical_trial_multiregion.cssr_reports_chunked_pdf` AS (
+    EXECUTE IMMEDIATE """CREATE OR REPLACE TABLE `clinical_trial_multiregion.cssr_reports_chunked_pdf` AS (
   SELECT * FROM ML.PROCESS_DOCUMENT(
   MODEL `clinical_trial_multiregion.cssr_reports_model`,
   TABLE `clinical_trial_multiregion.cssr_reports`,
   PROCESS_OPTIONS => (JSON '{\"layout_config\": {\"chunking_config\": {\"chunk_size\": 250, \"include_ancestor_headings\": true}}}')
   )
 );""";
-    EXECUTE IMMEDIATE """CREATE OR REPLACETABLE `clinical_trial_multiregion.cssr_reports_parsed_pdf` AS (
+    EXECUTE IMMEDIATE """CREATE OR REPLACE TABLE `clinical_trial_multiregion.cssr_reports_parsed_pdf` AS (
 SELECT
   uri,
   JSON_EXTRACT_SCALAR(json , '$.chunkId') AS id,
@@ -27,7 +27,7 @@ SELECT
   JSON_EXTRACT_SCALAR(json , '$.pageSpan.pageEnd') AS page_span_end
 FROM `clinical_trial_multiregion.cssr_reports_chunked_pdf`, UNNEST(JSON_EXTRACT_ARRAY(ml_process_document_result.chunkedDocument.chunks, '$')) json
 );""";
-    EXECUTE IMMEDIATE """CREATE OR REPLACETABLE `clinical_trial_multiregion.ClinicalTrialMasterData` AS (
+    EXECUTE IMMEDIATE """CREATE OR REPLACE TABLE `clinical_trial_multiregion.ClinicalTrialMasterData` AS (
 SELECT
 uri,
 extracted_data.Sponsor,
@@ -115,7 +115,7 @@ SELECT
       endpoint => 'gemini-2.5-flash'
     ) AS extracted_data
   FROM (
-    SELECT uri, STRING_AGG(content ORDER BY page_span_start) as content FROM ``clinical_trial_multiregion.cssr_reports_parsed_pdf``
+    SELECT uri, STRING_AGG(content ORDER BY page_span_start) as content FROM `clinical_trial_multiregion.cssr_reports_parsed_pdf`
 GROUP BY uri
   )
 )
