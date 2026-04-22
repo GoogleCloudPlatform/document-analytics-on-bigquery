@@ -4,7 +4,16 @@
 This solution provides a comprehensive, agentic framework for analyzing healthcare documents—specifically Clinical Study Summary Reports (CSSR) and Patient Profiles—using a "Zero-Copy RAG" architecture on Google Cloud.
 It leverages BigQuery as the central data and AI orchestration engine, integrating Document AI, Vertex AI (Gemini), and BigQuery Graph to transform unstructured PDF reports into a structured, searchable, and relational Knowledge Graph.
 
+## Reference Architecture
+
 ![Reference Architecture](assets/images/7K9vDi9Caym3pXq.png)
+
+This architecture demonstrates a streamlined, in-warehouse approach to unstructured data analysis:
+1. **Unstructured Data** (TXT and PDF files) resides securely in Cloud Storage.
+2. **Object Tables** in BigQuery provide direct access to these files without duplicating the data.
+3. **Multimodal LLMs** (Vertex AI) connect directly to BigQuery, empowering the data warehouse to process the unstructured content natively.
+4. **Vector Embeddings** are generated for semantic searches, while LLMs extract structured entities into **Denormalized Tables**.
+5. Finally, the structured entities and relationships are modeled into a **Graph** within BigQuery for complex graph traversal searches.
 
 ## Key Architectural Pillars: The Zero-Copy RAG
 Traditional RAG (Retrieval-Augmented Generation) often requires moving data between silos (extracting text, sending to an external vector DB, then to an LLM). This solution implements **Zero-Copy RAG**, where:
@@ -12,13 +21,13 @@ Traditional RAG (Retrieval-Augmented Generation) often requires moving data betw
 2. **In-Warehouse Processing:**
    * **Document AI Integration:** BigQuery uses the `AI.PARSE_DOCUMENT` function to extract structured chunks and parse complex PDFs without moving the data.
    * **Generative Extraction:** `AI.GENERATE` (utilizing Gemini 2.5 models via AI Remote Connections) extracts structured entities directly from the document content.
-3. **Seamless Joinery:** Extracted data is immediately joined with existing structured clinical datasets in BigQuery, creating a "Golden Record".
+3. **Seamless Joins:** Extracted data is immediately joined with existing structured clinical datasets in BigQuery, creating a "Golden Record".
 
-## 🚀 Beginner-Friendly Parameterization (New in v2.0)
+## 🚀 Beginner-Friendly Parameterization
 To make deploying unstructured ingestion pipelines simple and scalable, we have adopted a **Two-Tier Parameterization Architecture**:
 
-1. **Tier 1 (The Analyst):** Users only need to modify `config.yaml` to specify their Google Cloud project ID, dataset, and GCS bucket locations. No SQL or Python knowledge is required.
-2. **Tier 2 (The Engine):** The `scripts/parameterize.py` script automatically ingests the YAML, performs robust escaping of BigQuery AI prompts, and generates deployable `Stored Procedures` (`Parameterized_Patient_Profiles.sql` and `Parameterized_Clinical_Trials.sql`).
+1. **Tier 1 (Data Analysts):** Users only need to modify `config.yaml` to specify their Google Cloud project ID, dataset, and GCS bucket locations. No SQL or Python knowledge is required.
+2. **Tier 2 (Data Engineers):** The `scripts/parameterize.py` script automatically ingests the YAML, performs robust escaping of BigQuery AI prompts, and generates deployable `Stored Procedures` (`Parameterized_Patient_Profiles.sql` and `Parameterized_Clinical_Trials.sql`).
 These procedures can then be easily orchestrated via Cloud Run, Cloud Composer, or Airflow using `scripts/orchestrate_ingestion.py`.
 
 ### Native BigQuery AI Functions
