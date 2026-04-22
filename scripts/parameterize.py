@@ -198,10 +198,10 @@ def parameterize_clinical_trials(config):
     # Step 3: Split into multiple EXECUTE IMMEDIATE statements
     stmts = sql_escaped.split("CREATE OR REPLACE")
 
-    stmt1 = "CREATE OR REPLACE" + stmts[1].strip()
-    stmt2 = "CREATE OR REPLACE" + stmts[2].strip()
-    stmt3 = "CREATE OR REPLACE" + stmts[3].strip()
-    stmt4 = "CREATE OR REPLACE" + stmts[4].strip()
+    stmt1 = "CREATE OR REPLACE " + stmts[1].strip()
+    stmt2 = "CREATE OR REPLACE " + stmts[2].strip()
+    stmt3 = "CREATE OR REPLACE " + stmts[3].strip()
+    stmt4 = "CREATE OR REPLACE " + stmts[4].strip()
 
     # Step 4: Generate the Stored Procedure Wrapper
     proc_ddl = f"""-- AUTO-GENERATED FILE: DO NOT EDIT DIRECTLY.

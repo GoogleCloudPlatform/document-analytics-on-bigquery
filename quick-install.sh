@@ -22,11 +22,12 @@ set -o errexit
 set -o nounset
 
 # --- CONFIGURATION ---
-PROJECT_ID=$(gcloud config get-value project)
-LOCATION="us" # Setting default location to match config.yaml
-DATASET_ID="clinical_trial_multiregion"
-BUCKET_DOCS="${PROJECT_ID}-clinical-trials-docs"
-BUCKET_PROFILES="${PROJECT_ID}-patient-profiles"
+# Use environment variables, or fallback to sensible defaults where applicable.
+PROJECT_ID="${PROJECT_ID:-}"
+BIGQUERY_LOCATION="${BIGQUERY_LOCATION:-us}"
+GCS_LOCATION="${GCS_LOCATION:-us}"
+DATASET_ID="${DATASET_ID:-clinical_trial_multiregion}"
+# Note: BUCKET_DOCS and BUCKET_PROFILES depend on PROJECT_ID so they will be set after the check.
 SERVICE_ACCOUNT="vertex-pipelines-sa"
 
 # --- DISPLAY HELPERS ---
@@ -54,6 +55,24 @@ log() {
 warn() {
   printf "${BYELLOW}[WARN]${NC} %s\n" "$1"
 }
+
+if [ -z "$PROJECT_ID" ]; then
+  echo "Error: PROJECT_ID environment variable is required but not set."
+  echo "Please set it before running this script:"
+  echo "  export PROJECT_ID=\"your-gcp-project-id\""
+  echo ""
+  echo "Optional environment variables with defaults:"
+  echo "  BIGQUERY_LOCATION=\"us\""
+  echo "  GCS_LOCATION=\"us\""
+  echo "  DATASET_ID=\"clinical_trial_multiregion\""
+  echo "  BUCKET_DOCS=\"\${PROJECT_ID}-clinical-trials-docs\""
+  echo "  BUCKET_PROFILES=\"\${PROJECT_ID}-patient-profiles\""
+  exit 1
+fi
+
+# Set buckets now that PROJECT_ID is confirmed to be set
+BUCKET_DOCS="${BUCKET_DOCS:-${PROJECT_ID}-clinical-trials-docs}"
+BUCKET_PROFILES="${BUCKET_PROFILES:-${PROJECT_ID}-patient-profiles}"
 
 # --- ARGUMENT PARSING ---
 EXECUTE=false
@@ -87,7 +106,7 @@ run_command() {
 
 enable_api() {
   local api=$1
-  if gcloud services list --enabled --filter="name:$api" --project="$PROJECT_ID" | grep -q "$api"; then
+  if gcloud services list --enabled --filter="config.name=$api" --project="$PROJECT_ID" | grep -q "$api"; then
     log "API $api is already enabled."
   else
     run_command "gcloud services enable $api --project=$PROJECT_ID"
@@ -96,10 +115,10 @@ enable_api() {
 
 create_bucket() {
   local bucket_name=$1
-  if gsutil ls -b "gs://$bucket_name" >/dev/null 2>&1; then
+  if gcloud storage ls "gs://$bucket_name" >/dev/null 2>&1; then
     log "Bucket gs://$bucket_name already exists."
   else
-    run_command "gsutil mb -p $PROJECT_ID -l $LOCATION gs://$bucket_name"
+    run_command "gcloud storage buckets create gs://$bucket_name --project=$PROJECT_ID --location=$GCS_LOCATION"
   fi
 }
 
@@ -124,7 +143,25 @@ create_sa() {
 # --- MAIN EXECUTION ---
 check_dependencies
 
-section_open "1. Enabling APIs"
+section_open "1. Authentication"
+
+# Check if application default credentials exist and are valid
+if gcloud auth application-default print-access-token >/dev/null 2>&1; then
+  log "Application Default Credentials are valid. Skipping authentication."
+else
+  log "Application Default Credentials are not found or invalid. Starting authentication flow..."
+  run_command "gcloud auth login"
+  run_command "gcloud auth application-default login --quiet --scopes=\"openid,https://www.googleapis.com/auth/userinfo.email,https://www.googleapis.com/auth/cloud-platform,https://www.googleapis.com/auth/sqlservice.login,https://www.googleapis.com/auth/accounts.reauth\""
+  run_command "gcloud auth application-default set-quota-project $PROJECT_ID"
+fi
+
+# Export ADC credentials so subsequent tools/scripts (like Python) use them
+ADC_PATH="$(gcloud info --format="value(config.paths.global_config_dir)")/application_default_credentials.json"
+export GOOGLE_APPLICATION_CREDENTIALS="$ADC_PATH"
+log "Exported GOOGLE_APPLICATION_CREDENTIALS=$ADC_PATH"
+section_close "Authentication"
+
+section_open "2. Enabling APIs"
 APIS="
 aiplatform.googleapis.com
 bigquery.googleapis.com
@@ -137,54 +174,74 @@ for api in $APIS; do
 done
 section_close "APIs"
 
-section_open "2. Setting up IAM"
+section_open "3. Setting up IAM"
 create_sa "$SERVICE_ACCOUNT"
 section_close "IAM"
 
-section_open "3. Creating Storage Buckets"
+section_open "4. Creating Storage Buckets"
 create_bucket "$BUCKET_DOCS"
 create_bucket "$BUCKET_PROFILES"
 section_close "Storage"
 
-section_open "4. Creating BigQuery Datasets"
+section_open "5. Creating BigQuery Datasets"
 create_dataset "$DATASET_ID"
 section_close "BigQuery Datasets"
 
-section_open "5. Setting up BigQuery Connections & IAM"
+section_open "6. Setting up BigQuery Connections & IAM"
 # Create AI Resources Connection
-if bq ls --connection --project_id="$PROJECT_ID" --location=$LOCATION | grep -q "cloud_ai_resources"; then
+if bq ls --connection --project_id="$PROJECT_ID" --location="$BIGQUERY_LOCATION" | grep -q "cloud_ai_resources"; then
   log "Connection cloud_ai_resources already exists."
 else
-  run_command "bq mk --connection --project_id=$PROJECT_ID --location=$LOCATION --connection_type=CLOUD_RESOURCE cloud_ai_resources"
+  run_command "bq mk --connection --project_id=$PROJECT_ID --location=$BIGQUERY_LOCATION --connection_type=CLOUD_RESOURCE cloud_ai_resources"
 fi
 
 # Extract Service Accounts and grant permissions
 if [ "$EXECUTE" = true ]; then
-  SA_AI=$(bq show --connection --project_id="$PROJECT_ID" --location=$LOCATION --format=json cloud_ai_resources | grep -o 'bqcx-[^"]*')
+  # Wait for the service account to be provisioned (it can take a few seconds after connection creation)
+  SA_AI=""
+  MAX_RETRIES=15
+  RETRY_COUNT=0
+  log "Waiting for BigQuery Connection Service Account to be provisioned..."
   
-  log "Granting permissions to Connection SA: $SA_AI"
-  for role in roles/aiplatform.user roles/storage.objectUser roles/documentai.viewer; do
-    gcloud projects add-iam-policy-binding "$PROJECT_ID" --member="serviceAccount:$SA_AI" --role="$role" --quiet > /dev/null
+  while [ -z "$SA_AI" ] && [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+    SA_AI=$(bq show --connection --project_id="$PROJECT_ID" --location="$BIGQUERY_LOCATION" --format=json cloud_ai_resources | grep -o 'bqcx-[^"]*' || true)
+    if [ -z "$SA_AI" ]; then
+      RETRY_COUNT=$((RETRY_COUNT+1))
+      printf "."
+      sleep 2
+    fi
   done
+  echo "" # Newline after the loading dots
+
+  if [ -z "$SA_AI" ]; then
+    warn "Failed to retrieve the Service Account for cloud_ai_resources after multiple attempts."
+    echo "You may need to manually assign roles to the bqcx-* service account later."
+  else
+    log "Granting permissions to Connection SA: $SA_AI"
+    for role in roles/aiplatform.user roles/storage.objectUser roles/documentai.viewer; do
+      gcloud projects add-iam-policy-binding "$PROJECT_ID" --member="serviceAccount:$SA_AI" --role="$role" --quiet > /dev/null
+    done
+    log "Successfully applied IAM bindings to $SA_AI"
+  fi
 else
-  echo "  [DRY RUN] Extract Connection SAs and grant roles/aiplatform.user, roles/storage.objectUser, roles/documentai.viewer"
+  echo "  [DRY RUN] Wait for Connection SA (bqcx-*) to be provisioned, then grant roles/aiplatform.user, roles/storage.objectUser, roles/documentai.viewer"
 fi
 section_close "Connections & IAM"
 
-section_open "6. Loading Data & Tables"
+section_open "7. Loading Data & Tables"
 # Upload local files to GCS
-run_command "gsutil -m cp data/generated_patient_profiles/*.txt gs://$BUCKET_PROFILES/"
-run_command "gsutil -m cp data/generated_clinical_trials_reports/new/*.pdf gs://$BUCKET_DOCS/" 2>/dev/null || warn "No PDF reports found in data/generated_clinical_trials_reports/new/"
+run_command "gcloud storage cp data/generated_patient_profiles/*.txt gs://$BUCKET_PROFILES/"
+run_command "gcloud storage cp data/generated_clinical_trials_reports/new/*.pdf gs://$BUCKET_DOCS/" 2>/dev/null || warn "No PDF reports found in data/generated_clinical_trials_reports/new/"
 section_close "Data Loading"
 
-section_open "7. Generating Parameterized Pipelines"
+section_open "8. Generating Parameterized Pipelines"
 # Update config.yaml with actual project specifics
 if [ "$EXECUTE" = true ]; then
   cat << YAMLEOF > config.yaml
 # Basic Google Cloud Info
 project_id: "$PROJECT_ID"
 dataset_id: "$DATASET_ID"
-location: "$LOCATION"
+location: "$BIGQUERY_LOCATION"
 connection_id: "cloud_ai_resources"
 
 # Input Data Locations
@@ -201,18 +258,18 @@ else
 fi
 section_close "Parameterization Engine"
 
-section_open "8. Deploying Unstructured Ingestion Pipelines"
+section_open "9. Deploying Unstructured Ingestion Pipelines"
 PARAM_PROFILES_SQL="sql/Parameterized_Patient_Profiles.sql"
 PARAM_TRIALS_SQL="sql/Parameterized_Clinical_Trials.sql"
 
 if [ -f "$PARAM_PROFILES_SQL" ]; then
-  run_command "bq query --use_legacy_sql=false < '$PARAM_PROFILES_SQL'"
+  run_command "bq query --use_legacy_sql=false < \"$PARAM_PROFILES_SQL\""
 else
   warn "Generated SQL file $PARAM_PROFILES_SQL not found. Did the parameterization script fail?"
 fi
 
 if [ -f "$PARAM_TRIALS_SQL" ]; then
-  run_command "bq query --use_legacy_sql=false < '$PARAM_TRIALS_SQL'"
+  run_command "bq query --use_legacy_sql=false < \"$PARAM_TRIALS_SQL\""
 else
   warn "Generated SQL file $PARAM_TRIALS_SQL not found."
 fi
@@ -224,4 +281,3 @@ if [ "$EXECUTE" = true ]; then
 else
   warn "This was a dry run. No changes were made to GCP."
 fi
-
