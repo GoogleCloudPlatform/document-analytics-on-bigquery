@@ -2,6 +2,14 @@
 
 This project provides a comprehensive solution for analyzing healthcare documents (Clinical Trials, Patient Profiles) using BigQuery's Knowledge Graph capabilities, Gemini LLMs, and Document AI.
 
+## Guided Installation Tutorial on Cloud Shell
+
+Once all the permissions and data prerequisites are met, you can install these components following the step by step installation guide using the Cloud Shell Tutorial, by clicking the button below.
+
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://shell.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/GoogleCloudPlatform/document-analytics-on-bigquery&cloudshell_tutorial=tutorial.md)
+
+**Note:** If you are working from a forked repository, be sure to update the `cloudshell_git_repo` parameter to the URL of your forked repository for the button link above.
+
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following:
