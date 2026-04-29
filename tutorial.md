@@ -56,6 +56,6 @@ Congratulations! You have successfully deployed the infrastructure and set up th
 
 To explore the generated knowledge graph and analyze your documents, you can import our interactive demo notebook directly into BigQuery Studio:
 
-<a href="https://console.cloud.google.com/bigquery/import?url=https://github.com/GoogleCloudPlatform/document-analytics-on-bigquery/blob/main/notebooks/NEXT_DEMO_clinical_trials_platform.ipynb">
+<a href="https://console.cloud.google.com/bigquery/import?url=https://github.com/GoogleCloudPlatform/document-analytics-on-bigquery/blob/main/notebooks/Zero-Copy%20RAG%20-%20Interactive%20Demo.ipynb">
   <img src="https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg" alt="BigQuery Studio logo"> Open in BigQuery Studio
 </a>
