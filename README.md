@@ -1,5 +1,7 @@
 # Healthcare Document Analytics Solution: Zero-Copy RAG & Knowledge Graph
 
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/bigquery?cloudshell=true&cloudshell_git_repo=https://github.com/GoogleCloudPlatform/document-analytics-on-bigquery&cloudshell_tutorial=tutorial.md)
+
 ## Overview
 This solution provides a comprehensive, agentic framework for analyzing healthcare documents—specifically Clinical Study Summary Reports (CSSR) and Patient Profiles—using a "Zero-Copy RAG" architecture on Google Cloud.
 It leverages BigQuery as the central data and AI orchestration engine, integrating Document AI, Vertex AI (Gemini), and BigQuery Graph to transform unstructured PDF reports into a structured, searchable, and relational Knowledge Graph.
