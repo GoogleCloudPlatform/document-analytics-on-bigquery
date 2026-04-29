@@ -51,22 +51,11 @@ bq ls
 
 **Tip:** If you have the [Gemini CLI](https://github.com/GoogleCloudPlatform/gemini-cli) installed in your Cloud Shell environment, you can also use it to seamlessly audit service account permissions, verify configuration, and query the resources you just deployed.
 
-## Setup Clinical Trial Graph
-With the infrastructure audited and in place, your graph database, LLM endpoints, and embedding models have also been automatically configured by the installation script!
-
-Take a moment to review the SQL script in your editor to understand the models and the `DrugGraph` property graph structure that was deployed:
-
-<walkthrough-editor-open-file filePath="sql/setup_clinical_trial_graph.sql"></walkthrough-editor-open-file>
-
-**Optional:** If you wish to orchestrate the ingestion of unstructured data (like PDFs and text profiles) from GCS into BigQuery, you can review the provided Python script to see how it can be done programmatically:
-
-<walkthrough-editor-open-file filePath="scripts/orchestrate_ingestion.py"></walkthrough-editor-open-file>
-
 ## Next Steps in BigQuery Studio
 Congratulations! You have successfully deployed the infrastructure and set up the foundation for document analytics. 🏆
 
 To explore the generated knowledge graph and analyze your documents:
-1. Navigate to **BigQuery Studio** in the Google Cloud Console.
+1. Navigate to [**BigQuery Studio**](https://console.cloud.google.com/bigquery) in the Google Cloud Console.
 2. Click on the **Notebooks** tab.
 3. Import the demo notebook `Bigquery_knowledge_graph_demo.ipynb` (or `NEXT_DEMO_clinical_trials_platform.ipynb` from the `notebooks/` directory) directly into your environment.
 
