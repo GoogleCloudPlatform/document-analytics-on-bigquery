@@ -52,19 +52,11 @@ bq ls
 **Tip:** If you have the [Gemini CLI](https://github.com/GoogleCloudPlatform/gemini-cli) installed in your Cloud Shell environment, you can also use it to seamlessly audit service account permissions, verify configuration, and query the resources you just deployed.
 
 ## Setup Clinical Trial Graph
-With the infrastructure audited and in place, you can now configure your graph database, LLM endpoints, and embedding models.
+With the infrastructure audited and in place, your graph database, LLM endpoints, and embedding models have also been automatically configured by the installation script!
 
-Take a moment to review the SQL script in your editor to understand the models and the `DrugGraph` property graph structure:
+Take a moment to review the SQL script in your editor to understand the models and the `DrugGraph` property graph structure that was deployed:
 
 <walkthrough-editor-open-file filePath="sql/setup_clinical_trial_graph.sql"></walkthrough-editor-open-file>
-
-To execute this, you can open **BigQuery Studio** in the Google Cloud Console, open `sql/setup_clinical_trial_graph.sql`, replace `<PROJECT_ID>` and `<DATASET_ID>` with your specific IDs, and run the query.
-
-Alternatively, you can execute it directly from the terminal (after updating the placeholders in the file):
-
-```sh
-bq query --use_legacy_sql=false < sql/setup_clinical_trial_graph.sql
-```
 
 **Optional:** If you wish to orchestrate the ingestion of unstructured data (like PDFs and text profiles) from GCS into BigQuery, you can run the provided Python script:
 

@@ -275,9 +275,29 @@ else
 fi
 section_close "Deploy Unstructured Ingestion Pipelines"
 
+section_open "10. Setting up Clinical Trial Graph"
+# Parameterize and deploy the clinical trial graph
+PARAM_GRAPH_SQL="sql/Parameterized_setup_clinical_trial_graph.sql"
+
+if [ "$EXECUTE" = true ]; then
+  log "Parameterizing Clinical Trial Graph SQL..."
+  sed -e "s/<PROJECT_ID>/$PROJECT_ID/g" \
+      -e "s/<DATASET_ID>/$DATASET_ID/g" \
+      sql/setup_clinical_trial_graph.sql > "$PARAM_GRAPH_SQL"
+
+  if [ -f "$PARAM_GRAPH_SQL" ]; then
+    run_command "bq query --use_legacy_sql=false < \"$PARAM_GRAPH_SQL\""
+  else
+    warn "Failed to generate parameterized SQL file $PARAM_GRAPH_SQL."
+  fi
+else
+  echo "  [DRY RUN] Generate $PARAM_GRAPH_SQL and execute it using bq query."
+fi
+section_close "Clinical Trial Graph Setup"
+
 printf "\n${BGREEN}Setup Complete!${NC}\n"
 if [ "$EXECUTE" = true ]; then
-  log "To run the ingestion pipelines, execute: python3 scripts/orchestrate_ingestion.py"
+  log "Your Google Cloud environment is now fully provisioned."
 else
   warn "This was a dry run. No changes were made to GCP."
 fi
