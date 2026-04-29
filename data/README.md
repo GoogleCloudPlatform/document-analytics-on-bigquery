@@ -4,7 +4,7 @@ This directory stores the output of synthetic data generation workflows. These a
 
 ## Directory Structure
 
-### `generated_<DATASET_ID>s_reports/`
+### `generated_clinical_trials_reports/`
 Contains synthetic **Clinical Study Summary Reports (CSSR)** in PDF format.
 * **Subfolders:** `new/` (active generation) and `old/` (historical versions).
 * **Naming Convention:** `<PostingID>_<NCT_Number>.pdf`.
