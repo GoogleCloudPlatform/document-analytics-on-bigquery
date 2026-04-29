@@ -57,7 +57,7 @@ Congratulations! You have successfully deployed the infrastructure and set up th
 To explore the generated knowledge graph and analyze your documents, you can import our interactive demo notebook directly into BigQuery Studio:
 
 <a href="https://console.cloud.google.com/bigquery/import?url=https://github.com/GoogleCloudPlatform/document-analytics-on-bigquery/blob/main/notebooks/NEXT_DEMO_clinical_trials_platform.ipynb">
-  <img src="https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg" alt="BigQuery Studio logo"><br> Open in BigQuery Studio
+  <img src="https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg" alt="BigQuery Studio logo"> Open in BigQuery Studio
 </a>
 
 **Don't forget to clean up:** To avoid incurring unnecessary charges to your Google Cloud account, please remember to delete the BigQuery datasets and Cloud Storage buckets used in this tutorial once you are finished exploring the solution.
