@@ -10,12 +10,13 @@ Welcome to the Document Analytics on BigQuery setup tutorial! In this guide, you
 * You must have `Editor` or `Owner` IAM roles on your selected project.
 
 ## Project Setup
-First, you need to set your primary Google Cloud project. This ensures all the datasets, storage buckets, and models are created in the correct environment.
+First, you need to set your primary Google Cloud project. The installation script requires the `PROJECT_ID` environment variable to be set.
 
-Run the following command in your Cloud Shell terminal to set your project:
+Replace `<YOUR_PROJECT_ID>` with your actual Google Cloud Project ID and run the following commands in your Cloud Shell terminal:
 
 ```sh
-gcloud config set project <YOUR_PROJECT_ID>
+export PROJECT_ID="<YOUR_PROJECT_ID>"
+gcloud config set project $PROJECT_ID
 ```
 
 ## Quick Infrastructure Install
