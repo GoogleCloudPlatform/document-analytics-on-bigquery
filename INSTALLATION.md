@@ -115,21 +115,13 @@ The script then performs the following data tasks:
 
 ---
 
-## 🔍 Step 5: Orchestrate Analysis Layer (SQL)
-
-Once the Data layer is created, we use an orchestration simulation to trigger the Unstructured Pipelines created in Step 2:
-
-```bash
-# Set up a virtual environment (optional) and install google-cloud-bigquery
-pip install google-cloud-bigquery
-
-# Orchestrate the procedures (this runs the actual ingestion on BQ!)
-python3 scripts/orchestrate_ingestion.py
-```
+## 🔍 Step 5: Create Models and Graph (BigQuery Studio - SQL)
 
 Finally, we construct the graph structure using:
 * `sql/Clinical TRial Denormalized Data.sql`
 * `sql/setup_clinical_trial_graph.sql`
+
+Run these SQL code on BigQuery Studio.
 
 ---
 
