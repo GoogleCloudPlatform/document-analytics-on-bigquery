@@ -58,14 +58,9 @@ Take a moment to review the SQL script in your editor to understand the models a
 
 <walkthrough-editor-open-file filePath="sql/setup_clinical_trial_graph.sql"></walkthrough-editor-open-file>
 
-**Optional:** If you wish to orchestrate the ingestion of unstructured data (like PDFs and text profiles) from GCS into BigQuery, you can run the provided Python script:
+**Optional:** If you wish to orchestrate the ingestion of unstructured data (like PDFs and text profiles) from GCS into BigQuery, you can review the provided Python script to see how it can be done programmatically:
 
 <walkthrough-editor-open-file filePath="scripts/orchestrate_ingestion.py"></walkthrough-editor-open-file>
-
-```sh
-pip install google-cloud-bigquery
-python3 scripts/orchestrate_ingestion.py
-```
 
 ## Next Steps in BigQuery Studio
 Congratulations! You have successfully deployed the infrastructure and set up the foundation for document analytics. 🏆
