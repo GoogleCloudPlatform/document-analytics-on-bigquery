@@ -13,44 +13,44 @@
 -- limitations under the License.
 
 CREATE OR REPLACE MODEL `<PROJECT_ID>.<DATASET_ID>.EmbeddingsModel`
-REMOTE WITH CONNECTION `<PROJECT_ID>.us-central1.llm-connection` 
+REMOTE WITH CONNECTION `<PROJECT_ID>.<BIGQUERY_LOCATION>.llm-connection` 
 OPTIONS (
   ENDPOINT = 'text-embedding-005'
 );
 
 --CREATE OR REPLACE MODEL `<PROJECT_ID>.<DATASET_ID>.EmbeddingsModelGE2`
---REMOTE WITH CONNECTION `<PROJECT_ID>.us-central1.llm-connection` 
+--REMOTE WITH CONNECTION `<PROJECT_ID>.<BIGQUERY_LOCATION>.llm-connection` 
 --OPTIONS (
 --  ENDPOINT = 'gemini-embedding-2-preview'
 --);
 
 CREATE OR REPLACE MODEL `<PROJECT_ID>.<DATASET_ID>.EmbeddingsModelMME`
-REMOTE WITH CONNECTION `<PROJECT_ID>.us-central1.llm-connection` 
+REMOTE WITH CONNECTION `<PROJECT_ID>.<BIGQUERY_LOCATION>.llm-connection` 
 OPTIONS (
   ENDPOINT = 'multimodalembedding@001'
 );
 
 CREATE OR REPLACE MODEL `<PROJECT_ID>.<DATASET_ID>.EmbeddingsModelGE1`
-REMOTE WITH CONNECTION `<PROJECT_ID>.us-central1.llm-connection` 
+REMOTE WITH CONNECTION `<PROJECT_ID>.<BIGQUERY_LOCATION>.llm-connection` 
 OPTIONS (
   ENDPOINT = 'gemini-embedding-001'
 );
 
 CREATE OR REPLACE MODEL `<PROJECT_ID>.<DATASET_ID>.LLMModel`
-REMOTE WITH CONNECTION `<PROJECT_ID>.us-central1.llm-connection`
+REMOTE WITH CONNECTION `<PROJECT_ID>.<BIGQUERY_LOCATION>.llm-connection`
 OPTIONS (
   ENDPOINT = 'gemini-2.5-pro'
 );
 
 CREATE OR REPLACE MODEL `<DATASET_ID>.cssr_reports_model`
-REMOTE WITH CONNECTION `<PROJECT_ID>.us.cloud_ai_resources` 
+REMOTE WITH CONNECTION `<PROJECT_ID>.<BIGQUERY_LOCATION>.cloud_ai_resources` 
   OPTIONS(
     remote_service_type = 'CLOUD_AI_DOCUMENT_V1',
     document_processor = 'e3d2713160e255fc'
 );
 
 CREATE OR REPLACE MODEL `<PROJECT_ID>.<DATASET_ID>.LLMModelFlash`
-REMOTE WITH CONNECTION `<PROJECT_ID>.us.cloud_ai_resources`
+REMOTE WITH CONNECTION `<PROJECT_ID>.<BIGQUERY_LOCATION>.cloud_ai_resources`
 OPTIONS (
   ENDPOINT = 'gemini-2.5-flash'
 );

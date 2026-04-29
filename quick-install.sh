@@ -283,6 +283,7 @@ if [ "$EXECUTE" = true ]; then
   log "Parameterizing Clinical Trial Graph SQL..."
   sed -e "s/<PROJECT_ID>/$PROJECT_ID/g" \
       -e "s/<DATASET_ID>/$DATASET_ID/g" \
+      -e "s/<BIGQUERY_LOCATION>/$BIGQUERY_LOCATION/g" \
       sql/setup_clinical_trial_graph.sql > "$PARAM_GRAPH_SQL"
 
   if [ -f "$PARAM_GRAPH_SQL" ]; then
