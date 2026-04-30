@@ -1,4 +1,4 @@
-# Document Analytics on BigQuery Installation
+# Zero-Copy RAG - Document Analytics on BigQuery Installation
 
 ## Welcome
 Welcome to the Document Analytics on BigQuery setup tutorial! In this guide, you will deploy the necessary infrastructure to extract intelligent insights from your documents using BigQuery and Google's AI models.
