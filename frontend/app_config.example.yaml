@@ -1,0 +1,21 @@
+# Basic Google Cloud Info
+project_id: "<PROJECT_ID>"
+dataset_id: "clinical_trial_multiregion"
+location: "us"
+connection_id: "cloud_ai_resources"
+
+# Input Data Locations
+bucket_name: "<PROJECT_ID>-clinical-trials-docs"
+folder_name: ""
+clinical_reports_gcs_path: "gs://<PROJECT_ID>-clinical-trials-docs/*.pdf"
+patient_data_gcs_path: "gs://<PROJECT_ID>-patient-profiles/*.txt"
+
+# BigQuery Table & Resource Names
+table_name: "ClinicalTrialMasterData_embedded2"
+table_2_name: "ClinicalTrialChunks"
+graph_name: "clinical_trial_graph"
+vector_index_name: "clinical_trial_vector_index"
+
+# Vertex AI & Document AI Options
+model_name: "cssr_reports_model"
+docai_endpoint: "projects/[PROJECT_NUMBER]/locations/us/processors/[PROCESSOR_ID]"

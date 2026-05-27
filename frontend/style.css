@@ -1,0 +1,130 @@
+/* Import premium modern typography */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+/* Apply font family globally */
+html, body, [class*="css"], .stMarkdown {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+/* Modern gradient header */
+.main-header {
+    color: #000000;
+    font-weight: 800;
+    font-size: 2.5rem !important;
+    margin-bottom: 0.2rem;
+}
+
+.sub-header {
+    font-size: 1.1rem;
+    color: #94a3b8;
+    margin-bottom: 2rem;
+    font-weight: 400;
+}
+
+/* Premium Card Layout */
+.metric-card {
+    background-color: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.metric-card:hover {
+    transform: translateY(-4px);
+    border-color: #38bdf8;
+    box-shadow: 0 10px 15px -3px rgb(56 189 248 / 0.1), 0 4px 6px -4px rgb(56 189 248 / 0.1);
+}
+
+.metric-title {
+    color: #94a3b8;
+    font-size: 0.875rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.5rem;
+}
+
+.metric-value {
+    color: #f1f5f9;
+    font-size: 1.875rem;
+    font-weight: 700;
+}
+
+/* Glassmorphism containers */
+.glass-container {
+    background: rgba(30, 41, 59, 0.7);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    border-radius: 16px;
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+/* Badge styles */
+.badge {
+    display: inline-block;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    border-radius: 9999px;
+    margin-right: 0.5rem;
+}
+
+.badge-info {
+    background-color: rgba(56, 189, 248, 0.2);
+    color: #38bdf8;
+    border: 1px solid rgba(56, 189, 248, 0.3);
+}
+
+.badge-success {
+    background-color: rgba(34, 197, 94, 0.2);
+    color: #4ade80;
+    border: 1px solid rgba(34, 197, 94, 0.3);
+}
+
+.badge-warning {
+    background-color: rgba(234, 179, 8, 0.2);
+    color: #facc15;
+    border: 1px solid rgba(234, 179, 8, 0.3);
+}
+
+/* Info block with gradient border accent */
+.accent-block {
+    border-left: 4px solid #38bdf8;
+    background-color: #0f172a;
+    padding: 1rem 1.5rem;
+    border-radius: 0 8px 8px 0;
+    margin-bottom: 1rem;
+}
+
+.accent-block h5 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    color: #38bdf8;
+}
+
+/* Adjust streamlit table container styling */
+.stTable {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+/* Animation for key interactive triggers */
+@keyframes pulse-glow {
+    0%, 100% {
+        box-shadow: 0 0 0 0 rgba(56, 189, 248, 0.4);
+    }
+    50% {
+        box-shadow: 0 0 12px 4px rgba(56, 189, 248, 0.6);
+    }
+}
+
+.glow-btn button {
+    animation: pulse-glow 3s infinite;
+    background: linear-gradient(135deg, #00f2fe 0%, #4facfe 100%) !important;
+    color: white !important;
+    border: none !important;
+}
