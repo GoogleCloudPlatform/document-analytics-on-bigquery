@@ -1,20 +1,13 @@
 import json
 import os
 
-import pandas as pd
-import plotly.express as px
 import streamlit as st
 import yaml
+from google.cloud import bigquery  # noqa: E402
+from google.cloud import storage  # noqa: E402
 
 # Disable mTLS client certificate provider to avoid status code -11 error
 os.environ["GOOGLE_API_USE_CLIENT_CERTIFICATE"] = "false"
-
-import base64
-import io
-import subprocess
-
-from google.api_core.exceptions import GoogleAPIError
-from google.cloud import bigquery, storage
 
 # Set page configuration for a premium analytics experience
 st.set_page_config(
@@ -164,7 +157,10 @@ with st.sidebar.expander("⚙️ Configuration", expanded=False):
     docai_endpoint = st.text_input(
         "Document AI Endpoint",
         value=config.get("docai_endpoint", "gemini-2.5-flash"),
-        help="Endpoint URL for AI.PARSE_DOCUMENT (e.g. projects/YOUR_PROJECT/locations/us/processors/YOUR_PROCESSOR_ID)",
+        help=(
+            "Endpoint URL for AI.PARSE_DOCUMENT (e.g. "
+            "projects/YOUR_PROJECT/locations/us/processors/YOUR_PROCESSOR_ID)"
+        ),
     )
 
     # Save updates back to config.yaml dynamically
@@ -273,20 +269,22 @@ def run_bq_query(query, job_config=None):
                 "Named argument mode not found in signature for call to function AI.SEARCH"
                 in err_msg
             ):
-                st.info("""
-                💡 **Self-Service Guide: Resolving AI.SEARCH Mode Error**
-                
-                The `mode => 'hybrid'` argument is a preview feature in BigQuery. If you get a signature error, your project's region does not support the preview hybrid mode parameter yet. Please change the **Search Mode** in the settings to **semantic** and execute again.
-                """)
+                st.info(
+                    "💡 **Self-Service Guide: Resolving AI.SEARCH Mode Error**\n\n"
+                    "The `mode => 'hybrid'` argument is a preview feature in BigQuery. If you get a signature error, "
+                    "your project's region does not support the preview hybrid mode parameter yet. Please change "
+                    "the **Search Mode** in the settings to **semantic** and execute again."
+                )
             elif (
                 "Named argument lexical_search_columns not found in signature for call to function VECTOR_SEARCH"
                 in err_msg
             ):
-                st.info("""
-                💡 **Self-Service Guide: Resolving VECTOR_SEARCH Lexical Columns Error**
-                
-                The `lexical_search_columns` argument is a preview feature in BigQuery. If you get a signature error, your project's region does not support this preview feature yet. Please change the **Search Type** in the settings to **Pure Vector Search** and execute again.
-                """)
+                st.info(
+                    "💡 **Self-Service Guide: Resolving VECTOR_SEARCH Lexical Columns Error**\n\n"
+                    "The `lexical_search_columns` argument is a preview feature in BigQuery. If you get a "
+                    "signature error, your project's region does not support this preview feature yet. Please "
+                    "change the **Search Type** in the settings to **Pure Vector Search** and execute again."
+                )
             return None
 
 
@@ -506,21 +504,60 @@ elif selected_step.startswith("3️⃣"):
         "embeddings are computed automatically on insert."
     )
 
+    prompt_text = (
+        "Extract the following fields from the clinical trial document: "
+        "Sponsor, StudyTitle, PreferredUMLSName (as array), NCT_Number, Phase, "
+        "Trial_Status, Disease_Areas, Targeted_Enrollment (as integer), Company, "
+        "semantic_text, name, preferred_name, semantic_type (as array), definition, "
+        "mesh_code, mesh_codes (as array), hpo_codes (as array), snomed_id, "
+        "snomed_hierarchy (as array), drug_name, atc_code, atc_codes (as array), "
+        "rxnorm_code, trade_names (as array), ema_url (as array), source_level (as integer), "
+        "drug_preferred_name, drug_semantic_type (as array), criteria_type, "
+        "criteria_text, phase_id, status_name, status_description."
+    )
+    schema_text = (
+        "Sponsor STRING, StudyTitle STRING, PreferredUMLSName ARRAY<STRING>, "
+        "NCT_Number STRING, Phase STRING, Trial_Status STRING, Disease_Areas STRING, "
+        "Targeted_Enrollment INT64, Company STRING, semantic_text STRING, name STRING, "
+        "preferred_name STRING, semantic_type ARRAY<STRING>, definition STRING, "
+        "mesh_code STRING, mesh_codes ARRAY<STRING>, hpo_codes ARRAY<STRING>, "
+        "snomed_id STRING, snomed_hierarchy ARRAY<STRING>, drug_name STRING, "
+        "atc_code STRING, atc_codes ARRAY<STRING>, rxnorm_code STRING, "
+        "trade_names ARRAY<STRING>, ema_url ARRAY<STRING>, source_level INT64, "
+        "drug_preferred_name STRING, drug_semantic_type ARRAY<STRING>, "
+        "criteria_type STRING, criteria_text STRING, phase_id STRING, "
+        "status_name STRING, status_description STRING"
+    )
+
     sql_3 = f"""
 -- Check if table is empty before inserting
 IF NOT EXISTS (SELECT 1 FROM `{project_id}.{dataset_id}.{table_name}` LIMIT 1) THEN
   INSERT INTO `{project_id}.{dataset_id}.{table_name}`
-  (uri, Sponsor, StudyTitle, PreferredUMLSName, NCT_Number, Phase, Trial_Status, Disease_Areas, Targeted_Enrollment, Company, semantic_text, name, preferred_name, semantic_type, definition, mesh_code, mesh_codes, hpo_codes, snomed_id, snomed_hierarchy, drug_name, atc_code, atc_codes, rxnorm_code, trade_names, ema_url, source_level, drug_preferred_name, drug_semantic_type, criteria_type, criteria_text, phase_id, status_name, status_description, objectRef)
+  (
+    uri, Sponsor, StudyTitle, PreferredUMLSName, NCT_Number, Phase,
+    Trial_Status, Disease_Areas, Targeted_Enrollment, Company, semantic_text,
+    name, preferred_name, semantic_type, definition, mesh_code, mesh_codes,
+    hpo_codes, snomed_id, snomed_hierarchy, drug_name, atc_code, atc_codes,
+    rxnorm_code, trade_names, ema_url, source_level, drug_preferred_name,
+    drug_semantic_type, criteria_type, criteria_text, phase_id, status_name,
+    status_description, objectRef
+  )
   SELECT
-    uri, Sponsor, StudyTitle, PreferredUMLSName, NCT_Number, Phase, Trial_Status, Disease_Areas, Targeted_Enrollment, Company, semantic_text, name, preferred_name, semantic_type, definition, mesh_code, mesh_codes, hpo_codes, snomed_id, snomed_hierarchy, drug_name, atc_code, atc_codes, rxnorm_code, trade_names, ema_url, source_level, drug_preferred_name, drug_semantic_type, criteria_type, criteria_text, phase_id, status_name, status_description,
+    uri, Sponsor, StudyTitle, PreferredUMLSName, NCT_Number, Phase,
+    Trial_Status, Disease_Areas, Targeted_Enrollment, Company, semantic_text,
+    name, preferred_name, semantic_type, definition, mesh_code, mesh_codes,
+    hpo_codes, snomed_id, snomed_hierarchy, drug_name, atc_code, atc_codes,
+    rxnorm_code, trade_names, ema_url, source_level, drug_preferred_name,
+    drug_semantic_type, criteria_type, criteria_text, phase_id, status_name,
+    status_description,
     uri AS objectRef
   FROM (
     SELECT
       uri,
       AI.GENERATE(
-        prompt => STRUCT('Extract the following fields from the clinical trial document: Sponsor, StudyTitle, PreferredUMLSName (as array), NCT_Number, Phase, Trial_Status, Disease_Areas, Targeted_Enrollment (as integer), Company, semantic_text, name, preferred_name, semantic_type (as array), definition, mesh_code, mesh_codes (as array), hpo_codes (as array), snomed_id, snomed_hierarchy (as array), drug_name, atc_code, atc_codes (as array), rxnorm_code, trade_names (as array), ema_url (as array), source_level (as integer), drug_preferred_name, drug_semantic_type (as array), criteria_type, criteria_text, phase_id, status_name, status_description.', OBJ.GET_ACCESS_URL(OBJ.MAKE_REF(uri, '{full_connection_id}'), 'r')),
+        prompt => STRUCT('{prompt_text}', OBJ.GET_ACCESS_URL(OBJ.MAKE_REF(uri, '{full_connection_id}'), 'r')),
         endpoint => 'gemini-2.5-flash',
-        output_schema => 'Sponsor STRING, StudyTitle STRING, PreferredUMLSName ARRAY<STRING>, NCT_Number STRING, Phase STRING, Trial_Status STRING, Disease_Areas STRING, Targeted_Enrollment INT64, Company STRING, semantic_text STRING, name STRING, preferred_name STRING, semantic_type ARRAY<STRING>, definition STRING, mesh_code STRING, mesh_codes ARRAY<STRING>, hpo_codes ARRAY<STRING>, snomed_id STRING, snomed_hierarchy ARRAY<STRING>, drug_name STRING, atc_code STRING, atc_codes ARRAY<STRING>, rxnorm_code STRING, trade_names ARRAY<STRING>, ema_url ARRAY<STRING>, source_level INT64, drug_preferred_name STRING, drug_semantic_type ARRAY<STRING>, criteria_type STRING, criteria_text STRING, phase_id STRING, status_name STRING, status_description STRING',
+        output_schema => '{schema_text}',
         connection_id => '{full_connection_id}'
       ).* EXCEPT (full_response, status)
     FROM
@@ -536,7 +573,8 @@ END IF;
     st.code(sql_3, language="sql")
 
     st.warning(
-        "⚠️ Running this step will invoke Vertex LLM on the files. This process may take a few minutes depending on the quantity of documents."
+        "⚠️ Running this step will invoke Vertex LLM on the files. "
+        "This process may take a few minutes depending on the quantity of documents."
     )
 
     # Check prerequisites
@@ -545,11 +583,13 @@ END IF;
 
     if not master_exists:
         st.error(
-            f"❌ **Prerequisite Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** first."
+            f"❌ **Prerequisite Missing**: The master table `{table_name}` "
+            "does not exist. Please complete **Step 2** first."
         )
     if not object_exists:
         st.error(
-            f"❌ **Prerequisite Missing**: The object table `object_table` does not exist. Please complete **Step 1** first."
+            "❌ **Prerequisite Missing**: The object table `object_table` "
+            "does not exist. Please complete **Step 1** first."
         )
 
     run_btn = st.button(
@@ -563,7 +603,10 @@ END IF;
     if st.session_state.step_result is not None:
         st.success("Table populated / checked.")
         st.subheader("Extracted Master Data Preview")
-        preview_query = f"SELECT uri, Sponsor, StudyTitle, Phase, Trial_Status, Targeted_Enrollment FROM `{project_id}.{dataset_id}.{table_name}` LIMIT 5"
+        preview_query = (
+            f"SELECT uri, Sponsor, StudyTitle, Phase, Trial_Status, "
+            f"Targeted_Enrollment FROM `{project_id}.{dataset_id}.{table_name}` LIMIT 5"
+        )
         df_preview = client.query(preview_query).to_dataframe()
         st.dataframe(df_preview, width="stretch")
 
@@ -590,10 +633,12 @@ elif selected_step.startswith("4️⃣"):
     if search_mode == "hybrid":
         st.warning("""
         💡 **Note on Hybrid Search Mode:**
-        
-        The `mode => 'hybrid'` parameter is a BigQuery preview feature. If executing the search fails with:
+
+        The `mode => 'hybrid'` parameter is a BigQuery preview feature.
+        If executing the search fails with:
         *`Named argument mode not found in signature for call to function AI.SEARCH`*,
-        your current BigQuery project/region does not support this preview feature yet. Simply switch the **Search Mode** back to **semantic**.
+        your current BigQuery project/region does not support this preview feature yet.
+        Simply switch the **Search Mode** back to **semantic**.
         """)
 
     # Omit mode parameter for standard semantic search to prevent signature errors
@@ -617,7 +662,9 @@ FROM AI.SEARCH(
     master_exists = check_table_exists(project_id, dataset_id, table_name)
     if not master_exists:
         st.warning(
-            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** (create schema) and **Step 3** (populate table) first."
+            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` "
+            "does not exist. Please complete **Step 2** (create schema) and "
+            "**Step 3** (populate table) first."
         )
 
     run_btn = st.button("Execute Search", type="primary", disabled=not master_exists)
@@ -648,19 +695,20 @@ elif selected_step.startswith("5️⃣"):
         "layout-aware, and then generate embeddings for those chunks. This enables chunk-level retrieval."
     )
 
-    st.info("""
-    💡 **Self-Service Guide: Resolving Document AI Parser Endpoint Errors**
-    
-    If running this step fails with an endpoint support error (such as *Gemini endpoint is not supported*), you must provision a dedicated Layout Parser processor:
-    
-    1. Open the **Google Cloud Console** for your project.
-    2. Navigate to **Document AI** via the search bar or menu.
-    3. Click on **Explore Processors** or **Processor Library**.
-    4. Search for and select the **Layout Parser** processor type (currently in preview/pre-GA).
-    5. Click **Create Processor**, set a name, and choose your region (e.g., `us`).
-    6. Once created, copy the processor's **Endpoint ID path** (formatted as: `projects/YOUR_PROJECT_NUMBER/locations/us/processors/YOUR_PROCESSOR_ID`).
-    7. Paste this full path into the **Document AI Endpoint** field in the sidebar **⚙️ Configuration** menu and click **Parse and Chunk Documents** again.
-    """)
+    st.info(
+        "💡 **Self-Service Guide: Resolving Document AI Parser Endpoint Errors**\n\n"
+        "If running this step fails with an endpoint support error (such as *Gemini endpoint is not supported*), "
+        "you must provision a dedicated Layout Parser processor:\n\n"
+        "1. Open the **Google Cloud Console** for your project.\n"
+        "2. Navigate to **Document AI** via the search bar or menu.\n"
+        "3. Click on **Explore Processors** or **Processor Library**.\n"
+        "4. Search for and select the **Layout Parser** processor type (currently in preview/pre-GA).\n"
+        "5. Click **Create Processor**, set a name, and choose your region (e.g., `us`).\n"
+        "6. Once created, copy the processor's **Endpoint ID path** (formatted as: "
+        "`projects/YOUR_PROJECT_NUMBER/locations/us/processors/YOUR_PROCESSOR_ID`).\n"
+        "7. Paste this full path into the **Document AI Endpoint** field in the sidebar "
+        "**⚙️ Configuration** menu and click **Parse and Chunk Documents** again."
+    )
 
     sql_5 = f"""
 CREATE TABLE IF NOT EXISTS `{project_id}.{dataset_id}.{table_2_name}` AS
@@ -699,11 +747,13 @@ WHERE ARRAY_LENGTH(embedding) = 768;
 
     if not master_exists:
         st.error(
-            f"❌ **Prerequisite Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** first."
+            f"❌ **Prerequisite Missing**: The master table `{table_name}` "
+            "does not exist. Please complete **Step 2** first."
         )
     if not object_exists:
         st.error(
-            f"❌ **Prerequisite Missing**: The object table `object_table` does not exist. Please complete **Step 1** first."
+            "❌ **Prerequisite Missing**: The object table `object_table` "
+            "does not exist. Please complete **Step 1** first."
         )
 
     run_btn = st.button(
@@ -717,7 +767,10 @@ WHERE ARRAY_LENGTH(embedding) = 768;
     if st.session_state.step_result is not None:
         st.success("Document chunking and parsing completed successfully.")
         st.subheader("Parsed Chunks Preview")
-        preview_query = f"SELECT study_name, sponsor, SUBSTR(chunks, 1, 150) AS chunk_text FROM `{project_id}.{dataset_id}.{table_2_name}` LIMIT 5"
+        preview_query = (
+            f"SELECT study_name, sponsor, SUBSTR(chunks, 1, 150) AS chunk_text "
+            f"FROM `{project_id}.{dataset_id}.{table_2_name}` LIMIT 5"
+        )
         df_preview = client.query(preview_query).to_dataframe()
         st.dataframe(df_preview, width="stretch")
 
@@ -745,15 +798,17 @@ elif selected_step.startswith("6️⃣"):
         lexical_query = st.text_input(
             "Lexical Filter Query (Sponsor Name)", value="AstraZeneca"
         )
-        lexical_clause = f""",
+        lexical_clause = """,
   lexical_search_columns => ["sponsor"],
   lexical_search_query_value => @lexical_query"""
         st.warning("""
         💡 **Note on Hybrid Search Mode:**
-        
-        The `lexical_search_columns` parameter is a BigQuery preview feature. If executing the search fails with:
+
+        The `lexical_search_columns` parameter is a BigQuery preview feature.
+        If executing the search fails with:
         *`Named argument lexical_search_columns not found in signature for call to function VECTOR_SEARCH`*,
-        your current BigQuery project/region does not support this preview feature yet. Simply switch the **Search Type** back to **Pure Vector Search**.
+        your current BigQuery project/region does not support this preview feature yet.
+        Simply switch the **Search Type** back to **Pure Vector Search**.
         """)
     else:
         lexical_query = ""
@@ -768,7 +823,11 @@ SELECT
 FROM VECTOR_SEARCH(
   TABLE `{project_id}.{dataset_id}.{table_2_name}`,
   "embedding",
-  query_value => AI.EMBED(@semantic_query, connection_id => '{full_connection_id}', endpoint => 'text-embedding-005').result{lexical_clause},
+  query_value => AI.EMBED(
+    @semantic_query,
+    connection_id => '{full_connection_id}',
+    endpoint => 'text-embedding-005'
+  ).result{lexical_clause},
   top_k => 10
 )
 ORDER BY distance ASC;
@@ -781,7 +840,9 @@ ORDER BY distance ASC;
     chunks_table_exists = check_table_exists(project_id, dataset_id, table_2_name)
     if not chunks_table_exists:
         st.warning(
-            f"⚠️ **Prerequisite Table Missing**: The chunks table `{table_2_name}` does not exist in dataset `{dataset_id}`. Please complete **Step 5** first to parse documents and generate the chunks table."
+            f"⚠️ **Prerequisite Table Missing**: The chunks table `{table_2_name}` "
+            f"does not exist in dataset `{dataset_id}`. "
+            "Please complete **Step 5** first to parse documents and generate the chunks table."
         )
 
     run_btn = st.button(
@@ -886,7 +947,8 @@ EDGE TABLES (
     master_exists = check_table_exists(project_id, dataset_id, table_name)
     if not master_exists:
         st.warning(
-            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** and **Step 3** first."
+            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` "
+            "does not exist. Please complete **Step 2** and **Step 3** first."
         )
 
     run_btn = st.button(
@@ -921,7 +983,9 @@ elif selected_step.startswith("8️⃣"):
     if client:
         try:
             trial_df = client.query(
-                f"SELECT DISTINCT StudyTitle FROM `{project_id}.{dataset_id}.{table_name}` WHERE StudyTitle IS NOT NULL LIMIT 40"
+                f"SELECT DISTINCT StudyTitle "
+                f"FROM `{project_id}.{dataset_id}.{table_name}` "
+                "WHERE StudyTitle IS NOT NULL LIMIT 40"
             ).to_dataframe()
             trial_options = list(trial_df["StudyTitle"])
         except Exception:
@@ -950,7 +1014,8 @@ SELECT * FROM GRAPH_TABLE(
     graph_exists = check_table_exists(project_id, dataset_id, "drug_nodes")
     if not graph_exists:
         st.warning(
-            f"⚠️ **Property Graph Missing**: The clinical trial property graph components do not exist. Please complete **Step 7** first."
+            "⚠️ **Property Graph Missing**: The clinical trial property graph components "
+            "do not exist. Please complete **Step 7** first."
         )
 
     run_btn = st.button("Visualize Subgraph", type="primary", disabled=not graph_exists)
@@ -966,7 +1031,8 @@ SELECT * FROM GRAPH_TABLE(
         df = st.session_state.step_result
         if df.empty:
             st.warning(
-                f"No relationships matched for '{selected_trial}'. Ensure graph nodes are generated and relationships exist."
+                f"No relationships matched for '{selected_trial}'. "
+                "Ensure graph nodes are generated and relationships exist."
             )
 
             # Fallback layout preview using general relationships
@@ -1102,8 +1168,10 @@ SELECT * FROM GRAPH_TABLE(
             <head>
                 <link rel="preconnect" href="https://fonts.googleapis.com">
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-                <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-                <script type="text/javascript" src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+                <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+                      rel="stylesheet">
+                <script type="text/javascript"
+                        src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
                 <style type="text/css">
                     body {{
                         margin: 0;
@@ -1154,9 +1222,21 @@ SELECT * FROM GRAPH_TABLE(
             <body>
             <div id="mynetwork"></div>
             <div id="legend">
-                <div class="legend-item"><span class="legend-dot" style="background-color: #6366f1; border-color: #4f46e5;"></span>Clinical Trial</div>
-                <div class="legend-item"><span class="legend-dot" style="background-color: #0d9488; border-color: #0f766e;"></span>Tested Drug</div>
-                <div class="legend-item"><span class="legend-dot" style="background-color: #ec4899; border-color: #db2777;"></span>Sponsor</div>
+                <div class="legend-item">
+                    <span class="legend-dot"
+                          style="background-color: #6366f1; border-color: #4f46e5;"></span>
+                    Clinical Trial
+                </div>
+                <div class="legend-item">
+                    <span class="legend-dot"
+                          style="background-color: #0d9488; border-color: #0f766e;"></span>
+                    Tested Drug
+                </div>
+                <div class="legend-item">
+                    <span class="legend-dot"
+                          style="background-color: #ec4899; border-color: #db2777;"></span>
+                    Sponsor
+                </div>
             </div>
             <script type="text/javascript">
                 var nodes = new vis.DataSet({nodes_json});
@@ -1246,10 +1326,12 @@ elif selected_step.startswith("9️⃣"):
     if search_mode == "hybrid":
         st.warning("""
         💡 **Note on Hybrid Search Mode:**
-        
-        The `mode => 'hybrid'` parameter is a BigQuery preview feature. If executing the search fails with:
+
+        The `mode => 'hybrid'` parameter is a BigQuery preview feature.
+        If executing the search fails with:
         *`Named argument mode not found in signature for call to function AI.SEARCH`*,
-        your current BigQuery project/region does not support this preview feature yet. Simply switch the **Search Mode** back to **semantic**.
+        your current BigQuery project/region does not support this preview feature yet.
+        Simply switch the **Search Mode** back to **semantic**.
         """)
 
     # Omit mode parameter for standard semantic search to prevent signature errors
@@ -1270,7 +1352,13 @@ graph_data AS (
     `{project_id}.{dataset_id}.{graph_name}`
     MATCH (t:Trial)-[:TestsDrug]->(d:Drug)<-[:TestsDrug]-(other:Trial)
     WHERE t.Phase = 'Phase 3'
-    RETURN t.NCT_Number AS t_nct, t.StudyTitle AS source_trial, d.drug_name AS drug, other.StudyTitle AS related_trial, other.NCT_Number AS other_nct, other.Disease_Areas AS related_disease
+    RETURN
+      t.NCT_Number AS t_nct,
+      t.StudyTitle AS source_trial,
+      d.drug_name AS drug,
+      other.StudyTitle AS related_trial,
+      other.NCT_Number AS other_nct,
+      other.Disease_Areas AS related_disease
   )
 ),
 raw_results AS (
@@ -1290,7 +1378,10 @@ SELECT
   related_trial,
   related_disease,
   AI.GENERATE(
-    prompt => 'Analyze these two clinical trials testing the same drug (' || drug || '). Provide a pithy, one-sentence cross-indication laymans insight starting with "Based on the findings of these two studies...". Trial 1: ' || source_trial || ' | Trial 2: ' || related_trial,
+    prompt => 'Analyze these two clinical trials testing the same drug (' || drug || '). '
+      || 'Provide a pithy, one-sentence cross-indication laymans insight starting with '
+      || '"Based on the findings of these two studies...". '
+      || 'Trial 1: ' || source_trial || ' | Trial 2: ' || related_trial,
     endpoint => 'gemini-2.5-flash',
     output_schema => 'summary STRING',
     connection_id => '{full_connection_id}'
@@ -1308,11 +1399,13 @@ LIMIT 5;
 
     if not master_exists:
         st.warning(
-            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** and **Step 3** first."
+            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` "
+            "does not exist. Please complete **Step 2** and **Step 3** first."
         )
     if not graph_exists:
         st.warning(
-            f"⚠️ **Property Graph Missing**: The property graph components do not exist. Please complete **Step 7** first."
+            "⚠️ **Property Graph Missing**: The property graph components do not exist. "
+            "Please complete **Step 7** first."
         )
 
     run_btn = st.button(
@@ -1347,14 +1440,19 @@ LIMIT 5;
                     ]
                 badges_html = " ".join(
                     [
-                        f'<span class="badge badge-info" style="margin-top: 0.25rem; display: inline-block;">{d}</span>'
+                        (
+                            f'<span class="badge badge-info" '
+                            f'style="margin-top: 0.25rem; display: inline-block;">{d}</span>'
+                        )
                         for d in diseases
                     ]
                 )
 
                 st.markdown(
                     f"""
-                    <div class="metric-card" style="margin-bottom: 1.5rem; background-color: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 1.5rem;">
+                    <div class="metric-card"
+                         style="margin-bottom: 1.5rem; background-color: #1e293b;
+                                border: 1px solid #334155; border-radius: 12px; padding: 1.5rem;">
                         <div style="font-weight: 700; color: #38bdf8; font-size: 1.25rem; margin-bottom: 0.75rem;">
                             💊 Drug: {row['drug']}
                         </div>
@@ -1369,9 +1467,18 @@ LIMIT 5;
                                 {badges_html}
                             </div>
                         </div>
-                        <div class="accent-block" style="margin-top: 0.75rem; background-color: #0f172a; border-left: 4px solid #38bdf8; padding: 1rem; border-radius: 0 8px 8px 0;">
-                            <h5 style="margin: 0 0 0.5rem 0; color: #38bdf8; font-size: 1rem; font-weight: 600;">💡 Laymans Insight</h5>
-                            <p style="margin: 0; color: #f1f5f9; line-height: 1.6; font-size: 0.95rem;">{row['cross_trial_insight']}</p>
+                        <div class="accent-block"
+                             style="margin-top: 0.75rem; background-color: #0f172a;
+                                    border-left: 4px solid #38bdf8; padding: 1rem;
+                                    border-radius: 0 8px 8px 0;">
+                            <h5 style="margin: 0 0 0.5rem 0; color: #38bdf8;
+                                       font-size: 1rem; font-weight: 600;">
+                                💡 Laymans Insight
+                            </h5>
+                            <p style="margin: 0; color: #f1f5f9; line-height: 1.6;
+                                      font-size: 0.95rem;">
+                                {row['cross_trial_insight']}
+                            </p>
                         </div>
                     </div>
                     """,
@@ -1402,7 +1509,8 @@ OPTIONS(
     st.code(sql_10, language="sql")
 
     st.info(
-        "⚠️ Note: BigQuery requires a minimum of 5,000 rows to build IVF indexes. For smaller tables, search will run fine via flat scan."
+        "⚠️ Note: BigQuery requires a minimum of 5,000 rows to build IVF indexes. "
+        "For smaller tables, search will run fine via flat scan."
     )
 
     # Check prerequisites
@@ -1419,11 +1527,15 @@ OPTIONS(
 
     if not master_exists:
         st.warning(
-            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** first."
+            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` "
+            "does not exist. Please complete **Step 2** first."
         )
     elif row_count < 5000:
         st.warning(
-            f"⚠️ **Insufficient Rows for Indexing ({row_count}/5000)**: BigQuery requires a minimum of **5,000 rows** to build a vector index. Since your dataset has fewer rows, search will execute fine using a flat scan. The index creation button is disabled."
+            f"⚠️ **Insufficient Rows for Indexing ({row_count}/5000)**: "
+            "BigQuery requires a minimum of **5,000 rows** to build a vector index. "
+            "Since your dataset has fewer rows, search will execute fine using a flat scan. "
+            "The index creation button is disabled."
         )
 
     run_btn = st.button(
