@@ -1,26 +1,27 @@
-import streamlit as st
-import pandas as pd
-import yaml
-import os
 import json
+import os
+
+import pandas as pd
 import plotly.express as px
+import streamlit as st
+import yaml
 
 # Disable mTLS client certificate provider to avoid status code -11 error
-os.environ['GOOGLE_API_USE_CLIENT_CERTIFICATE'] = 'false'
+os.environ["GOOGLE_API_USE_CLIENT_CERTIFICATE"] = "false"
 
-from google.cloud import bigquery
-from google.api_core.exceptions import GoogleAPIError
-from google.cloud import storage
-import subprocess
 import base64
 import io
+import subprocess
+
+from google.api_core.exceptions import GoogleAPIError
+from google.cloud import bigquery, storage
 
 # Set page configuration for a premium analytics experience
 st.set_page_config(
     page_title="Healthcare Document Analytics & Zero-Copy RAG",
     page_icon="🔬",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="expanded",
 )
 
 # Load styling from style.css
@@ -28,6 +29,7 @@ css_file = os.path.join(os.path.dirname(__file__), "style.css")
 if os.path.exists(css_file):
     with open(css_file) as f:
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
 
 # Helper: Load config defaults
 def load_config():
@@ -38,7 +40,7 @@ def load_config():
                 return yaml.safe_load(f) or {}
         except Exception:
             pass
-            
+
     # Fallback to example configuration template
     example_path = os.path.join(os.path.dirname(__file__), "app_config.example.yaml")
     if os.path.exists(example_path):
@@ -49,11 +51,12 @@ def load_config():
             pass
     return {}
 
+
 # Helper: Save config defaults (always writes to app_config.yaml to avoid editing template)
 def save_config(updates):
     config_path = os.path.join(os.path.dirname(__file__), "app_config.yaml")
     example_path = os.path.join(os.path.dirname(__file__), "app_config.example.yaml")
-    
+
     current_config = {}
     # Read existing app_config.yaml, or fall back to template as initial state
     for path in [example_path, config_path]:
@@ -63,7 +66,7 @@ def save_config(updates):
                     current_config.update(yaml.safe_load(f) or {})
             except Exception:
                 pass
-                
+
     changed = False
     for k, v in updates.items():
         if current_config.get(k) != v:
@@ -76,7 +79,9 @@ def save_config(updates):
         except Exception:
             pass
 
+
 config = load_config()
+
 
 # Helper: Get BigQuery Client
 @st.cache_resource
@@ -88,6 +93,7 @@ def get_bq_client(project_id):
         st.sidebar.error(f"Authentication failed: {str(e)}")
         return None
 
+
 # Helper: Get GCS Connection ID Format
 def get_full_connection_id(conn_id, proj_id, loc):
     if not conn_id:
@@ -95,6 +101,7 @@ def get_full_connection_id(conn_id, proj_id, loc):
     if conn_id.startswith("projects/"):
         return conn_id
     return f"projects/{proj_id}/locations/{loc}/connections/{conn_id}"
+
 
 # Helper: Check if BigQuery Table or View exists
 def check_table_exists(project, dataset, table):
@@ -107,8 +114,12 @@ def check_table_exists(project, dataset, table):
     except Exception:
         return False
 
+
 # Sidebar layout
-st.sidebar.image("https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg", width=40)
+st.sidebar.image(
+    "https://www.gstatic.com/images/branding/gcpiconscolors/bigquery/v1/32px.svg",
+    width=40,
+)
 st.sidebar.title("R&D Data Research")
 
 # Clean placeholder resolution and fallback to environment variable for Cloud Run deployment
@@ -117,22 +128,44 @@ if default_project == "<PROJECT_ID>" or not default_project:
     default_project = os.environ.get("GOOGLE_CLOUD_PROJECT", "")
 
 with st.sidebar.expander("⚙️ Configuration", expanded=False):
-    project_id = st.text_input("GCP Project ID", value=default_project, placeholder="Enter your GCP Project ID")
-    dataset_id = st.text_input("BigQuery Dataset ID", value=config.get("dataset_id", "clinical_trial_multiregion"))
+    project_id = st.text_input(
+        "GCP Project ID", value=default_project, placeholder="Enter your GCP Project ID"
+    )
+    dataset_id = st.text_input(
+        "BigQuery Dataset ID",
+        value=config.get("dataset_id", "clinical_trial_multiregion"),
+    )
     location = st.text_input("GCP Location", value=config.get("location", "us"))
-    
+
     # Dynamic default bucket naming
     proj = project_id if project_id else "your-gcp-project"
     default_bucket_name = config.get("bucket_name", f"{proj}-clinical-trials-docs")
     bucket_name = st.text_input("GCS Bucket Name", value=default_bucket_name)
     folder_name = st.text_input("GCS Folder Name", value=config.get("folder_name", ""))
-    connection_id = st.text_input("Cloud AI Connection ID", value=config.get("connection_id", "cloud_ai_resources"))
-    
-    table_name = st.text_input("Master Table Name", value=config.get("table_name", "ClinicalTrialMasterData_embedded2"))
-    table_2_name = st.text_input("Chunks Table Name", value=config.get("table_2_name", "ClinicalTrialChunks"))
-    graph_name = st.text_input("Property Graph Name", value=config.get("graph_name", "clinical_trial_graph"))
-    vector_index_name = st.text_input("Vector Index Name", value=config.get("vector_index_name", "clinical_trial_vector_index"))
-    docai_endpoint = st.text_input("Document AI Endpoint", value=config.get("docai_endpoint", "gemini-2.5-flash"), help="Endpoint URL for AI.PARSE_DOCUMENT (e.g. projects/YOUR_PROJECT/locations/us/processors/YOUR_PROCESSOR_ID)")
+    connection_id = st.text_input(
+        "Cloud AI Connection ID",
+        value=config.get("connection_id", "cloud_ai_resources"),
+    )
+
+    table_name = st.text_input(
+        "Master Table Name",
+        value=config.get("table_name", "ClinicalTrialMasterData_embedded2"),
+    )
+    table_2_name = st.text_input(
+        "Chunks Table Name", value=config.get("table_2_name", "ClinicalTrialChunks")
+    )
+    graph_name = st.text_input(
+        "Property Graph Name", value=config.get("graph_name", "clinical_trial_graph")
+    )
+    vector_index_name = st.text_input(
+        "Vector Index Name",
+        value=config.get("vector_index_name", "clinical_trial_vector_index"),
+    )
+    docai_endpoint = st.text_input(
+        "Document AI Endpoint",
+        value=config.get("docai_endpoint", "gemini-2.5-flash"),
+        help="Endpoint URL for AI.PARSE_DOCUMENT (e.g. projects/YOUR_PROJECT/locations/us/processors/YOUR_PROCESSOR_ID)",
+    )
 
     # Save updates back to config.yaml dynamically
     updates = {
@@ -148,12 +181,12 @@ with st.sidebar.expander("⚙️ Configuration", expanded=False):
         "vector_index_name": vector_index_name,
         "docai_endpoint": docai_endpoint,
     }
-    
+
     config_updates = {}
     for k, v in updates.items():
         if config.get(k) != v:
             config_updates[k] = v
-            
+
     if config_updates:
         save_config(config_updates)
         config.update(config_updates)
@@ -194,7 +227,7 @@ step_options = [
     "7️⃣ Step 7: Graph Generation & Traversal",
     "8️⃣ Step 8: Visualize the Graph",
     "9️⃣ Step 9: Advanced Graph Traversal",
-    "🔟 Step 10: Scale - Vector Index"
+    "🔟 Step 10: Scale - Vector Index",
 ]
 selected_step = st.sidebar.radio("Go to step:", step_options)
 
@@ -202,13 +235,23 @@ selected_step = st.sidebar.radio("Go to step:", step_options)
 full_connection_id = get_full_connection_id(connection_id, project_id, location)
 
 # App Header
-st.markdown('<div class="main-header">Healthcare Document Analytics</div>', unsafe_allow_html=True)
-st.markdown('<div class="sub-header">Zero-Copy RAG & Knowledge Graph Orchestration on BigQuery</div>', unsafe_allow_html=True)
+st.markdown(
+    '<div class="main-header">Healthcare Document Analytics</div>',
+    unsafe_allow_html=True,
+)
+st.markdown(
+    '<div class="sub-header">Zero-Copy RAG & Knowledge Graph Orchestration on BigQuery</div>',
+    unsafe_allow_html=True,
+)
 
 # Track session state step result
-if "current_step" not in st.session_state or st.session_state.current_step != selected_step:
+if (
+    "current_step" not in st.session_state
+    or st.session_state.current_step != selected_step
+):
     st.session_state.current_step = selected_step
     st.session_state.step_result = None
+
 
 # Helper to run BQ query and cache result
 def run_bq_query(query, job_config=None):
@@ -224,21 +267,28 @@ def run_bq_query(query, job_config=None):
         except Exception as e:
             err_msg = str(e)
             st.error(f"Error executing query: {err_msg}")
-            
+
             # Show friendly assistance instructions for signature errors
-            if "Named argument mode not found in signature for call to function AI.SEARCH" in err_msg:
+            if (
+                "Named argument mode not found in signature for call to function AI.SEARCH"
+                in err_msg
+            ):
                 st.info("""
                 💡 **Self-Service Guide: Resolving AI.SEARCH Mode Error**
                 
                 The `mode => 'hybrid'` argument is a preview feature in BigQuery. If you get a signature error, your project's region does not support the preview hybrid mode parameter yet. Please change the **Search Mode** in the settings to **semantic** and execute again.
                 """)
-            elif "Named argument lexical_search_columns not found in signature for call to function VECTOR_SEARCH" in err_msg:
+            elif (
+                "Named argument lexical_search_columns not found in signature for call to function VECTOR_SEARCH"
+                in err_msg
+            ):
                 st.info("""
                 💡 **Self-Service Guide: Resolving VECTOR_SEARCH Lexical Columns Error**
                 
                 The `lexical_search_columns` argument is a preview feature in BigQuery. If you get a signature error, your project's region does not support this preview feature yet. Please change the **Search Type** in the settings to **Pure Vector Search** and execute again.
                 """)
             return None
+
 
 # ----------------------------------------------------
 # STEP 0: Documents in GCS
@@ -250,17 +300,21 @@ if selected_step.startswith("0️⃣"):
         "document to understand the raw files we are analyzing. This unstructured data "
         "will remain in-place in Google Cloud Storage."
     )
-    
+
     st.subheader("Explore Documents")
-    
+
     col1, col2 = st.columns([2, 3])
     with col1:
         with st.container(border=True):
             st.markdown("##### GCS Source URI")
-            gcs_display_path = f"gs://{bucket_name}/{folder_name}/" if folder_name else f"gs://{bucket_name}/"
+            gcs_display_path = (
+                f"gs://{bucket_name}/{folder_name}/"
+                if folder_name
+                else f"gs://{bucket_name}/"
+            )
             st.write(f"`{gcs_display_path}`")
             run_gcs_list = st.button("List GCS Documents", type="primary")
-        
+
         if run_gcs_list or st.session_state.step_result is not None:
             if run_gcs_list:
                 try:
@@ -269,33 +323,41 @@ if selected_step.startswith("0️⃣"):
                     prefix = folder_name.strip()
                     if prefix and not prefix.endswith("/"):
                         prefix += "/"
-                    
-                    blobs = list(storage_client.list_blobs(bucket, prefix=prefix, max_results=10))
-                    pdf_files = [blob.name for blob in blobs if blob.name.endswith(".pdf")]
-                    
+
+                    blobs = list(
+                        storage_client.list_blobs(bucket, prefix=prefix, max_results=10)
+                    )
+                    pdf_files = [
+                        blob.name for blob in blobs if blob.name.endswith(".pdf")
+                    ]
+
                     if not pdf_files:
                         blobs = list(storage_client.list_blobs(bucket, max_results=10))
-                        pdf_files = [blob.name for blob in blobs if blob.name.endswith(".pdf")]
-                    
+                        pdf_files = [
+                            blob.name for blob in blobs if blob.name.endswith(".pdf")
+                        ]
+
                     st.session_state.step_result = pdf_files
                 except Exception as e:
                     st.error(f"Error listing GCS: {str(e)}")
                     st.info("Check application credentials or bucket access rights.")
-            
+
             if st.session_state.step_result:
                 st.success(f"Listed {len(st.session_state.step_result)} PDF documents:")
                 for name in st.session_state.step_result[:5]:
                     st.markdown(f"- `{name}`")
                 if len(st.session_state.step_result) > 5:
                     st.write(f"... and {len(st.session_state.step_result) - 5} more.")
-                    
+
     with col2:
         if st.session_state.step_result:
             with st.container(border=True):
                 st.markdown("##### First Page Preview")
-                selected_pdf = st.selectbox("Select document to preview", st.session_state.step_result)
+                selected_pdf = st.selectbox(
+                    "Select document to preview", st.session_state.step_result
+                )
                 preview_btn = st.button("Download & Render Preview")
-            
+
             if preview_btn:
                 with st.spinner("Downloading and rendering PDF first page..."):
                     try:
@@ -303,16 +365,25 @@ if selected_step.startswith("0️⃣"):
                         bucket = storage_client.bucket(bucket_name)
                         blob = bucket.blob(selected_pdf)
                         pdf_bytes = blob.download_as_bytes()
-                        
+
                         from pdf2image import convert_from_bytes
-                        images = convert_from_bytes(pdf_bytes, first_page=1, last_page=1)
+
+                        images = convert_from_bytes(
+                            pdf_bytes, first_page=1, last_page=1
+                        )
                         if images:
-                            st.image(images[0], caption=f"First Page of {os.path.basename(selected_pdf)}", width="stretch")
+                            st.image(
+                                images[0],
+                                caption=f"First Page of {os.path.basename(selected_pdf)}",
+                                width="stretch",
+                            )
                         else:
                             st.warning("Could not convert PDF bytes to image.")
                     except Exception as e:
                         st.error(f"Could not preview PDF: {str(e)}")
-                        st.info("Requires poppler-utils installed in the environment for pdf-to-image conversion.")
+                        st.info(
+                            "Requires poppler-utils installed in the environment for pdf-to-image conversion."
+                        )
 
 # ----------------------------------------------------
 # STEP 1: Generate Object Table
@@ -324,8 +395,12 @@ elif selected_step.startswith("1️⃣"):
         "Object Tables. We create an external object table in BigQuery to reference the raw "
         "documents in-place without copying them."
     )
-    
-    gcs_uri = f"gs://{bucket_name}/{folder_name}/*" if folder_name else f"gs://{bucket_name}/*"
+
+    gcs_uri = (
+        f"gs://{bucket_name}/{folder_name}/*"
+        if folder_name
+        else f"gs://{bucket_name}/*"
+    )
     sql_1 = f"""
 CREATE EXTERNAL TABLE IF NOT EXISTS `{project_id}.{dataset_id}.object_table`
 WITH CONNECTION `{full_connection_id}`
@@ -334,14 +409,14 @@ OPTIONS (
   uris = ['{gcs_uri}']
 );
     """
-    
+
     st.subheader("SQL Blueprint")
     st.code(sql_1, language="sql")
-    
+
     run_btn = st.button("Create Object Table", type="primary")
     if run_btn:
         run_bq_query(sql_1)
-        
+
     if st.session_state.step_result is not None:
         st.success("Object table generated successfully.")
         st.subheader("Object Table Preview")
@@ -360,7 +435,7 @@ elif selected_step.startswith("2️⃣"):
         "`GENERATED ALWAYS AS (AI.EMBED(...))` syntax. BigQuery will automatically manage and "
         "generate 768-dimensional embeddings for the `StudyTitle` on updates."
     )
-    
+
     sql_2 = f"""
 CREATE TABLE IF NOT EXISTS `{project_id}.{dataset_id}.{table_name}` (
   uri STRING,
@@ -408,14 +483,14 @@ CREATE TABLE IF NOT EXISTS `{project_id}.{dataset_id}.{table_name}` (
     OPTIONS( asynchronous = TRUE )
 );
     """
-    
+
     st.subheader("SQL Blueprint")
     st.code(sql_2, language="sql")
-    
+
     run_btn = st.button("Define Table Schema", type="primary")
     if run_btn:
         run_bq_query(sql_2)
-        
+
     if st.session_state.step_result is not None:
         st.success(f"Master schema table `{table_name}` configured successfully.")
 
@@ -430,7 +505,7 @@ elif selected_step.startswith("3️⃣"):
         "(Sponsor, Phase, targeted enrollment, etc.), and maps them into our schema. "
         "embeddings are computed automatically on insert."
     )
-    
+
     sql_3 = f"""
 -- Check if table is empty before inserting
 IF NOT EXISTS (SELECT 1 FROM `{project_id}.{dataset_id}.{table_name}` LIMIT 1) THEN
@@ -456,25 +531,35 @@ ELSE
   SELECT 'Table is not empty. Skipping insertion.' AS status;
 END IF;
     """
-    
+
     st.subheader("SQL Blueprint")
     st.code(sql_3, language="sql")
-    
-    st.warning("⚠️ Running this step will invoke Vertex LLM on the files. This process may take a few minutes depending on the quantity of documents.")
-    
+
+    st.warning(
+        "⚠️ Running this step will invoke Vertex LLM on the files. This process may take a few minutes depending on the quantity of documents."
+    )
+
     # Check prerequisites
     master_exists = check_table_exists(project_id, dataset_id, table_name)
     object_exists = check_table_exists(project_id, dataset_id, "object_table")
-    
+
     if not master_exists:
-        st.error(f"❌ **Prerequisite Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** first.")
+        st.error(
+            f"❌ **Prerequisite Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** first."
+        )
     if not object_exists:
-        st.error(f"❌ **Prerequisite Missing**: The object table `object_table` does not exist. Please complete **Step 1** first.")
-        
-    run_btn = st.button("Populate Table (Extract via Gemini)", type="primary", disabled=not (master_exists and object_exists))
+        st.error(
+            f"❌ **Prerequisite Missing**: The object table `object_table` does not exist. Please complete **Step 1** first."
+        )
+
+    run_btn = st.button(
+        "Populate Table (Extract via Gemini)",
+        type="primary",
+        disabled=not (master_exists and object_exists),
+    )
     if run_btn:
         run_bq_query(sql_3)
-        
+
     if st.session_state.step_result is not None:
         st.success("Table populated / checked.")
         st.subheader("Extracted Master Data Preview")
@@ -492,10 +577,16 @@ elif selected_step.startswith("4️⃣"):
         "similarity between the generated text embedding and the query string natively "
         "without replicating data to an external vector database."
     )
-    
-    search_query = st.text_input("Semantic Search Query", value="Cancer treated by MK-3475")
-    search_mode = st.selectbox("Search Mode", ["semantic", "hybrid"], help="Hybrid combines vector search with keyword matching (Preview feature)")
-    
+
+    search_query = st.text_input(
+        "Semantic Search Query", value="Cancer treated by MK-3475"
+    )
+    search_mode = st.selectbox(
+        "Search Mode",
+        ["semantic", "hybrid"],
+        help="Hybrid combines vector search with keyword matching (Preview feature)",
+    )
+
     if search_mode == "hybrid":
         st.warning("""
         💡 **Note on Hybrid Search Mode:**
@@ -504,7 +595,7 @@ elif selected_step.startswith("4️⃣"):
         *`Named argument mode not found in signature for call to function AI.SEARCH`*,
         your current BigQuery project/region does not support this preview feature yet. Simply switch the **Search Mode** back to **semantic**.
         """)
-        
+
     # Omit mode parameter for standard semantic search to prevent signature errors
     mode_clause = ", mode => 'hybrid'" if search_mode == "hybrid" else ""
     sql_4 = f"""
@@ -518,15 +609,17 @@ FROM AI.SEARCH(
   top_k => 10
 )
     """
-    
+
     st.subheader("SQL Query")
     st.code(sql_4, language="sql")
-    
+
     # Check prerequisites
     master_exists = check_table_exists(project_id, dataset_id, table_name)
     if not master_exists:
-        st.warning(f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** (create schema) and **Step 3** (populate table) first.")
-        
+        st.warning(
+            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** (create schema) and **Step 3** (populate table) first."
+        )
+
     run_btn = st.button("Execute Search", type="primary", disabled=not master_exists)
     if run_btn:
         job_config = bigquery.QueryJobConfig(
@@ -535,11 +628,13 @@ FROM AI.SEARCH(
             ]
         )
         run_bq_query(sql_4, job_config=job_config)
-        
+
     if st.session_state.step_result is not None:
         st.subheader("Search Results")
         if st.session_state.step_result.empty:
-            st.warning("No matches found. Ensure the master table is populated and embeddings are updated.")
+            st.warning(
+                "No matches found. Ensure the master table is populated and embeddings are updated."
+            )
         else:
             st.dataframe(st.session_state.step_result, width="stretch")
 
@@ -552,7 +647,7 @@ elif selected_step.startswith("5️⃣"):
         "For complex, multi-page documents, we use `AI.PARSE_DOCUMENT` to chunk the text "
         "layout-aware, and then generate embeddings for those chunks. This enables chunk-level retrieval."
     )
-    
+
     st.info("""
     💡 **Self-Service Guide: Resolving Document AI Parser Endpoint Errors**
     
@@ -592,25 +687,33 @@ chunks_with_metadata AS (
 SELECT * FROM chunks_with_metadata
 WHERE ARRAY_LENGTH(embedding) = 768;
     """
-    
+
     st.subheader("SQL Blueprint")
     st.code(sql_5, language="sql")
-    
+
     st.info("ℹ️ AI.PARSE_DOCUMENT performs deep visual document layout chunking.")
-    
+
     # Check prerequisites
     master_exists = check_table_exists(project_id, dataset_id, table_name)
     object_exists = check_table_exists(project_id, dataset_id, "object_table")
-    
+
     if not master_exists:
-        st.error(f"❌ **Prerequisite Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** first.")
+        st.error(
+            f"❌ **Prerequisite Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** first."
+        )
     if not object_exists:
-        st.error(f"❌ **Prerequisite Missing**: The object table `object_table` does not exist. Please complete **Step 1** first.")
-        
-    run_btn = st.button("Execute Document Chunk Parsing", type="primary", disabled=not (master_exists and object_exists))
+        st.error(
+            f"❌ **Prerequisite Missing**: The object table `object_table` does not exist. Please complete **Step 1** first."
+        )
+
+    run_btn = st.button(
+        "Execute Document Chunk Parsing",
+        type="primary",
+        disabled=not (master_exists and object_exists),
+    )
     if run_btn:
         run_bq_query(sql_5)
-        
+
     if st.session_state.step_result is not None:
         st.success("Document chunking and parsing completed successfully.")
         st.subheader("Parsed Chunks Preview")
@@ -628,12 +731,20 @@ elif selected_step.startswith("6️⃣"):
         "We perform vector search against chunk embeddings combined with lexical keyword matching "
         "against the `sponsor` column for specific targeted lookups."
     )
-    
-    search_type = st.selectbox("Search Type", ["Pure Vector Search", "Hybrid Search (Preview)"], help="Hybrid search combines vector search with keyword matching (requires preview allowlist)")
-    semantic_query = st.text_input("Semantic Search Query", value="chronic disease studies by AstraZeneca")
-    
+
+    search_type = st.selectbox(
+        "Search Type",
+        ["Pure Vector Search", "Hybrid Search (Preview)"],
+        help="Hybrid search combines vector search with keyword matching (requires preview allowlist)",
+    )
+    semantic_query = st.text_input(
+        "Semantic Search Query", value="chronic disease studies by AstraZeneca"
+    )
+
     if search_type == "Hybrid Search (Preview)":
-        lexical_query = st.text_input("Lexical Filter Query (Sponsor Name)", value="AstraZeneca")
+        lexical_query = st.text_input(
+            "Lexical Filter Query (Sponsor Name)", value="AstraZeneca"
+        )
         lexical_clause = f""",
   lexical_search_columns => ["sponsor"],
   lexical_search_query_value => @lexical_query"""
@@ -647,7 +758,7 @@ elif selected_step.startswith("6️⃣"):
     else:
         lexical_query = ""
         lexical_clause = ""
-        
+
     sql_6 = f"""
 SELECT
   base.study_name,
@@ -662,30 +773,38 @@ FROM VECTOR_SEARCH(
 )
 ORDER BY distance ASC;
     """
-    
+
     st.subheader("SQL Query")
     st.code(sql_6, language="sql")
-    
+
     # Check prerequisites
     chunks_table_exists = check_table_exists(project_id, dataset_id, table_2_name)
     if not chunks_table_exists:
-        st.warning(f"⚠️ **Prerequisite Table Missing**: The chunks table `{table_2_name}` does not exist in dataset `{dataset_id}`. Please complete **Step 5** first to parse documents and generate the chunks table.")
-        
-    run_btn = st.button("Execute Cross-Column Search", type="primary", disabled=not chunks_table_exists)
+        st.warning(
+            f"⚠️ **Prerequisite Table Missing**: The chunks table `{table_2_name}` does not exist in dataset `{dataset_id}`. Please complete **Step 5** first to parse documents and generate the chunks table."
+        )
+
+    run_btn = st.button(
+        "Execute Cross-Column Search", type="primary", disabled=not chunks_table_exists
+    )
     if run_btn:
         query_params = [
             bigquery.ScalarQueryParameter("semantic_query", "STRING", semantic_query)
         ]
         if search_type == "Hybrid Search (Preview)":
-            query_params.append(bigquery.ScalarQueryParameter("lexical_query", "STRING", lexical_query))
-            
+            query_params.append(
+                bigquery.ScalarQueryParameter("lexical_query", "STRING", lexical_query)
+            )
+
         job_config = bigquery.QueryJobConfig(query_parameters=query_params)
         run_bq_query(sql_6, job_config=job_config)
-        
+
     if st.session_state.step_result is not None:
         st.subheader("Search Results")
         if st.session_state.step_result.empty:
-            st.warning("No matches found. Ensure the chunks table from Step 5 is created.")
+            st.warning(
+                "No matches found. Ensure the chunks table from Step 5 is created."
+            )
         else:
             st.dataframe(st.session_state.step_result, width="stretch")
 
@@ -699,7 +818,7 @@ elif selected_step.startswith("7️⃣"):
         "define the BigQuery property graph structure. This registers entities and relationship edges "
         "natively to execute Graph Query Language (GQL) statements."
     )
-    
+
     sql_views = f"""
 -- 1. Create Views for Graph Nodes and Edges
 CREATE OR REPLACE VIEW `{project_id}.{dataset_id}.drug_nodes` AS
@@ -722,7 +841,7 @@ SELECT DISTINCT NCT_Number AS trial_id, Sponsor AS sponsor_name
 FROM `{project_id}.{dataset_id}.{table_name}`
 WHERE Sponsor IS NOT NULL AND NCT_Number IS NOT NULL;
     """
-    
+
     sql_graph = f"""
 -- 2. Define Property Graph Structure
 CREATE OR REPLACE PROPERTY GRAPH `{project_id}.{dataset_id}.{graph_name}`
@@ -756,19 +875,23 @@ EDGE TABLES (
     LABEL SponsoredBy
 );
     """
-    
+
     st.subheader("SQL Blueprint - View Definitions")
     st.code(sql_views, language="sql")
-    
+
     st.subheader("SQL Blueprint - Property Graph Creation")
     st.code(sql_graph, language="sql")
-    
+
     # Check prerequisites
     master_exists = check_table_exists(project_id, dataset_id, table_name)
     if not master_exists:
-        st.warning(f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** and **Step 3** first.")
-        
-    run_btn = st.button("Generate Views and Property Graph", type="primary", disabled=not master_exists)
+        st.warning(
+            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** and **Step 3** first."
+        )
+
+    run_btn = st.button(
+        "Generate Views and Property Graph", type="primary", disabled=not master_exists
+    )
     if run_btn:
         with st.spinner("Executing setup..."):
             try:
@@ -792,21 +915,25 @@ elif selected_step.startswith("8️⃣"):
         "We execute graph GQL pattern matching to identify relationships between trials, sponsors, and drugs. "
         "We construct and render the resulting subgraph interactively using Vis.js."
     )
-    
+
     # Check if client connection is available to retrieve trial nodes list
     trial_options = []
     if client:
         try:
-            trial_df = client.query(f"SELECT DISTINCT StudyTitle FROM `{project_id}.{dataset_id}.{table_name}` WHERE StudyTitle IS NOT NULL LIMIT 40").to_dataframe()
-            trial_options = list(trial_df['StudyTitle'])
+            trial_df = client.query(
+                f"SELECT DISTINCT StudyTitle FROM `{project_id}.{dataset_id}.{table_name}` WHERE StudyTitle IS NOT NULL LIMIT 40"
+            ).to_dataframe()
+            trial_options = list(trial_df["StudyTitle"])
         except Exception:
             pass
-            
+
     if not trial_options:
         trial_options = ["Select or type trial title (Run Steps 1-3 first)"]
-        
-    selected_trial = st.selectbox("Search / Select Trial Node for Traversal", trial_options)
-    
+
+    selected_trial = st.selectbox(
+        "Search / Select Trial Node for Traversal", trial_options
+    )
+
     sql_viz = f"""
 SELECT * FROM GRAPH_TABLE(
   `{project_id}.{dataset_id}.{graph_name}`
@@ -815,15 +942,17 @@ SELECT * FROM GRAPH_TABLE(
   RETURN t.StudyTitle AS trial_title, s.sponsor_name AS sponsor, d.drug_name AS drug
 ) LIMIT 10
     """
-    
+
     st.subheader("GQL Subgraph Traversal Query")
     st.code(sql_viz, language="sql")
-    
+
     # Check prerequisites
     graph_exists = check_table_exists(project_id, dataset_id, "drug_nodes")
     if not graph_exists:
-        st.warning(f"⚠️ **Property Graph Missing**: The clinical trial property graph components do not exist. Please complete **Step 7** first.")
-        
+        st.warning(
+            f"⚠️ **Property Graph Missing**: The clinical trial property graph components do not exist. Please complete **Step 7** first."
+        )
+
     run_btn = st.button("Visualize Subgraph", type="primary", disabled=not graph_exists)
     if run_btn:
         job_config = bigquery.QueryJobConfig(
@@ -832,12 +961,14 @@ SELECT * FROM GRAPH_TABLE(
             ]
         )
         run_bq_query(sql_viz, job_config=job_config)
-        
+
     if st.session_state.step_result is not None:
         df = st.session_state.step_result
         if df.empty:
-            st.warning(f"No relationships matched for '{selected_trial}'. Ensure graph nodes are generated and relationships exist.")
-            
+            st.warning(
+                f"No relationships matched for '{selected_trial}'. Ensure graph nodes are generated and relationships exist."
+            )
+
             # Fallback layout preview using general relationships
             st.info("Attempting general query for sample preview...")
             try:
@@ -851,82 +982,119 @@ SELECT * FROM GRAPH_TABLE(
                 df = client.query(sample_query).to_dataframe()
             except Exception:
                 pass
-                
+
         if not df.empty:
             st.success(f"Traversed {len(df)} connections. Rendering subgraph below:")
-            
+
             # Process results to build Vis.js nodes and edges
             nodes = []
             edges = []
             seen_nodes = set()
-            
+
             for _, row in df.iterrows():
-                trial = row['trial_title']
-                drug = row['drug']
-                sponsor = row['sponsor']
-                
+                trial = row["trial_title"]
+                drug = row["drug"]
+                sponsor = row["sponsor"]
+
                 # Add central trial node
                 if trial and trial not in seen_nodes:
                     short_trial = trial[:25] + "..." if len(trial) > 25 else trial
-                    nodes.append({
-                        "id": trial,
-                        "label": short_trial,
-                        "color": {
-                            "background": "#6366f1",
-                            "border": "#4f46e5",
-                            "highlight": {"background": "#818cf8", "border": "#6366f1"}
-                        },
-                        "font": {"color": "#f8fafc", "size": 15, "bold": True, "face": "Inter, sans-serif"},
-                        "shape": "dot",
-                        "size": 32,
-                        "title": f"Trial: {trial}"
-                    })
+                    nodes.append(
+                        {
+                            "id": trial,
+                            "label": short_trial,
+                            "color": {
+                                "background": "#6366f1",
+                                "border": "#4f46e5",
+                                "highlight": {
+                                    "background": "#818cf8",
+                                    "border": "#6366f1",
+                                },
+                            },
+                            "font": {
+                                "color": "#f8fafc",
+                                "size": 15,
+                                "bold": True,
+                                "face": "Inter, sans-serif",
+                            },
+                            "shape": "dot",
+                            "size": 32,
+                            "title": f"Trial: {trial}",
+                        }
+                    )
                     seen_nodes.add(trial)
-                    
+
                 # Add drug node
                 if drug and drug not in seen_nodes:
-                    nodes.append({
-                        "id": drug,
-                        "label": drug,
-                        "color": {
-                            "background": "#0d9488",
-                            "border": "#0f766e",
-                            "highlight": {"background": "#14b8a6", "border": "#0d9488"}
-                        },
-                        "font": {"color": "#cbd5e1", "size": 14, "face": "Inter, sans-serif"},
-                        "shape": "dot",
-                        "size": 24,
-                        "title": f"Drug: {drug}"
-                    })
+                    nodes.append(
+                        {
+                            "id": drug,
+                            "label": drug,
+                            "color": {
+                                "background": "#0d9488",
+                                "border": "#0f766e",
+                                "highlight": {
+                                    "background": "#14b8a6",
+                                    "border": "#0d9488",
+                                },
+                            },
+                            "font": {
+                                "color": "#cbd5e1",
+                                "size": 14,
+                                "face": "Inter, sans-serif",
+                            },
+                            "shape": "dot",
+                            "size": 24,
+                            "title": f"Drug: {drug}",
+                        }
+                    )
                     seen_nodes.add(drug)
-                    
+
                 # Add sponsor node
                 if sponsor and sponsor not in seen_nodes:
-                    nodes.append({
-                        "id": sponsor,
-                        "label": sponsor,
-                        "color": {
-                            "background": "#ec4899",
-                            "border": "#db2777",
-                            "highlight": {"background": "#f472b6", "border": "#ec4899"}
-                        },
-                        "font": {"color": "#cbd5e1", "size": 14, "face": "Inter, sans-serif"},
-                        "shape": "dot",
-                        "size": 24,
-                        "title": f"Sponsor: {sponsor}"
-                    })
+                    nodes.append(
+                        {
+                            "id": sponsor,
+                            "label": sponsor,
+                            "color": {
+                                "background": "#ec4899",
+                                "border": "#db2777",
+                                "highlight": {
+                                    "background": "#f472b6",
+                                    "border": "#ec4899",
+                                },
+                            },
+                            "font": {
+                                "color": "#cbd5e1",
+                                "size": 14,
+                                "face": "Inter, sans-serif",
+                            },
+                            "shape": "dot",
+                            "size": 24,
+                            "title": f"Sponsor: {sponsor}",
+                        }
+                    )
                     seen_nodes.add(sponsor)
-                    
+
                 # Add edges
                 if trial and drug:
-                    edges.append({"from": trial, "to": drug, "label": "tests", "arrows": "to"})
+                    edges.append(
+                        {"from": trial, "to": drug, "label": "tests", "arrows": "to"}
+                    )
                 if trial and sponsor:
-                    edges.append({"from": trial, "to": sponsor, "label": "sponsored by", "arrows": "to"})
-                        
+                    edges.append(
+                        {
+                            "from": trial,
+                            "to": sponsor,
+                            "label": "sponsored by",
+                            "arrows": "to",
+                        }
+                    )
+
             # JSON serialization
             nodes_json = json.dumps(nodes)
             edges_json = json.dumps(edges)
-            
+
             # Custom HTML template for Vis.js Graph Rendering
             html_template = f"""
             <!DOCTYPE html>
@@ -1050,7 +1218,7 @@ SELECT * FROM GRAPH_TABLE(
             </body>
             </html>
             """
-            
+
             # Render Vis.js Component
             st.components.v1.html(html_template, height=520, scrolling=False)
             st.dataframe(df, width="stretch")
@@ -1065,10 +1233,16 @@ elif selected_step.startswith("9️⃣"):
         "We semantically find metabolic disease trials, traverse the graph to identify other trials "
         "testing identical drugs, and summarize the cross-trial insight using `AI.GENERATE`."
     )
-    
-    disease_query = st.text_input("Semantic Disease Lookup Query", value="Metabolic diseases")
-    search_mode = st.selectbox("Search Mode", ["semantic", "hybrid"], help="Hybrid combines vector search with keyword matching (requires preview allowlist)")
-    
+
+    disease_query = st.text_input(
+        "Semantic Disease Lookup Query", value="Metabolic diseases"
+    )
+    search_mode = st.selectbox(
+        "Search Mode",
+        ["semantic", "hybrid"],
+        help="Hybrid combines vector search with keyword matching (requires preview allowlist)",
+    )
+
     if search_mode == "hybrid":
         st.warning("""
         💡 **Note on Hybrid Search Mode:**
@@ -1077,10 +1251,10 @@ elif selected_step.startswith("9️⃣"):
         *`Named argument mode not found in signature for call to function AI.SEARCH`*,
         your current BigQuery project/region does not support this preview feature yet. Simply switch the **Search Mode** back to **semantic**.
         """)
-        
+
     # Omit mode parameter for standard semantic search to prevent signature errors
     mode_clause = ", mode => 'hybrid'" if search_mode == "hybrid" else ""
-    
+
     sql_9 = f"""
 WITH relevant_trials AS (
   SELECT base.NCT_Number
@@ -1124,20 +1298,28 @@ SELECT
 FROM raw_results
 LIMIT 5;
     """
-    
+
     st.subheader("Advanced SQL + GQL Blueprint")
     st.code(sql_9, language="sql")
-    
+
     # Check prerequisites
     master_exists = check_table_exists(project_id, dataset_id, table_name)
     graph_exists = check_table_exists(project_id, dataset_id, "drug_nodes")
-    
+
     if not master_exists:
-        st.warning(f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** and **Step 3** first.")
+        st.warning(
+            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** and **Step 3** first."
+        )
     if not graph_exists:
-        st.warning(f"⚠️ **Property Graph Missing**: The property graph components do not exist. Please complete **Step 7** first.")
-        
-    run_btn = st.button("Execute Traversal & Summarize", type="primary", disabled=not (master_exists and graph_exists))
+        st.warning(
+            f"⚠️ **Property Graph Missing**: The property graph components do not exist. Please complete **Step 7** first."
+        )
+
+    run_btn = st.button(
+        "Execute Traversal & Summarize",
+        type="primary",
+        disabled=not (master_exists and graph_exists),
+    )
     if run_btn:
         job_config = bigquery.QueryJobConfig(
             query_parameters=[
@@ -1145,20 +1327,31 @@ LIMIT 5;
             ]
         )
         run_bq_query(sql_9, job_config=job_config)
-        
+
     if st.session_state.step_result is not None:
         df = st.session_state.step_result
         st.subheader("Cross-Trial Layman Insights")
         if df.empty:
-            st.warning("No traversals found. Verify that multiple trials are associated with identical drug nodes.")
+            st.warning(
+                "No traversals found. Verify that multiple trials are associated with identical drug nodes."
+            )
         else:
             for idx, row in df.iterrows():
                 # Split diseases by comma and build individual badges
                 diseases = []
-                if row['related_disease']:
-                    diseases = [d.strip() for d in row['related_disease'].split(',') if d.strip()]
-                badges_html = " ".join([f'<span class="badge badge-info" style="margin-top: 0.25rem; display: inline-block;">{d}</span>' for d in diseases])
-                
+                if row["related_disease"]:
+                    diseases = [
+                        d.strip()
+                        for d in row["related_disease"].split(",")
+                        if d.strip()
+                    ]
+                badges_html = " ".join(
+                    [
+                        f'<span class="badge badge-info" style="margin-top: 0.25rem; display: inline-block;">{d}</span>'
+                        for d in diseases
+                    ]
+                )
+
                 st.markdown(
                     f"""
                     <div class="metric-card" style="margin-bottom: 1.5rem; background-color: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 1.5rem;">
@@ -1182,7 +1375,7 @@ LIMIT 5;
                         </div>
                     </div>
                     """,
-                    unsafe_allow_html=True
+                    unsafe_allow_html=True,
                 )
 
 # ----------------------------------------------------
@@ -1194,7 +1387,7 @@ elif selected_step.startswith("🔟"):
         "To scale semantic search to millions of documents, you create an IVF (Inverted File) vector "
         "index on the embedding column. BigQuery uses this for efficient nearest-neighbor search."
     )
-    
+
     sql_10 = f"""
 -- Create Vector Index (IVF Type)
 CREATE OR REPLACE VECTOR INDEX `{project_id}.{dataset_id}.{vector_index_name}`
@@ -1204,30 +1397,42 @@ OPTIONS(
   index_type = 'IVF'
 );
     """
-    
+
     st.subheader("SQL Query")
     st.code(sql_10, language="sql")
-    
-    st.info("⚠️ Note: BigQuery requires a minimum of 5,000 rows to build IVF indexes. For smaller tables, search will run fine via flat scan.")
-    
+
+    st.info(
+        "⚠️ Note: BigQuery requires a minimum of 5,000 rows to build IVF indexes. For smaller tables, search will run fine via flat scan."
+    )
+
     # Check prerequisites
     master_exists = check_table_exists(project_id, dataset_id, table_name)
     row_count = 0
     if master_exists:
         try:
-            count_df = client.query(f"SELECT COUNT(*) as cnt FROM `{project_id}.{dataset_id}.{table_name}`").to_dataframe()
-            row_count = int(count_df.iloc[0]['cnt'])
+            count_df = client.query(
+                f"SELECT COUNT(*) as cnt FROM `{project_id}.{dataset_id}.{table_name}`"
+            ).to_dataframe()
+            row_count = int(count_df.iloc[0]["cnt"])
         except Exception:
             pass
-            
+
     if not master_exists:
-        st.warning(f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** first.")
+        st.warning(
+            f"⚠️ **Prerequisite Table Missing**: The master table `{table_name}` does not exist. Please complete **Step 2** first."
+        )
     elif row_count < 5000:
-        st.warning(f"⚠️ **Insufficient Rows for Indexing ({row_count}/5000)**: BigQuery requires a minimum of **5,000 rows** to build a vector index. Since your dataset has fewer rows, search will execute fine using a flat scan. The index creation button is disabled.")
-        
-    run_btn = st.button("Create IVF Vector Index", type="primary", disabled=not (master_exists and row_count >= 5000))
+        st.warning(
+            f"⚠️ **Insufficient Rows for Indexing ({row_count}/5000)**: BigQuery requires a minimum of **5,000 rows** to build a vector index. Since your dataset has fewer rows, search will execute fine using a flat scan. The index creation button is disabled."
+        )
+
+    run_btn = st.button(
+        "Create IVF Vector Index",
+        type="primary",
+        disabled=not (master_exists and row_count >= 5000),
+    )
     if run_btn:
         run_bq_query(sql_10)
-        
+
     if st.session_state.step_result is not None:
         st.success("Vector index registration complete (or checked).")
