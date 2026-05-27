@@ -631,7 +631,8 @@ elif selected_step.startswith("4️⃣"):
     )
 
     if search_mode == "hybrid":
-        st.warning("""
+        st.warning(
+            """
         💡 **Note on Hybrid Search Mode:**
 
         The `mode => 'hybrid'` parameter is a BigQuery preview feature.
@@ -639,7 +640,8 @@ elif selected_step.startswith("4️⃣"):
         *`Named argument mode not found in signature for call to function AI.SEARCH`*,
         your current BigQuery project/region does not support this preview feature yet.
         Simply switch the **Search Mode** back to **semantic**.
-        """)
+        """
+        )
 
     # Omit mode parameter for standard semantic search to prevent signature errors
     mode_clause = ", mode => 'hybrid'" if search_mode == "hybrid" else ""
@@ -801,7 +803,8 @@ elif selected_step.startswith("6️⃣"):
         lexical_clause = """,
   lexical_search_columns => ["sponsor"],
   lexical_search_query_value => @lexical_query"""
-        st.warning("""
+        st.warning(
+            """
         💡 **Note on Hybrid Search Mode:**
 
         The `lexical_search_columns` parameter is a BigQuery preview feature.
@@ -809,7 +812,8 @@ elif selected_step.startswith("6️⃣"):
         *`Named argument lexical_search_columns not found in signature for call to function VECTOR_SEARCH`*,
         your current BigQuery project/region does not support this preview feature yet.
         Simply switch the **Search Type** back to **Pure Vector Search**.
-        """)
+        """
+        )
     else:
         lexical_query = ""
         lexical_clause = ""
@@ -1324,7 +1328,8 @@ elif selected_step.startswith("9️⃣"):
     )
 
     if search_mode == "hybrid":
-        st.warning("""
+        st.warning(
+            """
         💡 **Note on Hybrid Search Mode:**
 
         The `mode => 'hybrid'` parameter is a BigQuery preview feature.
@@ -1332,7 +1337,8 @@ elif selected_step.startswith("9️⃣"):
         *`Named argument mode not found in signature for call to function AI.SEARCH`*,
         your current BigQuery project/region does not support this preview feature yet.
         Simply switch the **Search Mode** back to **semantic**.
-        """)
+        """
+        )
 
     # Omit mode parameter for standard semantic search to prevent signature errors
     mode_clause = ", mode => 'hybrid'" if search_mode == "hybrid" else ""
