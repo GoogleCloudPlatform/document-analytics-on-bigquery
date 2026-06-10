@@ -11,11 +11,12 @@ os.environ["GOOGLE_API_USE_CLIENT_CERTIFICATE"] = "false"
 
 # Set page configuration for a premium analytics experience
 st.set_page_config(
-    page_title="Healthcare Document Analytics & Zero-Copy RAG",
+    page_title="Zero-Copy RAG & Knowledge Graph Orchestration on BigQuery",
     page_icon="🔬",
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
 
 # Load styling from style.css
 css_file = os.path.join(os.path.dirname(__file__), "style.css")
@@ -213,6 +214,7 @@ else:
 st.sidebar.markdown("---")
 st.sidebar.subheader("Navigation Steps")
 step_options = [
+    "📊 Summary & Overview",
     "0️⃣ Step 0: Documents in GCS",
     "1️⃣ Step 1: Generate Object Table",
     "2️⃣ Step 2: Define Full Schema",
@@ -225,18 +227,27 @@ step_options = [
     "9️⃣ Step 9: Advanced Graph Traversal",
     "🔟 Step 10: Scale - Vector Index",
 ]
-selected_step = st.sidebar.radio("Go to step:", step_options)
+
+if "selected_step" not in st.session_state:
+    st.session_state.selected_step = "📊 Summary & Overview"
+
+if st.session_state.selected_step not in step_options:
+    st.session_state.selected_step = "📊 Summary & Overview"
+
+default_idx = step_options.index(st.session_state.selected_step)
+selected_step = st.sidebar.radio("Go to step:", step_options, index=default_idx)
+st.session_state.selected_step = selected_step
 
 # Helper for full connection path
 full_connection_id = get_full_connection_id(connection_id, project_id, location)
 
 # App Header
 st.markdown(
-    '<div class="main-header">Healthcare Document Analytics</div>',
+    '<div class="main-header">Zero-Copy RAG & Knowledge Graph Orchestration on BigQuery</div>',
     unsafe_allow_html=True,
 )
 st.markdown(
-    '<div class="sub-header">Zero-Copy RAG & Knowledge Graph Orchestration on BigQuery</div>',
+    '<div class="sub-header">Clinical Trial & Discovery Drug Analysis [Healthcare]</div>',
     unsafe_allow_html=True,
 )
 
@@ -291,7 +302,124 @@ def run_bq_query(query, job_config=None):
 # ----------------------------------------------------
 # STEP 0: Documents in GCS
 # ----------------------------------------------------
-if selected_step.startswith("0️⃣"):
+if selected_step.startswith("📊"):
+    st.markdown(
+        """
+        <div class="glass-container">
+            <h3 style="margin-top: 0; color: #38bdf8; font-weight: 700; font-size: 1.5rem;">🔬 Demo Overview</h3>
+            <p style="line-height: 1.6; font-size: 1.05rem; margin-bottom: 0;">
+                Welcome to the <strong>Healthcare Document Analytics & Zero-Copy RAG</strong> solution! This interactive demo showcases how to ingest, enrich, search, and traverse unstructured clinical study summary reports (CSSR) and patient profiles directly within BigQuery without moving or copying raw data. By integrating Document AI, Gemini, and BigQuery Graph, we transform unstructured PDFs into a structured Knowledge Graph for complex semantic and relational searches.
+            </p>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+    
+    st.markdown("### 🔑 Key Pillars of the Architecture")
+    
+    col1, col2, col3 = st.columns(3)
+    with col1:
+        st.markdown(
+            """
+            <div class="metric-card" style="height: 100%;">
+                <div class="metric-title" style="color: #38bdf8;">📂 In-Place Storage</div>
+                <div class="metric-value" style="font-size: 1.25rem; margin-bottom: 0.5rem; color: var(--card-value);">Zero-Copy Ingestion</div>
+                <p style="color: var(--card-text); font-size: 0.9rem; line-height: 1.5; margin: 0;">
+                    Raw PDF clinical trials and patient records remain securely in Google Cloud Storage. BigQuery Object Tables provide direct metadata access without duplicates.
+                </p>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+    with col2:
+        st.markdown(
+            """
+            <div class="metric-card" style="height: 100%;">
+                <div class="metric-title" style="color: #34d399;">🧠 In-Warehouse AI</div>
+                <div class="metric-value" style="font-size: 1.25rem; margin-bottom: 0.5rem; color: var(--card-value);">Gemini Enrichment</div>
+                <p style="color: var(--card-text); font-size: 0.9rem; line-height: 1.5; margin: 0;">
+                    Uses native BigQuery AI functions (<code>AI.GENERATE</code> and <code>AI.PARSE_DOCUMENT</code>) to extract structured data from documents and compute text embeddings.
+                </p>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+    with col3:
+        st.markdown(
+            """
+            <div class="metric-card" style="height: 100%;">
+                <div class="metric-title" style="color: #a78bfa;">🕸️ Relational Graph</div>
+                <div class="metric-value" style="font-size: 1.25rem; margin-bottom: 0.5rem; color: var(--card-value);">BigQuery Graph</div>
+                <p style="color: var(--card-text); font-size: 0.9rem; line-height: 1.5; margin: 0;">
+                    Connects clinical trials, drugs, and disorders into a unified Property Graph. Enables multi-hop traversal pipelines using Graph Query Language (GQL).
+                </p>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+
+    st.markdown("<br>", unsafe_allow_html=True)
+    
+    st.markdown("### 🗺️ Navigation Roadmap")
+    
+    roadmap_html = """
+    <div style="background-color: var(--roadmap-bg); padding: 1.5rem; border-radius: 12px; border: 1px solid var(--roadmap-border);">
+        <table style="width: 100%; border-collapse: collapse; font-family: inherit; color: var(--text-color);">
+            <thead>
+                <tr style="border-bottom: 2px solid var(--roadmap-header-border);">
+                    <th style="text-align: left; padding: 0.75rem; color: #38bdf8; font-weight: 600;">Phase</th>
+                    <th style="text-align: left; padding: 0.75rem; color: #38bdf8; font-weight: 600;">Step</th>
+                    <th style="text-align: left; padding: 0.75rem; color: #38bdf8; font-weight: 600;">Core Concept</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr style="border-bottom: 1px solid var(--roadmap-border);">
+                    <td style="padding: 0.75rem;"><span class="badge badge-info">1. Setup</span></td>
+                    <td style="padding: 0.75rem;"><strong>Steps 0 - 2</strong></td>
+                    <td style="padding: 0.75rem; color: var(--roadmap-text);">Explore GCS PDFs, create BigQuery Object Tables, and define the master table schema with automatic embeddings.</td>
+                </tr>
+                <tr style="border-bottom: 1px solid var(--roadmap-border);">
+                    <td style="padding: 0.75rem;"><span class="badge badge-warning">2. Ingest</span></td>
+                    <td style="padding: 0.75rem;"><strong>Steps 3 & 5</strong></td>
+                    <td style="padding: 0.75rem; color: var(--roadmap-text);">Populate structured data using Vertex AI Gemini models and Layout Parser Document AI chunking.</td>
+                </tr>
+                <tr style="border-bottom: 1px solid var(--roadmap-border);">
+                    <td style="padding: 0.75rem;"><span class="badge badge-success">3. Retrieve</span></td>
+                    <td style="padding: 0.75rem;"><strong>Steps 4, 6 & 10</strong></td>
+                    <td style="padding: 0.75rem; color: var(--roadmap-text);">Perform semantic & hybrid vector search, cross-column lookups, and scale querying with IVF Vector Indexes.</td>
+                </tr>
+                <tr>
+                    <td style="padding: 0.75rem;"><span class="badge badge-success">4. Graph</span></td>
+                    <td style="padding: 0.75rem;"><strong>Steps 7 - 9</strong></td>
+                    <td style="padding: 0.75rem; color: var(--roadmap-text);">Establish Property Graphs, visualize node-edge relationships, and traverse multi-hop paths using GQL.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    """
+    st.markdown(roadmap_html, unsafe_allow_html=True)
+    
+    st.markdown("<br>", unsafe_allow_html=True)
+    
+    st.markdown(
+        """
+        <div style="display: flex; justify-content: center; margin-top: 1rem; margin-bottom: 2rem;">
+            <div class="glow-btn">
+        """,
+        unsafe_allow_html=True,
+    )
+    if st.button("Start Interactive Demo 🚀", type="primary", use_container_width=True):
+        st.session_state.selected_step = "0️⃣ Step 0: Documents in GCS"
+        st.rerun()
+    st.markdown(
+        """
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+elif selected_step.startswith("0️⃣"):
     st.header("Step 0: Documents in GCS")
     st.write(
         "We list the files in the GCS bucket and preview the text content of the first "
@@ -1456,33 +1584,27 @@ LIMIT 5;
 
                 st.markdown(
                     f"""
-                    <div class="metric-card"
-                         style="margin-bottom: 1.5rem; background-color: #1e293b;
-                                border: 1px solid #334155; border-radius: 12px; padding: 1.5rem;">
+                    <div class="metric-card" style="margin-bottom: 1.5rem;">
                         <div style="font-weight: 700; color: #38bdf8; font-size: 1.25rem; margin-bottom: 0.75rem;">
                             💊 Drug: {row['drug']}
                         </div>
-                        <div style="font-size: 0.95rem; margin-bottom: 0.75rem; color: #cbd5e1; line-height: 1.6;">
+                        <div style="font-size: 0.95rem; margin-bottom: 0.75rem; color: var(--card-text); line-height: 1.6;">
                             <div style="margin-bottom: 0.5rem;">
-                                <strong style="color: #f1f5f9;">Trial 1:</strong> {row['source_trial']}
+                                <strong style="color: var(--text-color);">Trial 1:</strong> {row['source_trial']}
                             </div>
                             <div style="margin-bottom: 0.5rem;">
-                                <strong style="color: #f1f5f9;">Trial 2:</strong> {row['related_trial']}
+                                <strong style="color: var(--text-color);">Trial 2:</strong> {row['related_trial']}
                             </div>
                             <div style="margin-top: 0.6rem;">
                                 {badges_html}
                             </div>
                         </div>
-                        <div class="accent-block"
-                             style="margin-top: 0.75rem; background-color: #0f172a;
-                                    border-left: 4px solid #38bdf8; padding: 1rem;
-                                    border-radius: 0 8px 8px 0;">
+                        <div class="accent-block" style="margin-top: 0.75rem; padding: 1rem;">
                             <h5 style="margin: 0 0 0.5rem 0; color: #38bdf8;
                                        font-size: 1rem; font-weight: 600;">
                                 💡 Laymans Insight
                             </h5>
-                            <p style="margin: 0; color: #f1f5f9; line-height: 1.6;
-                                      font-size: 0.95rem;">
+                            <p style="margin: 0; line-height: 1.6; font-size: 0.95rem;">
                                 {row['cross_trial_insight']}
                             </p>
                         </div>
@@ -1490,6 +1612,7 @@ LIMIT 5;
                     """,
                     unsafe_allow_html=True,
                 )
+
 
 # ----------------------------------------------------
 # STEP 10: Scale - Vector Index
@@ -1554,3 +1677,39 @@ OPTIONS(
 
     if st.session_state.step_result is not None:
         st.success("Vector index registration complete (or checked).")
+
+# ----------------------------------------------------
+# Global Navigation Footer (Back / Next Buttons)
+# ----------------------------------------------------
+st.markdown("---")
+nav_col1, nav_col2, nav_col3 = st.columns([1, 4, 1])
+
+current_idx = step_options.index(selected_step)
+
+with nav_col1:
+    if current_idx > 0:
+        if st.button("← Back", use_container_width=True):
+            st.session_state.selected_step = step_options[current_idx - 1]
+            st.rerun()
+
+with nav_col2:
+    if current_idx == 0:
+        step_info = "Overview & Summary"
+    else:
+        step_name = selected_step.split(":", 1)[-1].strip() if ":" in selected_step else selected_step
+        step_info = f"Step {current_idx - 1} of {len(step_options) - 1}: {step_name}"
+        
+    st.markdown(
+        f"<div style='text-align: center; color: #94a3b8; font-size: 0.9rem; padding-top: 0.25rem; font-weight: 500;'>"
+        f"{step_info}"
+        f"</div>",
+        unsafe_allow_html=True,
+    )
+
+with nav_col3:
+    if current_idx > 0 and current_idx < len(step_options) - 1:
+        if st.button("Next →", use_container_width=True, type="primary"):
+            st.session_state.selected_step = step_options[current_idx + 1]
+            st.rerun()
+
+
